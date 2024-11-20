@@ -1,0 +1,10 @@
+{
+  "sites": [
+    {
+      "url": "https://crazygames.com",
+      "name": "crazygames.com"
+    }
+  ],
+  "genReadme": true,
+  "output_dir": "data"
+}
