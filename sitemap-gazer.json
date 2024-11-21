@@ -1,9 +1,25 @@
 {
   "sites": [
     {
-      "url": "https://crazygames.com",
-      "name": "crazygames.com"
-    }
+      "url": "https://sprunkisinner.org",
+      "name": "sprunkisinner.org"
+    },
+    {
+      "url": "https://sprunkisinneredition.com",
+      "name": "sprunkisinneredition.com"
+    },
+    {
+      "url": "https://playsprunki.com",
+      "name": "playsprunki.com"
+    },
+    {
+      "url": "https://sprunki-sinner.org",
+      "name": "sprunki-sinner.org"
+    },
+    {
+      "url": "https://sprunki.app",
+      "name": "sprunki.app"
+    },
   ],
   "genReadme": true,
   "output_dir": "data"
