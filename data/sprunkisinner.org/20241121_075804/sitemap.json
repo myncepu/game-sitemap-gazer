@@ -1,0 +1,28 @@
+{
+  "url": "https://sprunkisinner.org/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://sprunkisinner.org/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [
+        {
+          "url": "https://sprunkisinner.org/sitemap.xml",
+          "type": "PagesXMLSitemap",
+          "sitemaps": [],
+          "pages": [
+            {
+              "url": "https://sprunkisinner.org/",
+              "priority": 0.8,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            }
+          ]
+        }
+      ],
+      "pages": []
+    }
+  ],
+  "pages": []
+}

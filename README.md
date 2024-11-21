@@ -1,14 +1,24 @@
 # Sitemap Gazer Report
 
-[crazygames.com](#crazygamescom)
+[sprunkisinner.org](#sprunkisinnerorg)
 
-## crazygames.com
+[sprunkisinneredition.com](#sprunkisinnereditioncom)
 
-### 20241121_071523
+[playsprunki.com](#playsprunkicom)
 
-- https://www.crazygames.com/game/matchventures
+[sprunki-sinner.org](#sprunki-sinnerorg)
 
-Raw data: [sitemap.json](./data/crazygames.com/20241121_071523/sitemap.json) and [diff.json](./data/crazygames.com/20241121_071523/diff.json)
+[sprunki.app](#sprunkiapp)
+
+## sprunkisinner.org
+
+## sprunkisinneredition.com
+
+## playsprunki.com
+
+## sprunki-sinner.org
+
+## sprunki.app
 
 
 Note: Crawls without changes or initial crawls may not be shown in detail.

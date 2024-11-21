@@ -1,0 +1,322 @@
+{
+  "url": "https://sprunki-sinner.org/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://sprunki-sinner.org/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [
+        {
+          "url": "https://sprunki-sinner.org/sitemap.xml",
+          "type": "PagesXMLSitemap",
+          "sitemaps": [],
+          "pages": [
+            {
+              "url": "https://sprunki-sinner.org",
+              "priority": 1.0,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/sprunki",
+              "priority": 0.8,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/sprunki-retake",
+              "priority": 0.8,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/zh-CN",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/es",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/fr",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/de",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/ru",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/ja",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/ar",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/pt",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/it",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/id",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/ms",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/nl",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/vi",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/tr",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/ko",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/fa",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/hi",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/th",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/bn",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/pl",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/uk",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/fil",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/ro",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/hu",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/sv",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/no",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/da",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/fi",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/cs",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/el",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/he",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/sk",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/sr",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/bg",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/hr",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/sl",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/et",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/lv",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/lt",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki-sinner.org/mk",
+              "priority": 0.9,
+              "last_modified": null,
+              "change_frequency": "daily",
+              "news_story": null
+            }
+          ]
+        }
+      ],
+      "pages": []
+    }
+  ],
+  "pages": []
+}
