@@ -1,6 +1,10 @@
 {
   "sites": [
     {
+      "url": "https://sprunkin.com",
+      "name": "sprunkin.com"
+    },
+    {
       "url": "https://sprunkisinner.org",
       "name": "sprunkisinner.org"
     },
