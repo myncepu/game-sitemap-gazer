@@ -1,0 +1,259 @@
+{
+  "url": "https://playsprunki.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://playsprunki.com/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [
+        {
+          "url": "https://playsprunki.com/sitemap.xml",
+          "type": "PagesXMLSitemap",
+          "sitemaps": [],
+          "pages": [
+            {
+              "url": "https://playsprunki.com/",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/search",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/category",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/tag",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/blog",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/pricing",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/auth/login",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/auth/register",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/about",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/privacy",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/terms",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 14:42:05.861000+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-incredibox",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 05:00:26+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/incredibox-sprunki",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 05:14:37+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/incredibox-abgerny",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 09:35:22+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-infected",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 09:46:22+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-dandy-s-world",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 10:07:47+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-sprejecz",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 10:09:17+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-by-nyankobflol",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 10:18:16+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-static",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 10:22:48+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-colorbox-mustard",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 10:30:47+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-phase-6",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 10:40:36+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-retake",
+              "priority": 0.5,
+              "last_modified": "2024-11-10 10:09:59+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/item/sprunki-sinner-kiss-edition",
+              "priority": 0.5,
+              "last_modified": "2024-11-23 01:27:38+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/category/gameplay",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:44:55+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/category/visual",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 09:57:44+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/category/audio",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:47:34+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/category/ui",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:48:13+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/category/character",
+              "priority": 0.5,
+              "last_modified": "2024-10-28 09:55:35+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/tag/overhaul",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:45:52+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/tag/expansion",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:46:18+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/page/about",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:09:12+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/page/privacy",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:13:41+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/page/terms",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:18:18+00:00",
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://playsprunki.com/page/changelog",
+              "priority": 0.5,
+              "last_modified": "2024-10-27 04:33:29+00:00",
+              "change_frequency": null,
+              "news_story": null
+            }
+          ]
+        }
+      ],
+      "pages": []
+    }
+  ],
+  "pages": []
+}
