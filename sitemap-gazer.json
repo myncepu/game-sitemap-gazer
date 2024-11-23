@@ -1,6 +1,35 @@
 {
   "sites": [
     {
+      "url": "https://sprunki.org",
+      "name": "sprunki.org"
+    },
+    {
+      "url": "https://sprunki.com",
+      "name": "sprunki.com"
+    },
+    {
+      "url": "https://sprunki.net",
+      "name": "sprunki.net"
+    },
+    {
+      "url": "https://incrediboxsprunki.org",
+      "name": "incrediboxsprunki.org"
+    },
+    {
+      "url": "https://sprunki-incredibox.org",
+      "name": "sprunki-incredibox.org"
+    },
+    {
+      "url": "https://sprunkiincredibox.com",
+      "name": "sprunkiincredibox.com"
+    },
+    {
+      "url": "https://sprunkiremastered.org",
+      "name": "sprunkiremastered.org"
+    },
+    
+    {
       "url": "https://sprunkin.com",
       "name": "sprunkin.com"
     },
