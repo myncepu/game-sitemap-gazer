@@ -1,6 +1,10 @@
 {
   "sites": [
     {
+      "url": "https://sprunkiphase4.app",
+      "name": "sprunkiphase4.app"
+    },
+    {
       "url": "https://sprunki.org",
       "name": "sprunki.org"
     },
