@@ -1,0 +1,13 @@
+{
+  "url": "https://sprunkiremastered.org/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://sprunkiremastered.org/robots.txt",
+      "type": "InvalidSitemap",
+      "sitemaps": [],
+      "pages": []
+    }
+  ],
+  "pages": []
+}

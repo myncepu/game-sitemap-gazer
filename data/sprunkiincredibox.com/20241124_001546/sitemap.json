@@ -1,0 +1,13 @@
+{
+  "url": "https://sprunkiincredibox.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://sprunkiincredibox.com/robots.txt",
+      "type": "InvalidSitemap",
+      "sitemaps": [],
+      "pages": []
+    }
+  ],
+  "pages": []
+}

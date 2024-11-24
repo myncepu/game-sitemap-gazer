@@ -1,0 +1,1904 @@
+{
+  "url": "https://pogo.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://pogo.com/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [
+        {
+          "url": "https://www.pogo.com/sitemap.xml",
+          "type": "PagesXMLSitemap",
+          "sitemaps": [],
+          "pages": [
+            {
+              "url": "https://www.pogo.com/",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/club-pogo",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/challenge-central/my-collection",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/retired/pogo-games",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/merge",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/board",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/bingo",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/card",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/premium-online-games/club-pogo",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/multiplayer",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/match-3",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/mahjong",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/poker",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/hidden-object",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/puzzle",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/word",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/casino",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/crossword-puzzles",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/sudoku",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/brain",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/html5",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/strategy",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/free-online-games/spelling",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/poppit-bingo",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/poppit-party",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/story-quest",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/pogo-sudoku",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/cookie-connect",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/phlinx-ii",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/aces-up-solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/jet-set-solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/jewel-academy",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/turbo-21",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/world-class-solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/quinns-aquarium-mahjong",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/claire-hart-secret-in-the-shadows",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/a-way-with-words",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/stackem",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/double-deuce-poker",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/poppit",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/word-whomp",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/tumble-bees",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/tripeaks-solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/lottso-express",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/word-search",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/mahjong-safari",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/first-class-solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/cross-country-adventure",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/crazy-cakes2",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/crossword-cove",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/trizzle",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/claire-hart-classic",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/sweet-tooth-town",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/pogo-daily-sudoku",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/scrabble",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/mahjong-garden",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/rainy-day-spider-solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/mahjong-sanctuary",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/canasta",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/addiction-solitaire-hd",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/jth",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/thousand-island",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/peggle-blast",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/anagrams",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/snowbird-solitaire",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/paranormal-destinations",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/bookworm",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/pogo-slots",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/jungle-gin",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/solitaire-blitz",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/payday-freecell-hd",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/spades",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/bejeweled-stars",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/dice-city-roller",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/pogo-mini-golf",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/pogobowl",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/winter-wonderland",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/monopoly-sudoku",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/garden-blast",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/trivial-pursuit-online",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/lumeno",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/yahtzee-wild",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/risk-pogo-domination",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/boggle-bash",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/solitaire-home-story",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/merge-academy",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            },
+            {
+              "url": "https://www.pogo.com/games/lucky-cat-bingo",
+              "priority": 0.5,
+              "last_modified": null,
+              "change_frequency": null,
+              "news_story": null
+            }
+          ]
+        }
+      ],
+      "pages": []
+    },
+    {
+      "url": "https://pogo.com/sitemap.xml",
+      "type": "PagesXMLSitemap",
+      "sitemaps": [],
+      "pages": [
+        {
+          "url": "https://www.pogo.com/",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/club-pogo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/challenge-central/my-collection",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/retired/pogo-games",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/merge",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/board",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/bingo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/card",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/premium-online-games/club-pogo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/multiplayer",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/match-3",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/mahjong",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/poker",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/hidden-object",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/puzzle",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/word",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/casino",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/crossword-puzzles",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/brain",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/html5",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/strategy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/spelling",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/poppit-bingo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/poppit-party",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/story-quest",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/cookie-connect",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/phlinx-ii",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/aces-up-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jet-set-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jewel-academy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/turbo-21",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/world-class-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/quinns-aquarium-mahjong",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/claire-hart-secret-in-the-shadows",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/a-way-with-words",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/stackem",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/double-deuce-poker",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/poppit",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/word-whomp",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/tumble-bees",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/tripeaks-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/lottso-express",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/word-search",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/mahjong-safari",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/first-class-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/cross-country-adventure",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/crazy-cakes2",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/crossword-cove",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/trizzle",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/claire-hart-classic",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/sweet-tooth-town",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-daily-sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/scrabble",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/mahjong-garden",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/rainy-day-spider-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/mahjong-sanctuary",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/canasta",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/addiction-solitaire-hd",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jth",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/thousand-island",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/peggle-blast",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/anagrams",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/snowbird-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/paranormal-destinations",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/bookworm",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-slots",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jungle-gin",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/solitaire-blitz",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/payday-freecell-hd",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/spades",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/bejeweled-stars",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/dice-city-roller",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-mini-golf",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogobowl",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/winter-wonderland",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/monopoly-sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/garden-blast",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/trivial-pursuit-online",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/lumeno",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/yahtzee-wild",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/risk-pogo-domination",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/boggle-bash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/solitaire-home-story",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/merge-academy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/lucky-cat-bingo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        }
+      ]
+    },
+    {
+      "url": "https://pogo.com/sitemap",
+      "type": "PagesXMLSitemap",
+      "sitemaps": [],
+      "pages": [
+        {
+          "url": "https://www.pogo.com/",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/club-pogo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/challenge-central/my-collection",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/retired/pogo-games",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/merge",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/board",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/bingo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/card",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/premium-online-games/club-pogo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/multiplayer",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/match-3",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/mahjong",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/poker",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/hidden-object",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/puzzle",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/word",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/casino",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/crossword-puzzles",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/brain",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/html5",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/strategy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/free-online-games/spelling",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/poppit-bingo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/poppit-party",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/story-quest",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/cookie-connect",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/phlinx-ii",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/aces-up-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jet-set-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jewel-academy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/turbo-21",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/world-class-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/quinns-aquarium-mahjong",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/claire-hart-secret-in-the-shadows",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/a-way-with-words",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/stackem",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/double-deuce-poker",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/poppit",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/word-whomp",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/tumble-bees",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/tripeaks-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/lottso-express",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/word-search",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/mahjong-safari",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/first-class-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/cross-country-adventure",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/crazy-cakes2",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/crossword-cove",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/trizzle",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/claire-hart-classic",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/sweet-tooth-town",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-daily-sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/scrabble",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/mahjong-garden",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/rainy-day-spider-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/mahjong-sanctuary",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/canasta",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/addiction-solitaire-hd",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jth",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/thousand-island",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/peggle-blast",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/anagrams",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/snowbird-solitaire",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/paranormal-destinations",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/bookworm",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-slots",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/jungle-gin",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/solitaire-blitz",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/payday-freecell-hd",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/spades",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/bejeweled-stars",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/dice-city-roller",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogo-mini-golf",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/pogobowl",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/winter-wonderland",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/monopoly-sudoku",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/garden-blast",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/trivial-pursuit-online",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/lumeno",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/yahtzee-wild",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/risk-pogo-domination",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/boggle-bash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/solitaire-home-story",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/merge-academy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.pogo.com/games/lucky-cat-bingo",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        }
+      ]
+    }
+  ],
+  "pages": []
+}

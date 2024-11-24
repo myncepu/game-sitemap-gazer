@@ -1,0 +1,13 @@
+{
+  "url": "https://newgrounds.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://newgrounds.com/robots.txt",
+      "type": "InvalidSitemap",
+      "sitemaps": [],
+      "pages": []
+    }
+  ],
+  "pages": []
+}

@@ -1,0 +1,378 @@
+{
+  "url": "https://sprunki.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://sprunki.com/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [
+        {
+          "url": "https://sprunki.com/sitemap.xml",
+          "type": "PagesXMLSitemap",
+          "sitemaps": [],
+          "pages": [
+            {
+              "url": "https://sprunki.com/",
+              "priority": 1.0,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/de_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/it_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/fr_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/es_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/ru_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/ja_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/ar_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/ko_index",
+              "priority": 0.9,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/leaderboard",
+              "priority": 0.8,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/blog",
+              "priority": 0.8,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/about",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/contact",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/terms",
+              "priority": 0.5,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "yearly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/privacy",
+              "priority": 0.5,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "yearly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-phase-1",
+              "priority": 0.7,
+              "last_modified": "2024-10-27 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-phase-2",
+              "priority": 0.7,
+              "last_modified": "2024-10-27 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-phase-3",
+              "priority": 0.7,
+              "last_modified": "2024-10-27 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-phase-4",
+              "priority": 0.7,
+              "last_modified": "2024-10-27 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-phase-5",
+              "priority": 0.7,
+              "last_modified": "2024-10-27 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-phase-6",
+              "priority": 0.7,
+              "last_modified": "2024-10-27 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunked",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunky",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-world",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-infected",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-typos",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-x-regretevator",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-sprejecz",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-but-is-modded",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-inverted",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-eddsworld-mod",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-encore-wip",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-the-reddest-mod",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunki-but-i-ruined-it",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunkifpe",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunkis",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunkiwithfancharacter",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprunkiwithoc2",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/srunki",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/incredibox-sprunki-but-somewhat-funni",
+              "priority": 0.7,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/awesome-sprunki",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/bettericons",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/green-colorbox",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/pink-colorbox",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/yellow-colorbox",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/the-adventures-of-durple",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/hacked-sprunki",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/studki-sprunki-reskin",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/abgerny",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sfunki",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://sprunki.com/sprejecz",
+              "priority": 0.6,
+              "last_modified": "2024-10-23 00:00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            }
+          ]
+        }
+      ],
+      "pages": []
+    }
+  ],
+  "pages": []
+}

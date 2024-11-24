@@ -1,0 +1,13 @@
+{
+  "url": "https://gameflare.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://gameflare.com/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [],
+      "pages": []
+    }
+  ],
+  "pages": []
+}

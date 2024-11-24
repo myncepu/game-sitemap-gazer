@@ -1,0 +1,13 @@
+{
+  "url": "https://agame.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://agame.com/robots.txt",
+      "type": "InvalidSitemap",
+      "sitemaps": [],
+      "pages": []
+    }
+  ],
+  "pages": []
+}
