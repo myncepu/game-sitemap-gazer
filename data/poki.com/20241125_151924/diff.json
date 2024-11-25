@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/drift-boss",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/viaducts-zen-puzzle",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
