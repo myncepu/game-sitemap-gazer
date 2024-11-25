@@ -54,11 +54,23 @@
 
 ## sprunki.org
 
+### 20241125_000651
+
+- https://sprunki.org/sprunki-mode-hyperblast
+
+Raw data: [sitemap.json](./data/sprunki.org/20241125_000651/sitemap.json) and [diff.json](./data/sprunki.org/20241125_000651/diff.json)
+
 ## sprunki.com
 
 ## sprunki.net
 
 ## incrediboxsprunki.org
+
+### 20241125_000651
+
+- https://incrediboxsprunki.org/spicebox-v1-club
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241125_000651/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241125_000651/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -67,6 +79,59 @@
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241125_000651
+
+- https://sprunkin.com/game/sprunki-phase-15/
+- https://sprunkin.com/game/sprunki-v/
+- https://sprunkin.com/game/sprunki-but-doors/
+- https://sprunkin.com/game/sprunki-skibidi-toilet-2-0/
+- https://sprunkin.com/game/sprunki-pikadimady/
+- https://sprunkin.com/game/sprunki-susnki/
+- https://sprunkin.com/game/sprunki-phase-3-cursed/
+- https://sprunkin.com/game/sprunki-spruncraft/
+- https://sprunkin.com/game/sprunki-phase-14/
+- https://sprunkin.com/game/sprunki-phase-69/
+- https://sprunkin.com/game/sprunki-dash-2-0/
+- https://sprunkin.com/fan-game/sprunki-but-is-normall-but-the-scary-mode-is-night/
+- https://sprunkin.com/fan-game/sprunki-but-no-blood/
+- https://sprunkin.com/fan-game/spruuuuuuuuuuuuuuuuuuuuuuuuuuuuunki/
+- https://sprunkin.com/fan-game/sprunki-goodnight/
+- https://sprunkin.com/fan-game/unknownk-sprunki/
+- https://sprunkin.com/fan-game/unknownk-sprunki-2/
+- https://sprunkin.com/fan-game/sprunkiified/
+- https://sprunkin.com/fan-game/uh/
+- https://sprunkin.com/fan-game/hi/
+- https://sprunkin.com/fan-game/sprunki-christmas-2/
+- https://sprunkin.com/fan-game/sprunked-igyfsdgog9201-resound/
+- https://sprunkin.com/fan-game/sprunki/
+- https://sprunkin.com/fan-game/super-cute-sprunki/
+- https://sprunkin.com/fan-game/sprunki-but-theres-no-gore/
+- https://sprunkin.com/fan-game/cute-sprunki-2/
+- https://sprunkin.com/fan-game/sprunki-but-they-are-healed/
+- https://sprunkin.com/fan-game/spruntex/
+- https://sprunkin.com/fan-game/incredibox-sprunki-bunch-up/
+- https://sprunkin.com/fan-game/incredibox-sprunki-bunch-up-phase-3/
+- https://sprunkin.com/fan-game/sprunki-if-it-was-good-no-joke/
+- https://sprunkin.com/fan-game/sprunki-phase-2-5/
+- https://sprunkin.com/fan-game/incredibox-sprunki-suswenda/
+- https://sprunkin.com/fan-game/sprunki-blackout/
+- https://sprunkin.com/fan-game/sprunki-with-ocs-and-rejected-sprunkis/
+- https://sprunkin.com/fan-game/sprunki-greencore-plus/
+- https://sprunkin.com/fan-game/sprunki-memes/
+- https://sprunkin.com/fan-game/sprumki-youtuber-noob-xd/
+- https://sprunkin.com/fan-game/super-cute-sprunki-2/
+- https://sprunkin.com/fan-game/sprunki-with-realistic-physics-version-1-0/
+- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3/
+- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3-2/
+- https://sprunkin.com/fan-game/sprunki-but-numberblocks/
+- https://sprunkin.com/fan-game/sprunki-but-numberblocks-2/
+- https://sprunkin.com/fan-game/sprunki-anmation-remasered/
+- https://sprunkin.com/fan-game/sprunki-but-numberblocks-3/
+- https://sprunkin.com/fan-game/numberblocks/
+- https://sprunkin.com/fan-game/sprunki-phase-14/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241125_000651/sitemap.json) and [diff.json](./data/sprunkin.com/20241125_000651/diff.json)
 
 ### 20241123_152330
 
@@ -345,6 +410,29 @@ Raw data: [sitemap.json](./data/crazygames.com/20241124_001546/sitemap.json) and
 Raw data: [sitemap.json](./data/crazygames.com/20241121_071523/sitemap.json) and [diff.json](./data/crazygames.com/20241121_071523/diff.json)
 
 ## y8.com
+
+### 20241125_000651
+
+- https://www.y8.com/games/the_way_of_the_dodo
+- https://www.y8.com/games/rolling_balls_sea_race
+- https://www.y8.com/games/merge_blocks_2048_style_
+- https://www.y8.com/games/blind_fear
+- https://www.y8.com/games/bullet_heroes
+- https://www.y8.com/games/heart_calcopus
+- https://www.y8.com/games/sport_merge
+- https://www.y8.com/games/fnf_x_undertale_lazybones
+- https://www.y8.com/games/lamphead_
+- https://www.y8.com/games/shooting_3d
+- https://www.y8.com/games/butterfly_kyodai_deluxe_2_gaming
+- https://www.y8.com/games/lunar_phase_battle
+- https://www.y8.com/animation/wolf_man_official_teaser
+- https://www.y8.com/animation/the_apprentice_official_trailer
+- https://www.y8.com/animation/operation_blood_hunt_official_trailer
+- https://www.y8.com/animation/funny_moments_
+- https://www.y8.com/animation/mickey_17_official_trailer
+- https://www.y8.com/animation/full_moon_
+
+Raw data: [sitemap.json](./data/y8.com/20241125_000651/sitemap.json) and [diff.json](./data/y8.com/20241125_000651/diff.json)
 
 ## kongregate.com
 
