@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-25T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/astro-survivors",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/doctor-hero-hospital-game",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

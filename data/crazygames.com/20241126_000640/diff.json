@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.crazygames.com/game/skillwarz",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/black-friday-mystery-sale",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
