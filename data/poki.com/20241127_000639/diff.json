@@ -1,0 +1,718 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-26T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/american-football-real",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/untile",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/combimon",
+      "priority": 0.5,
+      "last_modified": "2024-11-27T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

@@ -54,6 +54,13 @@
 
 ## sprunki.org
 
+### 20241127_000639
+
+- https://sprunki.org/banana-sprunkis
+- https://sprunki.org/sprunki-toca
+
+Raw data: [sitemap.json](./data/sprunki.org/20241127_000639/sitemap.json) and [diff.json](./data/sprunki.org/20241127_000639/diff.json)
+
 ### 20241125_151924
 
 - https://sprunki.org/abgerny-but-overlap
@@ -72,6 +79,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20241125_000651/sitemap.json) and [d
 ## sprunki.net
 
 ## incrediboxsprunki.org
+
+### 20241127_000639
+
+- https://incrediboxsprunki.org/incredibox-mimic-by-skitz43
+- https://incrediboxsprunki.org/incredibox-vbanban
+- https://incrediboxsprunki.org/sprunki-phase-11
+- https://incrediboxsprunki.org/sprunki-phase-12
+- https://incrediboxsprunki.org/sprunki-phase-13
+- https://incrediboxsprunki.org/sprunki-phase-14
+- https://incrediboxsprunki.org/sprunki-phase-15
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241127_000639/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241127_000639/diff.json)
 
 ### 20241125_151924
 
@@ -426,6 +445,15 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241127_000639
+
+- https://www.crazygames.com/game/guess-their-answer
+- https://www.crazygames.com/game/3-tiles
+- https://www.crazygames.com/game/qube-2048-elf
+- https://www.crazygames.com/game/kitty-clickler
+
+Raw data: [sitemap.json](./data/crazygames.com/20241127_000639/sitemap.json) and [diff.json](./data/crazygames.com/20241127_000639/diff.json)
+
 ### 20241126_000640
 
 - https://www.crazygames.com/game/skillwarz
@@ -439,22 +467,31 @@ Raw data: [sitemap.json](./data/crazygames.com/20241126_000640/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241125_151924/sitemap.json) and [diff.json](./data/crazygames.com/20241125_151924/diff.json)
 
-### 20241124_001546
-
-- https://www.crazygames.com/game/light-line
-- https://www.crazygames.com/game/wizard-masters
-- https://www.crazygames.com/game/survev
-- https://www.crazygames.com/game/knockout-games-nwi
-- https://www.crazygames.com/game/country-hopper
-- https://www.crazygames.com/game/brick-bash-saga
-- https://www.crazygames.com/game/stunt-paradise
-- https://www.crazygames.com/game/cool-girl-aesthetics
-- https://www.crazygames.com/game/football-soccer-clicker
-- https://www.crazygames.com/game/chess-clicker-lhi
-
-Raw data: [sitemap.json](./data/crazygames.com/20241124_001546/sitemap.json) and [diff.json](./data/crazygames.com/20241124_001546/diff.json)
-
 ## y8.com
+
+### 20241127_000639
+
+- https://www.y8.com/studios/dijoo-dev
+- https://www.y8.com/studios/silent-killer
+- https://www.y8.com/games/rings_rotate
+- https://www.y8.com/games/fnf_shucks_v2
+- https://www.y8.com/games/shoot_13_nomsters
+- https://www.y8.com/games/merge_drop
+- https://www.y8.com/games/la_pelotita_de_los
+- https://www.y8.com/games/abgerny_incredibox
+- https://www.y8.com/games/sprunki_2_0_remastered_update
+- https://www.y8.com/games/kamaeru_mini
+- https://www.y8.com/games/khamani_the_lion_of_summer
+- https://www.y8.com/games/sprunki_jigsaw
+- https://www.y8.com/games/police_assault
+- https://www.y8.com/animation/the_order_official_trailer
+- https://www.y8.com/animation/the_six_triple_eight_teaser
+- https://www.y8.com/animation/laughs_guaranteed
+- https://www.y8.com/animation/best_funniest_animal_videos_of_the_week_
+- https://www.y8.com/animation/dog_can_t_handle_owner_s_karaoke
+- https://www.y8.com/animation/adorable_dog
+
+Raw data: [sitemap.json](./data/y8.com/20241127_000639/sitemap.json) and [diff.json](./data/y8.com/20241127_000639/diff.json)
 
 ### 20241125_151924
 
@@ -503,6 +540,38 @@ Raw data: [sitemap.json](./data/y8.com/20241125_151924/sitemap.json) and [diff.j
 Raw data: [sitemap.json](./data/y8.com/20241125_000651/sitemap.json) and [diff.json](./data/y8.com/20241125_000651/diff.json)
 
 ## kongregate.com
+
+### 20241127_000639
+
+- https://www.kongregate.com/games/games2rule/mountain-house-escape
+- https://www.kongregate.com/games/dezgoGames/absoluty
+- https://www.kongregate.com/games/StarvingStudios/construction-fluxion-multiplayer
+- https://www.kongregate.com/games/oneru220/office-strike
+- https://www.kongregate.com/games/dev4play/lets-go-nuts-demo
+- https://www.kongregate.com/games/AllusiveGold/dragon-knight
+- https://www.kongregate.com/games/Alpha1390/spider-sprawl
+- https://www.kongregate.com/games/Caballeror20/explore-to-survive
+- https://www.kongregate.com/games/Tikikala/cat-vs-party
+- https://www.kongregate.com/games/jankopoloha/airmode-vbeta
+- https://www.kongregate.com/games/RyZerOne/hellgame
+- https://www.kongregate.com/games/jeuguiceta1/wild-ones-ultimate-2019
+- https://www.kongregate.com/games/Violator3D/all-evil-night
+- https://www.kongregate.com/games/visablebomb/tavin-ball
+- https://www.kongregate.com/games/simcitymoo5/simple-zombie-shooter-game
+- https://www.kongregate.com/games/PurpoAppo/sacrificial-shot
+- https://www.kongregate.com/games/kidsgamess/santa-claus-adventures
+- https://www.kongregate.com/games/JiHuiC1/building-breaker
+- https://www.kongregate.com/games/Astra11/banana-drama
+- https://www.kongregate.com/games/JamesD1459/iron-sights
+- https://www.kongregate.com/games/gerardcastle4/love-is-in-the-air
+- https://www.kongregate.com/games/gerardcastle4/giant-slayers
+- https://www.kongregate.com/games/RHMGames/cube-battle-royale
+- https://www.kongregate.com/games/fighter106/bubble-shooter-valentines
+- https://www.kongregate.com/games/mohdtausif666/mouseraider
+- https://www.kongregate.com/games/Stone_Age_Jazz/arza-adrenaline-rush-zombie-assault
+- https://www.kongregate.com/games/sathish/mysteries-forest-escape-8
+
+Raw data: [sitemap.json](./data/kongregate.com/20241127_000639/sitemap.json) and [diff.json](./data/kongregate.com/20241127_000639/diff.json)
 
 ### 20241126_000640
 
@@ -559,6 +628,113 @@ Raw data: [sitemap.json](./data/kongregate.com/20241125_151924/sitemap.json) and
 ## miniclip.com
 
 ## poki.com
+
+### 20241127_000639
+
+- https://poki.com/en/g/american-football-real
+- https://poki.com/en/g/untile
+- https://poki.com/en/g/combimon
+- https://poki.com/ru/g/american-football-real
+- https://poki.com/ru/g/untile
+- https://poki.com/ru/g/combimon
+- https://poki.com/ua/g/american-football-real
+- https://poki.com/ua/g/untile
+- https://poki.com/ua/g/combimon
+- https://poki.com/ar/g/american-football-real
+- https://poki.com/ar/g/untile
+- https://poki.com/ar/g/combimon
+- https://poki.com/th/g/american-football-real
+- https://poki.com/th/g/untile
+- https://poki.com/th/g/combimon
+- https://poki.com/kr/g/american-football-real
+- https://poki.com/kr/g/untile
+- https://poki.com/kr/g/combimon
+- https://poki.com/es/g/american-football-real
+- https://poki.com/es/g/untile
+- https://poki.com/es/g/combimon
+- https://poki.com/fr/g/american-football-real
+- https://poki.com/fr/g/untile
+- https://poki.com/fr/g/combimon
+- https://poki.com/tr/g/american-football-real
+- https://poki.com/tr/g/untile
+- https://poki.com/tr/g/combimon
+- https://poki.com/gr/g/american-football-real
+- https://poki.com/gr/g/untile
+- https://poki.com/gr/g/combimon
+- https://poki.com/no/g/american-football-real
+- https://poki.com/no/g/untile
+- https://poki.com/no/g/combimon
+- https://poki.com/ro/g/american-football-real
+- https://poki.com/ro/g/untile
+- https://poki.com/ro/g/combimon
+- https://poki.com/bg/g/american-football-real
+- https://poki.com/bg/g/untile
+- https://poki.com/bg/g/combimon
+- https://poki.com/hu/g/american-football-real
+- https://poki.com/hu/g/untile
+- https://poki.com/hu/g/combimon
+- https://poki.com/sk/g/american-football-real
+- https://poki.com/sk/g/untile
+- https://poki.com/sk/g/combimon
+- https://poki.com/se/g/american-football-real
+- https://poki.com/se/g/untile
+- https://poki.com/se/g/combimon
+- https://poki.com/it/g/american-football-real
+- https://poki.com/it/g/untile
+- https://poki.com/it/g/combimon
+- https://poki.com/dk/g/american-football-real
+- https://poki.com/dk/g/untile
+- https://poki.com/dk/g/combimon
+- https://poki.com/fi/g/american-football-real
+- https://poki.com/fi/g/untile
+- https://poki.com/fi/g/combimon
+- https://poki.com/pl/g/american-football-real
+- https://poki.com/pl/g/untile
+- https://poki.com/pl/g/combimon
+- https://poki.com/cz/g/american-football-real
+- https://poki.com/cz/g/untile
+- https://poki.com/cz/g/combimon
+- https://poki.com/nl/g/american-football-real
+- https://poki.com/nl/g/untile
+- https://poki.com/nl/g/combimon
+- https://poki.com/jp/g/american-football-real
+- https://poki.com/jp/g/untile
+- https://poki.com/jp/g/combimon
+- https://poki.com/il/g/american-football-real
+- https://poki.com/il/g/untile
+- https://poki.com/il/g/combimon
+- https://poki.com/br/g/american-football-real
+- https://poki.com/br/g/untile
+- https://poki.com/br/g/combimon
+- https://poki.com/de/g/american-football-real
+- https://poki.com/de/g/untile
+- https://poki.com/de/g/combimon
+- https://poki.com/zh/g/american-football-real
+- https://poki.com/zh/g/untile
+- https://poki.com/zh/g/combimon
+- https://poki.com/id/g/american-football-real
+- https://poki.com/id/g/untile
+- https://poki.com/id/g/combimon
+- https://poki.com/hi/g/american-football-real
+- https://poki.com/hi/g/untile
+- https://poki.com/hi/g/combimon
+- https://poki.com/bn/g/american-football-real
+- https://poki.com/bn/g/untile
+- https://poki.com/bn/g/combimon
+- https://poki.com/ms/g/american-football-real
+- https://poki.com/ms/g/untile
+- https://poki.com/ms/g/combimon
+- https://poki.com/tl/g/american-football-real
+- https://poki.com/tl/g/untile
+- https://poki.com/tl/g/combimon
+- https://poki.com/uz/g/american-football-real
+- https://poki.com/uz/g/untile
+- https://poki.com/uz/g/combimon
+- https://poki.com/sr/g/american-football-real
+- https://poki.com/sr/g/untile
+- https://poki.com/sr/g/combimon
+
+Raw data: [sitemap.json](./data/poki.com/20241127_000639/sitemap.json) and [diff.json](./data/poki.com/20241127_000639/diff.json)
 
 ### 20241126_000640
 
