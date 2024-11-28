@@ -54,6 +54,14 @@
 
 ## sprunki.org
 
+### 20241128_000706
+
+- https://sprunki.org/sprunki-phase-15
+- https://sprunki.org/sprunki-phase-14
+- https://sprunki.org/sprunki-x-fetereder
+
+Raw data: [sitemap.json](./data/sprunki.org/20241128_000706/sitemap.json) and [diff.json](./data/sprunki.org/20241128_000706/diff.json)
+
 ### 20241127_000639
 
 - https://sprunki.org/banana-sprunkis
@@ -68,17 +76,41 @@ Raw data: [sitemap.json](./data/sprunki.org/20241127_000639/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20241125_151924/sitemap.json) and [diff.json](./data/sprunki.org/20241125_151924/diff.json)
 
-### 20241125_000651
-
-- https://sprunki.org/sprunki-mode-hyperblast
-
-Raw data: [sitemap.json](./data/sprunki.org/20241125_000651/sitemap.json) and [diff.json](./data/sprunki.org/20241125_000651/diff.json)
-
 ## sprunki.com
+
+### 20241128_000706
+
+- https://sprunki.com/egneodunq
+- https://sprunki.com/qhqzf
+- https://sprunki.com/5/
+- https://sprunki.com/Incredibox-V9
+- https://sprunki.com/4/
+- https://sprunki.com/Incredibox-V2
+- https://sprunki.com/Incredibox-V4
+- https://sprunki.com/Incredibox-V5
+- https://sprunki.com/Incredibox-V3
+- https://sprunki.com/Incredibox-V8
+- https://sprunki.com/oazfqzfe/e/m7/7q/0q/op3532np32m6204n055pp7pp36/01027922412470.bzs
+- https://sprunki.com/3nF/27yVr/qjfdm.tfyx
+- https://sprunki.com/oazfqzfe/e/m7/7q/0q/op3532np32m6204n055pp7pp36/01027922412471.bzs
+- https://sprunki.com/Incredibox-V7
+- https://sprunki.com/Incredibox-V1
+- https://sprunki.com/Incredibox
+
+Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [diff.json](./data/sprunki.com/20241128_000706/diff.json)
 
 ## sprunki.net
 
 ## incrediboxsprunki.org
+
+### 20241128_000706
+
+- https://incrediboxsprunki.org/rust-colorbox
+- https://incrediboxsprunki.org/sprunki-phase-8
+- https://incrediboxsprunki.org/sprunki-phase-9
+- https://incrediboxsprunki.org/sprunki-phase-10
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241128_000706/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241128_000706/diff.json)
 
 ### 20241127_000639
 
@@ -99,12 +131,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241127_000639/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241125_151924/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241125_151924/diff.json)
 
-### 20241125_000651
-
-- https://incrediboxsprunki.org/spicebox-v1-club
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241125_000651/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241125_000651/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -112,6 +138,48 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241125_000651/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241128_000706
+
+- https://sprunkin.com/game/sprunki-toca/
+- https://sprunkin.com/game/sprunki-kiss-edition/
+- https://sprunkin.com/game/sprunki-for-girls/
+- https://sprunkin.com/game/sprinku/
+- https://sprunkin.com/game/sprunki-rejoyed-night-time/
+- https://sprunkin.com/game/sprunki-distorded-4u/
+- https://sprunkin.com/game/sprunki-rejoyed-for-girls/
+- https://sprunkin.com/game/sprunki-tail/
+- https://sprunkin.com/fan-game/sprunki-phase-5-5/
+- https://sprunkin.com/fan-game/sprunki-with-onyx-the-impostor-v1/
+- https://sprunkin.com/fan-game/sprunki-but-i-have-changed-it/
+- https://sprunkin.com/fan-game/sprunki-phase-5/
+- https://sprunkin.com/fan-game/sprunki-newest-verison/
+- https://sprunkin.com/fan-game/coloursprunk-v1-red-2/
+- https://sprunkin.com/fan-game/incredibox-sprunki-boys-vs-girls/
+- https://sprunkin.com/fan-game/sprunki-phase-5-2/
+- https://sprunkin.com/fan-game/sprunki-but-super-happy-but-kinda-goofy-ahh/
+- https://sprunkin.com/fan-game/erm-sprunki/
+- https://sprunkin.com/fan-game/incredibox-abgerny-bunny-tale/
+- https://sprunkin.com/fan-game/normal-blackvisual-changes/
+- https://sprunkin.com/fan-game/sprunkifrom-the-galaxy/
+- https://sprunkin.com/fan-game/sprunki-but-a-bit-better-four/
+- https://sprunkin.com/fan-game/sprunki-spook/
+- https://sprunkin.com/fan-game/spronk/
+- https://sprunkin.com/fan-game/super-cute-sprunki-2-0-3/
+- https://sprunkin.com/fan-game/sprunki-no-horror/
+- https://sprunkin.com/fan-game/coloursprunk-v1-red-3/
+- https://sprunkin.com/fan-game/sprunki-slots/
+- https://sprunkin.com/fan-game/sprunki-big/
+- https://sprunkin.com/fan-game/tom10/
+- https://sprunkin.com/fan-game/tom-lucy1/
+- https://sprunkin.com/fan-game/sprunki-123/
+- https://sprunkin.com/fan-game/spunki-khong-nen/
+- https://sprunkin.com/fan-game/sprunki-vbal-poomouse-grumble-schoolhouse-trouble/
+- https://sprunkin.com/fan-game/sprunki-vbal-poomouse-grumble-schoolhouse-trouble-2/
+- https://sprunkin.com/fan-game/sprunki-but-more-horror/
+- https://sprunkin.com/fan-game/sprunki-hfj-one-remix-but-with-the-non-joke-object-show-charaters/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241128_000706/sitemap.json) and [diff.json](./data/sprunkin.com/20241128_000706/diff.json)
 
 ### 20241126_000640
 
@@ -161,59 +229,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241126_000640/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-sb3-test/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241125_151924/sitemap.json) and [diff.json](./data/sprunkin.com/20241125_151924/diff.json)
-
-### 20241125_000651
-
-- https://sprunkin.com/game/sprunki-phase-15/
-- https://sprunkin.com/game/sprunki-v/
-- https://sprunkin.com/game/sprunki-but-doors/
-- https://sprunkin.com/game/sprunki-skibidi-toilet-2-0/
-- https://sprunkin.com/game/sprunki-pikadimady/
-- https://sprunkin.com/game/sprunki-susnki/
-- https://sprunkin.com/game/sprunki-phase-3-cursed/
-- https://sprunkin.com/game/sprunki-spruncraft/
-- https://sprunkin.com/game/sprunki-phase-14/
-- https://sprunkin.com/game/sprunki-phase-69/
-- https://sprunkin.com/game/sprunki-dash-2-0/
-- https://sprunkin.com/fan-game/sprunki-but-is-normall-but-the-scary-mode-is-night/
-- https://sprunkin.com/fan-game/sprunki-but-no-blood/
-- https://sprunkin.com/fan-game/spruuuuuuuuuuuuuuuuuuuuuuuuuuuuunki/
-- https://sprunkin.com/fan-game/sprunki-goodnight/
-- https://sprunkin.com/fan-game/unknownk-sprunki/
-- https://sprunkin.com/fan-game/unknownk-sprunki-2/
-- https://sprunkin.com/fan-game/sprunkiified/
-- https://sprunkin.com/fan-game/uh/
-- https://sprunkin.com/fan-game/hi/
-- https://sprunkin.com/fan-game/sprunki-christmas-2/
-- https://sprunkin.com/fan-game/sprunked-igyfsdgog9201-resound/
-- https://sprunkin.com/fan-game/sprunki/
-- https://sprunkin.com/fan-game/super-cute-sprunki/
-- https://sprunkin.com/fan-game/sprunki-but-theres-no-gore/
-- https://sprunkin.com/fan-game/cute-sprunki-2/
-- https://sprunkin.com/fan-game/sprunki-but-they-are-healed/
-- https://sprunkin.com/fan-game/spruntex/
-- https://sprunkin.com/fan-game/incredibox-sprunki-bunch-up/
-- https://sprunkin.com/fan-game/incredibox-sprunki-bunch-up-phase-3/
-- https://sprunkin.com/fan-game/sprunki-if-it-was-good-no-joke/
-- https://sprunkin.com/fan-game/sprunki-phase-2-5/
-- https://sprunkin.com/fan-game/incredibox-sprunki-suswenda/
-- https://sprunkin.com/fan-game/sprunki-blackout/
-- https://sprunkin.com/fan-game/sprunki-with-ocs-and-rejected-sprunkis/
-- https://sprunkin.com/fan-game/sprunki-greencore-plus/
-- https://sprunkin.com/fan-game/sprunki-memes/
-- https://sprunkin.com/fan-game/sprumki-youtuber-noob-xd/
-- https://sprunkin.com/fan-game/super-cute-sprunki-2/
-- https://sprunkin.com/fan-game/sprunki-with-realistic-physics-version-1-0/
-- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3/
-- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3-2/
-- https://sprunkin.com/fan-game/sprunki-but-numberblocks/
-- https://sprunkin.com/fan-game/sprunki-but-numberblocks-2/
-- https://sprunkin.com/fan-game/sprunki-anmation-remasered/
-- https://sprunkin.com/fan-game/sprunki-but-numberblocks-3/
-- https://sprunkin.com/fan-game/numberblocks/
-- https://sprunkin.com/fan-game/sprunki-phase-14/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241125_000651/sitemap.json) and [diff.json](./data/sprunkin.com/20241125_000651/diff.json)
 
 ## sprunkisinner.org
 
@@ -445,6 +460,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241128_000706
+
+- https://www.crazygames.com/game/match-moji--emoji-puzzle-game
+- https://www.crazygames.com/game/my-sugar-factory-3
+
+Raw data: [sitemap.json](./data/crazygames.com/20241128_000706/sitemap.json) and [diff.json](./data/crazygames.com/20241128_000706/diff.json)
+
 ### 20241127_000639
 
 - https://www.crazygames.com/game/guess-their-answer
@@ -461,13 +483,30 @@ Raw data: [sitemap.json](./data/crazygames.com/20241127_000639/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241126_000640/sitemap.json) and [diff.json](./data/crazygames.com/20241126_000640/diff.json)
 
-### 20241125_151924
-
-- https://www.crazygames.com/game/coloring-by-numbers-pixel-room
-
-Raw data: [sitemap.json](./data/crazygames.com/20241125_151924/sitemap.json) and [diff.json](./data/crazygames.com/20241125_151924/diff.json)
-
 ## y8.com
+
+### 20241128_000706
+
+- https://www.y8.com/games/toddie_cute_shoes
+- https://www.y8.com/games/gun_clone
+- https://www.y8.com/games/wood_chopping
+- https://www.y8.com/games/slenderman_back_to_school
+- https://www.y8.com/games/siberian_assault
+- https://www.y8.com/games/maggy_neto
+- https://www.y8.com/games/holiday_hex_sort
+- https://www.y8.com/games/tip_tap
+- https://www.y8.com/games/christmas_buster
+- https://www.y8.com/games/black_friday_shopping_frenzy
+- https://www.y8.com/games/dye_it_right_color_picker
+- https://www.y8.com/games/energy_superman_3d
+- https://www.y8.com/animation/absolution_official_trailer
+- https://www.y8.com/animation/cellar_door_official_trailer
+- https://www.y8.com/animation/funniest_animal_videos_compilation_
+- https://www.y8.com/animation/return_of_the_king_the_fall_rise_of_elvis_presley
+- https://www.y8.com/animation/paddington_in_peru_trailer_3_
+- https://www.y8.com/animation/cold_case_who_killed_jonbenet_ramsey_trailer
+
+Raw data: [sitemap.json](./data/y8.com/20241128_000706/sitemap.json) and [diff.json](./data/y8.com/20241128_000706/diff.json)
 
 ### 20241127_000639
 
@@ -516,30 +555,18 @@ Raw data: [sitemap.json](./data/y8.com/20241127_000639/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241125_151924/sitemap.json) and [diff.json](./data/y8.com/20241125_151924/diff.json)
 
-### 20241125_000651
-
-- https://www.y8.com/games/the_way_of_the_dodo
-- https://www.y8.com/games/rolling_balls_sea_race
-- https://www.y8.com/games/merge_blocks_2048_style_
-- https://www.y8.com/games/blind_fear
-- https://www.y8.com/games/bullet_heroes
-- https://www.y8.com/games/heart_calcopus
-- https://www.y8.com/games/sport_merge
-- https://www.y8.com/games/fnf_x_undertale_lazybones
-- https://www.y8.com/games/lamphead_
-- https://www.y8.com/games/shooting_3d
-- https://www.y8.com/games/butterfly_kyodai_deluxe_2_gaming
-- https://www.y8.com/games/lunar_phase_battle
-- https://www.y8.com/animation/wolf_man_official_teaser
-- https://www.y8.com/animation/the_apprentice_official_trailer
-- https://www.y8.com/animation/operation_blood_hunt_official_trailer
-- https://www.y8.com/animation/funny_moments_
-- https://www.y8.com/animation/mickey_17_official_trailer
-- https://www.y8.com/animation/full_moon_
-
-Raw data: [sitemap.json](./data/y8.com/20241125_000651/sitemap.json) and [diff.json](./data/y8.com/20241125_000651/diff.json)
-
 ## kongregate.com
+
+### 20241128_000706
+
+- https://www.kongregate.com/games/PawnStudios
+- https://www.kongregate.com/games/diviadgmbh/chronicles-of-blood
+- https://www.kongregate.com/games/danielsme/hopy-pizzeria
+- https://www.kongregate.com/games/Natonstan/crash-flash
+- https://www.kongregate.com/games/acoolgames1/angry-birds-ultimate-battle
+- https://www.kongregate.com/games/lucianoirrthum/save-the-planet
+
+Raw data: [sitemap.json](./data/kongregate.com/20241128_000706/sitemap.json) and [diff.json](./data/kongregate.com/20241128_000706/diff.json)
 
 ### 20241127_000639
 
@@ -591,43 +618,50 @@ Raw data: [sitemap.json](./data/kongregate.com/20241127_000639/sitemap.json) and
 
 Raw data: [sitemap.json](./data/kongregate.com/20241126_000640/sitemap.json) and [diff.json](./data/kongregate.com/20241126_000640/diff.json)
 
-### 20241125_151924
-
-- https://www.kongregate.com/games/games2rule/mountain-house-escape
-- https://www.kongregate.com/games/dezgoGames/absoluty
-- https://www.kongregate.com/games/StarvingStudios/construction-fluxion-multiplayer
-- https://www.kongregate.com/games/oneru220/office-strike
-- https://www.kongregate.com/games/dev4play/lets-go-nuts-demo
-- https://www.kongregate.com/games/AllusiveGold/dragon-knight
-- https://www.kongregate.com/games/Alpha1390/spider-sprawl
-- https://www.kongregate.com/games/Caballeror20/explore-to-survive
-- https://www.kongregate.com/games/Tikikala/cat-vs-party
-- https://www.kongregate.com/games/jankopoloha/airmode-vbeta
-- https://www.kongregate.com/games/RyZerOne/hellgame
-- https://www.kongregate.com/games/jeuguiceta1/wild-ones-ultimate-2019
-- https://www.kongregate.com/games/Violator3D/all-evil-night
-- https://www.kongregate.com/games/visablebomb/tavin-ball
-- https://www.kongregate.com/games/simcitymoo5/simple-zombie-shooter-game
-- https://www.kongregate.com/games/PurpoAppo/sacrificial-shot
-- https://www.kongregate.com/games/kidsgamess/santa-claus-adventures
-- https://www.kongregate.com/games/JiHuiC1/building-breaker
-- https://www.kongregate.com/games/Astra11/banana-drama
-- https://www.kongregate.com/games/JamesD1459/iron-sights
-- https://www.kongregate.com/games/gerardcastle4/love-is-in-the-air
-- https://www.kongregate.com/games/gerardcastle4/giant-slayers
-- https://www.kongregate.com/games/RHMGames/cube-battle-royale
-- https://www.kongregate.com/games/fighter106/bubble-shooter-valentines
-- https://www.kongregate.com/games/mohdtausif666/mouseraider
-- https://www.kongregate.com/games/Stone_Age_Jazz/arza-adrenaline-rush-zombie-assault
-- https://www.kongregate.com/games/sathish/mysteries-forest-escape-8
-
-Raw data: [sitemap.json](./data/kongregate.com/20241125_151924/sitemap.json) and [diff.json](./data/kongregate.com/20241125_151924/diff.json)
-
 ## newgrounds.com
 
 ## miniclip.com
 
 ## poki.com
+
+### 20241128_000706
+
+- https://poki.com/en/g/dogfight
+- https://poki.com/ru/g/dogfight
+- https://poki.com/ua/g/dogfight
+- https://poki.com/ar/g/dogfight
+- https://poki.com/th/g/dogfight
+- https://poki.com/kr/g/dogfight
+- https://poki.com/es/g/dogfight
+- https://poki.com/fr/g/dogfight
+- https://poki.com/tr/g/dogfight
+- https://poki.com/gr/g/dogfight
+- https://poki.com/no/g/dogfight
+- https://poki.com/ro/g/dogfight
+- https://poki.com/bg/g/dogfight
+- https://poki.com/hu/g/dogfight
+- https://poki.com/sk/g/dogfight
+- https://poki.com/se/g/dogfight
+- https://poki.com/it/g/dogfight
+- https://poki.com/dk/g/dogfight
+- https://poki.com/fi/g/dogfight
+- https://poki.com/pl/g/dogfight
+- https://poki.com/cz/g/dogfight
+- https://poki.com/nl/g/dogfight
+- https://poki.com/jp/g/dogfight
+- https://poki.com/il/g/dogfight
+- https://poki.com/br/g/dogfight
+- https://poki.com/de/g/dogfight
+- https://poki.com/zh/g/dogfight
+- https://poki.com/id/g/dogfight
+- https://poki.com/hi/g/dogfight
+- https://poki.com/bn/g/dogfight
+- https://poki.com/ms/g/dogfight
+- https://poki.com/tl/g/dogfight
+- https://poki.com/uz/g/dogfight
+- https://poki.com/sr/g/dogfight
+
+Raw data: [sitemap.json](./data/poki.com/20241128_000706/sitemap.json) and [diff.json](./data/poki.com/20241128_000706/diff.json)
 
 ### 20241127_000639
 
@@ -808,79 +842,6 @@ Raw data: [sitemap.json](./data/poki.com/20241127_000639/sitemap.json) and [diff
 - https://poki.com/sr/g/doctor-hero-hospital-game
 
 Raw data: [sitemap.json](./data/poki.com/20241126_000640/sitemap.json) and [diff.json](./data/poki.com/20241126_000640/diff.json)
-
-### 20241125_151924
-
-- https://poki.com/en/g/drift-boss
-- https://poki.com/en/g/viaducts-zen-puzzle
-- https://poki.com/ru/g/drift-boss
-- https://poki.com/ru/g/viaducts-zen-puzzle
-- https://poki.com/ua/g/drift-boss
-- https://poki.com/ua/g/viaducts-zen-puzzle
-- https://poki.com/ar/g/drift-boss
-- https://poki.com/ar/g/viaducts-zen-puzzle
-- https://poki.com/th/g/drift-boss
-- https://poki.com/th/g/viaducts-zen-puzzle
-- https://poki.com/kr/g/drift-boss
-- https://poki.com/kr/g/viaducts-zen-puzzle
-- https://poki.com/es/g/drift-boss
-- https://poki.com/es/g/viaducts-zen-puzzle
-- https://poki.com/fr/g/drift-boss
-- https://poki.com/fr/g/viaducts-zen-puzzle
-- https://poki.com/tr/g/drift-boss
-- https://poki.com/tr/g/viaducts-zen-puzzle
-- https://poki.com/gr/g/drift-boss
-- https://poki.com/gr/g/viaducts-zen-puzzle
-- https://poki.com/no/g/drift-boss
-- https://poki.com/no/g/viaducts-zen-puzzle
-- https://poki.com/ro/g/drift-boss
-- https://poki.com/ro/g/viaducts-zen-puzzle
-- https://poki.com/bg/g/drift-boss
-- https://poki.com/bg/g/viaducts-zen-puzzle
-- https://poki.com/hu/g/drift-boss
-- https://poki.com/hu/g/viaducts-zen-puzzle
-- https://poki.com/sk/g/drift-boss
-- https://poki.com/sk/g/viaducts-zen-puzzle
-- https://poki.com/se/g/drift-boss
-- https://poki.com/se/g/viaducts-zen-puzzle
-- https://poki.com/it/g/drift-boss
-- https://poki.com/it/g/viaducts-zen-puzzle
-- https://poki.com/dk/g/drift-boss
-- https://poki.com/dk/g/viaducts-zen-puzzle
-- https://poki.com/fi/g/drift-boss
-- https://poki.com/fi/g/viaducts-zen-puzzle
-- https://poki.com/pl/g/drift-boss
-- https://poki.com/pl/g/viaducts-zen-puzzle
-- https://poki.com/cz/g/drift-boss
-- https://poki.com/cz/g/viaducts-zen-puzzle
-- https://poki.com/nl/g/drift-boss
-- https://poki.com/nl/g/viaducts-zen-puzzle
-- https://poki.com/jp/g/drift-boss
-- https://poki.com/jp/g/viaducts-zen-puzzle
-- https://poki.com/il/g/drift-boss
-- https://poki.com/il/g/viaducts-zen-puzzle
-- https://poki.com/br/g/drift-boss
-- https://poki.com/br/g/viaducts-zen-puzzle
-- https://poki.com/de/g/drift-boss
-- https://poki.com/de/g/viaducts-zen-puzzle
-- https://poki.com/zh/g/drift-boss
-- https://poki.com/zh/g/viaducts-zen-puzzle
-- https://poki.com/id/g/drift-boss
-- https://poki.com/id/g/viaducts-zen-puzzle
-- https://poki.com/hi/g/drift-boss
-- https://poki.com/hi/g/viaducts-zen-puzzle
-- https://poki.com/bn/g/drift-boss
-- https://poki.com/bn/g/viaducts-zen-puzzle
-- https://poki.com/ms/g/drift-boss
-- https://poki.com/ms/g/viaducts-zen-puzzle
-- https://poki.com/tl/g/drift-boss
-- https://poki.com/tl/g/viaducts-zen-puzzle
-- https://poki.com/uz/g/drift-boss
-- https://poki.com/uz/g/viaducts-zen-puzzle
-- https://poki.com/sr/g/drift-boss
-- https://poki.com/sr/g/viaducts-zen-puzzle
-
-Raw data: [sitemap.json](./data/poki.com/20241125_151924/sitemap.json) and [diff.json](./data/poki.com/20241125_151924/diff.json)
 
 ## coolmathgames.com
 
