@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.org/sprunki-oc-maker",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/padek-man-sprunki",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/sprunki-x-fpe-v9",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

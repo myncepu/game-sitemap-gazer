@@ -54,6 +54,14 @@
 
 ## sprunki.org
 
+### 20241129_000639
+
+- https://sprunki.org/sprunki-oc-maker
+- https://sprunki.org/padek-man-sprunki
+- https://sprunki.org/sprunki-x-fpe-v9
+
+Raw data: [sitemap.json](./data/sprunki.org/20241129_000639/sitemap.json) and [diff.json](./data/sprunki.org/20241129_000639/diff.json)
+
 ### 20241128_000706
 
 - https://sprunki.org/sprunki-phase-15
@@ -68,13 +76,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241128_000706/sitemap.json) and [d
 - https://sprunki.org/sprunki-toca
 
 Raw data: [sitemap.json](./data/sprunki.org/20241127_000639/sitemap.json) and [diff.json](./data/sprunki.org/20241127_000639/diff.json)
-
-### 20241125_151924
-
-- https://sprunki.org/abgerny-but-overlap
-- https://sprunki.org/subway-surfers
-
-Raw data: [sitemap.json](./data/sprunki.org/20241125_151924/sitemap.json) and [diff.json](./data/sprunki.org/20241125_151924/diff.json)
 
 ## sprunki.com
 
@@ -103,6 +104,12 @@ Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241129_000639
+
+- https://incrediboxsprunki.org/incredibox-v69-004
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241129_000639/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241129_000639/diff.json)
+
 ### 20241128_000706
 
 - https://incrediboxsprunki.org/rust-colorbox
@@ -124,13 +131,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241128_000706/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241127_000639/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241127_000639/diff.json)
 
-### 20241125_151924
-
-- https://incrediboxsprunki.org/incredibox-kochari-concept-full
-- https://incrediboxsprunki.org/sprunki-kiss-edition
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241125_151924/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241125_151924/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -138,6 +138,28 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241125_151924/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241129_000639
+
+- https://sprunkin.com/game/sprunkstard-sprunk/
+- https://sprunkin.com/game/sprunki-interactive-1-0/
+- https://sprunkin.com/game/abgerny-scratch/
+- https://sprunkin.com/game/sprunki-shocked/
+- https://sprunkin.com/game/sprunki-colordex/
+- https://sprunkin.com/game/sprunki-infected-war/
+- https://sprunkin.com/game/corruptbox-but-sprunki/
+- https://sprunkin.com/game/corruptbox-2-but-sprunki/
+- https://sprunkin.com/game/sprunki-they-are-alive-getting-surgery/
+- https://sprunkin.com/game/sprunki-resprunk/
+- https://sprunkin.com/game/sprunki-sprejecz-2-0/
+- https://sprunkin.com/game/sprunki-but-zombie-apocalypse/
+- https://sprunkin.com/fan-game/sprunky-re-upload/
+- https://sprunkin.com/fan-game/sprunki-shocked-demo/
+- https://sprunkin.com/fan-game/yubin-niiku-2-with-ocs/
+- https://sprunkin.com/fan-game/sprunki-interactive-beta-but-with-more-added-sprunkis/
+- https://sprunkin.com/fan-game/sprunki-socks/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241129_000639/sitemap.json) and [diff.json](./data/sprunkin.com/20241129_000639/diff.json)
 
 ### 20241128_000706
 
@@ -195,40 +217,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241128_000706/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunkiiiiiiii-but-super-bad/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241126_000640/sitemap.json) and [diff.json](./data/sprunkin.com/20241126_000640/diff.json)
-
-### 20241125_151924
-
-- https://sprunkin.com/fan-game/lol/
-- https://sprunkin.com/fan-game/spuk/
-- https://sprunkin.com/fan-game/sprunked-8-0/
-- https://sprunkin.com/fan-game/sprunki-worlds/
-- https://sprunkin.com/fan-game/sprunki-rainbow-friends/
-- https://sprunkin.com/fan-game/sprunki-remake/
-- https://sprunkin.com/fan-game/sprunki-remake-by-meee/
-- https://sprunkin.com/fan-game/sprunki-but-realy-bad/
-- https://sprunkin.com/fan-game/sprunki-ketchup/
-- https://sprunkin.com/fan-game/sprunki-au/
-- https://sprunkin.com/fan-game/incredibox-bunny-tale/
-- https://sprunkin.com/fan-game/binki/
-- https://sprunkin.com/fan-game/rmemetake/
-- https://sprunkin.com/fan-game/sprunki-but-it-has-a-story/
-- https://sprunkin.com/fan-game/a-secret-mod/
-- https://sprunkin.com/fan-game/fun-time/
-- https://sprunkin.com/fan-game/sprunki-rework/
-- https://sprunkin.com/fan-game/justin/
-- https://sprunkin.com/fan-game/sprunki-rework-2/
-- https://sprunkin.com/fan-game/justin-praize/
-- https://sprunkin.com/fan-game/sprunki-project-3/
-- https://sprunkin.com/fan-game/sprunki-project-5/
-- https://sprunkin.com/fan-game/sprunki-kitten-game-modded/
-- https://sprunkin.com/fan-game/sprunki8/
-- https://sprunkin.com/fan-game/super-cute-sprunki-2-0/
-- https://sprunkin.com/fan-game/project-7/
-- https://sprunkin.com/fan-game/project-11/
-- https://sprunkin.com/fan-game/sprunki-with-more-physics/
-- https://sprunkin.com/fan-game/sprunki-sb3-test/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241125_151924/sitemap.json) and [diff.json](./data/sprunkin.com/20241125_151924/diff.json)
 
 ## sprunkisinner.org
 
@@ -460,6 +448,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241129_000639
+
+- https://www.crazygames.com/game/goblins-wood-brd
+- https://www.crazygames.com/game/chicken-clicker
+
+Raw data: [sitemap.json](./data/crazygames.com/20241129_000639/sitemap.json) and [diff.json](./data/crazygames.com/20241129_000639/diff.json)
+
 ### 20241128_000706
 
 - https://www.crazygames.com/game/match-moji--emoji-puzzle-game
@@ -476,14 +471,30 @@ Raw data: [sitemap.json](./data/crazygames.com/20241128_000706/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241127_000639/sitemap.json) and [diff.json](./data/crazygames.com/20241127_000639/diff.json)
 
-### 20241126_000640
-
-- https://www.crazygames.com/game/skillwarz
-- https://www.crazygames.com/game/black-friday-mystery-sale
-
-Raw data: [sitemap.json](./data/crazygames.com/20241126_000640/sitemap.json) and [diff.json](./data/crazygames.com/20241126_000640/diff.json)
-
 ## y8.com
+
+### 20241129_000639
+
+- https://www.y8.com/games/anime_battle_4
+- https://www.y8.com/games/decor_my_purse
+- https://www.y8.com/games/cocoboy
+- https://www.y8.com/games/parking_fury_3d_beach_city_2
+- https://www.y8.com/games/fnf_funki_incredibox_sprunki_
+- https://www.y8.com/games/robot_detour_demo
+- https://www.y8.com/games/meski_ontango
+- https://www.y8.com/games/the_last_horizon
+- https://www.y8.com/games/sprunki_with_oc
+- https://www.y8.com/games/enable
+- https://www.y8.com/games/wizard_masters_io
+- https://www.y8.com/games/giant_crowd_io_house_capture
+- https://www.y8.com/animation/bookworm_official_trailer
+- https://www.y8.com/animation/armor_official_trailer
+- https://www.y8.com/animation/the_strangers_chapter_2_official_teaser_trailer
+- https://www.y8.com/animation/landman_new_official_trailer
+- https://www.y8.com/animation/presence_official_trailer
+- https://www.y8.com/animation/cat_cartoon
+
+Raw data: [sitemap.json](./data/y8.com/20241129_000639/sitemap.json) and [diff.json](./data/y8.com/20241129_000639/diff.json)
 
 ### 20241128_000706
 
@@ -531,29 +542,6 @@ Raw data: [sitemap.json](./data/y8.com/20241128_000706/sitemap.json) and [diff.j
 - https://www.y8.com/animation/adorable_dog
 
 Raw data: [sitemap.json](./data/y8.com/20241127_000639/sitemap.json) and [diff.json](./data/y8.com/20241127_000639/diff.json)
-
-### 20241125_151924
-
-- https://www.y8.com/games/call_of_the_jungle_animal_evolution
-- https://www.y8.com/games/subway_horror_chapter_1
-- https://www.y8.com/games/recital
-- https://www.y8.com/games/13s_tactics
-- https://www.y8.com/games/stack_blocks_connect_wooden_blocks_
-- https://www.y8.com/games/earthquake_io
-- https://www.y8.com/games/teardown_destruction_sandbox
-- https://www.y8.com/games/deadlock_io
-- https://www.y8.com/games/sprunki_phase_5
-- https://www.y8.com/games/fnf_iron_lung
-- https://www.y8.com/games/suika_kawaii_cat_merge
-- https://www.y8.com/games/blackpink_black_friday_fever
-- https://www.y8.com/animation/the_best_adorable_bulldogs_in_the_planet
-- https://www.y8.com/animation/hilarious_people_s_life
-- https://www.y8.com/animation/quirky_laughs_await_
-- https://www.y8.com/animation/our_little_secret_official_trailer
-- https://www.y8.com/animation/waltzing_with_brando_official_trailer
-- https://www.y8.com/animation/domestic_kitten
-
-Raw data: [sitemap.json](./data/y8.com/20241125_151924/sitemap.json) and [diff.json](./data/y8.com/20241125_151924/diff.json)
 
 ## kongregate.com
 
@@ -623,6 +611,186 @@ Raw data: [sitemap.json](./data/kongregate.com/20241126_000640/sitemap.json) and
 ## miniclip.com
 
 ## poki.com
+
+### 20241129_000639
+
+- https://poki.com/en/g/prison-breakout
+- https://poki.com/en/g/lovedots
+- https://poki.com/en/g/dig-dugger
+- https://poki.com/en/g/heist-io
+- https://poki.com/en/g/bro-ski
+- https://poki.com/ru/g/prison-breakout
+- https://poki.com/ru/g/lovedots
+- https://poki.com/ru/g/dig-dugger
+- https://poki.com/ru/g/heist-io
+- https://poki.com/ru/g/bro-ski
+- https://poki.com/ua/g/prison-breakout
+- https://poki.com/ua/g/lovedots
+- https://poki.com/ua/g/dig-dugger
+- https://poki.com/ua/g/heist-io
+- https://poki.com/ua/g/bro-ski
+- https://poki.com/ar/g/prison-breakout
+- https://poki.com/ar/g/lovedots
+- https://poki.com/ar/g/dig-dugger
+- https://poki.com/ar/g/heist-io
+- https://poki.com/ar/g/bro-ski
+- https://poki.com/th/g/prison-breakout
+- https://poki.com/th/g/lovedots
+- https://poki.com/th/g/dig-dugger
+- https://poki.com/th/g/heist-io
+- https://poki.com/th/g/bro-ski
+- https://poki.com/kr/g/prison-breakout
+- https://poki.com/kr/g/lovedots
+- https://poki.com/kr/g/dig-dugger
+- https://poki.com/kr/g/heist-io
+- https://poki.com/kr/g/bro-ski
+- https://poki.com/es/g/prison-breakout
+- https://poki.com/es/g/lovedots
+- https://poki.com/es/g/dig-dugger
+- https://poki.com/es/g/heist-io
+- https://poki.com/es/g/bro-ski
+- https://poki.com/fr/g/prison-breakout
+- https://poki.com/fr/g/lovedots
+- https://poki.com/fr/g/dig-dugger
+- https://poki.com/fr/g/heist-io
+- https://poki.com/fr/g/bro-ski
+- https://poki.com/tr/g/prison-breakout
+- https://poki.com/tr/g/lovedots
+- https://poki.com/tr/g/dig-dugger
+- https://poki.com/tr/g/heist-io
+- https://poki.com/tr/g/bro-ski
+- https://poki.com/gr/g/prison-breakout
+- https://poki.com/gr/g/lovedots
+- https://poki.com/gr/g/dig-dugger
+- https://poki.com/gr/g/heist-io
+- https://poki.com/gr/g/bro-ski
+- https://poki.com/no/g/prison-breakout
+- https://poki.com/no/g/lovedots
+- https://poki.com/no/g/dig-dugger
+- https://poki.com/no/g/heist-io
+- https://poki.com/no/g/bro-ski
+- https://poki.com/ro/g/prison-breakout
+- https://poki.com/ro/g/lovedots
+- https://poki.com/ro/g/dig-dugger
+- https://poki.com/ro/g/heist-io
+- https://poki.com/ro/g/bro-ski
+- https://poki.com/bg/g/prison-breakout
+- https://poki.com/bg/g/lovedots
+- https://poki.com/bg/g/dig-dugger
+- https://poki.com/bg/g/heist-io
+- https://poki.com/bg/g/bro-ski
+- https://poki.com/hu/g/prison-breakout
+- https://poki.com/hu/g/lovedots
+- https://poki.com/hu/g/dig-dugger
+- https://poki.com/hu/g/heist-io
+- https://poki.com/hu/g/bro-ski
+- https://poki.com/sk/g/prison-breakout
+- https://poki.com/sk/g/lovedots
+- https://poki.com/sk/g/dig-dugger
+- https://poki.com/sk/g/heist-io
+- https://poki.com/sk/g/bro-ski
+- https://poki.com/se/g/prison-breakout
+- https://poki.com/se/g/lovedots
+- https://poki.com/se/g/dig-dugger
+- https://poki.com/se/g/heist-io
+- https://poki.com/se/g/bro-ski
+- https://poki.com/it/g/prison-breakout
+- https://poki.com/it/g/lovedots
+- https://poki.com/it/g/dig-dugger
+- https://poki.com/it/g/heist-io
+- https://poki.com/it/g/bro-ski
+- https://poki.com/dk/g/prison-breakout
+- https://poki.com/dk/g/lovedots
+- https://poki.com/dk/g/dig-dugger
+- https://poki.com/dk/g/heist-io
+- https://poki.com/dk/g/bro-ski
+- https://poki.com/fi/g/prison-breakout
+- https://poki.com/fi/g/lovedots
+- https://poki.com/fi/g/dig-dugger
+- https://poki.com/fi/g/heist-io
+- https://poki.com/fi/g/bro-ski
+- https://poki.com/pl/g/prison-breakout
+- https://poki.com/pl/g/lovedots
+- https://poki.com/pl/g/dig-dugger
+- https://poki.com/pl/g/heist-io
+- https://poki.com/pl/g/bro-ski
+- https://poki.com/cz/g/prison-breakout
+- https://poki.com/cz/g/lovedots
+- https://poki.com/cz/g/dig-dugger
+- https://poki.com/cz/g/heist-io
+- https://poki.com/cz/g/bro-ski
+- https://poki.com/nl/g/prison-breakout
+- https://poki.com/nl/g/lovedots
+- https://poki.com/nl/g/dig-dugger
+- https://poki.com/nl/g/heist-io
+- https://poki.com/nl/g/bro-ski
+- https://poki.com/jp/g/prison-breakout
+- https://poki.com/jp/g/lovedots
+- https://poki.com/jp/g/dig-dugger
+- https://poki.com/jp/g/heist-io
+- https://poki.com/jp/g/bro-ski
+- https://poki.com/il/g/prison-breakout
+- https://poki.com/il/g/lovedots
+- https://poki.com/il/g/dig-dugger
+- https://poki.com/il/g/heist-io
+- https://poki.com/il/g/bro-ski
+- https://poki.com/br/g/prison-breakout
+- https://poki.com/br/g/lovedots
+- https://poki.com/br/g/dig-dugger
+- https://poki.com/br/g/heist-io
+- https://poki.com/br/g/bro-ski
+- https://poki.com/de/g/prison-breakout
+- https://poki.com/de/g/lovedots
+- https://poki.com/de/g/dig-dugger
+- https://poki.com/de/g/heist-io
+- https://poki.com/de/g/bro-ski
+- https://poki.com/zh/g/prison-breakout
+- https://poki.com/zh/g/lovedots
+- https://poki.com/zh/g/dig-dugger
+- https://poki.com/zh/g/heist-io
+- https://poki.com/zh/g/bro-ski
+- https://poki.com/id/g/prison-breakout
+- https://poki.com/id/g/lovedots
+- https://poki.com/id/g/dig-dugger
+- https://poki.com/id/g/heist-io
+- https://poki.com/id/g/bro-ski
+- https://poki.com/id/g/hospital-stories-doctor-rugby
+- https://poki.com/id/g/flying-car-simulator
+- https://poki.com/id/g/funny-bone-surgery
+- https://poki.com/id/g/true-love-calculator
+- https://poki.com/id/g/funny-nose-surgery
+- https://poki.com/hi/g/prison-breakout
+- https://poki.com/hi/g/lovedots
+- https://poki.com/hi/g/dig-dugger
+- https://poki.com/hi/g/heist-io
+- https://poki.com/hi/g/bro-ski
+- https://poki.com/bn/g/prison-breakout
+- https://poki.com/bn/g/lovedots
+- https://poki.com/bn/g/dig-dugger
+- https://poki.com/bn/g/heist-io
+- https://poki.com/bn/g/bro-ski
+- https://poki.com/ms/g/prison-breakout
+- https://poki.com/ms/g/lovedots
+- https://poki.com/ms/g/dig-dugger
+- https://poki.com/ms/g/heist-io
+- https://poki.com/ms/g/bro-ski
+- https://poki.com/tl/g/prison-breakout
+- https://poki.com/tl/g/lovedots
+- https://poki.com/tl/g/dig-dugger
+- https://poki.com/tl/g/heist-io
+- https://poki.com/tl/g/bro-ski
+- https://poki.com/uz/g/prison-breakout
+- https://poki.com/uz/g/lovedots
+- https://poki.com/uz/g/dig-dugger
+- https://poki.com/uz/g/heist-io
+- https://poki.com/uz/g/bro-ski
+- https://poki.com/sr/g/prison-breakout
+- https://poki.com/sr/g/lovedots
+- https://poki.com/sr/g/dig-dugger
+- https://poki.com/sr/g/heist-io
+- https://poki.com/sr/g/bro-ski
+
+Raw data: [sitemap.json](./data/poki.com/20241129_000639/sitemap.json) and [diff.json](./data/poki.com/20241129_000639/diff.json)
 
 ### 20241128_000706
 
@@ -769,79 +937,6 @@ Raw data: [sitemap.json](./data/poki.com/20241128_000706/sitemap.json) and [diff
 - https://poki.com/sr/g/combimon
 
 Raw data: [sitemap.json](./data/poki.com/20241127_000639/sitemap.json) and [diff.json](./data/poki.com/20241127_000639/diff.json)
-
-### 20241126_000640
-
-- https://poki.com/en/g/astro-survivors
-- https://poki.com/en/g/doctor-hero-hospital-game
-- https://poki.com/ru/g/astro-survivors
-- https://poki.com/ru/g/doctor-hero-hospital-game
-- https://poki.com/ua/g/astro-survivors
-- https://poki.com/ua/g/doctor-hero-hospital-game
-- https://poki.com/ar/g/astro-survivors
-- https://poki.com/ar/g/doctor-hero-hospital-game
-- https://poki.com/th/g/astro-survivors
-- https://poki.com/th/g/doctor-hero-hospital-game
-- https://poki.com/kr/g/astro-survivors
-- https://poki.com/kr/g/doctor-hero-hospital-game
-- https://poki.com/es/g/astro-survivors
-- https://poki.com/es/g/doctor-hero-hospital-game
-- https://poki.com/fr/g/astro-survivors
-- https://poki.com/fr/g/doctor-hero-hospital-game
-- https://poki.com/tr/g/astro-survivors
-- https://poki.com/tr/g/doctor-hero-hospital-game
-- https://poki.com/gr/g/astro-survivors
-- https://poki.com/gr/g/doctor-hero-hospital-game
-- https://poki.com/no/g/astro-survivors
-- https://poki.com/no/g/doctor-hero-hospital-game
-- https://poki.com/ro/g/astro-survivors
-- https://poki.com/ro/g/doctor-hero-hospital-game
-- https://poki.com/bg/g/astro-survivors
-- https://poki.com/bg/g/doctor-hero-hospital-game
-- https://poki.com/hu/g/astro-survivors
-- https://poki.com/hu/g/doctor-hero-hospital-game
-- https://poki.com/sk/g/astro-survivors
-- https://poki.com/sk/g/doctor-hero-hospital-game
-- https://poki.com/se/g/astro-survivors
-- https://poki.com/se/g/doctor-hero-hospital-game
-- https://poki.com/it/g/astro-survivors
-- https://poki.com/it/g/doctor-hero-hospital-game
-- https://poki.com/dk/g/astro-survivors
-- https://poki.com/dk/g/doctor-hero-hospital-game
-- https://poki.com/fi/g/astro-survivors
-- https://poki.com/fi/g/doctor-hero-hospital-game
-- https://poki.com/pl/g/astro-survivors
-- https://poki.com/pl/g/doctor-hero-hospital-game
-- https://poki.com/cz/g/astro-survivors
-- https://poki.com/cz/g/doctor-hero-hospital-game
-- https://poki.com/nl/g/astro-survivors
-- https://poki.com/nl/g/doctor-hero-hospital-game
-- https://poki.com/jp/g/astro-survivors
-- https://poki.com/jp/g/doctor-hero-hospital-game
-- https://poki.com/il/g/astro-survivors
-- https://poki.com/il/g/doctor-hero-hospital-game
-- https://poki.com/br/g/astro-survivors
-- https://poki.com/br/g/doctor-hero-hospital-game
-- https://poki.com/de/g/astro-survivors
-- https://poki.com/de/g/doctor-hero-hospital-game
-- https://poki.com/zh/g/astro-survivors
-- https://poki.com/zh/g/doctor-hero-hospital-game
-- https://poki.com/id/g/astro-survivors
-- https://poki.com/id/g/doctor-hero-hospital-game
-- https://poki.com/hi/g/astro-survivors
-- https://poki.com/hi/g/doctor-hero-hospital-game
-- https://poki.com/bn/g/astro-survivors
-- https://poki.com/bn/g/doctor-hero-hospital-game
-- https://poki.com/ms/g/astro-survivors
-- https://poki.com/ms/g/doctor-hero-hospital-game
-- https://poki.com/tl/g/astro-survivors
-- https://poki.com/tl/g/doctor-hero-hospital-game
-- https://poki.com/uz/g/astro-survivors
-- https://poki.com/uz/g/doctor-hero-hospital-game
-- https://poki.com/sr/g/astro-survivors
-- https://poki.com/sr/g/doctor-hero-hospital-game
-
-Raw data: [sitemap.json](./data/poki.com/20241126_000640/sitemap.json) and [diff.json](./data/poki.com/20241126_000640/diff.json)
 
 ## coolmathgames.com
 
