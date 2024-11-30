@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.crazygames.com/game/squad-assembler-red-vs-blue",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/air-hockey-glow",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/knight-hero-2-revenge-idle-rpg",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/holiday",
+      "priority": 0.5,
+      "last_modified": "2024-05-29T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-29T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/dasi-hospital-manager",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/stickman-kingdom-clash",
+      "priority": 0.5,
+      "last_modified": "2024-11-30T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
