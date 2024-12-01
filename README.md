@@ -54,6 +54,14 @@
 
 ## sprunki.org
 
+### 20241201_000810
+
+- https://sprunki.org/sprunki-sonic
+- https://sprunki.org/sprunki-on-planet-dom
+- https://sprunki.org/sprunki-colordex
+
+Raw data: [sitemap.json](./data/sprunki.org/20241201_000810/sitemap.json) and [diff.json](./data/sprunki.org/20241201_000810/diff.json)
+
 ### 20241130_000635
 
 - https://sprunki.org/abgerny-scratch-remix
@@ -74,14 +82,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241130_000635/sitemap.json) and [d
 - https://sprunki.org/sprunki-x-fpe-v9
 
 Raw data: [sitemap.json](./data/sprunki.org/20241129_000639/sitemap.json) and [diff.json](./data/sprunki.org/20241129_000639/diff.json)
-
-### 20241128_000706
-
-- https://sprunki.org/sprunki-phase-15
-- https://sprunki.org/sprunki-phase-14
-- https://sprunki.org/sprunki-x-fetereder
-
-Raw data: [sitemap.json](./data/sprunki.org/20241128_000706/sitemap.json) and [diff.json](./data/sprunki.org/20241128_000706/diff.json)
 
 ## sprunki.com
 
@@ -110,6 +110,12 @@ Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241201_000810
+
+- https://incrediboxsprunki.org/incredibox-gamebreaker
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241201_000810/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241201_000810/diff.json)
+
 ### 20241130_000635
 
 - https://incrediboxsprunki.org/incredibox-egg-hunt
@@ -123,15 +129,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241130_000635/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241129_000639/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241129_000639/diff.json)
 
-### 20241128_000706
-
-- https://incrediboxsprunki.org/rust-colorbox
-- https://incrediboxsprunki.org/sprunki-phase-8
-- https://incrediboxsprunki.org/sprunki-phase-9
-- https://incrediboxsprunki.org/sprunki-phase-10
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241128_000706/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241128_000706/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -139,6 +136,37 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241128_000706/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241201_000810
+
+- https://sprunkin.com/game/sprunki-but-many-characters/
+- https://sprunkin.com/game/sprunki-padek-man/
+- https://sprunkin.com/game/sprunki-christmas-modded/
+- https://sprunkin.com/game/sprunki-peak/
+- https://sprunkin.com/game/corruptbox3-x-sprunki/
+- https://sprunkin.com/game/sprunki-school-house-trouble/
+- https://sprunkin.com/game/cool-as-ice-x-sprunki/
+- https://sprunkin.com/game/sprunki-cool-as-ice-original/
+- https://sprunkin.com/fan-game/incredibox-brawl-v-0-6/
+- https://sprunkin.com/fan-game/sprunki-but-with-my-family/
+- https://sprunkin.com/fan-game/incredibox-bailus/
+- https://sprunkin.com/fan-game/roblox-sprunki/
+- https://sprunkin.com/fan-game/incredibox-sprunki-but-with-fan-character/
+- https://sprunkin.com/fan-game/sprunki-not-terror-version/
+- https://sprunkin.com/fan-game/sprunked-sprunki-stile-and-not-terror-version/
+- https://sprunkin.com/fan-game/sprunki-2/
+- https://sprunkin.com/fan-game/sprunki-but-incredibox/
+- https://sprunkin.com/fan-game/sprunki-exe-mod/
+- https://sprunkin.com/fan-game/sprunki-but-better/
+- https://sprunkin.com/fan-game/sprunki-but-bad-4/
+- https://sprunkin.com/fan-game/sprunki-ff/
+- https://sprunkin.com/fan-game/incredibox-sprunki-1-but-better/
+- https://sprunkin.com/fan-game/splinkle-5-release/
+- https://sprunkin.com/fan-game/sprunki-alpla-mode/
+- https://sprunkin.com/fan-game/sprunki-alpla-mode-2/
+- https://sprunkin.com/fan-game/sprunky-re-upload/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241201_000810/sitemap.json) and [diff.json](./data/sprunkin.com/20241201_000810/diff.json)
 
 ### 20241130_000635
 
@@ -196,48 +224,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241130_000635/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-socks/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241129_000639/sitemap.json) and [diff.json](./data/sprunkin.com/20241129_000639/diff.json)
-
-### 20241128_000706
-
-- https://sprunkin.com/game/sprunki-toca/
-- https://sprunkin.com/game/sprunki-kiss-edition/
-- https://sprunkin.com/game/sprunki-for-girls/
-- https://sprunkin.com/game/sprinku/
-- https://sprunkin.com/game/sprunki-rejoyed-night-time/
-- https://sprunkin.com/game/sprunki-distorded-4u/
-- https://sprunkin.com/game/sprunki-rejoyed-for-girls/
-- https://sprunkin.com/game/sprunki-tail/
-- https://sprunkin.com/fan-game/sprunki-phase-5-5/
-- https://sprunkin.com/fan-game/sprunki-with-onyx-the-impostor-v1/
-- https://sprunkin.com/fan-game/sprunki-but-i-have-changed-it/
-- https://sprunkin.com/fan-game/sprunki-phase-5/
-- https://sprunkin.com/fan-game/sprunki-newest-verison/
-- https://sprunkin.com/fan-game/coloursprunk-v1-red-2/
-- https://sprunkin.com/fan-game/incredibox-sprunki-boys-vs-girls/
-- https://sprunkin.com/fan-game/sprunki-phase-5-2/
-- https://sprunkin.com/fan-game/sprunki-but-super-happy-but-kinda-goofy-ahh/
-- https://sprunkin.com/fan-game/erm-sprunki/
-- https://sprunkin.com/fan-game/incredibox-abgerny-bunny-tale/
-- https://sprunkin.com/fan-game/normal-blackvisual-changes/
-- https://sprunkin.com/fan-game/sprunkifrom-the-galaxy/
-- https://sprunkin.com/fan-game/sprunki-but-a-bit-better-four/
-- https://sprunkin.com/fan-game/sprunki-spook/
-- https://sprunkin.com/fan-game/spronk/
-- https://sprunkin.com/fan-game/super-cute-sprunki-2-0-3/
-- https://sprunkin.com/fan-game/sprunki-no-horror/
-- https://sprunkin.com/fan-game/coloursprunk-v1-red-3/
-- https://sprunkin.com/fan-game/sprunki-slots/
-- https://sprunkin.com/fan-game/sprunki-big/
-- https://sprunkin.com/fan-game/tom10/
-- https://sprunkin.com/fan-game/tom-lucy1/
-- https://sprunkin.com/fan-game/sprunki-123/
-- https://sprunkin.com/fan-game/spunki-khong-nen/
-- https://sprunkin.com/fan-game/sprunki-vbal-poomouse-grumble-schoolhouse-trouble/
-- https://sprunkin.com/fan-game/sprunki-vbal-poomouse-grumble-schoolhouse-trouble-2/
-- https://sprunkin.com/fan-game/sprunki-but-more-horror/
-- https://sprunkin.com/fan-game/sprunki-hfj-one-remix-but-with-the-non-joke-object-show-charaters/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241128_000706/sitemap.json) and [diff.json](./data/sprunkin.com/20241128_000706/diff.json)
 
 ## sprunkisinner.org
 
@@ -493,6 +479,31 @@ Raw data: [sitemap.json](./data/crazygames.com/20241128_000706/sitemap.json) and
 
 ## y8.com
 
+### 20241201_000810
+
+- https://www.y8.com/studios/max-studio
+- https://www.y8.com/games/microsoft_jewel_2
+- https://www.y8.com/games/incredibox_cool_as_ice
+- https://www.y8.com/games/girly_equestrian
+- https://www.y8.com/games/mona_lisa_fashion_experiments
+- https://www.y8.com/games/match_the_figures
+- https://www.y8.com/games/paw_noir
+- https://www.y8.com/games/blob_hero
+- https://www.y8.com/games/minion_escape_
+- https://www.y8.com/games/shop_sorting_xmas
+- https://www.y8.com/games/hide_moodeng
+- https://www.y8.com/games/fuji_leaper
+- https://www.y8.com/games/words_with_prof_wisely
+- https://www.y8.com/games/sprunki_pop_it
+- https://www.y8.com/animation/babygirl_official_trailer
+- https://www.y8.com/animation/hilarious_fails_compilation_
+- https://www.y8.com/animation/adorable_baby_animals_compilation
+- https://www.y8.com/animation/get_ready_to_laugh
+- https://www.y8.com/animation/epic_fails
+- https://www.y8.com/animation/celebrating_halloween
+
+Raw data: [sitemap.json](./data/y8.com/20241201_000810/sitemap.json) and [diff.json](./data/y8.com/20241201_000810/diff.json)
+
 ### 20241130_000635
 
 - https://www.y8.com/games/teen_hood_style
@@ -538,29 +549,6 @@ Raw data: [sitemap.json](./data/y8.com/20241130_000635/sitemap.json) and [diff.j
 - https://www.y8.com/animation/cat_cartoon
 
 Raw data: [sitemap.json](./data/y8.com/20241129_000639/sitemap.json) and [diff.json](./data/y8.com/20241129_000639/diff.json)
-
-### 20241128_000706
-
-- https://www.y8.com/games/toddie_cute_shoes
-- https://www.y8.com/games/gun_clone
-- https://www.y8.com/games/wood_chopping
-- https://www.y8.com/games/slenderman_back_to_school
-- https://www.y8.com/games/siberian_assault
-- https://www.y8.com/games/maggy_neto
-- https://www.y8.com/games/holiday_hex_sort
-- https://www.y8.com/games/tip_tap
-- https://www.y8.com/games/christmas_buster
-- https://www.y8.com/games/black_friday_shopping_frenzy
-- https://www.y8.com/games/dye_it_right_color_picker
-- https://www.y8.com/games/energy_superman_3d
-- https://www.y8.com/animation/absolution_official_trailer
-- https://www.y8.com/animation/cellar_door_official_trailer
-- https://www.y8.com/animation/funniest_animal_videos_compilation_
-- https://www.y8.com/animation/return_of_the_king_the_fall_rise_of_elvis_presley
-- https://www.y8.com/animation/paddington_in_peru_trailer_3_
-- https://www.y8.com/animation/cold_case_who_killed_jonbenet_ramsey_trailer
-
-Raw data: [sitemap.json](./data/y8.com/20241128_000706/sitemap.json) and [diff.json](./data/y8.com/20241128_000706/diff.json)
 
 ## kongregate.com
 
