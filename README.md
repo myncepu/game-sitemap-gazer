@@ -54,6 +54,19 @@
 
 ## sprunki.org
 
+### 20241205_000654
+
+- https://sprunki.org/sprunki-comisprunki
+- https://sprunki.org/sprunksona-parody
+- https://sprunki.org/layer-man-3d-run-collect
+- https://sprunki.org/hand-doctor-game
+- https://sprunki.org/sprunki-susnkin
+- https://sprunki.org/sprunki-allgore-edition-mod
+- https://sprunki.org/countryballs-sprunki-retake
+- https://sprunki.org/the-jolly-of-sprunki-christmas
+
+Raw data: [sitemap.json](./data/sprunki.org/20241205_000654/sitemap.json) and [diff.json](./data/sprunki.org/20241205_000654/diff.json)
+
 ### 20241203_000723
 
 - https://sprunki.org/corruptbox-2-but-sprunki
@@ -67,19 +80,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241203_000723/sitemap.json) and [d
 - https://sprunki.org/sprunki-colordex
 
 Raw data: [sitemap.json](./data/sprunki.org/20241201_000810/sitemap.json) and [diff.json](./data/sprunki.org/20241201_000810/diff.json)
-
-### 20241130_000635
-
-- https://sprunki.org/abgerny-scratch-remix
-- https://sprunki.org/sprunki-shocked
-- https://sprunki.org/world-of-zombies-sprunki
-- https://sprunki.org/sprunki-lunacy
-- https://sprunki.org/sprunki-phase-69
-- https://sprunki.org/sprunki-halloween
-- https://sprunki.org/abgerny-baggerhead
-- https://sprunki.org/sprunki-phase-100
-
-Raw data: [sitemap.json](./data/sprunki.org/20241130_000635/sitemap.json) and [diff.json](./data/sprunki.org/20241130_000635/diff.json)
 
 ## sprunki.com
 
@@ -108,6 +108,12 @@ Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241205_000654
+
+- https://incrediboxsprunki.org/sprunki-retake
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241205_000654/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241205_000654/diff.json)
+
 ### 20241204_000717
 
 - https://incrediboxsprunki.org/sprunki-remastered
@@ -121,13 +127,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241204_000717/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241203_000723/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241203_000723/diff.json)
 
-### 20241202_000724
-
-- https://incrediboxsprunki.org/incredibox-soulgem
-- https://incrediboxsprunki.org/incredibox-grassbox-v2-deep-oak
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241202_000724/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241202_000724/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -135,6 +134,39 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241202_000724/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241205_000654
+
+- https://sprunkin.com/game/sprunked-but-babies/
+- https://sprunkin.com/game/sprunkin-playable/
+- https://sprunkin.com/game/sprunki-x-sprunked-ultra/
+- https://sprunkin.com/game/sprunki-sprunkbricks/
+- https://sprunkin.com/game/sprunki-brawl-stars/
+- https://sprunkin.com/game/sprunki-but-uh/
+- https://sprunkin.com/game/sprunki-camilo/
+- https://sprunkin.com/game/sprunki-greencore-padek-man/
+- https://sprunkin.com/game/sprunki-sprunnkies/
+- https://sprunkin.com/game/sprunki-2025-edition/
+- https://sprunkin.com/game/phase-5-garten-of-banban/
+- https://sprunkin.com/game/sprunki-z/
+- https://sprunkin.com/game/sprunki-solarballs/
+- https://sprunkin.com/game/sprunki-facing-upward/
+- https://sprunkin.com/fan-game/sprunki-amir23/
+- https://sprunkin.com/fan-game/sprunki-recast/
+- https://sprunkin.com/fan-game/spurkney/
+- https://sprunkin.com/fan-game/sprunki-but-no-blood-2/
+- https://sprunkin.com/fan-game/%ed%8e%80%eb%b4%87-%eb%aa%a8%eb%93%9c/
+- https://sprunkin.com/fan-game/sprunki-phase-7/
+- https://sprunkin.com/fan-game/sprunki-3/
+- https://sprunkin.com/fan-game/incredibox-sprunki-3-phase/
+- https://sprunkin.com/fan-game/sprongo/
+- https://sprunkin.com/sprunki-mods/
+- https://sprunkin.com/how-to-guides/
+- https://sprunkin.com/incredibox-mods/
+- https://sprunkin.com/horror/
+- https://sprunkin.com/sprunki-phase/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241205_000654/sitemap.json) and [diff.json](./data/sprunkin.com/20241205_000654/diff.json)
 
 ### 20241204_000717
 
@@ -172,37 +204,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241204_000717/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-sprunki-the-melancholic-version/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241202_000724/sitemap.json) and [diff.json](./data/sprunkin.com/20241202_000724/diff.json)
-
-### 20241201_000810
-
-- https://sprunkin.com/game/sprunki-but-many-characters/
-- https://sprunkin.com/game/sprunki-padek-man/
-- https://sprunkin.com/game/sprunki-christmas-modded/
-- https://sprunkin.com/game/sprunki-peak/
-- https://sprunkin.com/game/corruptbox3-x-sprunki/
-- https://sprunkin.com/game/sprunki-school-house-trouble/
-- https://sprunkin.com/game/cool-as-ice-x-sprunki/
-- https://sprunkin.com/game/sprunki-cool-as-ice-original/
-- https://sprunkin.com/fan-game/incredibox-brawl-v-0-6/
-- https://sprunkin.com/fan-game/sprunki-but-with-my-family/
-- https://sprunkin.com/fan-game/incredibox-bailus/
-- https://sprunkin.com/fan-game/roblox-sprunki/
-- https://sprunkin.com/fan-game/incredibox-sprunki-but-with-fan-character/
-- https://sprunkin.com/fan-game/sprunki-not-terror-version/
-- https://sprunkin.com/fan-game/sprunked-sprunki-stile-and-not-terror-version/
-- https://sprunkin.com/fan-game/sprunki-2/
-- https://sprunkin.com/fan-game/sprunki-but-incredibox/
-- https://sprunkin.com/fan-game/sprunki-exe-mod/
-- https://sprunkin.com/fan-game/sprunki-but-better/
-- https://sprunkin.com/fan-game/sprunki-but-bad-4/
-- https://sprunkin.com/fan-game/sprunki-ff/
-- https://sprunkin.com/fan-game/incredibox-sprunki-1-but-better/
-- https://sprunkin.com/fan-game/splinkle-5-release/
-- https://sprunkin.com/fan-game/sprunki-alpla-mode/
-- https://sprunkin.com/fan-game/sprunki-alpla-mode-2/
-- https://sprunkin.com/fan-game/sprunky-re-upload/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241201_000810/sitemap.json) and [diff.json](./data/sprunkin.com/20241201_000810/diff.json)
 
 ## sprunkisinner.org
 
@@ -434,6 +435,15 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241205_000654
+
+- https://www.crazygames.com/game/cubox-io-fgt
+- https://www.crazygames.com/game/monster-makeup-3d
+- https://www.crazygames.com/game/ball-guys
+- https://www.crazygames.com/game/grwm-date-night
+
+Raw data: [sitemap.json](./data/crazygames.com/20241205_000654/sitemap.json) and [diff.json](./data/crazygames.com/20241205_000654/diff.json)
+
 ### 20241204_000717
 
 - https://www.crazygames.com/game/battle-of-knights-robby-and-dragons
@@ -454,15 +464,30 @@ Raw data: [sitemap.json](./data/crazygames.com/20241204_000717/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241203_000723/sitemap.json) and [diff.json](./data/crazygames.com/20241203_000723/diff.json)
 
-### 20241130_000635
-
-- https://www.crazygames.com/game/squad-assembler-red-vs-blue
-- https://www.crazygames.com/game/air-hockey-glow
-- https://www.crazygames.com/game/knight-hero-2-revenge-idle-rpg
-
-Raw data: [sitemap.json](./data/crazygames.com/20241130_000635/sitemap.json) and [diff.json](./data/crazygames.com/20241130_000635/diff.json)
-
 ## y8.com
+
+### 20241205_000654
+
+- https://www.y8.com/games/sandwich_runner
+- https://www.y8.com/games/roxie_s_kitchen_thanksgiving_cupcake
+- https://www.y8.com/games/stickman_escapes_from_prison
+- https://www.y8.com/games/mountain_race_obby
+- https://www.y8.com/games/unicorn_find_the_differences
+- https://www.y8.com/games/legacy_
+- https://www.y8.com/games/meet_my_girlfriend_puzzles
+- https://www.y8.com/games/ellie_dee_s_adventure
+- https://www.y8.com/games/viking_tiles
+- https://www.y8.com/games/cs_skin_designer_knifes
+- https://www.y8.com/games/snake_king
+- https://www.y8.com/games/war_robots_battle_mech_arena
+- https://www.y8.com/animation/elevation_official_trailer
+- https://www.y8.com/animation/adorable_antics
+- https://www.y8.com/animation/the_donkey_s_delight_carrot_adventure
+- https://www.y8.com/animation/monkey_mischief_a_family_affair
+- https://www.y8.com/animation/mission_impossible_the_final_reckoning_teaser
+- https://www.y8.com/animation/space_ship_satellite_deployment
+
+Raw data: [sitemap.json](./data/y8.com/20241205_000654/sitemap.json) and [diff.json](./data/y8.com/20241205_000654/diff.json)
 
 ### 20241204_000717
 
@@ -513,30 +538,51 @@ Raw data: [sitemap.json](./data/y8.com/20241204_000717/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241203_000723/sitemap.json) and [diff.json](./data/y8.com/20241203_000723/diff.json)
 
-### 20241202_000724
-
-- https://www.y8.com/games/cinnamon_in_the_dungeon
-- https://www.y8.com/games/space_shooting_2d
-- https://www.y8.com/games/dino_simulator_city_attack
-- https://www.y8.com/games/driver_master_simulator
-- https://www.y8.com/games/seven_solitaire
-- https://www.y8.com/games/witchy_and_the_puzzle_adventures
-- https://www.y8.com/games/hex_wars_
-- https://www.y8.com/games/swipe_town
-- https://www.y8.com/games/3d_balls_merge
-- https://www.y8.com/games/sprunki_pairs
-- https://www.y8.com/games/slime_rush
-- https://www.y8.com/games/slender_boy_escape_robbie
-- https://www.y8.com/animation/jentry_chau_vs_the_underworld_official_teaser
-- https://www.y8.com/animation/kitty_helps_in_the_kitchen
-- https://www.y8.com/animation/best_funny_videos
-- https://www.y8.com/animation/star_wars_skeleton_crew_official_trailer
-- https://www.y8.com/animation/cat_backpack_adventure
-- https://www.y8.com/animation/adorable_kittens
-
-Raw data: [sitemap.json](./data/y8.com/20241202_000724/sitemap.json) and [diff.json](./data/y8.com/20241202_000724/diff.json)
-
 ## kongregate.com
+
+### 20241205_000654
+
+- https://www.kongregate.com/games/InfamousFlames
+- https://www.kongregate.com/games/ebuzzgames
+- https://www.kongregate.com/games/andreslopez
+- https://www.kongregate.com/games/hbrown41
+- https://www.kongregate.com/games/Akikazu_Akiya
+- https://www.kongregate.com/games/urpydude
+- https://www.kongregate.com/games/Eric_Kelly_RPI
+- https://www.kongregate.com/games/gagemcduffie
+- https://www.kongregate.com/games/John_Lee2
+- https://www.kongregate.com/games/Tikikala
+- https://www.kongregate.com/games/jankopoloha
+- https://www.kongregate.com/games/jeuguiceta1
+- https://www.kongregate.com/games/Violator3D
+- https://www.kongregate.com/games/dezgoGames/absoluty
+- https://www.kongregate.com/games/StarvingStudios/construction-fluxion-multiplayer
+- https://www.kongregate.com/games/oneru220/office-strike
+- https://www.kongregate.com/games/dev4play/lets-go-nuts-demo
+- https://www.kongregate.com/games/AllusiveGold/dragon-knight
+- https://www.kongregate.com/games/Alpha1390/spider-sprawl
+- https://www.kongregate.com/games/Caballeror20/explore-to-survive
+- https://www.kongregate.com/games/Tikikala/cat-vs-party
+- https://www.kongregate.com/games/jankopoloha/airmode-vbeta
+- https://www.kongregate.com/games/RyZerOne/hellgame
+- https://www.kongregate.com/games/jeuguiceta1/wild-ones-ultimate-2019
+- https://www.kongregate.com/games/Violator3D/all-evil-night
+- https://www.kongregate.com/games/visablebomb/tavin-ball
+- https://www.kongregate.com/games/simcitymoo5/simple-zombie-shooter-game
+- https://www.kongregate.com/games/PurpoAppo/sacrificial-shot
+- https://www.kongregate.com/games/kidsgamess/santa-claus-adventures
+- https://www.kongregate.com/games/JiHuiC1/building-breaker
+- https://www.kongregate.com/games/Astra11/banana-drama
+- https://www.kongregate.com/games/JamesD1459/iron-sights
+- https://www.kongregate.com/games/gerardcastle4/love-is-in-the-air
+- https://www.kongregate.com/games/gerardcastle4/giant-slayers
+- https://www.kongregate.com/games/RHMGames/cube-battle-royale
+- https://www.kongregate.com/games/fighter106/bubble-shooter-valentines
+- https://www.kongregate.com/games/mohdtausif666/mouseraider
+- https://www.kongregate.com/games/Stone_Age_Jazz/arza-adrenaline-rush-zombie-assault
+- https://www.kongregate.com/games/sathish/mysteries-forest-escape-8
+
+Raw data: [sitemap.json](./data/kongregate.com/20241205_000654/sitemap.json) and [diff.json](./data/kongregate.com/20241205_000654/diff.json)
 
 ### 20241204_000717
 
@@ -593,22 +639,84 @@ Raw data: [sitemap.json](./data/kongregate.com/20241204_000717/sitemap.json) and
 
 Raw data: [sitemap.json](./data/kongregate.com/20241203_000723/sitemap.json) and [diff.json](./data/kongregate.com/20241203_000723/diff.json)
 
-### 20241128_000706
-
-- https://www.kongregate.com/games/PawnStudios
-- https://www.kongregate.com/games/diviadgmbh/chronicles-of-blood
-- https://www.kongregate.com/games/danielsme/hopy-pizzeria
-- https://www.kongregate.com/games/Natonstan/crash-flash
-- https://www.kongregate.com/games/acoolgames1/angry-birds-ultimate-battle
-- https://www.kongregate.com/games/lucianoirrthum/save-the-planet
-
-Raw data: [sitemap.json](./data/kongregate.com/20241128_000706/sitemap.json) and [diff.json](./data/kongregate.com/20241128_000706/diff.json)
-
 ## newgrounds.com
 
 ## miniclip.com
 
 ## poki.com
+
+### 20241205_000654
+
+- https://poki.com/en/g/prankster-3d
+- https://poki.com/en/g/love-balls
+- https://poki.com/ru/g/prankster-3d
+- https://poki.com/ru/g/love-balls
+- https://poki.com/ua/g/prankster-3d
+- https://poki.com/ua/g/love-balls
+- https://poki.com/ar/g/prankster-3d
+- https://poki.com/ar/g/love-balls
+- https://poki.com/th/g/prankster-3d
+- https://poki.com/th/g/love-balls
+- https://poki.com/kr/g/prankster-3d
+- https://poki.com/kr/g/love-balls
+- https://poki.com/es/g/prankster-3d
+- https://poki.com/es/g/love-balls
+- https://poki.com/fr/g/prankster-3d
+- https://poki.com/fr/g/love-balls
+- https://poki.com/tr/g/prankster-3d
+- https://poki.com/tr/g/love-balls
+- https://poki.com/gr/g/prankster-3d
+- https://poki.com/gr/g/love-balls
+- https://poki.com/no/g/prankster-3d
+- https://poki.com/no/g/love-balls
+- https://poki.com/ro/g/prankster-3d
+- https://poki.com/ro/g/love-balls
+- https://poki.com/bg/g/prankster-3d
+- https://poki.com/bg/g/love-balls
+- https://poki.com/hu/g/prankster-3d
+- https://poki.com/hu/g/love-balls
+- https://poki.com/sk/g/prankster-3d
+- https://poki.com/sk/g/love-balls
+- https://poki.com/se/g/prankster-3d
+- https://poki.com/se/g/love-balls
+- https://poki.com/it/g/prankster-3d
+- https://poki.com/it/g/love-balls
+- https://poki.com/dk/g/prankster-3d
+- https://poki.com/dk/g/love-balls
+- https://poki.com/fi/g/prankster-3d
+- https://poki.com/fi/g/love-balls
+- https://poki.com/pl/g/prankster-3d
+- https://poki.com/pl/g/love-balls
+- https://poki.com/cz/g/prankster-3d
+- https://poki.com/cz/g/love-balls
+- https://poki.com/nl/g/prankster-3d
+- https://poki.com/nl/g/love-balls
+- https://poki.com/jp/g/prankster-3d
+- https://poki.com/jp/g/love-balls
+- https://poki.com/il/g/prankster-3d
+- https://poki.com/il/g/love-balls
+- https://poki.com/br/g/prankster-3d
+- https://poki.com/br/g/love-balls
+- https://poki.com/de/g/prankster-3d
+- https://poki.com/de/g/love-balls
+- https://poki.com/zh/g/prankster-3d
+- https://poki.com/zh/g/love-balls
+- https://poki.com/id/g/prankster-3d
+- https://poki.com/id/g/love-balls
+- https://poki.com/hi/g/prankster-3d
+- https://poki.com/hi/g/love-balls
+- https://poki.com/bn/g/prankster-3d
+- https://poki.com/bn/g/love-balls
+- https://poki.com/ms/g/prankster-3d
+- https://poki.com/ms/g/love-balls
+- https://poki.com/tl/g/prankster-3d
+- https://poki.com/tl/g/love-balls
+- https://poki.com/uz/g/prankster-3d
+- https://poki.com/uz/g/love-balls
+- https://poki.com/sr/g/prankster-3d
+- https://poki.com/sr/g/love-balls
+
+Raw data: [sitemap.json](./data/poki.com/20241205_000654/sitemap.json) and [diff.json](./data/poki.com/20241205_000654/diff.json)
 
 ### 20241204_000717
 
@@ -931,80 +1039,6 @@ Raw data: [sitemap.json](./data/poki.com/20241204_000717/sitemap.json) and [diff
 - https://poki.com/sr/g/color-sort
 
 Raw data: [sitemap.json](./data/poki.com/20241203_000723/sitemap.json) and [diff.json](./data/poki.com/20241203_000723/diff.json)
-
-### 20241130_000635
-
-- https://poki.com/en/holiday
-- https://poki.com/en/g/dasi-hospital-manager
-- https://poki.com/en/g/stickman-kingdom-clash
-- https://poki.com/ru/g/dasi-hospital-manager
-- https://poki.com/ru/g/stickman-kingdom-clash
-- https://poki.com/ua/g/dasi-hospital-manager
-- https://poki.com/ua/g/stickman-kingdom-clash
-- https://poki.com/ar/g/dasi-hospital-manager
-- https://poki.com/ar/g/stickman-kingdom-clash
-- https://poki.com/th/g/dasi-hospital-manager
-- https://poki.com/th/g/stickman-kingdom-clash
-- https://poki.com/kr/g/dasi-hospital-manager
-- https://poki.com/kr/g/stickman-kingdom-clash
-- https://poki.com/es/g/dasi-hospital-manager
-- https://poki.com/es/g/stickman-kingdom-clash
-- https://poki.com/fr/g/dasi-hospital-manager
-- https://poki.com/fr/g/stickman-kingdom-clash
-- https://poki.com/tr/g/dasi-hospital-manager
-- https://poki.com/tr/g/stickman-kingdom-clash
-- https://poki.com/gr/g/dasi-hospital-manager
-- https://poki.com/gr/g/stickman-kingdom-clash
-- https://poki.com/no/g/dasi-hospital-manager
-- https://poki.com/no/g/stickman-kingdom-clash
-- https://poki.com/ro/g/dasi-hospital-manager
-- https://poki.com/ro/g/stickman-kingdom-clash
-- https://poki.com/bg/g/dasi-hospital-manager
-- https://poki.com/bg/g/stickman-kingdom-clash
-- https://poki.com/hu/g/dasi-hospital-manager
-- https://poki.com/hu/g/stickman-kingdom-clash
-- https://poki.com/sk/g/dasi-hospital-manager
-- https://poki.com/sk/g/stickman-kingdom-clash
-- https://poki.com/se/g/dasi-hospital-manager
-- https://poki.com/se/g/stickman-kingdom-clash
-- https://poki.com/it/g/dasi-hospital-manager
-- https://poki.com/it/g/stickman-kingdom-clash
-- https://poki.com/dk/g/dasi-hospital-manager
-- https://poki.com/dk/g/stickman-kingdom-clash
-- https://poki.com/fi/g/dasi-hospital-manager
-- https://poki.com/fi/g/stickman-kingdom-clash
-- https://poki.com/pl/g/dasi-hospital-manager
-- https://poki.com/pl/g/stickman-kingdom-clash
-- https://poki.com/cz/g/dasi-hospital-manager
-- https://poki.com/cz/g/stickman-kingdom-clash
-- https://poki.com/nl/g/dasi-hospital-manager
-- https://poki.com/nl/g/stickman-kingdom-clash
-- https://poki.com/jp/g/dasi-hospital-manager
-- https://poki.com/jp/g/stickman-kingdom-clash
-- https://poki.com/il/g/dasi-hospital-manager
-- https://poki.com/il/g/stickman-kingdom-clash
-- https://poki.com/br/g/dasi-hospital-manager
-- https://poki.com/br/g/stickman-kingdom-clash
-- https://poki.com/de/g/dasi-hospital-manager
-- https://poki.com/de/g/stickman-kingdom-clash
-- https://poki.com/zh/g/dasi-hospital-manager
-- https://poki.com/zh/g/stickman-kingdom-clash
-- https://poki.com/id/g/dasi-hospital-manager
-- https://poki.com/id/g/stickman-kingdom-clash
-- https://poki.com/hi/g/dasi-hospital-manager
-- https://poki.com/hi/g/stickman-kingdom-clash
-- https://poki.com/bn/g/dasi-hospital-manager
-- https://poki.com/bn/g/stickman-kingdom-clash
-- https://poki.com/ms/g/dasi-hospital-manager
-- https://poki.com/ms/g/stickman-kingdom-clash
-- https://poki.com/tl/g/dasi-hospital-manager
-- https://poki.com/tl/g/stickman-kingdom-clash
-- https://poki.com/uz/g/dasi-hospital-manager
-- https://poki.com/uz/g/stickman-kingdom-clash
-- https://poki.com/sr/g/dasi-hospital-manager
-- https://poki.com/sr/g/stickman-kingdom-clash
-
-Raw data: [sitemap.json](./data/poki.com/20241130_000635/sitemap.json) and [diff.json](./data/poki.com/20241130_000635/diff.json)
 
 ## coolmathgames.com
 

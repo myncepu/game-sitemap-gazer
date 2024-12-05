@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-04T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/prankster-3d",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/love-balls",
+      "priority": 0.5,
+      "last_modified": "2024-12-05T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
