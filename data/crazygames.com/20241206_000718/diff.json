@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://www.crazygames.com/game/rovercraft",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/box-it-up",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/bank-heist",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/racing-builder",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/mini-car-ball",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
