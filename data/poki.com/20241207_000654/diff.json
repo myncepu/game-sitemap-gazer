@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-07T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/clinko",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/tired-to-fall-winter",
+      "priority": 0.5,
+      "last_modified": "2024-12-06T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

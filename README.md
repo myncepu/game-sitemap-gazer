@@ -54,6 +54,15 @@
 
 ## sprunki.org
 
+### 20241207_000654
+
+- https://sprunki.org/online
+- https://sprunki.org/sprunk-happy-friends
+- https://sprunki.org/objectbox-sprunkstard
+- https://sprunki.org/sprunki-incredibox-cold-as-frost
+
+Raw data: [sitemap.json](./data/sprunki.org/20241207_000654/sitemap.json) and [diff.json](./data/sprunki.org/20241207_000654/diff.json)
+
 ### 20241206_000718
 
 - https://sprunki.org/world-of-zom-sprunki
@@ -81,12 +90,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241206_000718/sitemap.json) and [d
 - https://sprunki.org/the-jolly-of-sprunki-christmas
 
 Raw data: [sitemap.json](./data/sprunki.org/20241205_000654/sitemap.json) and [diff.json](./data/sprunki.org/20241205_000654/diff.json)
-
-### 20241203_000723
-
-- https://sprunki.org/corruptbox-2-but-sprunki
-
-Raw data: [sitemap.json](./data/sprunki.org/20241203_000723/sitemap.json) and [diff.json](./data/sprunki.org/20241203_000723/diff.json)
 
 ## sprunki.com
 
@@ -167,6 +170,14 @@ Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241207_000654
+
+- https://incrediboxsprunki.org/sprunki-night-time
+- https://incrediboxsprunki.org/sprunki-swapped-version
+- https://incrediboxsprunki.org/corruptbox-1
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241207_000654/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241207_000654/diff.json)
+
 ### 20241206_000718
 
 - https://incrediboxsprunki.org/sprunki-with-fan-character
@@ -183,12 +194,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241206_000718/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241205_000654/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241205_000654/diff.json)
 
-### 20241204_000717
-
-- https://incrediboxsprunki.org/sprunki-remastered
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241204_000717/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241204_000717/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -196,6 +201,32 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241204_000717/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241207_000654
+
+- https://sprunkin.com/sprunki-horror-mods/
+- https://sprunkin.com/trending-games/
+- https://sprunkin.com/game/sprunki-cold-as-frost/
+- https://sprunkin.com/game/sprunked-retake/
+- https://sprunkin.com/game/sprunki-phase-777/
+- https://sprunkin.com/game/sprunki-but-best/
+- https://sprunkin.com/game/sprunki-mr-square-daycare/
+- https://sprunkin.com/game/sprunki-collab/
+- https://sprunkin.com/game/sprunki-sprunker-2/
+- https://sprunkin.com/game/sprunki-jailmix/
+- https://sprunkin.com/fan-game/sprunki-but-something-is-wrong-3/
+- https://sprunkin.com/fan-game/incredibox-sprunki-pokemon-pokesprunki/
+- https://sprunkin.com/fan-game/sprunki-phase-8/
+- https://sprunkin.com/fan-game/sprunki-3/
+- https://sprunkin.com/fan-game/sprunki-but-with-arms/
+- https://sprunkin.com/fan-game/sprunki-ff-1-1/
+- https://sprunkin.com/category/sprunki-mods/
+- https://sprunkin.com/category/how-to-guides/
+- https://sprunkin.com/category/incredibox-mods/
+- https://sprunkin.com/category/horror/
+- https://sprunkin.com/category/sprunki-phase/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241207_000654/sitemap.json) and [diff.json](./data/sprunkin.com/20241207_000654/diff.json)
 
 ### 20241206_000718
 
@@ -261,29 +292,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241206_000718/sitemap.json) and [
 - https://sprunkin.com/sprunki-phase/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241205_000654/sitemap.json) and [diff.json](./data/sprunkin.com/20241205_000654/diff.json)
-
-### 20241204_000717
-
-- https://sprunkin.com/game/sprunkilairity-2-0/
-- https://sprunkin.com/game/the-jolly-of-sprunki-christmas/
-- https://sprunkin.com/game/sprunked-2-0-fe/
-- https://sprunkin.com/game/sprunki-but-gyat/
-- https://sprunkin.com/game/sprunk-happy-friends/
-- https://sprunkin.com/game/sprunkilairity-2-spiraling/
-- https://sprunkin.com/game/sprunki-spruuunnn/
-- https://sprunkin.com/game/sprunkilairity-remake/
-- https://sprunkin.com/game/sprunksona-parody/
-- https://sprunkin.com/game/sprunki-comisprunki/
-- https://sprunkin.com/game/sprunki-cursed-virus-edition/
-- https://sprunkin.com/fan-game/sprunki-kid-friendly/
-- https://sprunkin.com/fan-game/incredibox-sprunki-better-animations/
-- https://sprunkin.com/fan-game/sprunki-phases-1000-1001/
-- https://sprunkin.com/fan-game/sprunki-mustard-edited/
-- https://sprunkin.com/fan-game/sprunki-alphabet-lore-a-s/
-- https://sprunkin.com/fan-game/kkkkk/
-- https://sprunkin.com/fan-game/sprunki-but-a-bit-better-five-cancelled-update/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241204_000717/sitemap.json) and [diff.json](./data/sprunkin.com/20241204_000717/diff.json)
 
 ## sprunkisinner.org
 
@@ -515,6 +523,16 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241207_000654
+
+- https://www.crazygames.com/game/pirates---the-match-3
+- https://www.crazygames.com/game/last-play-ragdoll-sandbox-kqb
+- https://www.crazygames.com/game/goddess-connect
+- https://www.crazygames.com/game/zarcane-a-zombie-apocalypse
+- https://www.crazygames.com/game/chicken-scream
+
+Raw data: [sitemap.json](./data/crazygames.com/20241207_000654/sitemap.json) and [diff.json](./data/crazygames.com/20241207_000654/diff.json)
+
 ### 20241206_000718
 
 - https://www.crazygames.com/game/rovercraft
@@ -534,18 +552,30 @@ Raw data: [sitemap.json](./data/crazygames.com/20241206_000718/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241205_000654/sitemap.json) and [diff.json](./data/crazygames.com/20241205_000654/diff.json)
 
-### 20241204_000717
-
-- https://www.crazygames.com/game/battle-of-knights-robby-and-dragons
-- https://www.crazygames.com/game/outlets-rush
-- https://www.crazygames.com/game/supermarket-simulator-cashier-game
-- https://www.crazygames.com/game/word-crash
-- https://www.crazygames.com/game/color-roll-3d
-- https://www.crazygames.com/t/3d/16
-
-Raw data: [sitemap.json](./data/crazygames.com/20241204_000717/sitemap.json) and [diff.json](./data/crazygames.com/20241204_000717/diff.json)
-
 ## y8.com
+
+### 20241207_000654
+
+- https://www.y8.com/games/not_a_vania
+- https://www.y8.com/games/toddie_school_day
+- https://www.y8.com/games/dock_fishing_game
+- https://www.y8.com/games/corner_connect
+- https://www.y8.com/games/xmas_presents_mahjong
+- https://www.y8.com/games/brick_breaker_super
+- https://www.y8.com/games/kingdom_mess
+- https://www.y8.com/games/tsunami_race
+- https://www.y8.com/games/sprunkilairity
+- https://www.y8.com/games/smart_block_link
+- https://www.y8.com/games/celebrities_get_ready_for_christmas
+- https://www.y8.com/games/blocks_breaker
+- https://www.y8.com/animation/new_beautiful_cats
+- https://www.y8.com/animation/panda_plan_official_trailer
+- https://www.y8.com/animation/rumours_official_red_band_trailer
+- https://www.y8.com/animation/best_fails_of_the_year
+- https://www.y8.com/animation/jupiter_in_motion
+- https://www.y8.com/animation/asteroids_the_cosmic_wanderers_of_space
+
+Raw data: [sitemap.json](./data/y8.com/20241207_000654/sitemap.json) and [diff.json](./data/y8.com/20241207_000654/diff.json)
 
 ### 20241206_000718
 
@@ -594,33 +624,51 @@ Raw data: [sitemap.json](./data/y8.com/20241206_000718/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241205_000654/sitemap.json) and [diff.json](./data/y8.com/20241205_000654/diff.json)
 
-### 20241204_000717
-
-- https://www.y8.com/studios/gamer-pro
-- https://www.y8.com/studios/james-charles
-- https://www.y8.com/studios/ihsan-studio
-- https://www.y8.com/games/teen_eskimo_wear
-- https://www.y8.com/games/magic_tri_peaks_solitaire
-- https://www.y8.com/games/jailbreak_assault
-- https://www.y8.com/games/chicken_shooter_io
-- https://www.y8.com/games/color_race_obby
-- https://www.y8.com/games/mr_bullet_stealth_ninja_killstreak
-- https://www.y8.com/games/little_candy_bakery
-- https://www.y8.com/games/construction_truck_building_games_for_kids
-- https://www.y8.com/games/cute_cat_s_adventure
-- https://www.y8.com/games/back_to_granny_s_house
-- https://www.y8.com/games/popcorn_stack
-- https://www.y8.com/games/human_vehicle_run
-- https://www.y8.com/animation/an_almost_christmas_story_official_trailer
-- https://www.y8.com/animation/funniest_cats_and_dogs_videos
-- https://www.y8.com/animation/maria_official_trailer
-- https://www.y8.com/animation/ai_generated_witch_pumpkins
-- https://www.y8.com/animation/pumpkin_forest
-- https://www.y8.com/animation/thunderbolts_special_look_trailer
-
-Raw data: [sitemap.json](./data/y8.com/20241204_000717/sitemap.json) and [diff.json](./data/y8.com/20241204_000717/diff.json)
-
 ## kongregate.com
+
+### 20241207_000654
+
+- https://www.kongregate.com/games/InfamousFlames
+- https://www.kongregate.com/games/ebuzzgames
+- https://www.kongregate.com/games/andreslopez
+- https://www.kongregate.com/games/hbrown41
+- https://www.kongregate.com/games/Akikazu_Akiya
+- https://www.kongregate.com/games/urpydude
+- https://www.kongregate.com/games/Eric_Kelly_RPI
+- https://www.kongregate.com/games/gagemcduffie
+- https://www.kongregate.com/games/John_Lee2
+- https://www.kongregate.com/games/Tikikala
+- https://www.kongregate.com/games/jankopoloha
+- https://www.kongregate.com/games/jeuguiceta1
+- https://www.kongregate.com/games/Violator3D
+- https://www.kongregate.com/games/dezgoGames/absoluty
+- https://www.kongregate.com/games/StarvingStudios/construction-fluxion-multiplayer
+- https://www.kongregate.com/games/oneru220/office-strike
+- https://www.kongregate.com/games/dev4play/lets-go-nuts-demo
+- https://www.kongregate.com/games/AllusiveGold/dragon-knight
+- https://www.kongregate.com/games/Alpha1390/spider-sprawl
+- https://www.kongregate.com/games/Caballeror20/explore-to-survive
+- https://www.kongregate.com/games/Tikikala/cat-vs-party
+- https://www.kongregate.com/games/jankopoloha/airmode-vbeta
+- https://www.kongregate.com/games/RyZerOne/hellgame
+- https://www.kongregate.com/games/jeuguiceta1/wild-ones-ultimate-2019
+- https://www.kongregate.com/games/Violator3D/all-evil-night
+- https://www.kongregate.com/games/visablebomb/tavin-ball
+- https://www.kongregate.com/games/simcitymoo5/simple-zombie-shooter-game
+- https://www.kongregate.com/games/PurpoAppo/sacrificial-shot
+- https://www.kongregate.com/games/kidsgamess/santa-claus-adventures
+- https://www.kongregate.com/games/JiHuiC1/building-breaker
+- https://www.kongregate.com/games/Astra11/banana-drama
+- https://www.kongregate.com/games/JamesD1459/iron-sights
+- https://www.kongregate.com/games/gerardcastle4/love-is-in-the-air
+- https://www.kongregate.com/games/gerardcastle4/giant-slayers
+- https://www.kongregate.com/games/RHMGames/cube-battle-royale
+- https://www.kongregate.com/games/fighter106/bubble-shooter-valentines
+- https://www.kongregate.com/games/mohdtausif666/mouseraider
+- https://www.kongregate.com/games/Stone_Age_Jazz/arza-adrenaline-rush-zombie-assault
+- https://www.kongregate.com/games/sathish/mysteries-forest-escape-8
+
+Raw data: [sitemap.json](./data/kongregate.com/20241207_000654/sitemap.json) and [diff.json](./data/kongregate.com/20241207_000654/diff.json)
 
 ### 20241206_000718
 
@@ -685,22 +733,84 @@ Raw data: [sitemap.json](./data/kongregate.com/20241206_000718/sitemap.json) and
 
 Raw data: [sitemap.json](./data/kongregate.com/20241205_000654/sitemap.json) and [diff.json](./data/kongregate.com/20241205_000654/diff.json)
 
-### 20241204_000717
-
-- https://www.kongregate.com/games/PawnStudios
-- https://www.kongregate.com/games/diviadgmbh/chronicles-of-blood
-- https://www.kongregate.com/games/danielsme/hopy-pizzeria
-- https://www.kongregate.com/games/Natonstan/crash-flash
-- https://www.kongregate.com/games/acoolgames1/angry-birds-ultimate-battle
-- https://www.kongregate.com/games/lucianoirrthum/save-the-planet
-
-Raw data: [sitemap.json](./data/kongregate.com/20241204_000717/sitemap.json) and [diff.json](./data/kongregate.com/20241204_000717/diff.json)
-
 ## newgrounds.com
 
 ## miniclip.com
 
 ## poki.com
+
+### 20241207_000654
+
+- https://poki.com/en/g/clinko
+- https://poki.com/en/g/tired-to-fall-winter
+- https://poki.com/ru/g/clinko
+- https://poki.com/ru/g/tired-to-fall-winter
+- https://poki.com/ua/g/clinko
+- https://poki.com/ua/g/tired-to-fall-winter
+- https://poki.com/ar/g/clinko
+- https://poki.com/ar/g/tired-to-fall-winter
+- https://poki.com/th/g/clinko
+- https://poki.com/th/g/tired-to-fall-winter
+- https://poki.com/kr/g/clinko
+- https://poki.com/kr/g/tired-to-fall-winter
+- https://poki.com/es/g/clinko
+- https://poki.com/es/g/tired-to-fall-winter
+- https://poki.com/fr/g/clinko
+- https://poki.com/fr/g/tired-to-fall-winter
+- https://poki.com/tr/g/clinko
+- https://poki.com/tr/g/tired-to-fall-winter
+- https://poki.com/gr/g/clinko
+- https://poki.com/gr/g/tired-to-fall-winter
+- https://poki.com/no/g/clinko
+- https://poki.com/no/g/tired-to-fall-winter
+- https://poki.com/ro/g/clinko
+- https://poki.com/ro/g/tired-to-fall-winter
+- https://poki.com/bg/g/clinko
+- https://poki.com/bg/g/tired-to-fall-winter
+- https://poki.com/hu/g/clinko
+- https://poki.com/hu/g/tired-to-fall-winter
+- https://poki.com/sk/g/clinko
+- https://poki.com/sk/g/tired-to-fall-winter
+- https://poki.com/se/g/clinko
+- https://poki.com/se/g/tired-to-fall-winter
+- https://poki.com/it/g/clinko
+- https://poki.com/it/g/tired-to-fall-winter
+- https://poki.com/dk/g/clinko
+- https://poki.com/dk/g/tired-to-fall-winter
+- https://poki.com/fi/g/clinko
+- https://poki.com/fi/g/tired-to-fall-winter
+- https://poki.com/pl/g/clinko
+- https://poki.com/pl/g/tired-to-fall-winter
+- https://poki.com/cz/g/clinko
+- https://poki.com/cz/g/tired-to-fall-winter
+- https://poki.com/nl/g/clinko
+- https://poki.com/nl/g/tired-to-fall-winter
+- https://poki.com/jp/g/clinko
+- https://poki.com/jp/g/tired-to-fall-winter
+- https://poki.com/il/g/clinko
+- https://poki.com/il/g/tired-to-fall-winter
+- https://poki.com/br/g/clinko
+- https://poki.com/br/g/tired-to-fall-winter
+- https://poki.com/de/g/clinko
+- https://poki.com/de/g/tired-to-fall-winter
+- https://poki.com/zh/g/clinko
+- https://poki.com/zh/g/tired-to-fall-winter
+- https://poki.com/id/g/clinko
+- https://poki.com/id/g/tired-to-fall-winter
+- https://poki.com/hi/g/clinko
+- https://poki.com/hi/g/tired-to-fall-winter
+- https://poki.com/bn/g/clinko
+- https://poki.com/bn/g/tired-to-fall-winter
+- https://poki.com/ms/g/clinko
+- https://poki.com/ms/g/tired-to-fall-winter
+- https://poki.com/tl/g/clinko
+- https://poki.com/tl/g/tired-to-fall-winter
+- https://poki.com/uz/g/clinko
+- https://poki.com/uz/g/tired-to-fall-winter
+- https://poki.com/sr/g/clinko
+- https://poki.com/sr/g/tired-to-fall-winter
+
+Raw data: [sitemap.json](./data/poki.com/20241207_000654/sitemap.json) and [diff.json](./data/poki.com/20241207_000654/diff.json)
 
 ### 20241205_000654
 
@@ -949,153 +1059,6 @@ Raw data: [sitemap.json](./data/poki.com/20241205_000654/sitemap.json) and [diff
 - https://poki.com/sr/g/fix-the-hoof
 
 Raw data: [sitemap.json](./data/poki.com/20241204_000717/sitemap.json) and [diff.json](./data/poki.com/20241204_000717/diff.json)
-
-### 20241203_000723
-
-- https://poki.com/en/g/matchventures
-- https://poki.com/en/g/pirates-gold
-- https://poki.com/en/g/cat-sort-puzzle
-- https://poki.com/en/g/color-sort
-- https://poki.com/ru/g/matchventures
-- https://poki.com/ru/g/pirates-gold
-- https://poki.com/ru/g/cat-sort-puzzle
-- https://poki.com/ru/g/color-sort
-- https://poki.com/ua/g/matchventures
-- https://poki.com/ua/g/pirates-gold
-- https://poki.com/ua/g/cat-sort-puzzle
-- https://poki.com/ua/g/color-sort
-- https://poki.com/ar/g/matchventures
-- https://poki.com/ar/g/pirates-gold
-- https://poki.com/ar/g/cat-sort-puzzle
-- https://poki.com/ar/g/color-sort
-- https://poki.com/th/g/matchventures
-- https://poki.com/th/g/pirates-gold
-- https://poki.com/th/g/cat-sort-puzzle
-- https://poki.com/th/g/color-sort
-- https://poki.com/kr/g/matchventures
-- https://poki.com/kr/g/pirates-gold
-- https://poki.com/kr/g/cat-sort-puzzle
-- https://poki.com/kr/g/color-sort
-- https://poki.com/es/g/matchventures
-- https://poki.com/es/g/pirates-gold
-- https://poki.com/es/g/cat-sort-puzzle
-- https://poki.com/es/g/color-sort
-- https://poki.com/es/g/bubble-trouble
-- https://poki.com/fr/g/matchventures
-- https://poki.com/fr/g/pirates-gold
-- https://poki.com/fr/g/cat-sort-puzzle
-- https://poki.com/fr/g/color-sort
-- https://poki.com/fr/g/bubble-trouble
-- https://poki.com/tr/g/matchventures
-- https://poki.com/tr/g/pirates-gold
-- https://poki.com/tr/g/cat-sort-puzzle
-- https://poki.com/tr/g/color-sort
-- https://poki.com/gr/g/matchventures
-- https://poki.com/gr/g/pirates-gold
-- https://poki.com/gr/g/cat-sort-puzzle
-- https://poki.com/gr/g/color-sort
-- https://poki.com/no/g/matchventures
-- https://poki.com/no/g/pirates-gold
-- https://poki.com/no/g/cat-sort-puzzle
-- https://poki.com/no/g/color-sort
-- https://poki.com/no/g/bubble-trouble
-- https://poki.com/ro/g/matchventures
-- https://poki.com/ro/g/pirates-gold
-- https://poki.com/ro/g/cat-sort-puzzle
-- https://poki.com/ro/g/color-sort
-- https://poki.com/bg/g/matchventures
-- https://poki.com/bg/g/pirates-gold
-- https://poki.com/bg/g/cat-sort-puzzle
-- https://poki.com/bg/g/color-sort
-- https://poki.com/hu/g/matchventures
-- https://poki.com/hu/g/pirates-gold
-- https://poki.com/hu/g/cat-sort-puzzle
-- https://poki.com/hu/g/color-sort
-- https://poki.com/sk/g/matchventures
-- https://poki.com/sk/g/pirates-gold
-- https://poki.com/sk/g/cat-sort-puzzle
-- https://poki.com/sk/g/color-sort
-- https://poki.com/se/g/matchventures
-- https://poki.com/se/g/pirates-gold
-- https://poki.com/se/g/cat-sort-puzzle
-- https://poki.com/se/g/color-sort
-- https://poki.com/it/g/matchventures
-- https://poki.com/it/g/pirates-gold
-- https://poki.com/it/g/cat-sort-puzzle
-- https://poki.com/it/g/color-sort
-- https://poki.com/it/g/bubble-trouble
-- https://poki.com/dk/g/matchventures
-- https://poki.com/dk/g/pirates-gold
-- https://poki.com/dk/g/cat-sort-puzzle
-- https://poki.com/dk/g/color-sort
-- https://poki.com/fi/g/matchventures
-- https://poki.com/fi/g/pirates-gold
-- https://poki.com/fi/g/cat-sort-puzzle
-- https://poki.com/fi/g/color-sort
-- https://poki.com/pl/g/matchventures
-- https://poki.com/pl/g/pirates-gold
-- https://poki.com/pl/g/cat-sort-puzzle
-- https://poki.com/pl/g/color-sort
-- https://poki.com/cz/g/matchventures
-- https://poki.com/cz/g/pirates-gold
-- https://poki.com/cz/g/cat-sort-puzzle
-- https://poki.com/cz/g/color-sort
-- https://poki.com/cz/g/bubble-trouble
-- https://poki.com/nl/g/matchventures
-- https://poki.com/nl/g/pirates-gold
-- https://poki.com/nl/g/cat-sort-puzzle
-- https://poki.com/nl/g/color-sort
-- https://poki.com/jp/g/matchventures
-- https://poki.com/jp/g/pirates-gold
-- https://poki.com/jp/g/cat-sort-puzzle
-- https://poki.com/jp/g/color-sort
-- https://poki.com/il/g/matchventures
-- https://poki.com/il/g/pirates-gold
-- https://poki.com/il/g/cat-sort-puzzle
-- https://poki.com/il/g/color-sort
-- https://poki.com/br/g/matchventures
-- https://poki.com/br/g/pirates-gold
-- https://poki.com/br/g/cat-sort-puzzle
-- https://poki.com/br/g/color-sort
-- https://poki.com/de/g/matchventures
-- https://poki.com/de/g/pirates-gold
-- https://poki.com/de/g/cat-sort-puzzle
-- https://poki.com/de/g/color-sort
-- https://poki.com/de/g/bubble-trouble
-- https://poki.com/zh/g/matchventures
-- https://poki.com/zh/g/pirates-gold
-- https://poki.com/zh/g/cat-sort-puzzle
-- https://poki.com/zh/g/color-sort
-- https://poki.com/id/g/matchventures
-- https://poki.com/id/g/pirates-gold
-- https://poki.com/id/g/cat-sort-puzzle
-- https://poki.com/id/g/color-sort
-- https://poki.com/hi/g/matchventures
-- https://poki.com/hi/g/pirates-gold
-- https://poki.com/hi/g/cat-sort-puzzle
-- https://poki.com/hi/g/color-sort
-- https://poki.com/bn/g/matchventures
-- https://poki.com/bn/g/pirates-gold
-- https://poki.com/bn/g/cat-sort-puzzle
-- https://poki.com/bn/g/color-sort
-- https://poki.com/ms/g/matchventures
-- https://poki.com/ms/g/pirates-gold
-- https://poki.com/ms/g/cat-sort-puzzle
-- https://poki.com/ms/g/color-sort
-- https://poki.com/tl/g/matchventures
-- https://poki.com/tl/g/pirates-gold
-- https://poki.com/tl/g/cat-sort-puzzle
-- https://poki.com/tl/g/color-sort
-- https://poki.com/uz/g/matchventures
-- https://poki.com/uz/g/pirates-gold
-- https://poki.com/uz/g/cat-sort-puzzle
-- https://poki.com/uz/g/color-sort
-- https://poki.com/sr/g/matchventures
-- https://poki.com/sr/g/pirates-gold
-- https://poki.com/sr/g/cat-sort-puzzle
-- https://poki.com/sr/g/color-sort
-
-Raw data: [sitemap.json](./data/poki.com/20241203_000723/sitemap.json) and [diff.json](./data/poki.com/20241203_000723/diff.json)
 
 ## coolmathgames.com
 
