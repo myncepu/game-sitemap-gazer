@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.crazygames.com/game/star-stuff",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/ship-mania-boat-parking-jam",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

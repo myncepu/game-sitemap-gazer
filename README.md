@@ -54,6 +54,13 @@
 
 ## sprunki.org
 
+### 20241210_000711
+
+- https://sprunki.org/football-bros
+- https://sprunki.org/ovo-unblocked
+
+Raw data: [sitemap.json](./data/sprunki.org/20241210_000711/sitemap.json) and [diff.json](./data/sprunki.org/20241210_000711/diff.json)
+
 ### 20241209_000705
 
 - https://sprunki.org/tap-road
@@ -74,15 +81,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241209_000705/sitemap.json) and [d
 - https://sprunki.org/slither-io
 
 Raw data: [sitemap.json](./data/sprunki.org/20241208_000727/sitemap.json) and [diff.json](./data/sprunki.org/20241208_000727/diff.json)
-
-### 20241207_000654
-
-- https://sprunki.org/online
-- https://sprunki.org/sprunk-happy-friends
-- https://sprunki.org/objectbox-sprunkstard
-- https://sprunki.org/sprunki-incredibox-cold-as-frost
-
-Raw data: [sitemap.json](./data/sprunki.org/20241207_000654/sitemap.json) and [diff.json](./data/sprunki.org/20241207_000654/diff.json)
 
 ## sprunki.com
 
@@ -163,6 +161,12 @@ Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241210_000711
+
+- https://incrediboxsprunki.org/sprunki-final
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241210_000711/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241210_000711/diff.json)
+
 ### 20241209_000705
 
 - https://incrediboxsprunki.org/sprunki-the-lost-file
@@ -175,14 +179,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241209_000705/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241208_000727/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241208_000727/diff.json)
 
-### 20241207_000654
-
-- https://incrediboxsprunki.org/sprunki-night-time
-- https://incrediboxsprunki.org/sprunki-swapped-version
-- https://incrediboxsprunki.org/corruptbox-1
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241207_000654/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241207_000654/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -190,6 +186,30 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241207_000654/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241210_000711
+
+- https://sprunkin.com/game/sprunki-bot/
+- https://sprunkin.com/game/sprunki-but-its-christmas/
+- https://sprunkin.com/game/sprunki-retake-blacks-arrival/
+- https://sprunkin.com/game/sprunki-resprung/
+- https://sprunkin.com/game/sprunki-beneath-the-water/
+- https://sprunkin.com/game/sprunki-sugar/
+- https://sprunkin.com/game/sprunki-sepluinkging/
+- https://sprunkin.com/game/sprunki-phase-20/
+- https://sprunkin.com/game/sprunki-kirkli-waffles/
+- https://sprunkin.com/game/sprunki-colors/
+- https://sprunkin.com/game/sprunki-cute-mod/
+- https://sprunkin.com/game/sprunkilarity-trud/
+- https://sprunkin.com/fan-game/sprunki-x-comic-catastrophe/
+- https://sprunkin.com/fan-game/sprunki-phase-4-remastered/
+- https://sprunkin.com/fan-game/%d1%81%d0%bb%d1%8e%d0%bd%d0%ba%d0%b8/
+- https://sprunkin.com/fan-game/sprunki-phase-3-not-ended/
+- https://sprunkin.com/fan-game/tri-kota-sprunki/
+- https://sprunkin.com/fan-game/sprunki-phase-5-3/
+- https://sprunkin.com/fan-game/sprunki-phase-6/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241210_000711/sitemap.json) and [diff.json](./data/sprunkin.com/20241210_000711/diff.json)
 
 ### 20241209_000705
 
@@ -239,32 +259,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241209_000705/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-peak/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241208_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20241208_000727/diff.json)
-
-### 20241207_000654
-
-- https://sprunkin.com/sprunki-horror-mods/
-- https://sprunkin.com/trending-games/
-- https://sprunkin.com/game/sprunki-cold-as-frost/
-- https://sprunkin.com/game/sprunked-retake/
-- https://sprunkin.com/game/sprunki-phase-777/
-- https://sprunkin.com/game/sprunki-but-best/
-- https://sprunkin.com/game/sprunki-mr-square-daycare/
-- https://sprunkin.com/game/sprunki-collab/
-- https://sprunkin.com/game/sprunki-sprunker-2/
-- https://sprunkin.com/game/sprunki-jailmix/
-- https://sprunkin.com/fan-game/sprunki-but-something-is-wrong-3/
-- https://sprunkin.com/fan-game/incredibox-sprunki-pokemon-pokesprunki/
-- https://sprunkin.com/fan-game/sprunki-phase-8/
-- https://sprunkin.com/fan-game/sprunki-3/
-- https://sprunkin.com/fan-game/sprunki-but-with-arms/
-- https://sprunkin.com/fan-game/sprunki-ff-1-1/
-- https://sprunkin.com/category/sprunki-mods/
-- https://sprunkin.com/category/how-to-guides/
-- https://sprunkin.com/category/incredibox-mods/
-- https://sprunkin.com/category/horror/
-- https://sprunkin.com/category/sprunki-phase/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241207_000654/sitemap.json) and [diff.json](./data/sprunkin.com/20241207_000654/diff.json)
 
 ## sprunkisinner.org
 
@@ -496,6 +490,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241210_000711
+
+- https://www.crazygames.com/game/star-stuff
+- https://www.crazygames.com/game/ship-mania-boat-parking-jam
+
+Raw data: [sitemap.json](./data/crazygames.com/20241210_000711/sitemap.json) and [diff.json](./data/crazygames.com/20241210_000711/diff.json)
+
 ### 20241207_000654
 
 - https://www.crazygames.com/game/pirates---the-match-3
@@ -516,16 +517,30 @@ Raw data: [sitemap.json](./data/crazygames.com/20241207_000654/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241206_000718/sitemap.json) and [diff.json](./data/crazygames.com/20241206_000718/diff.json)
 
-### 20241205_000654
-
-- https://www.crazygames.com/game/cubox-io-fgt
-- https://www.crazygames.com/game/monster-makeup-3d
-- https://www.crazygames.com/game/ball-guys
-- https://www.crazygames.com/game/grwm-date-night
-
-Raw data: [sitemap.json](./data/crazygames.com/20241205_000654/sitemap.json) and [diff.json](./data/crazygames.com/20241205_000654/diff.json)
-
 ## y8.com
+
+### 20241210_000711
+
+- https://www.y8.com/games/sprunki_retake
+- https://www.y8.com/games/drive_race_crash
+- https://www.y8.com/games/new_christmas_parade
+- https://www.y8.com/games/sprunki_babies
+- https://www.y8.com/games/block_puzzle_frozen_jewel
+- https://www.y8.com/games/make_it_boom
+- https://www.y8.com/games/domino_world
+- https://www.y8.com/games/parking_master_urban_challenges
+- https://www.y8.com/games/the_sort_agency
+- https://www.y8.com/games/100_hidden_capybaras
+- https://www.y8.com/games/data_diggers
+- https://www.y8.com/games/minitroid
+- https://www.y8.com/animation/animal_video_compilation
+- https://www.y8.com/animation/ash_official_teaser
+- https://www.y8.com/animation/the_damned_official_trailer
+- https://www.y8.com/animation/a_charming_waterbird
+- https://www.y8.com/animation/funny_puppy_moment
+- https://www.y8.com/animation/a_journey_through_the_universe
+
+Raw data: [sitemap.json](./data/y8.com/20241210_000711/sitemap.json) and [diff.json](./data/y8.com/20241210_000711/diff.json)
 
 ### 20241209_000705
 
@@ -744,29 +759,6 @@ Raw data: [sitemap.json](./data/y8.com/20241209_000705/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241208_000727/sitemap.json) and [diff.json](./data/y8.com/20241208_000727/diff.json)
 
-### 20241207_000654
-
-- https://www.y8.com/games/not_a_vania
-- https://www.y8.com/games/toddie_school_day
-- https://www.y8.com/games/dock_fishing_game
-- https://www.y8.com/games/corner_connect
-- https://www.y8.com/games/xmas_presents_mahjong
-- https://www.y8.com/games/brick_breaker_super
-- https://www.y8.com/games/kingdom_mess
-- https://www.y8.com/games/tsunami_race
-- https://www.y8.com/games/sprunkilairity
-- https://www.y8.com/games/smart_block_link
-- https://www.y8.com/games/celebrities_get_ready_for_christmas
-- https://www.y8.com/games/blocks_breaker
-- https://www.y8.com/animation/new_beautiful_cats
-- https://www.y8.com/animation/panda_plan_official_trailer
-- https://www.y8.com/animation/rumours_official_red_band_trailer
-- https://www.y8.com/animation/best_fails_of_the_year
-- https://www.y8.com/animation/jupiter_in_motion
-- https://www.y8.com/animation/asteroids_the_cosmic_wanderers_of_space
-
-Raw data: [sitemap.json](./data/y8.com/20241207_000654/sitemap.json) and [diff.json](./data/y8.com/20241207_000654/diff.json)
-
 ## kongregate.com
 
 ### 20241208_000727
@@ -858,6 +850,249 @@ Raw data: [sitemap.json](./data/kongregate.com/20241206_000718/sitemap.json) and
 ## miniclip.com
 
 ## poki.com
+
+### 20241210_000711
+
+- https://poki.com/en/g/star-wing
+- https://poki.com/en/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/en/g/duck-io
+- https://poki.com/en/g/survev-io
+- https://poki.com/en/g/cat-pizza
+- https://poki.com/en/g/ballmasters-ragdoll-soccer
+- https://poki.com/en/g/the-strongest-9c3f9665
+- https://poki.com/ru/g/star-wing
+- https://poki.com/ru/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/ru/g/duck-io
+- https://poki.com/ru/g/survev-io
+- https://poki.com/ru/g/cat-pizza
+- https://poki.com/ru/g/ballmasters-ragdoll-soccer
+- https://poki.com/ru/g/the-strongest-9c3f9665
+- https://poki.com/ua/g/star-wing
+- https://poki.com/ua/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/ua/g/duck-io
+- https://poki.com/ua/g/survev-io
+- https://poki.com/ua/g/cat-pizza
+- https://poki.com/ua/g/ballmasters-ragdoll-soccer
+- https://poki.com/ua/g/the-strongest-9c3f9665
+- https://poki.com/ar/g/star-wing
+- https://poki.com/ar/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/ar/g/duck-io
+- https://poki.com/ar/g/survev-io
+- https://poki.com/ar/g/cat-pizza
+- https://poki.com/ar/g/ballmasters-ragdoll-soccer
+- https://poki.com/ar/g/the-strongest-9c3f9665
+- https://poki.com/th/g/star-wing
+- https://poki.com/th/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/th/g/duck-io
+- https://poki.com/th/g/survev-io
+- https://poki.com/th/g/cat-pizza
+- https://poki.com/th/g/ballmasters-ragdoll-soccer
+- https://poki.com/th/g/the-strongest-9c3f9665
+- https://poki.com/kr/g/star-wing
+- https://poki.com/kr/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/kr/g/duck-io
+- https://poki.com/kr/g/survev-io
+- https://poki.com/kr/g/cat-pizza
+- https://poki.com/kr/g/ballmasters-ragdoll-soccer
+- https://poki.com/kr/g/the-strongest-9c3f9665
+- https://poki.com/es/g/star-wing
+- https://poki.com/es/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/es/g/duck-io
+- https://poki.com/es/g/survev-io
+- https://poki.com/es/g/cat-pizza
+- https://poki.com/es/g/ballmasters-ragdoll-soccer
+- https://poki.com/es/g/the-strongest-9c3f9665
+- https://poki.com/fr/g/star-wing
+- https://poki.com/fr/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/fr/g/duck-io
+- https://poki.com/fr/g/survev-io
+- https://poki.com/fr/g/cat-pizza
+- https://poki.com/fr/g/ballmasters-ragdoll-soccer
+- https://poki.com/fr/g/the-strongest-9c3f9665
+- https://poki.com/tr/g/star-wing
+- https://poki.com/tr/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/tr/g/duck-io
+- https://poki.com/tr/g/survev-io
+- https://poki.com/tr/g/cat-pizza
+- https://poki.com/tr/g/ballmasters-ragdoll-soccer
+- https://poki.com/tr/g/the-strongest-9c3f9665
+- https://poki.com/gr/g/star-wing
+- https://poki.com/gr/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/gr/g/duck-io
+- https://poki.com/gr/g/survev-io
+- https://poki.com/gr/g/cat-pizza
+- https://poki.com/gr/g/ballmasters-ragdoll-soccer
+- https://poki.com/gr/g/the-strongest-9c3f9665
+- https://poki.com/no/g/star-wing
+- https://poki.com/no/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/no/g/duck-io
+- https://poki.com/no/g/survev-io
+- https://poki.com/no/g/cat-pizza
+- https://poki.com/no/g/ballmasters-ragdoll-soccer
+- https://poki.com/no/g/the-strongest-9c3f9665
+- https://poki.com/ro/g/star-wing
+- https://poki.com/ro/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/ro/g/duck-io
+- https://poki.com/ro/g/survev-io
+- https://poki.com/ro/g/cat-pizza
+- https://poki.com/ro/g/ballmasters-ragdoll-soccer
+- https://poki.com/ro/g/the-strongest-9c3f9665
+- https://poki.com/bg/g/star-wing
+- https://poki.com/bg/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/bg/g/duck-io
+- https://poki.com/bg/g/survev-io
+- https://poki.com/bg/g/cat-pizza
+- https://poki.com/bg/g/ballmasters-ragdoll-soccer
+- https://poki.com/bg/g/the-strongest-9c3f9665
+- https://poki.com/hu/g/star-wing
+- https://poki.com/hu/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/hu/g/duck-io
+- https://poki.com/hu/g/survev-io
+- https://poki.com/hu/g/cat-pizza
+- https://poki.com/hu/g/ballmasters-ragdoll-soccer
+- https://poki.com/hu/g/the-strongest-9c3f9665
+- https://poki.com/sk/g/star-wing
+- https://poki.com/sk/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/sk/g/duck-io
+- https://poki.com/sk/g/survev-io
+- https://poki.com/sk/g/cat-pizza
+- https://poki.com/sk/g/ballmasters-ragdoll-soccer
+- https://poki.com/sk/g/the-strongest-9c3f9665
+- https://poki.com/se/g/star-wing
+- https://poki.com/se/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/se/g/duck-io
+- https://poki.com/se/g/survev-io
+- https://poki.com/se/g/cat-pizza
+- https://poki.com/se/g/ballmasters-ragdoll-soccer
+- https://poki.com/se/g/the-strongest-9c3f9665
+- https://poki.com/it/g/star-wing
+- https://poki.com/it/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/it/g/duck-io
+- https://poki.com/it/g/survev-io
+- https://poki.com/it/g/cat-pizza
+- https://poki.com/it/g/ballmasters-ragdoll-soccer
+- https://poki.com/it/g/the-strongest-9c3f9665
+- https://poki.com/dk/g/star-wing
+- https://poki.com/dk/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/dk/g/duck-io
+- https://poki.com/dk/g/survev-io
+- https://poki.com/dk/g/cat-pizza
+- https://poki.com/dk/g/ballmasters-ragdoll-soccer
+- https://poki.com/dk/g/the-strongest-9c3f9665
+- https://poki.com/fi/g/star-wing
+- https://poki.com/fi/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/fi/g/duck-io
+- https://poki.com/fi/g/survev-io
+- https://poki.com/fi/g/cat-pizza
+- https://poki.com/fi/g/ballmasters-ragdoll-soccer
+- https://poki.com/fi/g/the-strongest-9c3f9665
+- https://poki.com/pl/g/star-wing
+- https://poki.com/pl/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/pl/g/duck-io
+- https://poki.com/pl/g/survev-io
+- https://poki.com/pl/g/cat-pizza
+- https://poki.com/pl/g/ballmasters-ragdoll-soccer
+- https://poki.com/pl/g/the-strongest-9c3f9665
+- https://poki.com/cz/g/star-wing
+- https://poki.com/cz/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/cz/g/duck-io
+- https://poki.com/cz/g/survev-io
+- https://poki.com/cz/g/cat-pizza
+- https://poki.com/cz/g/ballmasters-ragdoll-soccer
+- https://poki.com/cz/g/the-strongest-9c3f9665
+- https://poki.com/nl/g/star-wing
+- https://poki.com/nl/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/nl/g/duck-io
+- https://poki.com/nl/g/survev-io
+- https://poki.com/nl/g/cat-pizza
+- https://poki.com/nl/g/ballmasters-ragdoll-soccer
+- https://poki.com/nl/g/the-strongest-9c3f9665
+- https://poki.com/jp/g/star-wing
+- https://poki.com/jp/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/jp/g/duck-io
+- https://poki.com/jp/g/survev-io
+- https://poki.com/jp/g/cat-pizza
+- https://poki.com/jp/g/ballmasters-ragdoll-soccer
+- https://poki.com/jp/g/the-strongest-9c3f9665
+- https://poki.com/il/g/star-wing
+- https://poki.com/il/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/il/g/duck-io
+- https://poki.com/il/g/survev-io
+- https://poki.com/il/g/cat-pizza
+- https://poki.com/il/g/ballmasters-ragdoll-soccer
+- https://poki.com/il/g/the-strongest-9c3f9665
+- https://poki.com/br/g/star-wing
+- https://poki.com/br/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/br/g/duck-io
+- https://poki.com/br/g/survev-io
+- https://poki.com/br/g/cat-pizza
+- https://poki.com/br/g/ballmasters-ragdoll-soccer
+- https://poki.com/br/g/the-strongest-9c3f9665
+- https://poki.com/de/g/star-wing
+- https://poki.com/de/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/de/g/duck-io
+- https://poki.com/de/g/survev-io
+- https://poki.com/de/g/cat-pizza
+- https://poki.com/de/g/ballmasters-ragdoll-soccer
+- https://poki.com/de/g/the-strongest-9c3f9665
+- https://poki.com/zh/g/star-wing
+- https://poki.com/zh/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/zh/g/duck-io
+- https://poki.com/zh/g/survev-io
+- https://poki.com/zh/g/cat-pizza
+- https://poki.com/zh/g/ballmasters-ragdoll-soccer
+- https://poki.com/zh/g/the-strongest-9c3f9665
+- https://poki.com/id/g/star-wing
+- https://poki.com/id/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/id/g/duck-io
+- https://poki.com/id/g/survev-io
+- https://poki.com/id/g/cat-pizza
+- https://poki.com/id/g/ballmasters-ragdoll-soccer
+- https://poki.com/id/g/the-strongest-9c3f9665
+- https://poki.com/hi/g/star-wing
+- https://poki.com/hi/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/hi/g/duck-io
+- https://poki.com/hi/g/survev-io
+- https://poki.com/hi/g/cat-pizza
+- https://poki.com/hi/g/ballmasters-ragdoll-soccer
+- https://poki.com/hi/g/the-strongest-9c3f9665
+- https://poki.com/bn/g/star-wing
+- https://poki.com/bn/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/bn/g/duck-io
+- https://poki.com/bn/g/survev-io
+- https://poki.com/bn/g/cat-pizza
+- https://poki.com/bn/g/ballmasters-ragdoll-soccer
+- https://poki.com/bn/g/the-strongest-9c3f9665
+- https://poki.com/ms/g/star-wing
+- https://poki.com/ms/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/ms/g/duck-io
+- https://poki.com/ms/g/survev-io
+- https://poki.com/ms/g/cat-pizza
+- https://poki.com/ms/g/ballmasters-ragdoll-soccer
+- https://poki.com/ms/g/the-strongest-9c3f9665
+- https://poki.com/tl/g/star-wing
+- https://poki.com/tl/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/tl/g/duck-io
+- https://poki.com/tl/g/survev-io
+- https://poki.com/tl/g/cat-pizza
+- https://poki.com/tl/g/ballmasters-ragdoll-soccer
+- https://poki.com/tl/g/the-strongest-9c3f9665
+- https://poki.com/uz/g/star-wing
+- https://poki.com/uz/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/uz/g/duck-io
+- https://poki.com/uz/g/survev-io
+- https://poki.com/uz/g/cat-pizza
+- https://poki.com/uz/g/ballmasters-ragdoll-soccer
+- https://poki.com/uz/g/the-strongest-9c3f9665
+- https://poki.com/sr/g/star-wing
+- https://poki.com/sr/g/my-friend-pedro-ripe-for-revenge
+- https://poki.com/sr/g/duck-io
+- https://poki.com/sr/g/survev-io
+- https://poki.com/sr/g/cat-pizza
+- https://poki.com/sr/g/ballmasters-ragdoll-soccer
+- https://poki.com/sr/g/the-strongest-9c3f9665
+
+Raw data: [sitemap.json](./data/poki.com/20241210_000711/sitemap.json) and [diff.json](./data/poki.com/20241210_000711/diff.json)
 
 ### 20241207_000654
 
@@ -1005,186 +1240,50 @@ Raw data: [sitemap.json](./data/poki.com/20241207_000654/sitemap.json) and [diff
 
 Raw data: [sitemap.json](./data/poki.com/20241205_000654/sitemap.json) and [diff.json](./data/poki.com/20241205_000654/diff.json)
 
-### 20241204_000717
-
-- https://poki.com/en/g/noob-sandbox
-- https://poki.com/en/g/timewarriors
-- https://poki.com/en/g/karate-fighter
-- https://poki.com/en/g/worldguessr-free-geoguessr
-- https://poki.com/en/g/fix-the-hoof
-- https://poki.com/ru/g/noob-sandbox
-- https://poki.com/ru/g/timewarriors
-- https://poki.com/ru/g/karate-fighter
-- https://poki.com/ru/g/worldguessr-free-geoguessr
-- https://poki.com/ru/g/fix-the-hoof
-- https://poki.com/ua/g/noob-sandbox
-- https://poki.com/ua/g/timewarriors
-- https://poki.com/ua/g/karate-fighter
-- https://poki.com/ua/g/worldguessr-free-geoguessr
-- https://poki.com/ua/g/fix-the-hoof
-- https://poki.com/ar/g/noob-sandbox
-- https://poki.com/ar/g/timewarriors
-- https://poki.com/ar/g/karate-fighter
-- https://poki.com/ar/g/worldguessr-free-geoguessr
-- https://poki.com/ar/g/fix-the-hoof
-- https://poki.com/th/g/noob-sandbox
-- https://poki.com/th/g/timewarriors
-- https://poki.com/th/g/karate-fighter
-- https://poki.com/th/g/worldguessr-free-geoguessr
-- https://poki.com/th/g/fix-the-hoof
-- https://poki.com/kr/g/noob-sandbox
-- https://poki.com/kr/g/timewarriors
-- https://poki.com/kr/g/karate-fighter
-- https://poki.com/kr/g/worldguessr-free-geoguessr
-- https://poki.com/kr/g/fix-the-hoof
-- https://poki.com/es/g/noob-sandbox
-- https://poki.com/es/g/timewarriors
-- https://poki.com/es/g/karate-fighter
-- https://poki.com/es/g/worldguessr-free-geoguessr
-- https://poki.com/es/g/fix-the-hoof
-- https://poki.com/fr/g/noob-sandbox
-- https://poki.com/fr/g/timewarriors
-- https://poki.com/fr/g/karate-fighter
-- https://poki.com/fr/g/worldguessr-free-geoguessr
-- https://poki.com/fr/g/fix-the-hoof
-- https://poki.com/tr/g/noob-sandbox
-- https://poki.com/tr/g/timewarriors
-- https://poki.com/tr/g/karate-fighter
-- https://poki.com/tr/g/worldguessr-free-geoguessr
-- https://poki.com/tr/g/fix-the-hoof
-- https://poki.com/gr/g/noob-sandbox
-- https://poki.com/gr/g/timewarriors
-- https://poki.com/gr/g/karate-fighter
-- https://poki.com/gr/g/worldguessr-free-geoguessr
-- https://poki.com/gr/g/fix-the-hoof
-- https://poki.com/no/g/noob-sandbox
-- https://poki.com/no/g/timewarriors
-- https://poki.com/no/g/karate-fighter
-- https://poki.com/no/g/worldguessr-free-geoguessr
-- https://poki.com/no/g/fix-the-hoof
-- https://poki.com/ro/g/noob-sandbox
-- https://poki.com/ro/g/timewarriors
-- https://poki.com/ro/g/karate-fighter
-- https://poki.com/ro/g/worldguessr-free-geoguessr
-- https://poki.com/ro/g/fix-the-hoof
-- https://poki.com/bg/g/noob-sandbox
-- https://poki.com/bg/g/timewarriors
-- https://poki.com/bg/g/karate-fighter
-- https://poki.com/bg/g/worldguessr-free-geoguessr
-- https://poki.com/bg/g/fix-the-hoof
-- https://poki.com/hu/g/noob-sandbox
-- https://poki.com/hu/g/timewarriors
-- https://poki.com/hu/g/karate-fighter
-- https://poki.com/hu/g/worldguessr-free-geoguessr
-- https://poki.com/hu/g/fix-the-hoof
-- https://poki.com/sk/g/noob-sandbox
-- https://poki.com/sk/g/timewarriors
-- https://poki.com/sk/g/karate-fighter
-- https://poki.com/sk/g/worldguessr-free-geoguessr
-- https://poki.com/sk/g/fix-the-hoof
-- https://poki.com/se/g/noob-sandbox
-- https://poki.com/se/g/timewarriors
-- https://poki.com/se/g/karate-fighter
-- https://poki.com/se/g/worldguessr-free-geoguessr
-- https://poki.com/se/g/fix-the-hoof
-- https://poki.com/it/g/noob-sandbox
-- https://poki.com/it/g/timewarriors
-- https://poki.com/it/g/karate-fighter
-- https://poki.com/it/g/worldguessr-free-geoguessr
-- https://poki.com/it/g/fix-the-hoof
-- https://poki.com/dk/g/noob-sandbox
-- https://poki.com/dk/g/timewarriors
-- https://poki.com/dk/g/karate-fighter
-- https://poki.com/dk/g/worldguessr-free-geoguessr
-- https://poki.com/dk/g/fix-the-hoof
-- https://poki.com/fi/g/noob-sandbox
-- https://poki.com/fi/g/timewarriors
-- https://poki.com/fi/g/karate-fighter
-- https://poki.com/fi/g/worldguessr-free-geoguessr
-- https://poki.com/fi/g/fix-the-hoof
-- https://poki.com/pl/g/noob-sandbox
-- https://poki.com/pl/g/timewarriors
-- https://poki.com/pl/g/karate-fighter
-- https://poki.com/pl/g/worldguessr-free-geoguessr
-- https://poki.com/pl/g/fix-the-hoof
-- https://poki.com/cz/g/noob-sandbox
-- https://poki.com/cz/g/timewarriors
-- https://poki.com/cz/g/karate-fighter
-- https://poki.com/cz/g/worldguessr-free-geoguessr
-- https://poki.com/cz/g/fix-the-hoof
-- https://poki.com/nl/g/noob-sandbox
-- https://poki.com/nl/g/timewarriors
-- https://poki.com/nl/g/karate-fighter
-- https://poki.com/nl/g/worldguessr-free-geoguessr
-- https://poki.com/nl/g/fix-the-hoof
-- https://poki.com/jp/g/noob-sandbox
-- https://poki.com/jp/g/timewarriors
-- https://poki.com/jp/g/karate-fighter
-- https://poki.com/jp/g/worldguessr-free-geoguessr
-- https://poki.com/jp/g/fix-the-hoof
-- https://poki.com/il/g/noob-sandbox
-- https://poki.com/il/g/timewarriors
-- https://poki.com/il/g/karate-fighter
-- https://poki.com/il/g/worldguessr-free-geoguessr
-- https://poki.com/il/g/fix-the-hoof
-- https://poki.com/br/g/noob-sandbox
-- https://poki.com/br/g/timewarriors
-- https://poki.com/br/g/karate-fighter
-- https://poki.com/br/g/worldguessr-free-geoguessr
-- https://poki.com/br/g/fix-the-hoof
-- https://poki.com/de/g/noob-sandbox
-- https://poki.com/de/g/timewarriors
-- https://poki.com/de/g/karate-fighter
-- https://poki.com/de/g/worldguessr-free-geoguessr
-- https://poki.com/de/g/fix-the-hoof
-- https://poki.com/zh/g/noob-sandbox
-- https://poki.com/zh/g/timewarriors
-- https://poki.com/zh/g/karate-fighter
-- https://poki.com/zh/g/worldguessr-free-geoguessr
-- https://poki.com/zh/g/fix-the-hoof
-- https://poki.com/id/g/noob-sandbox
-- https://poki.com/id/g/timewarriors
-- https://poki.com/id/g/karate-fighter
-- https://poki.com/id/g/worldguessr-free-geoguessr
-- https://poki.com/id/g/fix-the-hoof
-- https://poki.com/hi/g/noob-sandbox
-- https://poki.com/hi/g/timewarriors
-- https://poki.com/hi/g/karate-fighter
-- https://poki.com/hi/g/worldguessr-free-geoguessr
-- https://poki.com/hi/g/fix-the-hoof
-- https://poki.com/bn/g/noob-sandbox
-- https://poki.com/bn/g/timewarriors
-- https://poki.com/bn/g/karate-fighter
-- https://poki.com/bn/g/worldguessr-free-geoguessr
-- https://poki.com/bn/g/fix-the-hoof
-- https://poki.com/ms/g/noob-sandbox
-- https://poki.com/ms/g/timewarriors
-- https://poki.com/ms/g/karate-fighter
-- https://poki.com/ms/g/worldguessr-free-geoguessr
-- https://poki.com/ms/g/fix-the-hoof
-- https://poki.com/tl/g/noob-sandbox
-- https://poki.com/tl/g/timewarriors
-- https://poki.com/tl/g/karate-fighter
-- https://poki.com/tl/g/worldguessr-free-geoguessr
-- https://poki.com/tl/g/fix-the-hoof
-- https://poki.com/uz/g/noob-sandbox
-- https://poki.com/uz/g/timewarriors
-- https://poki.com/uz/g/karate-fighter
-- https://poki.com/uz/g/worldguessr-free-geoguessr
-- https://poki.com/uz/g/fix-the-hoof
-- https://poki.com/sr/g/noob-sandbox
-- https://poki.com/sr/g/timewarriors
-- https://poki.com/sr/g/karate-fighter
-- https://poki.com/sr/g/worldguessr-free-geoguessr
-- https://poki.com/sr/g/fix-the-hoof
-
-Raw data: [sitemap.json](./data/poki.com/20241204_000717/sitemap.json) and [diff.json](./data/poki.com/20241204_000717/diff.json)
-
 ## coolmathgames.com
 
 ## pogo.com
 
 ## kizi.com
+
+### 20241210_000711
+
+- https://kizi.com/games/cat-life-simulator
+- https://kizi.com/games/merge-blocks-2048-style
+- https://kizi.com/games/shopaholic-black-friday
+- https://kizi.com/games/super-rock-climber
+- https://kizi.com/games/royal-bubble-blast
+- https://kizi.com/games/screw-jam
+- https://kizi.com/games/turbo-race
+- https://kizi.com/games/survival-island
+- https://kizi.com/games/volley-bean
+- https://kizi.com/games/basket-shot
+- https://kizi.com/games/zumba-quest
+- https://kizi.com/games/bffs-golden-hour
+- https://kizi.com/games/obby-tower-parkour-climb
+- https://kizi.com/games/airport-master-plane-tycoon
+- https://kizi.com/games/solitaire-klondike-online
+- https://kizi.com/games/syder-hyper-drive
+- https://kizi.com/games/squirrel-with-a-gun
+- https://kizi.com/games/magic-tri-peaks-solitaire
+- https://kizi.com/games/candy-bubble
+- https://kizi.com/games/hide-moodeng-hippo
+- https://kizi.com/games/level-up-mutants
+- https://kizi.com/games/merge-the-coins-ussr
+- https://kizi.com/games/deadlockio
+- https://kizi.com/games/stickman-vs-zombies-epic-fight
+- https://kizi.com/games/lumber-factory-simulator
+- https://kizi.com/games/merge-cube-challenge
+- https://kizi.com/games/dino-simulator-city-attack
+- https://kizi.com/games/teardown-destruction-sandbox
+- https://kizi.com/games/winter-gifts
+- https://kizi.com/games/blackpink-black-friday-fever
+- https://kizi.com/games/3d-bowling
+- https://kizi.com/games/swipetown
+- https://kizi.com/games/santa-vs-skritch
+- https://kizi.com/games/chicken-shooterio
+
+Raw data: [sitemap.json](./data/kizi.com/20241210_000711/sitemap.json) and [diff.json](./data/kizi.com/20241210_000711/diff.json)
 
 ## agame.com
 
