@@ -54,6 +54,21 @@
 
 ## sprunki.org
 
+### 20241211_000711
+
+- https://sprunki.org/incredibox-v2-game
+- https://sprunki.org/incredibox-v1-game
+- https://sprunki.org/incredibox-v4-game
+- https://sprunki.org/incredibox-v6-game
+- https://sprunki.org/incredibox-v3-game
+- https://sprunki.org/incredibox-v5-game
+- https://sprunki.org/incredibox-v7-game
+- https://sprunki.org/incredibox-v8-game
+- https://sprunki.org/incredibox-v9-game
+- https://sprunki.org/sprunki-3d-mod
+
+Raw data: [sitemap.json](./data/sprunki.org/20241211_000711/sitemap.json) and [diff.json](./data/sprunki.org/20241211_000711/diff.json)
+
 ### 20241210_000711
 
 - https://sprunki.org/football-bros
@@ -69,18 +84,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241210_000711/sitemap.json) and [d
 - https://sprunki.org/sprunki-phase-777
 
 Raw data: [sitemap.json](./data/sprunki.org/20241209_000705/sitemap.json) and [diff.json](./data/sprunki.org/20241209_000705/diff.json)
-
-### 20241208_000727
-
-- https://sprunki.org/sprunki-but-everyone-gyat
-- https://sprunki.org/incredibox-dusty-like-air
-- https://sprunki.org/dusty-like-air-incredibox
-- https://sprunki.org/sprunki-lore-mod
-- https://sprunki.org/sprunki-definitive-phase-4
-- https://sprunki.org/incredibox-vitals-lore-project
-- https://sprunki.org/slither-io
-
-Raw data: [sitemap.json](./data/sprunki.org/20241208_000727/sitemap.json) and [diff.json](./data/sprunki.org/20241208_000727/diff.json)
 
 ## sprunki.com
 
@@ -161,6 +164,13 @@ Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241211_000711
+
+- https://incrediboxsprunki.org/sprunki-parasite-parasprunki
+- https://incrediboxsprunki.org/sprunki-skibidi-toilet-20
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241211_000711/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241211_000711/diff.json)
+
 ### 20241210_000711
 
 - https://incrediboxsprunki.org/sprunki-final
@@ -173,12 +183,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241210_000711/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241209_000705/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241209_000705/diff.json)
 
-### 20241208_000727
-
-- https://incrediboxsprunki.org/sprunki-cool-as-ice-2
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241208_000727/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241208_000727/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -186,6 +190,21 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241208_000727/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241211_000711
+
+- https://sprunkin.com/game/parasprunki-12-5/
+- https://sprunkin.com/game/sprunki-sprungle-banana/
+- https://sprunkin.com/game/sprunki-nightly/
+- https://sprunkin.com/game/sprunki-renovation/
+- https://sprunkin.com/game/sprunki-retake-max-design-pro/
+- https://sprunkin.com/game/sprunki-smug/
+- https://sprunkin.com/game/sprunki-sprunkohol/
+- https://sprunkin.com/game/sprunki-remake-2-0/
+- https://sprunkin.com/game/sprunki-rejoyed-secret-mod/
+- https://sprunkin.com/game/sprunki-but-fruity/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241211_000711/sitemap.json) and [diff.json](./data/sprunkin.com/20241211_000711/diff.json)
 
 ### 20241210_000711
 
@@ -228,37 +247,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241210_000711/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunkeddddddd-3-0/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241209_000705/sitemap.json) and [diff.json](./data/sprunkin.com/20241209_000705/diff.json)
-
-### 20241208_000727
-
-- https://sprunkin.com/game/sprinkle-xz-edition/
-- https://sprunkin.com/game/sprunki-phase-56/
-- https://sprunkin.com/game/sprunki-phase-57/
-- https://sprunkin.com/game/sprunki-mm2/
-- https://sprunkin.com/game/sprunki-spruncalypse/
-- https://sprunkin.com/game/sprunki-bobmram/
-- https://sprunkin.com/game/sprunki-corruptbox-goreless/
-- https://sprunkin.com/game/sprunktubbies/
-- https://sprunkin.com/game/sprunki-omega/
-- https://sprunkin.com/fan-game/sprunki-echoed/
-- https://sprunkin.com/fan-game/sprunki-sped-up/
-- https://sprunkin.com/fan-game/sprunki-but-more-gruesome/
-- https://sprunkin.com/fan-game/sprunki-with-cool-looks/
-- https://sprunkin.com/fan-game/sprunki-worsened-fates/
-- https://sprunkin.com/fan-game/reject/
-- https://sprunkin.com/fan-game/sprunkin-beatolos-my-first-mod/
-- https://sprunkin.com/fan-game/sprunki-but-kinda-humanisation/
-- https://sprunkin.com/fan-game/sprunki-phase-10/
-- https://sprunkin.com/fan-game/sprunki-5/
-- https://sprunkin.com/fan-game/sprunki-playtime/
-- https://sprunkin.com/fan-game/katz-sprunki/
-- https://sprunkin.com/fan-game/sus/
-- https://sprunkin.com/fan-game/spfunked-yoyo-2/
-- https://sprunkin.com/fan-game/spronki-silly/
-- https://sprunkin.com/fan-game/sprunki-with-hands-retake/
-- https://sprunkin.com/fan-game/sprunki-but-peak/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241208_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20241208_000727/diff.json)
 
 ## sprunkisinner.org
 
@@ -490,6 +478,15 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241211_000711
+
+- https://www.crazygames.com/game/search-hidden-objects-find-them
+- https://www.crazygames.com/game/food-truck-chef
+- https://www.crazygames.com/game/cool-kingdom
+- https://www.crazygames.com/game/stickman-king
+
+Raw data: [sitemap.json](./data/crazygames.com/20241211_000711/sitemap.json) and [diff.json](./data/crazygames.com/20241211_000711/diff.json)
+
 ### 20241210_000711
 
 - https://www.crazygames.com/game/star-stuff
@@ -507,17 +504,32 @@ Raw data: [sitemap.json](./data/crazygames.com/20241210_000711/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241207_000654/sitemap.json) and [diff.json](./data/crazygames.com/20241207_000654/diff.json)
 
-### 20241206_000718
-
-- https://www.crazygames.com/game/rovercraft
-- https://www.crazygames.com/game/box-it-up
-- https://www.crazygames.com/game/bank-heist
-- https://www.crazygames.com/game/racing-builder
-- https://www.crazygames.com/game/mini-car-ball
-
-Raw data: [sitemap.json](./data/crazygames.com/20241206_000718/sitemap.json) and [diff.json](./data/crazygames.com/20241206_000718/diff.json)
-
 ## y8.com
+
+### 20241211_000711
+
+- https://www.y8.com/studios/dj-98
+- https://www.y8.com/studios/free-blogger
+- https://www.y8.com/games/path_ice
+- https://www.y8.com/games/underwater_survival_deep_dive
+- https://www.y8.com/games/toddie_winter_clothing
+- https://www.y8.com/games/fnf_corrosion_v2_phineas_and_ferb_
+- https://www.y8.com/games/stickman_santa
+- https://www.y8.com/games/scooby_s_knightmare
+- https://www.y8.com/games/wild_west_match_2_the_gold_rush
+- https://www.y8.com/games/guess_the_word_html5
+- https://www.y8.com/games/bunny_boy_online
+- https://www.y8.com/games/press_x_to_operate
+- https://www.y8.com/games/horror_forest_bear
+- https://www.y8.com/games/shooting_balls_
+- https://www.y8.com/animation/f_marry_kill_official_trailer
+- https://www.y8.com/animation/ghosts_of_halloween
+- https://www.y8.com/animation/mary_official_trailer
+- https://www.y8.com/animation/oh_canada_official_trailer
+- https://www.y8.com/animation/how_edit_points_works_in_powerpoint
+- https://www.y8.com/animation/nasa_rocket_launch_thrusters_ignited
+
+Raw data: [sitemap.json](./data/y8.com/20241211_000711/sitemap.json) and [diff.json](./data/y8.com/20241211_000711/diff.json)
 
 ### 20241210_000711
 
@@ -564,200 +576,6 @@ Raw data: [sitemap.json](./data/y8.com/20241210_000711/sitemap.json) and [diff.j
 - https://www.y8.com/animation/astronauts_and_satellites
 
 Raw data: [sitemap.json](./data/y8.com/20241209_000705/sitemap.json) and [diff.json](./data/y8.com/20241209_000705/diff.json)
-
-### 20241208_000727
-
-- https://www.y8.com/games/run_dino_run
-- https://www.y8.com/games/balls_bricks_breaker
-- https://www.y8.com/games/gladiators_merge_and_fight
-- https://www.y8.com/games/prison_business
-- https://www.y8.com/games/legends_arena
-- https://www.y8.com/games/stickman_defender
-- https://www.y8.com/games/hopeless_island
-- https://www.y8.com/games/scary_escape
-- https://www.y8.com/games/2_player_crazy_racer
-- https://www.y8.com/games/destruction_of_stickman_zombie
-- https://www.y8.com/games/my_perfect_mine
-- https://www.y8.com/games/billionaire_races_io
-- https://www.y8.com/games/police_merge_3d
-- https://www.y8.com/games/gravity_hole
-- https://www.y8.com/games/christmas_gift_packing
-- https://www.y8.com/games/merge_grabber_race_to_2048
-- https://www.y8.com/games/lost_treasures_match_3
-- https://www.y8.com/games/stick_football
-- https://www.y8.com/games/jigsaw_puzzles_mosaic
-- https://www.y8.com/games/digital_circus_runner
-- https://www.y8.com/games/scary_neighbor
-- https://www.y8.com/games/anime_mother_simulator
-- https://www.y8.com/games/idle_military_base_army_tycoon
-- https://www.y8.com/games/grand_hotel_mania
-- https://www.y8.com/games/bed_wars
-- https://www.y8.com/games/epic_road_idle
-- https://www.y8.com/games/orcs_attack
-- https://www.y8.com/games/pop_it_master_html5
-- https://www.y8.com/games/my_friendly_neighborhood
-- https://www.y8.com/games/ball_color_sort_3d
-- https://www.y8.com/games/king_kong_kart_racing
-- https://www.y8.com/games/marathon_race_3d
-- https://www.y8.com/games/love_archer
-- https://www.y8.com/games/steel_runner
-- https://www.y8.com/games/merge_of_jocks
-- https://www.y8.com/games/tank_attack_5
-- https://www.y8.com/games/legend_of_the_isles_the_hero_s_path
-- https://www.y8.com/games/maths_puzzle
-- https://www.y8.com/games/plane_factory
-- https://www.y8.com/games/dream_farm_3d
-- https://www.y8.com/games/connect_the_letters_alphabet
-- https://www.y8.com/games/sweet_bite
-- https://www.y8.com/games/dig_build_miner_merge
-- https://www.y8.com/games/city_drift_racing
-- https://www.y8.com/games/hide_with_gangsters
-- https://www.y8.com/games/cube_island_3d
-- https://www.y8.com/games/tractors_derby_arena
-- https://www.y8.com/games/island_farm_cat_gardener
-- https://www.y8.com/games/smash_the_ants
-- https://www.y8.com/games/checkers_by_the_fireplace
-- https://www.y8.com/games/last_survivors_zombie_attack
-- https://www.y8.com/games/bubble_shooter_classic_game
-- https://www.y8.com/games/prison_escape_idle_survival
-- https://www.y8.com/games/pizza_fall
-- https://www.y8.com/games/correct_football
-- https://www.y8.com/games/romka_treasure_hunter
-- https://www.y8.com/games/funny_fruits_merge_and_gather_watermelon
-- https://www.y8.com/games/polygon_puzzle_
-- https://www.y8.com/games/army_force_war
-- https://www.y8.com/games/swat_plants_vs_zombies
-- https://www.y8.com/games/match_the_colors
-- https://www.y8.com/games/happy_bucket
-- https://www.y8.com/games/balls_merge_2048_3d
-- https://www.y8.com/games/zombies_stay_alive
-- https://www.y8.com/games/epic_battle_survivor
-- https://www.y8.com/games/cubic_lands
-- https://www.y8.com/games/around_elbrus
-- https://www.y8.com/games/top_top_tank
-- https://www.y8.com/games/ballpoint
-- https://www.y8.com/games/stunt_cars_pro
-- https://www.y8.com/games/box_bullet_craft
-- https://www.y8.com/games/zombie_vs_fire
-- https://www.y8.com/games/para_mania
-- https://www.y8.com/games/garden_invasion_
-- https://www.y8.com/games/space_rock
-- https://www.y8.com/games/sorting_candy_factory
-- https://www.y8.com/games/sokoballs
-- https://www.y8.com/games/injection_invasion
-- https://www.y8.com/games/rats_erase
-- https://www.y8.com/games/skibidi_toilet_adventure
-- https://www.y8.com/games/summer_dino
-- https://www.y8.com/games/idle_startup
-- https://www.y8.com/games/guilty_sniper
-- https://www.y8.com/games/memorybot
-- https://www.y8.com/games/detective_logic_puzzles
-- https://www.y8.com/games/daddy_toss
-- https://www.y8.com/games/offroad_rally
-- https://www.y8.com/games/spider-noob_obstacle_course
-- https://www.y8.com/games/funny_kittens_2
-- https://www.y8.com/games/layer_master
-- https://www.y8.com/games/block_craft
-- https://www.y8.com/games/shameless_soba_2
-- https://www.y8.com/games/luminara_multiplication
-- https://www.y8.com/games/stickman_vs_skibidi_toilet
-- https://www.y8.com/games/ninja_rescue
-- https://www.y8.com/games/multi_basketball
-- https://www.y8.com/games/gladiator_fights
-- https://www.y8.com/games/crazy_drifter
-- https://www.y8.com/games/stick_guys_defense
-- https://www.y8.com/games/peeble_bubble_evolution
-- https://www.y8.com/games/emergency_dispatcher_911
-- https://www.y8.com/games/ball_clicker
-- https://www.y8.com/games/the_best_russian_billiards
-- https://www.y8.com/games/number_run_master
-- https://www.y8.com/games/jewel_deluxe
-- https://www.y8.com/games/daddy_escape
-- https://www.y8.com/games/snake_tangle
-- https://www.y8.com/games/arctic_ale
-- https://www.y8.com/games/merge_squares
-- https://www.y8.com/games/zumbla_in_space
-- https://www.y8.com/games/burst_the_colorful_balloons
-- https://www.y8.com/games/evolution_of_craetures_merge_and_click
-- https://www.y8.com/games/hydraulic_press_2d_asmr
-- https://www.y8.com/games/zuma_bubble_blast
-- https://www.y8.com/games/beauty_hair_salon_
-- https://www.y8.com/games/only_parkour_skill_up
-- https://www.y8.com/games/diablo_ball
-- https://www.y8.com/games/youtuber_gaming_channel
-- https://www.y8.com/games/crown_protection
-- https://www.y8.com/games/taxi_empire_airport_tycoon
-- https://www.y8.com/games/scaler_adventure
-- https://www.y8.com/games/letters_match
-- https://www.y8.com/games/gems_2_match_3
-- https://www.y8.com/games/pebble_bubble_evolution
-- https://www.y8.com/games/cutting_bros
-- https://www.y8.com/games/super_snake_
-- https://www.y8.com/games/hide_and_seek_prop_hunt
-- https://www.y8.com/games/car_tycoon_your_car_collection
-- https://www.y8.com/games/bricks_breaker_gravity_balls
-- https://www.y8.com/games/match_balls
-- https://www.y8.com/games/cat_house_my_pet_cat
-- https://www.y8.com/games/block_sudoku
-- https://www.y8.com/games/supermarket_simulator_game
-- https://www.y8.com/games/stop_the_bullet
-- https://www.y8.com/games/sorting_frogs
-- https://www.y8.com/games/wrench_unlock
-- https://www.y8.com/games/alien_war_
-- https://www.y8.com/games/bump_robot
-- https://www.y8.com/games/freddy_s_chronicles
-- https://www.y8.com/games/metamorphoses_survivor
-- https://www.y8.com/games/stick_runner
-- https://www.y8.com/games/frog_adventure
-- https://www.y8.com/games/screws_master
-- https://www.y8.com/games/stickman_dinosaur_arena
-- https://www.y8.com/games/save_the_cute_aliens
-- https://www.y8.com/games/1000_start_ups
-- https://www.y8.com/games/zombie_survivor
-- https://www.y8.com/games/skibidi_evolution
-- https://www.y8.com/games/laserman_robot_destroyer
-- https://www.y8.com/games/voxel_mega_shooter
-- https://www.y8.com/games/mahjong_unlimited
-- https://www.y8.com/games/my_gym
-- https://www.y8.com/games/steal_items_io
-- https://www.y8.com/games/idle_airplane_factory_tycoon
-- https://www.y8.com/games/nubiki_puzzle_heads
-- https://www.y8.com/games/match_match
-- https://www.y8.com/games/pill_puzzler
-- https://www.y8.com/games/chicken_strike_webgl
-- https://www.y8.com/games/save_the_cats_bubble_shooter
-- https://www.y8.com/games/build_a_house
-- https://www.y8.com/games/mystic_square_mystery_trail
-- https://www.y8.com/games/end_of_world
-- https://www.y8.com/games/magic_blocks
-- https://www.y8.com/games/dino_survival_3d_simulator
-- https://www.y8.com/games/star_exiles
-- https://www.y8.com/games/candy_cascade
-- https://www.y8.com/games/market_life
-- https://www.y8.com/games/battle_of_the_minds_quize_-_puzzle
-- https://www.y8.com/games/coughs_sneezes
-- https://www.y8.com/games/blonde_sofia_resin_shaker
-- https://www.y8.com/games/minion_escape_
-- https://www.y8.com/games/harvest_fruit_merge
-- https://www.y8.com/games/seven_solitaire
-- https://www.y8.com/games/dream_room
-- https://www.y8.com/games/sprunki_dash
-- https://www.y8.com/games/hex_wars_
-- https://www.y8.com/games/the_amazing_world_of_gumball_pool_party
-- https://www.y8.com/games/take_it_slow
-- https://www.y8.com/games/pusha_pusha
-- https://www.y8.com/games/fnf_kid
-- https://www.y8.com/games/girlfriend_from_hell
-- https://www.y8.com/games/demolition_derby_
-- https://www.y8.com/games/ancient_wonders_jigsaw
-- https://www.y8.com/animation/spellbound_official_trailer
-- https://www.y8.com/animation/cat_music_background
-- https://www.y8.com/animation/duck_chick
-- https://www.y8.com/animation/squirrel_and_nut
-- https://www.y8.com/animation/mufasa_the_lion_king_official_final_trailer
-- https://www.y8.com/animation/astronaut_in_space_
-
-Raw data: [sitemap.json](./data/y8.com/20241208_000727/sitemap.json) and [diff.json](./data/y8.com/20241208_000727/diff.json)
 
 ## kongregate.com
 
@@ -850,6 +668,113 @@ Raw data: [sitemap.json](./data/kongregate.com/20241206_000718/sitemap.json) and
 ## miniclip.com
 
 ## poki.com
+
+### 20241211_000711
+
+- https://poki.com/en/g/mine-blocks
+- https://poki.com/en/g/chess-free
+- https://poki.com/en/g/yolk-knight-tower-defense
+- https://poki.com/ru/g/mine-blocks
+- https://poki.com/ru/g/chess-free
+- https://poki.com/ru/g/yolk-knight-tower-defense
+- https://poki.com/ua/g/mine-blocks
+- https://poki.com/ua/g/chess-free
+- https://poki.com/ua/g/yolk-knight-tower-defense
+- https://poki.com/ar/g/mine-blocks
+- https://poki.com/ar/g/chess-free
+- https://poki.com/ar/g/yolk-knight-tower-defense
+- https://poki.com/th/g/mine-blocks
+- https://poki.com/th/g/chess-free
+- https://poki.com/th/g/yolk-knight-tower-defense
+- https://poki.com/kr/g/mine-blocks
+- https://poki.com/kr/g/chess-free
+- https://poki.com/kr/g/yolk-knight-tower-defense
+- https://poki.com/es/g/mine-blocks
+- https://poki.com/es/g/chess-free
+- https://poki.com/es/g/yolk-knight-tower-defense
+- https://poki.com/fr/g/mine-blocks
+- https://poki.com/fr/g/chess-free
+- https://poki.com/fr/g/yolk-knight-tower-defense
+- https://poki.com/tr/g/mine-blocks
+- https://poki.com/tr/g/chess-free
+- https://poki.com/tr/g/yolk-knight-tower-defense
+- https://poki.com/gr/g/mine-blocks
+- https://poki.com/gr/g/chess-free
+- https://poki.com/gr/g/yolk-knight-tower-defense
+- https://poki.com/no/g/mine-blocks
+- https://poki.com/no/g/chess-free
+- https://poki.com/no/g/yolk-knight-tower-defense
+- https://poki.com/ro/g/mine-blocks
+- https://poki.com/ro/g/chess-free
+- https://poki.com/ro/g/yolk-knight-tower-defense
+- https://poki.com/bg/g/mine-blocks
+- https://poki.com/bg/g/chess-free
+- https://poki.com/bg/g/yolk-knight-tower-defense
+- https://poki.com/hu/g/mine-blocks
+- https://poki.com/hu/g/chess-free
+- https://poki.com/hu/g/yolk-knight-tower-defense
+- https://poki.com/sk/g/mine-blocks
+- https://poki.com/sk/g/chess-free
+- https://poki.com/sk/g/yolk-knight-tower-defense
+- https://poki.com/se/g/mine-blocks
+- https://poki.com/se/g/chess-free
+- https://poki.com/se/g/yolk-knight-tower-defense
+- https://poki.com/it/g/mine-blocks
+- https://poki.com/it/g/chess-free
+- https://poki.com/it/g/yolk-knight-tower-defense
+- https://poki.com/dk/g/mine-blocks
+- https://poki.com/dk/g/chess-free
+- https://poki.com/dk/g/yolk-knight-tower-defense
+- https://poki.com/fi/g/mine-blocks
+- https://poki.com/fi/g/chess-free
+- https://poki.com/fi/g/yolk-knight-tower-defense
+- https://poki.com/pl/g/mine-blocks
+- https://poki.com/pl/g/chess-free
+- https://poki.com/pl/g/yolk-knight-tower-defense
+- https://poki.com/cz/g/mine-blocks
+- https://poki.com/cz/g/chess-free
+- https://poki.com/cz/g/yolk-knight-tower-defense
+- https://poki.com/nl/g/mine-blocks
+- https://poki.com/nl/g/chess-free
+- https://poki.com/nl/g/yolk-knight-tower-defense
+- https://poki.com/jp/g/mine-blocks
+- https://poki.com/jp/g/chess-free
+- https://poki.com/jp/g/yolk-knight-tower-defense
+- https://poki.com/il/g/mine-blocks
+- https://poki.com/il/g/chess-free
+- https://poki.com/il/g/yolk-knight-tower-defense
+- https://poki.com/br/g/mine-blocks
+- https://poki.com/br/g/chess-free
+- https://poki.com/br/g/yolk-knight-tower-defense
+- https://poki.com/de/g/mine-blocks
+- https://poki.com/de/g/chess-free
+- https://poki.com/de/g/yolk-knight-tower-defense
+- https://poki.com/zh/g/mine-blocks
+- https://poki.com/zh/g/chess-free
+- https://poki.com/zh/g/yolk-knight-tower-defense
+- https://poki.com/id/g/mine-blocks
+- https://poki.com/id/g/chess-free
+- https://poki.com/id/g/yolk-knight-tower-defense
+- https://poki.com/hi/g/mine-blocks
+- https://poki.com/hi/g/chess-free
+- https://poki.com/hi/g/yolk-knight-tower-defense
+- https://poki.com/bn/g/mine-blocks
+- https://poki.com/bn/g/chess-free
+- https://poki.com/bn/g/yolk-knight-tower-defense
+- https://poki.com/ms/g/mine-blocks
+- https://poki.com/ms/g/chess-free
+- https://poki.com/ms/g/yolk-knight-tower-defense
+- https://poki.com/tl/g/mine-blocks
+- https://poki.com/tl/g/chess-free
+- https://poki.com/tl/g/yolk-knight-tower-defense
+- https://poki.com/uz/g/mine-blocks
+- https://poki.com/uz/g/chess-free
+- https://poki.com/uz/g/yolk-knight-tower-defense
+- https://poki.com/sr/g/mine-blocks
+- https://poki.com/sr/g/chess-free
+- https://poki.com/sr/g/yolk-knight-tower-defense
+
+Raw data: [sitemap.json](./data/poki.com/20241211_000711/sitemap.json) and [diff.json](./data/poki.com/20241211_000711/diff.json)
 
 ### 20241210_000711
 
@@ -1166,79 +1091,6 @@ Raw data: [sitemap.json](./data/poki.com/20241210_000711/sitemap.json) and [diff
 - https://poki.com/sr/g/tired-to-fall-winter
 
 Raw data: [sitemap.json](./data/poki.com/20241207_000654/sitemap.json) and [diff.json](./data/poki.com/20241207_000654/diff.json)
-
-### 20241205_000654
-
-- https://poki.com/en/g/prankster-3d
-- https://poki.com/en/g/love-balls
-- https://poki.com/ru/g/prankster-3d
-- https://poki.com/ru/g/love-balls
-- https://poki.com/ua/g/prankster-3d
-- https://poki.com/ua/g/love-balls
-- https://poki.com/ar/g/prankster-3d
-- https://poki.com/ar/g/love-balls
-- https://poki.com/th/g/prankster-3d
-- https://poki.com/th/g/love-balls
-- https://poki.com/kr/g/prankster-3d
-- https://poki.com/kr/g/love-balls
-- https://poki.com/es/g/prankster-3d
-- https://poki.com/es/g/love-balls
-- https://poki.com/fr/g/prankster-3d
-- https://poki.com/fr/g/love-balls
-- https://poki.com/tr/g/prankster-3d
-- https://poki.com/tr/g/love-balls
-- https://poki.com/gr/g/prankster-3d
-- https://poki.com/gr/g/love-balls
-- https://poki.com/no/g/prankster-3d
-- https://poki.com/no/g/love-balls
-- https://poki.com/ro/g/prankster-3d
-- https://poki.com/ro/g/love-balls
-- https://poki.com/bg/g/prankster-3d
-- https://poki.com/bg/g/love-balls
-- https://poki.com/hu/g/prankster-3d
-- https://poki.com/hu/g/love-balls
-- https://poki.com/sk/g/prankster-3d
-- https://poki.com/sk/g/love-balls
-- https://poki.com/se/g/prankster-3d
-- https://poki.com/se/g/love-balls
-- https://poki.com/it/g/prankster-3d
-- https://poki.com/it/g/love-balls
-- https://poki.com/dk/g/prankster-3d
-- https://poki.com/dk/g/love-balls
-- https://poki.com/fi/g/prankster-3d
-- https://poki.com/fi/g/love-balls
-- https://poki.com/pl/g/prankster-3d
-- https://poki.com/pl/g/love-balls
-- https://poki.com/cz/g/prankster-3d
-- https://poki.com/cz/g/love-balls
-- https://poki.com/nl/g/prankster-3d
-- https://poki.com/nl/g/love-balls
-- https://poki.com/jp/g/prankster-3d
-- https://poki.com/jp/g/love-balls
-- https://poki.com/il/g/prankster-3d
-- https://poki.com/il/g/love-balls
-- https://poki.com/br/g/prankster-3d
-- https://poki.com/br/g/love-balls
-- https://poki.com/de/g/prankster-3d
-- https://poki.com/de/g/love-balls
-- https://poki.com/zh/g/prankster-3d
-- https://poki.com/zh/g/love-balls
-- https://poki.com/id/g/prankster-3d
-- https://poki.com/id/g/love-balls
-- https://poki.com/hi/g/prankster-3d
-- https://poki.com/hi/g/love-balls
-- https://poki.com/bn/g/prankster-3d
-- https://poki.com/bn/g/love-balls
-- https://poki.com/ms/g/prankster-3d
-- https://poki.com/ms/g/love-balls
-- https://poki.com/tl/g/prankster-3d
-- https://poki.com/tl/g/love-balls
-- https://poki.com/uz/g/prankster-3d
-- https://poki.com/uz/g/love-balls
-- https://poki.com/sr/g/prankster-3d
-- https://poki.com/sr/g/love-balls
-
-Raw data: [sitemap.json](./data/poki.com/20241205_000654/sitemap.json) and [diff.json](./data/poki.com/20241205_000654/diff.json)
 
 ## coolmathgames.com
 
