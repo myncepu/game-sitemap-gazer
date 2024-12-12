@@ -54,6 +54,16 @@
 
 ## sprunki.org
 
+### 20241212_000717
+
+- https://sprunki.org/sprunki-mm2
+- https://sprunki.org/sprunki-phase-20
+- https://sprunki.org/sprunki-but-its-christmas
+- https://sprunki.org/sprunki-renovation
+- https://sprunki.org/sprunki-mastered
+
+Raw data: [sitemap.json](./data/sprunki.org/20241212_000717/sitemap.json) and [diff.json](./data/sprunki.org/20241212_000717/diff.json)
+
 ### 20241211_000711
 
 - https://sprunki.org/incredibox-v2-game
@@ -75,15 +85,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241211_000711/sitemap.json) and [d
 - https://sprunki.org/ovo-unblocked
 
 Raw data: [sitemap.json](./data/sprunki.org/20241210_000711/sitemap.json) and [diff.json](./data/sprunki.org/20241210_000711/diff.json)
-
-### 20241209_000705
-
-- https://sprunki.org/tap-road
-- https://sprunki.org/sprunki-retake-oren-virus
-- https://sprunki.org/sprunki-mrtree-family
-- https://sprunki.org/sprunki-phase-777
-
-Raw data: [sitemap.json](./data/sprunki.org/20241209_000705/sitemap.json) and [diff.json](./data/sprunki.org/20241209_000705/diff.json)
 
 ## sprunki.com
 
@@ -164,6 +165,12 @@ Raw data: [sitemap.json](./data/sprunki.com/20241128_000706/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241212_000717
+
+- https://incrediboxsprunki.org/sprunki-countrybox
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241212_000717/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241212_000717/diff.json)
+
 ### 20241211_000711
 
 - https://incrediboxsprunki.org/sprunki-parasite-parasprunki
@@ -177,12 +184,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241211_000711/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241210_000711/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241210_000711/diff.json)
 
-### 20241209_000705
-
-- https://incrediboxsprunki.org/sprunki-the-lost-file
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241209_000705/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241209_000705/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -190,6 +191,35 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241209_000705/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241212_000717
+
+- https://sprunkin.com/fan-game/cobi-oc-dancing/
+- https://sprunkin.com/fan-game/clime-x-sprunki/
+- https://sprunkin.com/fan-game/%d1%81%d0%bf%d1%80%d1%83%d0%bd%d0%ba%d0%b8-oc/
+- https://sprunkin.com/fan-game/yo/
+- https://sprunkin.com/fan-game/sprunki-deep-fried/
+- https://sprunkin.com/fan-game/random/
+- https://sprunkin.com/fan-game/durple-in-fnf/
+- https://sprunkin.com/fan-game/durple-in-fnf-v2-0/
+- https://sprunkin.com/fan-game/raddy/
+- https://sprunkin.com/fan-game/uhh-cheating-why-are-you-here/
+- https://sprunkin.com/fan-game/sprunki-but-my-way/
+- https://sprunkin.com/fan-game/sprunki-phase-1000-but-v2/
+- https://sprunkin.com/fan-game/sprunki-phase-1000-but-v2-2/
+- https://sprunkin.com/fan-game/sprunki-phase-1000-but-v2-3/
+- https://sprunkin.com/fan-game/sprunki-phase-1000-but-v2-4/
+- https://sprunkin.com/fan-game/___/
+- https://sprunkin.com/fan-game/my-first-game/
+- https://sprunkin.com/fan-game/sprunki-%d1%88%d0%b8%d0%b7%d0%b0%d0%bd%d1%83%d1%82%d1%8b%d0%b5-%d1%87%d0%b5%d0%bb%d0%be%d0%b2%d0%b5%d1%87%d0%ba%d0%b8/
+- https://sprunkin.com/fan-game/sprunki-mode/
+- https://sprunkin.com/fan-game/sprunki-but-god/
+- https://sprunkin.com/fan-game/sprunki-%d1%88%d0%b8%d0%b7%d0%b0%d0%bd%d1%83%d1%82%d1%8b%d0%b5-%d1%87%d0%b5%d0%bb%d0%be%d0%b2%d0%b5%d1%87%d0%ba%d0%b8-2/
+- https://sprunkin.com/fan-game/sprunki-but-wild/
+- https://sprunkin.com/fan-game/sprunki-curados/
+- https://sprunkin.com/fan-game/sprunki-phase-3-but-with-my-oc/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241212_000717/sitemap.json) and [diff.json](./data/sprunkin.com/20241212_000717/diff.json)
 
 ### 20241211_000711
 
@@ -229,24 +259,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241211_000711/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-6/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241210_000711/sitemap.json) and [diff.json](./data/sprunkin.com/20241210_000711/diff.json)
-
-### 20241209_000705
-
-- https://sprunkin.com/fan-game/sprunki-april-fools/
-- https://sprunkin.com/fan-game/sprunki-black-edition/
-- https://sprunkin.com/fan-game/parasprunki/
-- https://sprunkin.com/fan-game/sprunki-but-bad/
-- https://sprunkin.com/fan-game/water-sprunki-early-acess-mod/
-- https://sprunkin.com/fan-game/incredibox-sprinkle-but-with-my-oc/
-- https://sprunkin.com/fan-game/katz-2-sprunki/
-- https://sprunkin.com/fan-game/sprunki-phase-7-original/
-- https://sprunkin.com/fan-game/sprunki-but-soprunkis/
-- https://sprunkin.com/fan-game/praddeti-sprunki-early/
-- https://sprunkin.com/fan-game/sprinko/
-- https://sprunkin.com/fan-game/sprunki-remade/
-- https://sprunkin.com/fan-game/sprunkeddddddd-3-0/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241209_000705/sitemap.json) and [diff.json](./data/sprunkin.com/20241209_000705/diff.json)
 
 ## sprunkisinner.org
 
@@ -478,6 +490,18 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241212_000717
+
+- https://www.crazygames.com/game/color-nuts-bolts-puzzle
+- https://www.crazygames.com/game/ranch-adventures
+- https://www.crazygames.com/game/zooma-marble-quest-3d
+- https://www.crazygames.com/game/color-water-sort-3d
+- https://www.crazygames.com/game/clean-it-up-demo
+- https://www.crazygames.com/game/bumbly-bee
+- https://www.crazygames.com/t/physics/5
+
+Raw data: [sitemap.json](./data/crazygames.com/20241212_000717/sitemap.json) and [diff.json](./data/crazygames.com/20241212_000717/diff.json)
+
 ### 20241211_000711
 
 - https://www.crazygames.com/game/search-hidden-objects-find-them
@@ -494,17 +518,31 @@ Raw data: [sitemap.json](./data/crazygames.com/20241211_000711/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241210_000711/sitemap.json) and [diff.json](./data/crazygames.com/20241210_000711/diff.json)
 
-### 20241207_000654
-
-- https://www.crazygames.com/game/pirates---the-match-3
-- https://www.crazygames.com/game/last-play-ragdoll-sandbox-kqb
-- https://www.crazygames.com/game/goddess-connect
-- https://www.crazygames.com/game/zarcane-a-zombie-apocalypse
-- https://www.crazygames.com/game/chicken-scream
-
-Raw data: [sitemap.json](./data/crazygames.com/20241207_000654/sitemap.json) and [diff.json](./data/crazygames.com/20241207_000654/diff.json)
-
 ## y8.com
+
+### 20241212_000717
+
+- https://www.y8.com/games/merge_cafe
+- https://www.y8.com/games/girly_fashion_tattoo
+- https://www.y8.com/games/kodhok_the_grappling_frog
+- https://www.y8.com/games/hoop_kings
+- https://www.y8.com/games/save_the_capybara_
+- https://www.y8.com/games/merge_the_cats
+- https://www.y8.com/games/401_access_denied
+- https://www.y8.com/games/archery_ragdoll
+- https://www.y8.com/games/animal_puzzles_
+- https://www.y8.com/games/cutting_ropes_webgl
+- https://www.y8.com/games/sprunki_3d_mod
+- https://www.y8.com/games/game_of_15
+- https://www.y8.com/games/bird_in_a_pot
+- https://www.y8.com/animation/elevation_official_teaser_trailer
+- https://www.y8.com/animation/ultimate_funny_fails_compilation
+- https://www.y8.com/animation/laughing_videos
+- https://www.y8.com/animation/adorable_canine
+- https://www.y8.com/animation/cute_cat_in_nature
+- https://www.y8.com/animation/aliens_exploring_the_unknown
+
+Raw data: [sitemap.json](./data/y8.com/20241212_000717/sitemap.json) and [diff.json](./data/y8.com/20241212_000717/diff.json)
 
 ### 20241211_000711
 
@@ -553,29 +591,6 @@ Raw data: [sitemap.json](./data/y8.com/20241211_000711/sitemap.json) and [diff.j
 - https://www.y8.com/animation/a_journey_through_the_universe
 
 Raw data: [sitemap.json](./data/y8.com/20241210_000711/sitemap.json) and [diff.json](./data/y8.com/20241210_000711/diff.json)
-
-### 20241209_000705
-
-- https://www.y8.com/games/defense_shoot
-- https://www.y8.com/games/mega_watermelon_merge
-- https://www.y8.com/games/falling_shape
-- https://www.y8.com/games/obby_rescue_mission
-- https://www.y8.com/games/unblock
-- https://www.y8.com/games/snowy_sprint
-- https://www.y8.com/games/fruit_merge_juicy_drop
-- https://www.y8.com/games/sokoban_pr
-- https://www.y8.com/games/magic_sorting
-- https://www.y8.com/games/grukkle_onslaught
-- https://www.y8.com/games/felt_knight
-- https://www.y8.com/games/boo_are_you_scared_the_chests
-- https://www.y8.com/animation/the_best_and_funniest_pets_in_the_world
-- https://www.y8.com/animation/unstoppable_trailer
-- https://www.y8.com/animation/reindeer_christmas_moose_toy
-- https://www.y8.com/animation/the_adorable_red_shar_pei_dog
-- https://www.y8.com/animation/dynamic_scaling_bullet_physics_and_houdini
-- https://www.y8.com/animation/astronauts_and_satellites
-
-Raw data: [sitemap.json](./data/y8.com/20241209_000705/sitemap.json) and [diff.json](./data/y8.com/20241209_000705/diff.json)
 
 ## kongregate.com
 
@@ -668,6 +683,113 @@ Raw data: [sitemap.json](./data/kongregate.com/20241206_000718/sitemap.json) and
 ## miniclip.com
 
 ## poki.com
+
+### 20241212_000717
+
+- https://poki.com/en/g/lucky-claw-machine
+- https://poki.com/en/g/mr-pogo
+- https://poki.com/en/g/truck-slam
+- https://poki.com/ru/g/lucky-claw-machine
+- https://poki.com/ru/g/mr-pogo
+- https://poki.com/ru/g/truck-slam
+- https://poki.com/ua/g/lucky-claw-machine
+- https://poki.com/ua/g/mr-pogo
+- https://poki.com/ua/g/truck-slam
+- https://poki.com/ar/g/lucky-claw-machine
+- https://poki.com/ar/g/mr-pogo
+- https://poki.com/ar/g/truck-slam
+- https://poki.com/th/g/lucky-claw-machine
+- https://poki.com/th/g/mr-pogo
+- https://poki.com/th/g/truck-slam
+- https://poki.com/kr/g/lucky-claw-machine
+- https://poki.com/kr/g/mr-pogo
+- https://poki.com/kr/g/truck-slam
+- https://poki.com/es/g/lucky-claw-machine
+- https://poki.com/es/g/mr-pogo
+- https://poki.com/es/g/truck-slam
+- https://poki.com/fr/g/lucky-claw-machine
+- https://poki.com/fr/g/mr-pogo
+- https://poki.com/fr/g/truck-slam
+- https://poki.com/tr/g/lucky-claw-machine
+- https://poki.com/tr/g/mr-pogo
+- https://poki.com/tr/g/truck-slam
+- https://poki.com/gr/g/lucky-claw-machine
+- https://poki.com/gr/g/mr-pogo
+- https://poki.com/gr/g/truck-slam
+- https://poki.com/no/g/lucky-claw-machine
+- https://poki.com/no/g/mr-pogo
+- https://poki.com/no/g/truck-slam
+- https://poki.com/ro/g/lucky-claw-machine
+- https://poki.com/ro/g/mr-pogo
+- https://poki.com/ro/g/truck-slam
+- https://poki.com/bg/g/lucky-claw-machine
+- https://poki.com/bg/g/mr-pogo
+- https://poki.com/bg/g/truck-slam
+- https://poki.com/hu/g/lucky-claw-machine
+- https://poki.com/hu/g/mr-pogo
+- https://poki.com/hu/g/truck-slam
+- https://poki.com/sk/g/lucky-claw-machine
+- https://poki.com/sk/g/mr-pogo
+- https://poki.com/sk/g/truck-slam
+- https://poki.com/se/g/lucky-claw-machine
+- https://poki.com/se/g/mr-pogo
+- https://poki.com/se/g/truck-slam
+- https://poki.com/it/g/lucky-claw-machine
+- https://poki.com/it/g/mr-pogo
+- https://poki.com/it/g/truck-slam
+- https://poki.com/dk/g/lucky-claw-machine
+- https://poki.com/dk/g/mr-pogo
+- https://poki.com/dk/g/truck-slam
+- https://poki.com/fi/g/lucky-claw-machine
+- https://poki.com/fi/g/mr-pogo
+- https://poki.com/fi/g/truck-slam
+- https://poki.com/pl/g/lucky-claw-machine
+- https://poki.com/pl/g/mr-pogo
+- https://poki.com/pl/g/truck-slam
+- https://poki.com/cz/g/lucky-claw-machine
+- https://poki.com/cz/g/mr-pogo
+- https://poki.com/cz/g/truck-slam
+- https://poki.com/nl/g/lucky-claw-machine
+- https://poki.com/nl/g/mr-pogo
+- https://poki.com/nl/g/truck-slam
+- https://poki.com/jp/g/lucky-claw-machine
+- https://poki.com/jp/g/mr-pogo
+- https://poki.com/jp/g/truck-slam
+- https://poki.com/il/g/lucky-claw-machine
+- https://poki.com/il/g/mr-pogo
+- https://poki.com/il/g/truck-slam
+- https://poki.com/br/g/lucky-claw-machine
+- https://poki.com/br/g/mr-pogo
+- https://poki.com/br/g/truck-slam
+- https://poki.com/de/g/lucky-claw-machine
+- https://poki.com/de/g/mr-pogo
+- https://poki.com/de/g/truck-slam
+- https://poki.com/zh/g/lucky-claw-machine
+- https://poki.com/zh/g/mr-pogo
+- https://poki.com/zh/g/truck-slam
+- https://poki.com/id/g/lucky-claw-machine
+- https://poki.com/id/g/mr-pogo
+- https://poki.com/id/g/truck-slam
+- https://poki.com/hi/g/lucky-claw-machine
+- https://poki.com/hi/g/mr-pogo
+- https://poki.com/hi/g/truck-slam
+- https://poki.com/bn/g/lucky-claw-machine
+- https://poki.com/bn/g/mr-pogo
+- https://poki.com/bn/g/truck-slam
+- https://poki.com/ms/g/lucky-claw-machine
+- https://poki.com/ms/g/mr-pogo
+- https://poki.com/ms/g/truck-slam
+- https://poki.com/tl/g/lucky-claw-machine
+- https://poki.com/tl/g/mr-pogo
+- https://poki.com/tl/g/truck-slam
+- https://poki.com/uz/g/lucky-claw-machine
+- https://poki.com/uz/g/mr-pogo
+- https://poki.com/uz/g/truck-slam
+- https://poki.com/sr/g/lucky-claw-machine
+- https://poki.com/sr/g/mr-pogo
+- https://poki.com/sr/g/truck-slam
+
+Raw data: [sitemap.json](./data/poki.com/20241212_000717/sitemap.json) and [diff.json](./data/poki.com/20241212_000717/diff.json)
 
 ### 20241211_000711
 
@@ -1018,79 +1140,6 @@ Raw data: [sitemap.json](./data/poki.com/20241211_000711/sitemap.json) and [diff
 - https://poki.com/sr/g/the-strongest-9c3f9665
 
 Raw data: [sitemap.json](./data/poki.com/20241210_000711/sitemap.json) and [diff.json](./data/poki.com/20241210_000711/diff.json)
-
-### 20241207_000654
-
-- https://poki.com/en/g/clinko
-- https://poki.com/en/g/tired-to-fall-winter
-- https://poki.com/ru/g/clinko
-- https://poki.com/ru/g/tired-to-fall-winter
-- https://poki.com/ua/g/clinko
-- https://poki.com/ua/g/tired-to-fall-winter
-- https://poki.com/ar/g/clinko
-- https://poki.com/ar/g/tired-to-fall-winter
-- https://poki.com/th/g/clinko
-- https://poki.com/th/g/tired-to-fall-winter
-- https://poki.com/kr/g/clinko
-- https://poki.com/kr/g/tired-to-fall-winter
-- https://poki.com/es/g/clinko
-- https://poki.com/es/g/tired-to-fall-winter
-- https://poki.com/fr/g/clinko
-- https://poki.com/fr/g/tired-to-fall-winter
-- https://poki.com/tr/g/clinko
-- https://poki.com/tr/g/tired-to-fall-winter
-- https://poki.com/gr/g/clinko
-- https://poki.com/gr/g/tired-to-fall-winter
-- https://poki.com/no/g/clinko
-- https://poki.com/no/g/tired-to-fall-winter
-- https://poki.com/ro/g/clinko
-- https://poki.com/ro/g/tired-to-fall-winter
-- https://poki.com/bg/g/clinko
-- https://poki.com/bg/g/tired-to-fall-winter
-- https://poki.com/hu/g/clinko
-- https://poki.com/hu/g/tired-to-fall-winter
-- https://poki.com/sk/g/clinko
-- https://poki.com/sk/g/tired-to-fall-winter
-- https://poki.com/se/g/clinko
-- https://poki.com/se/g/tired-to-fall-winter
-- https://poki.com/it/g/clinko
-- https://poki.com/it/g/tired-to-fall-winter
-- https://poki.com/dk/g/clinko
-- https://poki.com/dk/g/tired-to-fall-winter
-- https://poki.com/fi/g/clinko
-- https://poki.com/fi/g/tired-to-fall-winter
-- https://poki.com/pl/g/clinko
-- https://poki.com/pl/g/tired-to-fall-winter
-- https://poki.com/cz/g/clinko
-- https://poki.com/cz/g/tired-to-fall-winter
-- https://poki.com/nl/g/clinko
-- https://poki.com/nl/g/tired-to-fall-winter
-- https://poki.com/jp/g/clinko
-- https://poki.com/jp/g/tired-to-fall-winter
-- https://poki.com/il/g/clinko
-- https://poki.com/il/g/tired-to-fall-winter
-- https://poki.com/br/g/clinko
-- https://poki.com/br/g/tired-to-fall-winter
-- https://poki.com/de/g/clinko
-- https://poki.com/de/g/tired-to-fall-winter
-- https://poki.com/zh/g/clinko
-- https://poki.com/zh/g/tired-to-fall-winter
-- https://poki.com/id/g/clinko
-- https://poki.com/id/g/tired-to-fall-winter
-- https://poki.com/hi/g/clinko
-- https://poki.com/hi/g/tired-to-fall-winter
-- https://poki.com/bn/g/clinko
-- https://poki.com/bn/g/tired-to-fall-winter
-- https://poki.com/ms/g/clinko
-- https://poki.com/ms/g/tired-to-fall-winter
-- https://poki.com/tl/g/clinko
-- https://poki.com/tl/g/tired-to-fall-winter
-- https://poki.com/uz/g/clinko
-- https://poki.com/uz/g/tired-to-fall-winter
-- https://poki.com/sr/g/clinko
-- https://poki.com/sr/g/tired-to-fall-winter
-
-Raw data: [sitemap.json](./data/poki.com/20241207_000654/sitemap.json) and [diff.json](./data/poki.com/20241207_000654/diff.json)
 
 ## coolmathgames.com
 

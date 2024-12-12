@@ -1,0 +1,718 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/lucky-claw-machine",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/mr-pogo",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/truck-slam",
+      "priority": 0.5,
+      "last_modified": "2024-12-12T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
