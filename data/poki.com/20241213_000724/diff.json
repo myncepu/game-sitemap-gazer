@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/snackio",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/handy-harrys-haunted-house-services",
+      "priority": 0.5,
+      "last_modified": "2024-12-13T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

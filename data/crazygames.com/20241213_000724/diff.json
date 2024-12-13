@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://www.crazygames.com/game/uprunner",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/crossection",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/road-master",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/everytown",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/don-t-get-eaten",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
