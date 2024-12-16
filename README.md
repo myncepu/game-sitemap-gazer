@@ -54,6 +54,18 @@
 
 ## sprunki.org
 
+### 20241216_000720
+
+- https://sprunki.org/sprunki-but-its-mario
+- https://sprunki.org/sprunki-final-mod
+- https://sprunki.org/sprunki-retake-bonus
+- https://sprunki.org/sprunki-ofc-scratch-port
+- https://sprunki.org/sprunki-clicker
+- https://sprunki.org/sprunki-love-mod
+- https://sprunki.org/sprunki-colors
+
+Raw data: [sitemap.json](./data/sprunki.org/20241216_000720/sitemap.json) and [diff.json](./data/sprunki.org/20241216_000720/diff.json)
+
 ### 20241215_000742
 
 - https://sprunki.org/abgerny-fpe-version
@@ -74,16 +86,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241215_000742/sitemap.json) and [d
 - https://sprunki.org/sprunki-corruptbox-goreless
 
 Raw data: [sitemap.json](./data/sprunki.org/20241214_000650/sitemap.json) and [diff.json](./data/sprunki.org/20241214_000650/diff.json)
-
-### 20241213_000724
-
-- https://sprunki.org/mild-as-spring
-- https://sprunki.org/sprunkohol
-- https://sprunki.org/sprunki-kiss-mod
-- https://sprunki.org/sprunki-sprunkohol
-- https://sprunki.org/incredibox-mild-as-spring
-
-Raw data: [sitemap.json](./data/sprunki.org/20241213_000724/sitemap.json) and [diff.json](./data/sprunki.org/20241213_000724/diff.json)
 
 ## sprunki.com
 
@@ -3393,6 +3395,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241216_000720
+
+- https://incrediboxsprunki.org/sprunki-sonic
+- https://incrediboxsprunki.org/warm-like-fire
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241216_000720/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241216_000720/diff.json)
+
 ### 20241215_000742
 
 - https://incrediboxsprunki.org/sprunki-pvz-plant-vs-zombies
@@ -3411,12 +3420,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241215_000742/sitemap.js
 - https://incrediboxsprunki.org/incredibox-mild-as-spring
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241214_000650/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241214_000650/diff.json)
-
-### 20241213_000724
-
-- https://incrediboxsprunki.org/sprunki-mustard-v2
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241213_000724/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241213_000724/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -3788,6 +3791,29 @@ Raw data: [sitemap.json](./data/crazygames.com/20241212_000717/sitemap.json) and
 
 ## y8.com
 
+### 20241216_000720
+
+- https://www.y8.com/games/astrofied
+- https://www.y8.com/games/scroll_and_spot
+- https://www.y8.com/games/coloring_book_game
+- https://www.y8.com/games/shoot_and_kill_webgl
+- https://www.y8.com/games/special_holiday_solitaire_html5
+- https://www.y8.com/games/fist_of_the_neverwake
+- https://www.y8.com/games/christmas_snowball_arena
+- https://www.y8.com/games/christmas_sorting
+- https://www.y8.com/games/devil_duck
+- https://www.y8.com/games/crusty_proto
+- https://www.y8.com/games/epic_mine
+- https://www.y8.com/games/billy_the_box
+- https://www.y8.com/animation/try_not_to_laugh_dogs
+- https://www.y8.com/animation/poppy_beetle_and_blossom
+- https://www.y8.com/animation/nebulas_the_colorful_nurseries_of_the_universe
+- https://www.y8.com/animation/jentry_chau_vs_the_underworld_official_trailer
+- https://www.y8.com/animation/hilarious_moments_caught_on_camera
+- https://www.y8.com/animation/a_short_animation_of_ufo
+
+Raw data: [sitemap.json](./data/y8.com/20241216_000720/sitemap.json) and [diff.json](./data/y8.com/20241216_000720/diff.json)
+
 ### 20241215_000742
 
 - https://www.y8.com/games/kiddo_in_wonderland
@@ -3831,30 +3857,6 @@ Raw data: [sitemap.json](./data/y8.com/20241215_000742/sitemap.json) and [diff.j
 - https://www.y8.com/animation/why_fails_are_funny_
 
 Raw data: [sitemap.json](./data/y8.com/20241214_000650/sitemap.json) and [diff.json](./data/y8.com/20241214_000650/diff.json)
-
-### 20241213_000724
-
-- https://www.y8.com/studios/potato-corporation
-- https://www.y8.com/games/decor_cute_shop
-- https://www.y8.com/games/samurise
-- https://www.y8.com/games/zoo_2_animal_park
-- https://www.y8.com/games/robby_the_lava_tsunami
-- https://www.y8.com/games/connect_2_cars
-- https://www.y8.com/games/bloons_td_6_scratch_remake
-- https://www.y8.com/games/zombie_defense_survival
-- https://www.y8.com/games/elevator_fight
-- https://www.y8.com/games/the_jolly_of_sprunki_scratch_edition
-- https://www.y8.com/games/charlie_the_talking_steak
-- https://www.y8.com/games/sprunki_extended
-- https://www.y8.com/games/park_the_taxi_3
-- https://www.y8.com/animation/the_funniest_dog_videos_
-- https://www.y8.com/animation/megan_thee_stallion_in_her_words_trailer
-- https://www.y8.com/animation/funny_pet_videos
-- https://www.y8.com/animation/rabbit_chews
-- https://www.y8.com/animation/how_to_train_your_dragon_official_teaser_trailer
-- https://www.y8.com/animation/gladiator_ii_final_trailer
-
-Raw data: [sitemap.json](./data/y8.com/20241213_000724/sitemap.json) and [diff.json](./data/y8.com/20241213_000724/diff.json)
 
 ## kongregate.com
 
