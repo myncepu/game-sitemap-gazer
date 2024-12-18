@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "url": "https://kizi.com/games/snake-king",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://kizi.com/games/make-it-boom",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://kizi.com/games/sprunki",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://kizi.com/games/madness-sheriffs-compound",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://kizi.com/games/going-balls-adventure-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://kizi.com/games/athena-match",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://kizi.com/games/wild-west-match-2-the-gold-rush",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://kizi.com/games/bullet-heroes",
+      "priority": 0.5,
+      "last_modified": "2024-12-17T14:34:07Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}

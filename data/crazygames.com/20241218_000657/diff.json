@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "url": "https://www.crazygames.com/game/the-army",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-world",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/minimine",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/chef-slide",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/hungry-hamster",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/t/top-down/4",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
