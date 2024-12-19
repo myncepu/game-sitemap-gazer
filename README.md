@@ -54,6 +54,15 @@
 
 ## sprunki.org
 
+### 20241219_000700
+
+- https://sprunki.org/sprunki-sprunktune
+- https://sprunki.org/sprunki-find-the-differences
+- https://sprunki.org/block-blasty-saga
+- https://sprunki.org/sprunki-popit
+
+Raw data: [sitemap.json](./data/sprunki.org/20241219_000700/sitemap.json) and [diff.json](./data/sprunki.org/20241219_000700/diff.json)
+
 ### 20241218_000657
 
 - https://sprunki.org/sprunkgerny
@@ -71,18 +80,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241218_000657/sitemap.json) and [d
 - https://sprunki.org/sprunki-2025-edition
 
 Raw data: [sitemap.json](./data/sprunki.org/20241217_000708/sitemap.json) and [diff.json](./data/sprunki.org/20241217_000708/diff.json)
-
-### 20241216_000720
-
-- https://sprunki.org/sprunki-but-its-mario
-- https://sprunki.org/sprunki-final-mod
-- https://sprunki.org/sprunki-retake-bonus
-- https://sprunki.org/sprunki-ofc-scratch-port
-- https://sprunki.org/sprunki-clicker
-- https://sprunki.org/sprunki-love-mod
-- https://sprunki.org/sprunki-colors
-
-Raw data: [sitemap.json](./data/sprunki.org/20241216_000720/sitemap.json) and [diff.json](./data/sprunki.org/20241216_000720/diff.json)
 
 ## sprunki.com
 
@@ -3392,6 +3389,15 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241219_000700
+
+- https://incrediboxsprunki.org/incredibop-deadline
+- https://incrediboxsprunki.org/sprunki-cool-as-ice-original
+- https://incrediboxsprunki.org/sprunki-susnki
+- https://incrediboxsprunki.org/sprunki-ketchup-20
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241219_000700/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241219_000700/diff.json)
+
 ### 20241218_000657
 
 - https://incrediboxsprunki.org/sprunki-side-b
@@ -3409,13 +3415,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241218_000657/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241217_000708/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241217_000708/diff.json)
 
-### 20241216_000720
-
-- https://incrediboxsprunki.org/sprunki-sonic
-- https://incrediboxsprunki.org/warm-like-fire
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241216_000720/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241216_000720/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -3423,6 +3422,14 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241216_000720/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241219_000700
+
+- https://sprunkin.com/fan-game/sprunki-redone-3/
+- https://sprunkin.com/fan-game/sprunked-pokemon-pokesprunki/
+- https://sprunkin.com/fan-game/aaaaaaaaaaaaaaaaaa/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241219_000700/sitemap.json) and [diff.json](./data/sprunkin.com/20241219_000700/diff.json)
 
 ### 20241218_000657
 
@@ -3466,54 +3473,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241218_000657/sitemap.json) and [
 - https://sprunkin.com/fan-game/vbunny-go-sprunki-mod/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241217_000708/sitemap.json) and [diff.json](./data/sprunkin.com/20241217_000708/diff.json)
-
-### 20241215_000742
-
-- https://sprunkin.com/game/sprunki-retake-but-its-puppet/
-- https://sprunkin.com/game/corruptbox-but-sprunki-retake/
-- https://sprunkin.com/game/sprunki-retake-dandys-world/
-- https://sprunkin.com/game/sprunked-2-0-fe-christmas/
-- https://sprunkin.com/game/sprunki-retake-fe-christmas/
-- https://sprunkin.com/game/sprunkiblox-retake/
-- https://sprunkin.com/game/sprunki-ani/
-- https://sprunkin.com/game/sprunked-but-bad-2-0/
-- https://sprunkin.com/game/sperunky-para/
-- https://sprunkin.com/game/sprunki-survive/
-- https://sprunkin.com/game/abgerny-but-its-sprinkle/
-- https://sprunkin.com/game/sprunki-spunkr/
-- https://sprunkin.com/game/sprunki-but-they-swapped/
-- https://sprunkin.com/game/sprunki-rebranded/
-- https://sprunkin.com/game/sprunki-night-time-redrawn/
-- https://sprunkin.com/game/sprunki-owakcx/
-- https://sprunkin.com/game/parasprunki-but-better/
-- https://sprunkin.com/game/abgerny-goblos/
-- https://sprunkin.com/game/sprunki-dictatorship/
-- https://sprunkin.com/game/sprunki-night-time-2-0/
-- https://sprunkin.com/game/sprunki-sunset/
-- https://sprunkin.com/game/sprunki-retake-but-memes/
-- https://sprunkin.com/game/sprunki-retake-brud-virus/
-- https://sprunkin.com/game/sprunki-ketchup-2-0/
-- https://sprunkin.com/game/sprunki-phase-10-babies/
-- https://sprunkin.com/game/sprunki-phase-18/
-- https://sprunkin.com/game/sprunki-blue/
-- https://sprunkin.com/game/sprunki-winter/
-- https://sprunkin.com/fan-game/the-brud-infection-sprunki-mod/
-- https://sprunkin.com/fan-game/sprunki-but-my-way-2/
-- https://sprunkin.com/fan-game/planet-chaos/
-- https://sprunkin.com/fan-game/monument-mythos/
-- https://sprunkin.com/fan-game/lovely-day/
-- https://sprunkin.com/fan-game/vib-sprunki/
-- https://sprunkin.com/fan-game/sprunki-real-remake/
-- https://sprunkin.com/fan-game/sprunki-but-they-are-potatoes/
-- https://sprunkin.com/fan-game/sprunheroes/
-- https://sprunkin.com/fan-game/sprunki-alive/
-- https://sprunkin.com/fan-game/sprunki-x-purple-colourbox/
-- https://sprunkin.com/fan-game/sprunki-but-they-swap-colors/
-- https://sprunkin.com/fan-game/sprunki-kingjax23-edition/
-- https://sprunkin.com/fan-game/sprunki-secret-agent/
-- https://sprunkin.com/fan-game/incredibox-sprunksome/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241215_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20241215_000742/diff.json)
 
 ## sprunkisinner.org
 
@@ -3745,6 +3704,17 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241219_000700
+
+- https://www.crazygames.com/game/age-of-tanks-warriors-td-war
+- https://www.crazygames.com/game/timewarriors
+- https://www.crazygames.com/game/mechs-rumble-blitz
+- https://www.crazygames.com/game/openguessr
+- https://www.crazygames.com/game/magic-princess
+- https://www.crazygames.com/t/with-friends/2
+
+Raw data: [sitemap.json](./data/crazygames.com/20241219_000700/sitemap.json) and [diff.json](./data/crazygames.com/20241219_000700/diff.json)
+
 ### 20241218_000657
 
 - https://www.crazygames.com/game/the-army
@@ -3763,16 +3733,31 @@ Raw data: [sitemap.json](./data/crazygames.com/20241218_000657/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241217_000708/sitemap.json) and [diff.json](./data/crazygames.com/20241217_000708/diff.json)
 
-### 20241214_000650
-
-- https://www.crazygames.com/game/country-life-meadows
-- https://www.crazygames.com/game/dishwasher
-- https://www.crazygames.com/game/pet-salon-simulator
-- https://www.crazygames.com/game/daycare-tycoon
-
-Raw data: [sitemap.json](./data/crazygames.com/20241214_000650/sitemap.json) and [diff.json](./data/crazygames.com/20241214_000650/diff.json)
-
 ## y8.com
+
+### 20241219_000700
+
+- https://www.y8.com/games/single_stroke_line_draw
+- https://www.y8.com/games/blonde_sofia_christmas_party
+- https://www.y8.com/games/burger_cafe
+- https://www.y8.com/games/rubik_s_cube_webgl
+- https://www.y8.com/games/towerfall_descension
+- https://www.y8.com/games/fright_night_defense
+- https://www.y8.com/games/vault_breaker
+- https://www.y8.com/games/spot_the_odd_one
+- https://www.y8.com/games/santa_car_cookie
+- https://www.y8.com/games/christmas_deer
+- https://www.y8.com/games/adversator_moba
+- https://www.y8.com/games/sprunki_3d
+- https://www.y8.com/games/solitaire_king
+- https://www.y8.com/animation/the_seed_of_the_sacred_fig_official_trailer
+- https://www.y8.com/animation/weekend_in_taipei_final_trailer
+- https://www.y8.com/animation/fireplace
+- https://www.y8.com/animation/closer_from_the_edge_closer_to_confusion
+- https://www.y8.com/animation/ankle_anatomy
+- https://www.y8.com/animation/butterflies_and_flowers_in_harmony
+
+Raw data: [sitemap.json](./data/y8.com/20241219_000700/sitemap.json) and [diff.json](./data/y8.com/20241219_000700/diff.json)
 
 ### 20241218_000657
 
@@ -3826,30 +3811,13 @@ Raw data: [sitemap.json](./data/y8.com/20241218_000657/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241217_000708/sitemap.json) and [diff.json](./data/y8.com/20241217_000708/diff.json)
 
-### 20241216_000720
-
-- https://www.y8.com/games/astrofied
-- https://www.y8.com/games/scroll_and_spot
-- https://www.y8.com/games/coloring_book_game
-- https://www.y8.com/games/shoot_and_kill_webgl
-- https://www.y8.com/games/special_holiday_solitaire_html5
-- https://www.y8.com/games/fist_of_the_neverwake
-- https://www.y8.com/games/christmas_snowball_arena
-- https://www.y8.com/games/christmas_sorting
-- https://www.y8.com/games/devil_duck
-- https://www.y8.com/games/crusty_proto
-- https://www.y8.com/games/epic_mine
-- https://www.y8.com/games/billy_the_box
-- https://www.y8.com/animation/try_not_to_laugh_dogs
-- https://www.y8.com/animation/poppy_beetle_and_blossom
-- https://www.y8.com/animation/nebulas_the_colorful_nurseries_of_the_universe
-- https://www.y8.com/animation/jentry_chau_vs_the_underworld_official_trailer
-- https://www.y8.com/animation/hilarious_moments_caught_on_camera
-- https://www.y8.com/animation/a_short_animation_of_ufo
-
-Raw data: [sitemap.json](./data/y8.com/20241216_000720/sitemap.json) and [diff.json](./data/y8.com/20241216_000720/diff.json)
-
 ## kongregate.com
+
+### 20241219_000700
+
+- https://www.kongregate.com/games/rengesoft
+
+Raw data: [sitemap.json](./data/kongregate.com/20241219_000700/sitemap.json) and [diff.json](./data/kongregate.com/20241219_000700/diff.json)
 
 ### 20241208_000727
 
@@ -3916,30 +3884,50 @@ Raw data: [sitemap.json](./data/kongregate.com/20241208_000727/sitemap.json) and
 
 Raw data: [sitemap.json](./data/kongregate.com/20241207_000654/sitemap.json) and [diff.json](./data/kongregate.com/20241207_000654/diff.json)
 
-### 20241206_000718
-
-- https://www.kongregate.com/games/PawnStudios
-- https://www.kongregate.com/games/Archigeek/chromattax
-- https://www.kongregate.com/games/l4p4k/minecraft-mod-tutorial
-- https://www.kongregate.com/games/KotubukiMedia/aerial-voyager
-- https://www.kongregate.com/games/Kenny_G/abducted
-- https://www.kongregate.com/games/pouchmouse/proke
-- https://www.kongregate.com/games/tAMAS_Games/crash-the-robot-explosive-edition
-- https://www.kongregate.com/games/EtaninGames/jack-in-a-golden-trap
-- https://www.kongregate.com/games/Jack_Crazy/ghost-flyer
-- https://www.kongregate.com/games/diviadgmbh/chronicles-of-blood
-- https://www.kongregate.com/games/danielsme/hopy-pizzeria
-- https://www.kongregate.com/games/Natonstan/crash-flash
-- https://www.kongregate.com/games/acoolgames1/angry-birds-ultimate-battle
-- https://www.kongregate.com/games/lucianoirrthum/save-the-planet
-
-Raw data: [sitemap.json](./data/kongregate.com/20241206_000718/sitemap.json) and [diff.json](./data/kongregate.com/20241206_000718/diff.json)
-
 ## newgrounds.com
 
 ## miniclip.com
 
 ## poki.com
+
+### 20241219_000700
+
+- https://poki.com/en/g/nightfall-warriors
+- https://poki.com/ru/g/nightfall-warriors
+- https://poki.com/ua/g/nightfall-warriors
+- https://poki.com/ar/g/nightfall-warriors
+- https://poki.com/th/g/nightfall-warriors
+- https://poki.com/kr/g/nightfall-warriors
+- https://poki.com/es/g/nightfall-warriors
+- https://poki.com/fr/g/nightfall-warriors
+- https://poki.com/tr/g/nightfall-warriors
+- https://poki.com/gr/g/nightfall-warriors
+- https://poki.com/no/g/nightfall-warriors
+- https://poki.com/ro/g/nightfall-warriors
+- https://poki.com/bg/g/nightfall-warriors
+- https://poki.com/hu/g/nightfall-warriors
+- https://poki.com/sk/g/nightfall-warriors
+- https://poki.com/se/g/nightfall-warriors
+- https://poki.com/it/g/nightfall-warriors
+- https://poki.com/dk/g/nightfall-warriors
+- https://poki.com/fi/g/nightfall-warriors
+- https://poki.com/pl/g/nightfall-warriors
+- https://poki.com/cz/g/nightfall-warriors
+- https://poki.com/nl/g/nightfall-warriors
+- https://poki.com/jp/g/nightfall-warriors
+- https://poki.com/il/g/nightfall-warriors
+- https://poki.com/br/g/nightfall-warriors
+- https://poki.com/de/g/nightfall-warriors
+- https://poki.com/zh/g/nightfall-warriors
+- https://poki.com/id/g/nightfall-warriors
+- https://poki.com/hi/g/nightfall-warriors
+- https://poki.com/bn/g/nightfall-warriors
+- https://poki.com/ms/g/nightfall-warriors
+- https://poki.com/tl/g/nightfall-warriors
+- https://poki.com/uz/g/nightfall-warriors
+- https://poki.com/sr/g/nightfall-warriors
+
+Raw data: [sitemap.json](./data/poki.com/20241219_000700/sitemap.json) and [diff.json](./data/poki.com/20241219_000700/diff.json)
 
 ### 20241218_000657
 
@@ -4120,45 +4108,6 @@ Raw data: [sitemap.json](./data/poki.com/20241218_000657/sitemap.json) and [diff
 - https://poki.com/sr/g/street-slickers
 
 Raw data: [sitemap.json](./data/poki.com/20241217_000708/sitemap.json) and [diff.json](./data/poki.com/20241217_000708/diff.json)
-
-### 20241214_000650
-
-- https://poki.com/en/g/the-tree-clicker
-- https://poki.com/ru/g/the-tree-clicker
-- https://poki.com/ua/g/the-tree-clicker
-- https://poki.com/ar/g/the-tree-clicker
-- https://poki.com/th/g/the-tree-clicker
-- https://poki.com/kr/g/the-tree-clicker
-- https://poki.com/es/g/the-tree-clicker
-- https://poki.com/fr/g/the-tree-clicker
-- https://poki.com/tr/g/the-tree-clicker
-- https://poki.com/gr/g/the-tree-clicker
-- https://poki.com/no/g/the-tree-clicker
-- https://poki.com/ro/g/the-tree-clicker
-- https://poki.com/bg/g/the-tree-clicker
-- https://poki.com/hu/g/the-tree-clicker
-- https://poki.com/sk/g/the-tree-clicker
-- https://poki.com/se/g/the-tree-clicker
-- https://poki.com/it/g/the-tree-clicker
-- https://poki.com/dk/g/the-tree-clicker
-- https://poki.com/fi/g/the-tree-clicker
-- https://poki.com/pl/g/the-tree-clicker
-- https://poki.com/cz/g/the-tree-clicker
-- https://poki.com/nl/g/the-tree-clicker
-- https://poki.com/jp/g/the-tree-clicker
-- https://poki.com/il/g/the-tree-clicker
-- https://poki.com/br/g/the-tree-clicker
-- https://poki.com/de/g/the-tree-clicker
-- https://poki.com/zh/g/the-tree-clicker
-- https://poki.com/id/g/the-tree-clicker
-- https://poki.com/hi/g/the-tree-clicker
-- https://poki.com/bn/g/the-tree-clicker
-- https://poki.com/ms/g/the-tree-clicker
-- https://poki.com/tl/g/the-tree-clicker
-- https://poki.com/uz/g/the-tree-clicker
-- https://poki.com/sr/g/the-tree-clicker
-
-Raw data: [sitemap.json](./data/poki.com/20241214_000650/sitemap.json) and [diff.json](./data/poki.com/20241214_000650/diff.json)
 
 ## coolmathgames.com
 

@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-redone-3/",
+      "priority": 0.5,
+      "last_modified": "2024-12-18T00:14:14Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunked-pokemon-pokesprunki/",
+      "priority": 0.5,
+      "last_modified": "2024-12-18T02:34:09Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/aaaaaaaaaaaaaaaaaa/",
+      "priority": 0.5,
+      "last_modified": "2024-12-18T05:49:20Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
