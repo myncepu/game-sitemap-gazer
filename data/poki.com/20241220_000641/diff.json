@@ -1,0 +1,1670 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/microwars-2",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/blast-rpg",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/boom-slingers",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/food-clicker",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/museum-of-dots",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/slap-battles-io",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/krash-karts",
+      "priority": 0.5,
+      "last_modified": "2024-12-19T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

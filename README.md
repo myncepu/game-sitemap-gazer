@@ -54,6 +54,12 @@
 
 ## sprunki.org
 
+### 20241220_000641
+
+- https://sprunki.org/funny-balls-2048
+
+Raw data: [sitemap.json](./data/sprunki.org/20241220_000641/sitemap.json) and [diff.json](./data/sprunki.org/20241220_000641/diff.json)
+
 ### 20241219_000700
 
 - https://sprunki.org/sprunki-sprunktune
@@ -71,15 +77,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241219_000700/sitemap.json) and [d
 - https://sprunki.org/sprunki-ketchup
 
 Raw data: [sitemap.json](./data/sprunki.org/20241218_000657/sitemap.json) and [diff.json](./data/sprunki.org/20241218_000657/diff.json)
-
-### 20241217_000708
-
-- https://sprunki.org/sprunked-new-things
-- https://sprunki.org/mundo-torajo-sprunki
-- https://sprunki.org/sprunki-who-are-you
-- https://sprunki.org/sprunki-2025-edition
-
-Raw data: [sitemap.json](./data/sprunki.org/20241217_000708/sitemap.json) and [diff.json](./data/sprunki.org/20241217_000708/diff.json)
 
 ## sprunki.com
 
@@ -3389,6 +3386,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241220_000641
+
+- https://incrediboxsprunki.org/sprunki-but-bad
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241220_000641/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241220_000641/diff.json)
+
 ### 20241219_000700
 
 - https://incrediboxsprunki.org/incredibop-deadline
@@ -3409,12 +3412,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241219_000700/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241218_000657/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241218_000657/diff.json)
 
-### 20241217_000708
-
-- https://incrediboxsprunki.org/sprunki-scratch-mod
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241217_000708/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241217_000708/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -3422,6 +3419,22 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241217_000708/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241220_000641
+
+- https://sprunkin.com/game/sprunki-popit/
+- https://sprunkin.com/fan-game/incredibox-sprunki-remix/
+- https://sprunkin.com/fan-game/sprunki-x-purple-colourbox/
+- https://sprunkin.com/fan-game/sprunki-x-purple-colourbox-2/
+- https://sprunkin.com/fan-game/sprunki-phase-5-4/
+- https://sprunkin.com/fan-game/sprunkliy/
+- https://sprunkin.com/fan-game/sprunkle-update/
+- https://sprunkin.com/fan-game/sprunki-x-sprunked/
+- https://sprunkin.com/fan-game/sprunki-x-geometry-dash-fan-diff/
+- https://sprunkin.com/fan-game/sprunki-but-my-characters/
+- https://sprunkin.com/fan-game/sperunky-free/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241220_000641/sitemap.json) and [diff.json](./data/sprunkin.com/20241220_000641/diff.json)
 
 ### 20241219_000700
 
@@ -3449,30 +3462,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241219_000700/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-mod-smart-kittens-mustard/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241218_000657/sitemap.json) and [diff.json](./data/sprunkin.com/20241218_000657/diff.json)
-
-### 20241217_000708
-
-- https://sprunkin.com/fan-game/sprunki-retake-pokemon-pokesprunki/
-- https://sprunkin.com/fan-game/sprunki-phase-18/
-- https://sprunkin.com/fan-game/%d1%81%d0%bf%d1%80%d1%83%d0%bd%d0%ba%d0%b8-%d0%bd%d0%be-%d0%bc%d1%8b/
-- https://sprunkin.com/fan-game/spunki-sphase-infinisty/
-- https://sprunkin.com/fan-game/halfdan-sprunki/
-- https://sprunkin.com/fan-game/sprunki-but-dead/
-- https://sprunkin.com/fan-game/sprunki-cancelled-update/
-- https://sprunkin.com/fan-game/sprunki-cancelled-update-2/
-- https://sprunkin.com/fan-game/sprunki-remake-2/
-- https://sprunkin.com/fan-game/sprunki-symbol/
-- https://sprunkin.com/fan-game/sprunki-symbol-2/
-- https://sprunkin.com/fan-game/sprunki-crack-edition-2-0/
-- https://sprunkin.com/fan-game/sprunki-new/
-- https://sprunkin.com/fan-game/sprunki-new-2/
-- https://sprunkin.com/fan-game/sprunki-new-3/
-- https://sprunkin.com/fan-game/sprunki-gacha/
-- https://sprunkin.com/fan-game/sprunki-phase-8-nomral/
-- https://sprunkin.com/fan-game/sprunki-but-sus/
-- https://sprunkin.com/fan-game/vbunny-go-sprunki-mod/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241217_000708/sitemap.json) and [diff.json](./data/sprunkin.com/20241217_000708/diff.json)
 
 ## sprunkisinner.org
 
@@ -3704,6 +3693,15 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241220_000641
+
+- https://www.crazygames.com/game/stickman-clash
+- https://www.crazygames.com/game/escape-room-strange-case-2
+- https://www.crazygames.com/game/ball-block-maze
+- https://www.crazygames.com/t/point-and-click/3
+
+Raw data: [sitemap.json](./data/crazygames.com/20241220_000641/sitemap.json) and [diff.json](./data/crazygames.com/20241220_000641/diff.json)
+
 ### 20241219_000700
 
 - https://www.crazygames.com/game/age-of-tanks-warriors-td-war
@@ -3726,14 +3724,32 @@ Raw data: [sitemap.json](./data/crazygames.com/20241219_000700/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241218_000657/sitemap.json) and [diff.json](./data/crazygames.com/20241218_000657/diff.json)
 
-### 20241217_000708
-
-- https://www.crazygames.com/game/push-penguin
-- https://www.crazygames.com/game/cornfield
-
-Raw data: [sitemap.json](./data/crazygames.com/20241217_000708/sitemap.json) and [diff.json](./data/crazygames.com/20241217_000708/diff.json)
-
 ## y8.com
+
+### 20241220_000641
+
+- https://www.y8.com/studios/solo-wow
+- https://www.y8.com/studios/paradoks
+- https://www.y8.com/games/toddie_clowncore
+- https://www.y8.com/games/christmas_candy_escape_3d
+- https://www.y8.com/games/a_pico-sized_holiday_ninja
+- https://www.y8.com/games/russian_checkers
+- https://www.y8.com/games/wonders_of_egypt_mahjong
+- https://www.y8.com/games/wordler
+- https://www.y8.com/games/4_colors_card_mania
+- https://www.y8.com/games/match_3
+- https://www.y8.com/games/2048_wood_block
+- https://www.y8.com/games/bubble_shoot_park
+- https://www.y8.com/games/roblox_christmas_dress_up
+- https://www.y8.com/games/the_grench_couple_holiday_dress_up
+- https://www.y8.com/animation/excavator_heroically_rescues_dog_from_pit
+- https://www.y8.com/animation/ultimate_funny_videos_compilation
+- https://www.y8.com/animation/new__best__cats_and_dogs_videos
+- https://www.y8.com/animation/the_last_rifleman_official_trailer
+- https://www.y8.com/animation/hilarious_cat_expressions_compilation
+- https://www.y8.com/animation/the_legend_of_ochi_official_trailer
+
+Raw data: [sitemap.json](./data/y8.com/20241220_000641/sitemap.json) and [diff.json](./data/y8.com/20241220_000641/diff.json)
 
 ### 20241219_000700
 
@@ -3788,30 +3804,19 @@ Raw data: [sitemap.json](./data/y8.com/20241219_000700/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241218_000657/sitemap.json) and [diff.json](./data/y8.com/20241218_000657/diff.json)
 
-### 20241217_000708
-
-- https://www.y8.com/games/block_puzzle_master
-- https://www.y8.com/games/tool_of_escape
-- https://www.y8.com/games/museum_servivit
-- https://www.y8.com/games/virtual_interactive_fireplace
-- https://www.y8.com/games/ballistic_chickens_2
-- https://www.y8.com/games/facechart
-- https://www.y8.com/games/color_mix_jelly_merge
-- https://www.y8.com/games/queen_of_mahjong
-- https://www.y8.com/games/sprunki_phase_777
-- https://www.y8.com/games/fright_night_html5
-- https://www.y8.com/games/morse_code
-- https://www.y8.com/games/sum_shuffle
-- https://www.y8.com/animation/wolf_man_official_trailer
-- https://www.y8.com/animation/year_10_official_trailer
-- https://www.y8.com/animation/galaxy_stars
-- https://www.y8.com/animation/the_madness_official_trailer
-- https://www.y8.com/animation/on_becoming_a_guinea_fowl_official_trailer
-- https://www.y8.com/animation/a_nonsense_christmas_with_sabrina_carpenter
-
-Raw data: [sitemap.json](./data/y8.com/20241217_000708/sitemap.json) and [diff.json](./data/y8.com/20241217_000708/diff.json)
-
 ## kongregate.com
+
+### 20241220_000641
+
+- https://www.kongregate.com/games/SniperSmiley/blend
+- https://www.kongregate.com/games/kennedyshu/drawing-machine-3
+- https://www.kongregate.com/games/IcarusTyler/ourob-nom-rous
+- https://www.kongregate.com/games/ShahSoft/angry-bees
+- https://www.kongregate.com/games/coffingames/friction-physics-2
+- https://www.kongregate.com/games/Mermerkaya/troll-hunter
+- https://www.kongregate.com/games/Miktar/muu-just-another-day
+
+Raw data: [sitemap.json](./data/kongregate.com/20241220_000641/sitemap.json) and [diff.json](./data/kongregate.com/20241220_000641/diff.json)
 
 ### 20241219_000700
 
@@ -3840,55 +3845,254 @@ Raw data: [sitemap.json](./data/kongregate.com/20241219_000700/sitemap.json) and
 
 Raw data: [sitemap.json](./data/kongregate.com/20241208_000727/sitemap.json) and [diff.json](./data/kongregate.com/20241208_000727/diff.json)
 
-### 20241207_000654
-
-- https://www.kongregate.com/games/InfamousFlames
-- https://www.kongregate.com/games/ebuzzgames
-- https://www.kongregate.com/games/andreslopez
-- https://www.kongregate.com/games/hbrown41
-- https://www.kongregate.com/games/Akikazu_Akiya
-- https://www.kongregate.com/games/urpydude
-- https://www.kongregate.com/games/Eric_Kelly_RPI
-- https://www.kongregate.com/games/gagemcduffie
-- https://www.kongregate.com/games/John_Lee2
-- https://www.kongregate.com/games/Tikikala
-- https://www.kongregate.com/games/jankopoloha
-- https://www.kongregate.com/games/jeuguiceta1
-- https://www.kongregate.com/games/Violator3D
-- https://www.kongregate.com/games/dezgoGames/absoluty
-- https://www.kongregate.com/games/StarvingStudios/construction-fluxion-multiplayer
-- https://www.kongregate.com/games/oneru220/office-strike
-- https://www.kongregate.com/games/dev4play/lets-go-nuts-demo
-- https://www.kongregate.com/games/AllusiveGold/dragon-knight
-- https://www.kongregate.com/games/Alpha1390/spider-sprawl
-- https://www.kongregate.com/games/Caballeror20/explore-to-survive
-- https://www.kongregate.com/games/Tikikala/cat-vs-party
-- https://www.kongregate.com/games/jankopoloha/airmode-vbeta
-- https://www.kongregate.com/games/RyZerOne/hellgame
-- https://www.kongregate.com/games/jeuguiceta1/wild-ones-ultimate-2019
-- https://www.kongregate.com/games/Violator3D/all-evil-night
-- https://www.kongregate.com/games/visablebomb/tavin-ball
-- https://www.kongregate.com/games/simcitymoo5/simple-zombie-shooter-game
-- https://www.kongregate.com/games/PurpoAppo/sacrificial-shot
-- https://www.kongregate.com/games/kidsgamess/santa-claus-adventures
-- https://www.kongregate.com/games/JiHuiC1/building-breaker
-- https://www.kongregate.com/games/Astra11/banana-drama
-- https://www.kongregate.com/games/JamesD1459/iron-sights
-- https://www.kongregate.com/games/gerardcastle4/love-is-in-the-air
-- https://www.kongregate.com/games/gerardcastle4/giant-slayers
-- https://www.kongregate.com/games/RHMGames/cube-battle-royale
-- https://www.kongregate.com/games/fighter106/bubble-shooter-valentines
-- https://www.kongregate.com/games/mohdtausif666/mouseraider
-- https://www.kongregate.com/games/Stone_Age_Jazz/arza-adrenaline-rush-zombie-assault
-- https://www.kongregate.com/games/sathish/mysteries-forest-escape-8
-
-Raw data: [sitemap.json](./data/kongregate.com/20241207_000654/sitemap.json) and [diff.json](./data/kongregate.com/20241207_000654/diff.json)
-
 ## newgrounds.com
 
 ## miniclip.com
 
 ## poki.com
+
+### 20241220_000641
+
+- https://poki.com/en/g/microwars-2
+- https://poki.com/en/g/blast-rpg
+- https://poki.com/en/g/boom-slingers
+- https://poki.com/en/g/food-clicker
+- https://poki.com/en/g/museum-of-dots
+- https://poki.com/en/g/slap-battles-io
+- https://poki.com/en/g/krash-karts
+- https://poki.com/ru/g/microwars-2
+- https://poki.com/ru/g/blast-rpg
+- https://poki.com/ru/g/boom-slingers
+- https://poki.com/ru/g/food-clicker
+- https://poki.com/ru/g/museum-of-dots
+- https://poki.com/ru/g/slap-battles-io
+- https://poki.com/ru/g/krash-karts
+- https://poki.com/ua/g/microwars-2
+- https://poki.com/ua/g/blast-rpg
+- https://poki.com/ua/g/boom-slingers
+- https://poki.com/ua/g/food-clicker
+- https://poki.com/ua/g/museum-of-dots
+- https://poki.com/ua/g/slap-battles-io
+- https://poki.com/ua/g/krash-karts
+- https://poki.com/ar/g/microwars-2
+- https://poki.com/ar/g/blast-rpg
+- https://poki.com/ar/g/boom-slingers
+- https://poki.com/ar/g/food-clicker
+- https://poki.com/ar/g/museum-of-dots
+- https://poki.com/ar/g/slap-battles-io
+- https://poki.com/ar/g/krash-karts
+- https://poki.com/th/g/microwars-2
+- https://poki.com/th/g/blast-rpg
+- https://poki.com/th/g/boom-slingers
+- https://poki.com/th/g/food-clicker
+- https://poki.com/th/g/museum-of-dots
+- https://poki.com/th/g/slap-battles-io
+- https://poki.com/th/g/krash-karts
+- https://poki.com/kr/g/microwars-2
+- https://poki.com/kr/g/blast-rpg
+- https://poki.com/kr/g/boom-slingers
+- https://poki.com/kr/g/food-clicker
+- https://poki.com/kr/g/museum-of-dots
+- https://poki.com/kr/g/slap-battles-io
+- https://poki.com/kr/g/krash-karts
+- https://poki.com/es/g/microwars-2
+- https://poki.com/es/g/blast-rpg
+- https://poki.com/es/g/boom-slingers
+- https://poki.com/es/g/food-clicker
+- https://poki.com/es/g/museum-of-dots
+- https://poki.com/es/g/slap-battles-io
+- https://poki.com/es/g/krash-karts
+- https://poki.com/fr/g/microwars-2
+- https://poki.com/fr/g/blast-rpg
+- https://poki.com/fr/g/boom-slingers
+- https://poki.com/fr/g/food-clicker
+- https://poki.com/fr/g/museum-of-dots
+- https://poki.com/fr/g/slap-battles-io
+- https://poki.com/fr/g/krash-karts
+- https://poki.com/tr/g/microwars-2
+- https://poki.com/tr/g/blast-rpg
+- https://poki.com/tr/g/boom-slingers
+- https://poki.com/tr/g/food-clicker
+- https://poki.com/tr/g/museum-of-dots
+- https://poki.com/tr/g/slap-battles-io
+- https://poki.com/tr/g/krash-karts
+- https://poki.com/gr/g/microwars-2
+- https://poki.com/gr/g/blast-rpg
+- https://poki.com/gr/g/boom-slingers
+- https://poki.com/gr/g/food-clicker
+- https://poki.com/gr/g/museum-of-dots
+- https://poki.com/gr/g/slap-battles-io
+- https://poki.com/gr/g/krash-karts
+- https://poki.com/no/g/microwars-2
+- https://poki.com/no/g/blast-rpg
+- https://poki.com/no/g/boom-slingers
+- https://poki.com/no/g/food-clicker
+- https://poki.com/no/g/museum-of-dots
+- https://poki.com/no/g/slap-battles-io
+- https://poki.com/no/g/krash-karts
+- https://poki.com/ro/g/microwars-2
+- https://poki.com/ro/g/blast-rpg
+- https://poki.com/ro/g/boom-slingers
+- https://poki.com/ro/g/food-clicker
+- https://poki.com/ro/g/museum-of-dots
+- https://poki.com/ro/g/slap-battles-io
+- https://poki.com/ro/g/krash-karts
+- https://poki.com/bg/g/microwars-2
+- https://poki.com/bg/g/blast-rpg
+- https://poki.com/bg/g/boom-slingers
+- https://poki.com/bg/g/food-clicker
+- https://poki.com/bg/g/museum-of-dots
+- https://poki.com/bg/g/slap-battles-io
+- https://poki.com/bg/g/krash-karts
+- https://poki.com/hu/g/microwars-2
+- https://poki.com/hu/g/blast-rpg
+- https://poki.com/hu/g/boom-slingers
+- https://poki.com/hu/g/food-clicker
+- https://poki.com/hu/g/museum-of-dots
+- https://poki.com/hu/g/slap-battles-io
+- https://poki.com/hu/g/krash-karts
+- https://poki.com/sk/g/microwars-2
+- https://poki.com/sk/g/blast-rpg
+- https://poki.com/sk/g/boom-slingers
+- https://poki.com/sk/g/food-clicker
+- https://poki.com/sk/g/museum-of-dots
+- https://poki.com/sk/g/slap-battles-io
+- https://poki.com/sk/g/krash-karts
+- https://poki.com/se/g/microwars-2
+- https://poki.com/se/g/blast-rpg
+- https://poki.com/se/g/boom-slingers
+- https://poki.com/se/g/food-clicker
+- https://poki.com/se/g/museum-of-dots
+- https://poki.com/se/g/slap-battles-io
+- https://poki.com/se/g/krash-karts
+- https://poki.com/it/g/microwars-2
+- https://poki.com/it/g/blast-rpg
+- https://poki.com/it/g/boom-slingers
+- https://poki.com/it/g/food-clicker
+- https://poki.com/it/g/museum-of-dots
+- https://poki.com/it/g/slap-battles-io
+- https://poki.com/it/g/krash-karts
+- https://poki.com/dk/g/microwars-2
+- https://poki.com/dk/g/blast-rpg
+- https://poki.com/dk/g/boom-slingers
+- https://poki.com/dk/g/food-clicker
+- https://poki.com/dk/g/museum-of-dots
+- https://poki.com/dk/g/slap-battles-io
+- https://poki.com/dk/g/krash-karts
+- https://poki.com/fi/g/microwars-2
+- https://poki.com/fi/g/blast-rpg
+- https://poki.com/fi/g/boom-slingers
+- https://poki.com/fi/g/food-clicker
+- https://poki.com/fi/g/museum-of-dots
+- https://poki.com/fi/g/slap-battles-io
+- https://poki.com/fi/g/krash-karts
+- https://poki.com/pl/g/microwars-2
+- https://poki.com/pl/g/blast-rpg
+- https://poki.com/pl/g/boom-slingers
+- https://poki.com/pl/g/food-clicker
+- https://poki.com/pl/g/museum-of-dots
+- https://poki.com/pl/g/slap-battles-io
+- https://poki.com/pl/g/krash-karts
+- https://poki.com/cz/g/microwars-2
+- https://poki.com/cz/g/blast-rpg
+- https://poki.com/cz/g/boom-slingers
+- https://poki.com/cz/g/food-clicker
+- https://poki.com/cz/g/museum-of-dots
+- https://poki.com/cz/g/slap-battles-io
+- https://poki.com/cz/g/krash-karts
+- https://poki.com/nl/g/microwars-2
+- https://poki.com/nl/g/blast-rpg
+- https://poki.com/nl/g/boom-slingers
+- https://poki.com/nl/g/food-clicker
+- https://poki.com/nl/g/museum-of-dots
+- https://poki.com/nl/g/slap-battles-io
+- https://poki.com/nl/g/krash-karts
+- https://poki.com/jp/g/microwars-2
+- https://poki.com/jp/g/blast-rpg
+- https://poki.com/jp/g/boom-slingers
+- https://poki.com/jp/g/food-clicker
+- https://poki.com/jp/g/museum-of-dots
+- https://poki.com/jp/g/slap-battles-io
+- https://poki.com/jp/g/krash-karts
+- https://poki.com/il/g/microwars-2
+- https://poki.com/il/g/blast-rpg
+- https://poki.com/il/g/boom-slingers
+- https://poki.com/il/g/food-clicker
+- https://poki.com/il/g/museum-of-dots
+- https://poki.com/il/g/slap-battles-io
+- https://poki.com/il/g/krash-karts
+- https://poki.com/br/g/microwars-2
+- https://poki.com/br/g/blast-rpg
+- https://poki.com/br/g/boom-slingers
+- https://poki.com/br/g/food-clicker
+- https://poki.com/br/g/museum-of-dots
+- https://poki.com/br/g/slap-battles-io
+- https://poki.com/br/g/krash-karts
+- https://poki.com/de/g/microwars-2
+- https://poki.com/de/g/blast-rpg
+- https://poki.com/de/g/boom-slingers
+- https://poki.com/de/g/food-clicker
+- https://poki.com/de/g/museum-of-dots
+- https://poki.com/de/g/slap-battles-io
+- https://poki.com/de/g/krash-karts
+- https://poki.com/zh/g/microwars-2
+- https://poki.com/zh/g/blast-rpg
+- https://poki.com/zh/g/boom-slingers
+- https://poki.com/zh/g/food-clicker
+- https://poki.com/zh/g/museum-of-dots
+- https://poki.com/zh/g/slap-battles-io
+- https://poki.com/zh/g/krash-karts
+- https://poki.com/id/g/microwars-2
+- https://poki.com/id/g/blast-rpg
+- https://poki.com/id/g/boom-slingers
+- https://poki.com/id/g/food-clicker
+- https://poki.com/id/g/museum-of-dots
+- https://poki.com/id/g/slap-battles-io
+- https://poki.com/id/g/krash-karts
+- https://poki.com/hi/g/microwars-2
+- https://poki.com/hi/g/blast-rpg
+- https://poki.com/hi/g/boom-slingers
+- https://poki.com/hi/g/food-clicker
+- https://poki.com/hi/g/museum-of-dots
+- https://poki.com/hi/g/slap-battles-io
+- https://poki.com/hi/g/krash-karts
+- https://poki.com/bn/g/microwars-2
+- https://poki.com/bn/g/blast-rpg
+- https://poki.com/bn/g/boom-slingers
+- https://poki.com/bn/g/food-clicker
+- https://poki.com/bn/g/museum-of-dots
+- https://poki.com/bn/g/slap-battles-io
+- https://poki.com/bn/g/krash-karts
+- https://poki.com/ms/g/microwars-2
+- https://poki.com/ms/g/blast-rpg
+- https://poki.com/ms/g/boom-slingers
+- https://poki.com/ms/g/food-clicker
+- https://poki.com/ms/g/museum-of-dots
+- https://poki.com/ms/g/slap-battles-io
+- https://poki.com/ms/g/krash-karts
+- https://poki.com/tl/g/microwars-2
+- https://poki.com/tl/g/blast-rpg
+- https://poki.com/tl/g/boom-slingers
+- https://poki.com/tl/g/food-clicker
+- https://poki.com/tl/g/museum-of-dots
+- https://poki.com/tl/g/slap-battles-io
+- https://poki.com/tl/g/krash-karts
+- https://poki.com/uz/g/microwars-2
+- https://poki.com/uz/g/blast-rpg
+- https://poki.com/uz/g/boom-slingers
+- https://poki.com/uz/g/food-clicker
+- https://poki.com/uz/g/museum-of-dots
+- https://poki.com/uz/g/slap-battles-io
+- https://poki.com/uz/g/krash-karts
+- https://poki.com/sr/g/microwars-2
+- https://poki.com/sr/g/blast-rpg
+- https://poki.com/sr/g/boom-slingers
+- https://poki.com/sr/g/food-clicker
+- https://poki.com/sr/g/museum-of-dots
+- https://poki.com/sr/g/slap-battles-io
+- https://poki.com/sr/g/krash-karts
+
+Raw data: [sitemap.json](./data/poki.com/20241220_000641/sitemap.json) and [diff.json](./data/poki.com/20241220_000641/diff.json)
 
 ### 20241219_000700
 
@@ -4001,113 +4205,6 @@ Raw data: [sitemap.json](./data/poki.com/20241219_000700/sitemap.json) and [diff
 - https://poki.com/sr/g/art-pixel-workshop-2
 
 Raw data: [sitemap.json](./data/poki.com/20241218_000657/sitemap.json) and [diff.json](./data/poki.com/20241218_000657/diff.json)
-
-### 20241217_000708
-
-- https://poki.com/en/g/unscrew-wood-puzzle
-- https://poki.com/en/g/exhibit-of-sorrows
-- https://poki.com/en/g/street-slickers
-- https://poki.com/ru/g/unscrew-wood-puzzle
-- https://poki.com/ru/g/exhibit-of-sorrows
-- https://poki.com/ru/g/street-slickers
-- https://poki.com/ua/g/unscrew-wood-puzzle
-- https://poki.com/ua/g/exhibit-of-sorrows
-- https://poki.com/ua/g/street-slickers
-- https://poki.com/ar/g/unscrew-wood-puzzle
-- https://poki.com/ar/g/exhibit-of-sorrows
-- https://poki.com/ar/g/street-slickers
-- https://poki.com/th/g/unscrew-wood-puzzle
-- https://poki.com/th/g/exhibit-of-sorrows
-- https://poki.com/th/g/street-slickers
-- https://poki.com/kr/g/unscrew-wood-puzzle
-- https://poki.com/kr/g/exhibit-of-sorrows
-- https://poki.com/kr/g/street-slickers
-- https://poki.com/es/g/unscrew-wood-puzzle
-- https://poki.com/es/g/exhibit-of-sorrows
-- https://poki.com/es/g/street-slickers
-- https://poki.com/fr/g/unscrew-wood-puzzle
-- https://poki.com/fr/g/exhibit-of-sorrows
-- https://poki.com/fr/g/street-slickers
-- https://poki.com/tr/g/unscrew-wood-puzzle
-- https://poki.com/tr/g/exhibit-of-sorrows
-- https://poki.com/tr/g/street-slickers
-- https://poki.com/gr/g/unscrew-wood-puzzle
-- https://poki.com/gr/g/exhibit-of-sorrows
-- https://poki.com/gr/g/street-slickers
-- https://poki.com/no/g/unscrew-wood-puzzle
-- https://poki.com/no/g/exhibit-of-sorrows
-- https://poki.com/no/g/street-slickers
-- https://poki.com/ro/g/unscrew-wood-puzzle
-- https://poki.com/ro/g/exhibit-of-sorrows
-- https://poki.com/ro/g/street-slickers
-- https://poki.com/bg/g/unscrew-wood-puzzle
-- https://poki.com/bg/g/exhibit-of-sorrows
-- https://poki.com/bg/g/street-slickers
-- https://poki.com/hu/g/unscrew-wood-puzzle
-- https://poki.com/hu/g/exhibit-of-sorrows
-- https://poki.com/hu/g/street-slickers
-- https://poki.com/sk/g/unscrew-wood-puzzle
-- https://poki.com/sk/g/exhibit-of-sorrows
-- https://poki.com/sk/g/street-slickers
-- https://poki.com/se/g/unscrew-wood-puzzle
-- https://poki.com/se/g/exhibit-of-sorrows
-- https://poki.com/se/g/street-slickers
-- https://poki.com/it/g/unscrew-wood-puzzle
-- https://poki.com/it/g/exhibit-of-sorrows
-- https://poki.com/it/g/street-slickers
-- https://poki.com/dk/g/unscrew-wood-puzzle
-- https://poki.com/dk/g/exhibit-of-sorrows
-- https://poki.com/dk/g/street-slickers
-- https://poki.com/fi/g/unscrew-wood-puzzle
-- https://poki.com/fi/g/exhibit-of-sorrows
-- https://poki.com/fi/g/street-slickers
-- https://poki.com/pl/g/unscrew-wood-puzzle
-- https://poki.com/pl/g/exhibit-of-sorrows
-- https://poki.com/pl/g/street-slickers
-- https://poki.com/cz/g/unscrew-wood-puzzle
-- https://poki.com/cz/g/exhibit-of-sorrows
-- https://poki.com/cz/g/street-slickers
-- https://poki.com/nl/g/unscrew-wood-puzzle
-- https://poki.com/nl/g/exhibit-of-sorrows
-- https://poki.com/nl/g/street-slickers
-- https://poki.com/jp/g/unscrew-wood-puzzle
-- https://poki.com/jp/g/exhibit-of-sorrows
-- https://poki.com/jp/g/street-slickers
-- https://poki.com/il/g/unscrew-wood-puzzle
-- https://poki.com/il/g/exhibit-of-sorrows
-- https://poki.com/il/g/street-slickers
-- https://poki.com/br/g/unscrew-wood-puzzle
-- https://poki.com/br/g/exhibit-of-sorrows
-- https://poki.com/br/g/street-slickers
-- https://poki.com/de/g/unscrew-wood-puzzle
-- https://poki.com/de/g/exhibit-of-sorrows
-- https://poki.com/de/g/street-slickers
-- https://poki.com/zh/g/unscrew-wood-puzzle
-- https://poki.com/zh/g/exhibit-of-sorrows
-- https://poki.com/zh/g/street-slickers
-- https://poki.com/id/g/unscrew-wood-puzzle
-- https://poki.com/id/g/exhibit-of-sorrows
-- https://poki.com/id/g/street-slickers
-- https://poki.com/hi/g/unscrew-wood-puzzle
-- https://poki.com/hi/g/exhibit-of-sorrows
-- https://poki.com/hi/g/street-slickers
-- https://poki.com/bn/g/unscrew-wood-puzzle
-- https://poki.com/bn/g/exhibit-of-sorrows
-- https://poki.com/bn/g/street-slickers
-- https://poki.com/ms/g/unscrew-wood-puzzle
-- https://poki.com/ms/g/exhibit-of-sorrows
-- https://poki.com/ms/g/street-slickers
-- https://poki.com/tl/g/unscrew-wood-puzzle
-- https://poki.com/tl/g/exhibit-of-sorrows
-- https://poki.com/tl/g/street-slickers
-- https://poki.com/uz/g/unscrew-wood-puzzle
-- https://poki.com/uz/g/exhibit-of-sorrows
-- https://poki.com/uz/g/street-slickers
-- https://poki.com/sr/g/unscrew-wood-puzzle
-- https://poki.com/sr/g/exhibit-of-sorrows
-- https://poki.com/sr/g/street-slickers
-
-Raw data: [sitemap.json](./data/poki.com/20241217_000708/sitemap.json) and [diff.json](./data/poki.com/20241217_000708/diff.json)
 
 ## coolmathgames.com
 
