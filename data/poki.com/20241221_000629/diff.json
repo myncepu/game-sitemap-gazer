@@ -1,0 +1,1670 @@
+{
+  "pages": [
+    {
+      "url": "https://poki.com/en/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/en/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ru/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ua/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ar/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/th/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/kr/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/es/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fr/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tr/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/gr/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/no/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ro/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bg/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hu/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sk/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/se/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/it/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/dk/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/fi/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/pl/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/cz/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/nl/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/jp/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/il/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/br/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/de/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/zh/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/id/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-20T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/hi/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/bn/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/ms/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/tl/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/uz/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/raze-3",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/dawn-of-the-sniper",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/flightless",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/cheese-dreams-new-moon",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/bump-battle-royale",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/winner-vs-loser",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://poki.com/sr/g/worlds-hardest-game",
+      "priority": 0.5,
+      "last_modified": "2024-12-21T00:00:00",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

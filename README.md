@@ -54,6 +54,18 @@
 
 ## sprunki.org
 
+### 20241221_000629
+
+- https://sprunki.org/sprunki-megalovania
+- https://sprunki.org/sprunki-monsters
+- https://sprunki.org/sprunki-remix-2
+- https://sprunki.org/sprunked-20-fe-christmas
+- https://sprunki.org/sprunki-sprunkbricks
+- https://sprunki.org/music-rush-0
+- https://sprunki.org/sprunki-spruncalypse
+
+Raw data: [sitemap.json](./data/sprunki.org/20241221_000629/sitemap.json) and [diff.json](./data/sprunki.org/20241221_000629/diff.json)
+
 ### 20241220_000641
 
 - https://sprunki.org/funny-balls-2048
@@ -68,15 +80,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241220_000641/sitemap.json) and [d
 - https://sprunki.org/sprunki-popit
 
 Raw data: [sitemap.json](./data/sprunki.org/20241219_000700/sitemap.json) and [diff.json](./data/sprunki.org/20241219_000700/diff.json)
-
-### 20241218_000657
-
-- https://sprunki.org/sprunkgerny
-- https://sprunki.org/merry-christmas-2025
-- https://sprunki.org/sprunki-ketchup-20
-- https://sprunki.org/sprunki-ketchup
-
-Raw data: [sitemap.json](./data/sprunki.org/20241218_000657/sitemap.json) and [diff.json](./data/sprunki.org/20241218_000657/diff.json)
 
 ## sprunki.com
 
@@ -3386,6 +3389,16 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241221_000629
+
+- https://incrediboxsprunki.org/sprunki-facing-upward
+- https://incrediboxsprunki.org/sprunki-christmas-modded
+- https://incrediboxsprunki.org/sprunki-reskin
+- https://incrediboxsprunki.org/sprunki-but-black-lines
+- https://incrediboxsprunki.org/sprunki-cats
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241221_000629/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241221_000629/diff.json)
+
 ### 20241220_000641
 
 - https://incrediboxsprunki.org/sprunki-but-bad
@@ -3401,17 +3414,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241220_000641/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241219_000700/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241219_000700/diff.json)
 
-### 20241218_000657
-
-- https://incrediboxsprunki.org/sprunki-side-b
-- https://incrediboxsprunki.org/sprunki-extra-characters
-- https://incrediboxsprunki.org/sprunki-archive-20
-- https://incrediboxsprunki.org/corruptbox-but-sprunki
-- https://incrediboxsprunki.org/sprunki-doors
-- https://incrediboxsprunki.org/sprunki-rainbow-friends
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241218_000657/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241218_000657/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -3419,6 +3421,31 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241218_000657/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241221_000629
+
+- https://sprunkin.com/game/parasprunki-retake/
+- https://sprunkin.com/game/sprunkis-world/
+- https://sprunkin.com/game/sprunki-definitive-phase-3/
+- https://sprunkin.com/game/sprunki-definitive-phase-4/
+- https://sprunkin.com/game/sprunki-sinner-edition-jevin-likes-tunner/
+- https://sprunkin.com/game/sprunklairity-sprunked/
+- https://sprunkin.com/game/htsprunkis-retake/
+- https://sprunkin.com/game/sprunki-definitive-phase-8/
+- https://sprunkin.com/game/sprunki-but-broken/
+- https://sprunkin.com/game/sprunki-retake-but-epic/
+- https://sprunkin.com/game/sprunki-phase-888/
+- https://sprunkin.com/game/sprunki-picosuke/
+- https://sprunkin.com/game/sprunki-phase-19/
+- https://sprunkin.com/fan-game/randomgamesprunki-credits-to-n0t_liam-in-scratch/
+- https://sprunkin.com/fan-game/sprunki-phase-19/
+- https://sprunkin.com/fan-game/sprunki-retakedouble-taken/
+- https://sprunkin.com/fan-game/incredibox-mild-as-spring/
+- https://sprunkin.com/fan-game/sprunki-retake-deluxe/
+- https://sprunkin.com/fan-game/sprunki-food/
+- https://sprunkin.com/fan-game/annoy-the-toasted-rainbow-sandwich/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241221_000629/sitemap.json) and [diff.json](./data/sprunkin.com/20241221_000629/diff.json)
 
 ### 20241220_000641
 
@@ -3443,25 +3470,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241220_000641/sitemap.json) and [
 - https://sprunkin.com/fan-game/aaaaaaaaaaaaaaaaaa/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241219_000700/sitemap.json) and [diff.json](./data/sprunkin.com/20241219_000700/diff.json)
-
-### 20241218_000657
-
-- https://sprunkin.com/game/sprunki-skibidi-toilet-remake/
-- https://sprunkin.com/game/sprunki-phase-4-everyone-is-alive/
-- https://sprunkin.com/game/sprunki-retake-reupload/
-- https://sprunkin.com/game/sprunki-circo-digital/
-- https://sprunkin.com/game/sprunki-escuela/
-- https://sprunkin.com/game/sprunki-retake-sprunkyay-dlc/
-- https://sprunkin.com/fan-game/vbunny-sprunki-mod/
-- https://sprunkin.com/fan-game/sprunki-mod-smart-kittens/
-- https://sprunkin.com/fan-game/sprunki-but-my-voicecringe/
-- https://sprunkin.com/fan-game/sprunki-brawl-stars-edition/
-- https://sprunkin.com/fan-game/splinkle-7-0/
-- https://sprunkin.com/fan-game/cat25k-sprunki/
-- https://sprunkin.com/fan-game/sprunki-with-famili-help/
-- https://sprunkin.com/fan-game/sprunki-mod-smart-kittens-mustard/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241218_000657/sitemap.json) and [diff.json](./data/sprunkin.com/20241218_000657/diff.json)
 
 ## sprunkisinner.org
 
@@ -3693,6 +3701,18 @@ Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [d
 
 ## crazygames.com
 
+### 20241221_000629
+
+- https://www.crazygames.com/game/solitaire-social
+- https://www.crazygames.com/game/frutball
+- https://www.crazygames.com/game/mma-manager-2
+- https://www.crazygames.com/game/cubic-frontier-zombie-robby
+- https://www.crazygames.com/game/realderby---crash-day
+- https://www.crazygames.com/game/diy-ugly-christmas-sweater
+- https://www.crazygames.com/t/sim/7
+
+Raw data: [sitemap.json](./data/crazygames.com/20241221_000629/sitemap.json) and [diff.json](./data/crazygames.com/20241221_000629/diff.json)
+
 ### 20241220_000641
 
 - https://www.crazygames.com/game/stickman-clash
@@ -3713,18 +3733,29 @@ Raw data: [sitemap.json](./data/crazygames.com/20241220_000641/sitemap.json) and
 
 Raw data: [sitemap.json](./data/crazygames.com/20241219_000700/sitemap.json) and [diff.json](./data/crazygames.com/20241219_000700/diff.json)
 
-### 20241218_000657
-
-- https://www.crazygames.com/game/the-army
-- https://www.crazygames.com/game/merge-world
-- https://www.crazygames.com/game/minimine
-- https://www.crazygames.com/game/chef-slide
-- https://www.crazygames.com/game/hungry-hamster
-- https://www.crazygames.com/t/top-down/4
-
-Raw data: [sitemap.json](./data/crazygames.com/20241218_000657/sitemap.json) and [diff.json](./data/crazygames.com/20241218_000657/diff.json)
-
 ## y8.com
+
+### 20241221_000629
+
+- https://www.y8.com/games/real_driving_simulator
+- https://www.y8.com/games/stunt_bike_rider_bros
+- https://www.y8.com/games/baby_cathy_ep42_christmas_eve
+- https://www.y8.com/games/sprunki_phase_8
+- https://www.y8.com/games/fruit_fusion
+- https://www.y8.com/games/sprunki_find_the_differences
+- https://www.y8.com/games/train_jam
+- https://www.y8.com/games/merge_balls_new_years_toys_in_3d_
+- https://www.y8.com/games/spot_the_cat
+- https://www.y8.com/games/monster_slayer_merge_survive
+- https://www.y8.com/games/we_will_not_survive
+- https://www.y8.com/games/tasty_shawarma
+- https://www.y8.com/animation/meet_me_next_christmas_official_trailer
+- https://www.y8.com/animation/better_man_official_trailer
+- https://www.y8.com/animation/guardian_of_the_sky
+- https://www.y8.com/animation/storks_in_flight_majestic_journeys
+- https://www.y8.com/animation/soaring_high_the_art_of_flight
+
+Raw data: [sitemap.json](./data/y8.com/20241221_000629/sitemap.json) and [diff.json](./data/y8.com/20241221_000629/diff.json)
 
 ### 20241220_000641
 
@@ -3775,35 +3806,6 @@ Raw data: [sitemap.json](./data/y8.com/20241220_000641/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241219_000700/sitemap.json) and [diff.json](./data/y8.com/20241219_000700/diff.json)
 
-### 20241218_000657
-
-- https://www.y8.com/studios/james-developer
-- https://www.y8.com/studios/kami-studio
-- https://www.y8.com/tags/detective
-- https://www.y8.com/tags/guessing
-- https://www.y8.com/tags/idle
-- https://www.y8.com/tags/matching
-- https://www.y8.com/tags/memory
-- https://www.y8.com/games/toddie_christmas_time
-- https://www.y8.com/games/jewel_miner_quest
-- https://www.y8.com/games/incredibox_blue_colorbox_
-- https://www.y8.com/games/season_pass
-- https://www.y8.com/games/paint_and_draw
-- https://www.y8.com/games/grid_run
-- https://www.y8.com/games/klondike_classic_solitaire_webgl
-- https://www.y8.com/games/ragdoll_football_2_players
-- https://www.y8.com/games/rebound_star
-- https://www.y8.com/games/a_prison_for_dreams
-- https://www.y8.com/games/talking_ishowspeed
-- https://www.y8.com/animation/aftermath_exclusive_trailer
-- https://www.y8.com/animation/kids_perform_a_magic_trick
-- https://www.y8.com/animation/2073_new_official_trailer
-- https://www.y8.com/animation/hip_anatomy
-- https://www.y8.com/animation/the_bad_guys_2_official_trailer
-- https://www.y8.com/animation/sonic_the_hedgehog_3_trailer_2
-
-Raw data: [sitemap.json](./data/y8.com/20241218_000657/sitemap.json) and [diff.json](./data/y8.com/20241218_000657/diff.json)
-
 ## kongregate.com
 
 ### 20241220_000641
@@ -3850,6 +3852,249 @@ Raw data: [sitemap.json](./data/kongregate.com/20241208_000727/sitemap.json) and
 ## miniclip.com
 
 ## poki.com
+
+### 20241221_000629
+
+- https://poki.com/en/g/raze-3
+- https://poki.com/en/g/dawn-of-the-sniper
+- https://poki.com/en/g/flightless
+- https://poki.com/en/g/cheese-dreams-new-moon
+- https://poki.com/en/g/bump-battle-royale
+- https://poki.com/en/g/winner-vs-loser
+- https://poki.com/en/g/worlds-hardest-game
+- https://poki.com/ru/g/raze-3
+- https://poki.com/ru/g/dawn-of-the-sniper
+- https://poki.com/ru/g/flightless
+- https://poki.com/ru/g/cheese-dreams-new-moon
+- https://poki.com/ru/g/bump-battle-royale
+- https://poki.com/ru/g/winner-vs-loser
+- https://poki.com/ru/g/worlds-hardest-game
+- https://poki.com/ua/g/raze-3
+- https://poki.com/ua/g/dawn-of-the-sniper
+- https://poki.com/ua/g/flightless
+- https://poki.com/ua/g/cheese-dreams-new-moon
+- https://poki.com/ua/g/bump-battle-royale
+- https://poki.com/ua/g/winner-vs-loser
+- https://poki.com/ua/g/worlds-hardest-game
+- https://poki.com/ar/g/raze-3
+- https://poki.com/ar/g/dawn-of-the-sniper
+- https://poki.com/ar/g/flightless
+- https://poki.com/ar/g/cheese-dreams-new-moon
+- https://poki.com/ar/g/bump-battle-royale
+- https://poki.com/ar/g/winner-vs-loser
+- https://poki.com/ar/g/worlds-hardest-game
+- https://poki.com/th/g/raze-3
+- https://poki.com/th/g/dawn-of-the-sniper
+- https://poki.com/th/g/flightless
+- https://poki.com/th/g/cheese-dreams-new-moon
+- https://poki.com/th/g/bump-battle-royale
+- https://poki.com/th/g/winner-vs-loser
+- https://poki.com/th/g/worlds-hardest-game
+- https://poki.com/kr/g/raze-3
+- https://poki.com/kr/g/dawn-of-the-sniper
+- https://poki.com/kr/g/flightless
+- https://poki.com/kr/g/cheese-dreams-new-moon
+- https://poki.com/kr/g/bump-battle-royale
+- https://poki.com/kr/g/winner-vs-loser
+- https://poki.com/kr/g/worlds-hardest-game
+- https://poki.com/es/g/raze-3
+- https://poki.com/es/g/dawn-of-the-sniper
+- https://poki.com/es/g/flightless
+- https://poki.com/es/g/cheese-dreams-new-moon
+- https://poki.com/es/g/bump-battle-royale
+- https://poki.com/es/g/winner-vs-loser
+- https://poki.com/es/g/worlds-hardest-game
+- https://poki.com/fr/g/raze-3
+- https://poki.com/fr/g/dawn-of-the-sniper
+- https://poki.com/fr/g/flightless
+- https://poki.com/fr/g/cheese-dreams-new-moon
+- https://poki.com/fr/g/bump-battle-royale
+- https://poki.com/fr/g/winner-vs-loser
+- https://poki.com/fr/g/worlds-hardest-game
+- https://poki.com/tr/g/raze-3
+- https://poki.com/tr/g/dawn-of-the-sniper
+- https://poki.com/tr/g/flightless
+- https://poki.com/tr/g/cheese-dreams-new-moon
+- https://poki.com/tr/g/bump-battle-royale
+- https://poki.com/tr/g/winner-vs-loser
+- https://poki.com/tr/g/worlds-hardest-game
+- https://poki.com/gr/g/raze-3
+- https://poki.com/gr/g/dawn-of-the-sniper
+- https://poki.com/gr/g/flightless
+- https://poki.com/gr/g/cheese-dreams-new-moon
+- https://poki.com/gr/g/bump-battle-royale
+- https://poki.com/gr/g/winner-vs-loser
+- https://poki.com/gr/g/worlds-hardest-game
+- https://poki.com/no/g/raze-3
+- https://poki.com/no/g/dawn-of-the-sniper
+- https://poki.com/no/g/flightless
+- https://poki.com/no/g/cheese-dreams-new-moon
+- https://poki.com/no/g/bump-battle-royale
+- https://poki.com/no/g/winner-vs-loser
+- https://poki.com/no/g/worlds-hardest-game
+- https://poki.com/ro/g/raze-3
+- https://poki.com/ro/g/dawn-of-the-sniper
+- https://poki.com/ro/g/flightless
+- https://poki.com/ro/g/cheese-dreams-new-moon
+- https://poki.com/ro/g/bump-battle-royale
+- https://poki.com/ro/g/winner-vs-loser
+- https://poki.com/ro/g/worlds-hardest-game
+- https://poki.com/bg/g/raze-3
+- https://poki.com/bg/g/dawn-of-the-sniper
+- https://poki.com/bg/g/flightless
+- https://poki.com/bg/g/cheese-dreams-new-moon
+- https://poki.com/bg/g/bump-battle-royale
+- https://poki.com/bg/g/winner-vs-loser
+- https://poki.com/bg/g/worlds-hardest-game
+- https://poki.com/hu/g/raze-3
+- https://poki.com/hu/g/dawn-of-the-sniper
+- https://poki.com/hu/g/flightless
+- https://poki.com/hu/g/cheese-dreams-new-moon
+- https://poki.com/hu/g/bump-battle-royale
+- https://poki.com/hu/g/winner-vs-loser
+- https://poki.com/hu/g/worlds-hardest-game
+- https://poki.com/sk/g/raze-3
+- https://poki.com/sk/g/dawn-of-the-sniper
+- https://poki.com/sk/g/flightless
+- https://poki.com/sk/g/cheese-dreams-new-moon
+- https://poki.com/sk/g/bump-battle-royale
+- https://poki.com/sk/g/winner-vs-loser
+- https://poki.com/sk/g/worlds-hardest-game
+- https://poki.com/se/g/raze-3
+- https://poki.com/se/g/dawn-of-the-sniper
+- https://poki.com/se/g/flightless
+- https://poki.com/se/g/cheese-dreams-new-moon
+- https://poki.com/se/g/bump-battle-royale
+- https://poki.com/se/g/winner-vs-loser
+- https://poki.com/se/g/worlds-hardest-game
+- https://poki.com/it/g/raze-3
+- https://poki.com/it/g/dawn-of-the-sniper
+- https://poki.com/it/g/flightless
+- https://poki.com/it/g/cheese-dreams-new-moon
+- https://poki.com/it/g/bump-battle-royale
+- https://poki.com/it/g/winner-vs-loser
+- https://poki.com/it/g/worlds-hardest-game
+- https://poki.com/dk/g/raze-3
+- https://poki.com/dk/g/dawn-of-the-sniper
+- https://poki.com/dk/g/flightless
+- https://poki.com/dk/g/cheese-dreams-new-moon
+- https://poki.com/dk/g/bump-battle-royale
+- https://poki.com/dk/g/winner-vs-loser
+- https://poki.com/dk/g/worlds-hardest-game
+- https://poki.com/fi/g/raze-3
+- https://poki.com/fi/g/dawn-of-the-sniper
+- https://poki.com/fi/g/flightless
+- https://poki.com/fi/g/cheese-dreams-new-moon
+- https://poki.com/fi/g/bump-battle-royale
+- https://poki.com/fi/g/winner-vs-loser
+- https://poki.com/fi/g/worlds-hardest-game
+- https://poki.com/pl/g/raze-3
+- https://poki.com/pl/g/dawn-of-the-sniper
+- https://poki.com/pl/g/flightless
+- https://poki.com/pl/g/cheese-dreams-new-moon
+- https://poki.com/pl/g/bump-battle-royale
+- https://poki.com/pl/g/winner-vs-loser
+- https://poki.com/pl/g/worlds-hardest-game
+- https://poki.com/cz/g/raze-3
+- https://poki.com/cz/g/dawn-of-the-sniper
+- https://poki.com/cz/g/flightless
+- https://poki.com/cz/g/cheese-dreams-new-moon
+- https://poki.com/cz/g/bump-battle-royale
+- https://poki.com/cz/g/winner-vs-loser
+- https://poki.com/cz/g/worlds-hardest-game
+- https://poki.com/nl/g/raze-3
+- https://poki.com/nl/g/dawn-of-the-sniper
+- https://poki.com/nl/g/flightless
+- https://poki.com/nl/g/cheese-dreams-new-moon
+- https://poki.com/nl/g/bump-battle-royale
+- https://poki.com/nl/g/winner-vs-loser
+- https://poki.com/nl/g/worlds-hardest-game
+- https://poki.com/jp/g/raze-3
+- https://poki.com/jp/g/dawn-of-the-sniper
+- https://poki.com/jp/g/flightless
+- https://poki.com/jp/g/cheese-dreams-new-moon
+- https://poki.com/jp/g/bump-battle-royale
+- https://poki.com/jp/g/winner-vs-loser
+- https://poki.com/jp/g/worlds-hardest-game
+- https://poki.com/il/g/raze-3
+- https://poki.com/il/g/dawn-of-the-sniper
+- https://poki.com/il/g/flightless
+- https://poki.com/il/g/cheese-dreams-new-moon
+- https://poki.com/il/g/bump-battle-royale
+- https://poki.com/il/g/winner-vs-loser
+- https://poki.com/il/g/worlds-hardest-game
+- https://poki.com/br/g/raze-3
+- https://poki.com/br/g/dawn-of-the-sniper
+- https://poki.com/br/g/flightless
+- https://poki.com/br/g/cheese-dreams-new-moon
+- https://poki.com/br/g/bump-battle-royale
+- https://poki.com/br/g/winner-vs-loser
+- https://poki.com/br/g/worlds-hardest-game
+- https://poki.com/de/g/raze-3
+- https://poki.com/de/g/dawn-of-the-sniper
+- https://poki.com/de/g/flightless
+- https://poki.com/de/g/cheese-dreams-new-moon
+- https://poki.com/de/g/bump-battle-royale
+- https://poki.com/de/g/winner-vs-loser
+- https://poki.com/de/g/worlds-hardest-game
+- https://poki.com/zh/g/raze-3
+- https://poki.com/zh/g/dawn-of-the-sniper
+- https://poki.com/zh/g/flightless
+- https://poki.com/zh/g/cheese-dreams-new-moon
+- https://poki.com/zh/g/bump-battle-royale
+- https://poki.com/zh/g/winner-vs-loser
+- https://poki.com/zh/g/worlds-hardest-game
+- https://poki.com/id/g/raze-3
+- https://poki.com/id/g/dawn-of-the-sniper
+- https://poki.com/id/g/flightless
+- https://poki.com/id/g/cheese-dreams-new-moon
+- https://poki.com/id/g/bump-battle-royale
+- https://poki.com/id/g/winner-vs-loser
+- https://poki.com/id/g/worlds-hardest-game
+- https://poki.com/hi/g/raze-3
+- https://poki.com/hi/g/dawn-of-the-sniper
+- https://poki.com/hi/g/flightless
+- https://poki.com/hi/g/cheese-dreams-new-moon
+- https://poki.com/hi/g/bump-battle-royale
+- https://poki.com/hi/g/winner-vs-loser
+- https://poki.com/hi/g/worlds-hardest-game
+- https://poki.com/bn/g/raze-3
+- https://poki.com/bn/g/dawn-of-the-sniper
+- https://poki.com/bn/g/flightless
+- https://poki.com/bn/g/cheese-dreams-new-moon
+- https://poki.com/bn/g/bump-battle-royale
+- https://poki.com/bn/g/winner-vs-loser
+- https://poki.com/bn/g/worlds-hardest-game
+- https://poki.com/ms/g/raze-3
+- https://poki.com/ms/g/dawn-of-the-sniper
+- https://poki.com/ms/g/flightless
+- https://poki.com/ms/g/cheese-dreams-new-moon
+- https://poki.com/ms/g/bump-battle-royale
+- https://poki.com/ms/g/winner-vs-loser
+- https://poki.com/ms/g/worlds-hardest-game
+- https://poki.com/tl/g/raze-3
+- https://poki.com/tl/g/dawn-of-the-sniper
+- https://poki.com/tl/g/flightless
+- https://poki.com/tl/g/cheese-dreams-new-moon
+- https://poki.com/tl/g/bump-battle-royale
+- https://poki.com/tl/g/winner-vs-loser
+- https://poki.com/tl/g/worlds-hardest-game
+- https://poki.com/uz/g/raze-3
+- https://poki.com/uz/g/dawn-of-the-sniper
+- https://poki.com/uz/g/flightless
+- https://poki.com/uz/g/cheese-dreams-new-moon
+- https://poki.com/uz/g/bump-battle-royale
+- https://poki.com/uz/g/winner-vs-loser
+- https://poki.com/uz/g/worlds-hardest-game
+- https://poki.com/sr/g/raze-3
+- https://poki.com/sr/g/dawn-of-the-sniper
+- https://poki.com/sr/g/flightless
+- https://poki.com/sr/g/cheese-dreams-new-moon
+- https://poki.com/sr/g/bump-battle-royale
+- https://poki.com/sr/g/winner-vs-loser
+- https://poki.com/sr/g/worlds-hardest-game
+
+Raw data: [sitemap.json](./data/poki.com/20241221_000629/sitemap.json) and [diff.json](./data/poki.com/20241221_000629/diff.json)
 
 ### 20241220_000641
 
@@ -4132,79 +4377,6 @@ Raw data: [sitemap.json](./data/poki.com/20241220_000641/sitemap.json) and [diff
 - https://poki.com/sr/g/nightfall-warriors
 
 Raw data: [sitemap.json](./data/poki.com/20241219_000700/sitemap.json) and [diff.json](./data/poki.com/20241219_000700/diff.json)
-
-### 20241218_000657
-
-- https://poki.com/en/g/nekopirate
-- https://poki.com/en/g/art-pixel-workshop-2
-- https://poki.com/ru/g/nekopirate
-- https://poki.com/ru/g/art-pixel-workshop-2
-- https://poki.com/ua/g/nekopirate
-- https://poki.com/ua/g/art-pixel-workshop-2
-- https://poki.com/ar/g/nekopirate
-- https://poki.com/ar/g/art-pixel-workshop-2
-- https://poki.com/th/g/nekopirate
-- https://poki.com/th/g/art-pixel-workshop-2
-- https://poki.com/kr/g/nekopirate
-- https://poki.com/kr/g/art-pixel-workshop-2
-- https://poki.com/es/g/nekopirate
-- https://poki.com/es/g/art-pixel-workshop-2
-- https://poki.com/fr/g/nekopirate
-- https://poki.com/fr/g/art-pixel-workshop-2
-- https://poki.com/tr/g/nekopirate
-- https://poki.com/tr/g/art-pixel-workshop-2
-- https://poki.com/gr/g/nekopirate
-- https://poki.com/gr/g/art-pixel-workshop-2
-- https://poki.com/no/g/nekopirate
-- https://poki.com/no/g/art-pixel-workshop-2
-- https://poki.com/ro/g/nekopirate
-- https://poki.com/ro/g/art-pixel-workshop-2
-- https://poki.com/bg/g/nekopirate
-- https://poki.com/bg/g/art-pixel-workshop-2
-- https://poki.com/hu/g/nekopirate
-- https://poki.com/hu/g/art-pixel-workshop-2
-- https://poki.com/sk/g/nekopirate
-- https://poki.com/sk/g/art-pixel-workshop-2
-- https://poki.com/se/g/nekopirate
-- https://poki.com/se/g/art-pixel-workshop-2
-- https://poki.com/it/g/nekopirate
-- https://poki.com/it/g/art-pixel-workshop-2
-- https://poki.com/dk/g/nekopirate
-- https://poki.com/dk/g/art-pixel-workshop-2
-- https://poki.com/fi/g/nekopirate
-- https://poki.com/fi/g/art-pixel-workshop-2
-- https://poki.com/pl/g/nekopirate
-- https://poki.com/pl/g/art-pixel-workshop-2
-- https://poki.com/cz/g/nekopirate
-- https://poki.com/cz/g/art-pixel-workshop-2
-- https://poki.com/nl/g/nekopirate
-- https://poki.com/nl/g/art-pixel-workshop-2
-- https://poki.com/jp/g/nekopirate
-- https://poki.com/jp/g/art-pixel-workshop-2
-- https://poki.com/il/g/nekopirate
-- https://poki.com/il/g/art-pixel-workshop-2
-- https://poki.com/br/g/nekopirate
-- https://poki.com/br/g/art-pixel-workshop-2
-- https://poki.com/de/g/nekopirate
-- https://poki.com/de/g/art-pixel-workshop-2
-- https://poki.com/zh/g/nekopirate
-- https://poki.com/zh/g/art-pixel-workshop-2
-- https://poki.com/id/g/nekopirate
-- https://poki.com/id/g/art-pixel-workshop-2
-- https://poki.com/hi/g/nekopirate
-- https://poki.com/hi/g/art-pixel-workshop-2
-- https://poki.com/bn/g/nekopirate
-- https://poki.com/bn/g/art-pixel-workshop-2
-- https://poki.com/ms/g/nekopirate
-- https://poki.com/ms/g/art-pixel-workshop-2
-- https://poki.com/tl/g/nekopirate
-- https://poki.com/tl/g/art-pixel-workshop-2
-- https://poki.com/uz/g/nekopirate
-- https://poki.com/uz/g/art-pixel-workshop-2
-- https://poki.com/sr/g/nekopirate
-- https://poki.com/sr/g/art-pixel-workshop-2
-
-Raw data: [sitemap.json](./data/poki.com/20241218_000657/sitemap.json) and [diff.json](./data/poki.com/20241218_000657/diff.json)
 
 ## coolmathgames.com
 
