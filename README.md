@@ -54,6 +54,12 @@
 
 ## sprunki.org
 
+### 20241222_000720
+
+- https://sprunki.org/parasprunked
+
+Raw data: [sitemap.json](./data/sprunki.org/20241222_000720/sitemap.json) and [diff.json](./data/sprunki.org/20241222_000720/diff.json)
+
 ### 20241221_000629
 
 - https://sprunki.org/sprunki-megalovania
@@ -71,15 +77,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241221_000629/sitemap.json) and [d
 - https://sprunki.org/funny-balls-2048
 
 Raw data: [sitemap.json](./data/sprunki.org/20241220_000641/sitemap.json) and [diff.json](./data/sprunki.org/20241220_000641/diff.json)
-
-### 20241219_000700
-
-- https://sprunki.org/sprunki-sprunktune
-- https://sprunki.org/sprunki-find-the-differences
-- https://sprunki.org/block-blasty-saga
-- https://sprunki.org/sprunki-popit
-
-Raw data: [sitemap.json](./data/sprunki.org/20241219_000700/sitemap.json) and [diff.json](./data/sprunki.org/20241219_000700/diff.json)
 
 ## sprunki.com
 
@@ -3389,6 +3386,14 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241222_000720
+
+- https://incrediboxsprunki.org/sprunki-sbrudki
+- https://incrediboxsprunki.org/sprunki-babies-broken
+- https://incrediboxsprunki.org/sprunki-pokemon
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241222_000720/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241222_000720/diff.json)
+
 ### 20241221_000629
 
 - https://incrediboxsprunki.org/sprunki-facing-upward
@@ -3405,15 +3410,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241221_000629/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241220_000641/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241220_000641/diff.json)
 
-### 20241219_000700
-
-- https://incrediboxsprunki.org/incredibop-deadline
-- https://incrediboxsprunki.org/sprunki-cool-as-ice-original
-- https://incrediboxsprunki.org/sprunki-susnki
-- https://incrediboxsprunki.org/sprunki-ketchup-20
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241219_000700/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241219_000700/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -3421,6 +3417,21 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241219_000700/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241222_000720
+
+- https://sprunkin.com/game/sprunki-kiss-edition-everyone-is-kissing/
+- https://sprunkin.com/game/sprunki-retake-deluxe/
+- https://sprunkin.com/fan-game/sprunki-retake-ocs/
+- https://sprunkin.com/fan-game/sprunki-phase-4-but-it-phase-2/
+- https://sprunkin.com/fan-game/sprunki-oc/
+- https://sprunkin.com/fan-game/sprunki-but-i-removed-their-accessories/
+- https://sprunkin.com/fan-game/sprunki-phase-5-remade/
+- https://sprunkin.com/fan-game/chaos-2/
+- https://sprunkin.com/fan-game/custom-sprunki/
+- https://sprunkin.com/fan-game/incredibox-prunki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241222_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20241222_000720/diff.json)
 
 ### 20241221_000629
 
@@ -3462,14 +3473,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241221_000629/sitemap.json) and [
 - https://sprunkin.com/fan-game/sperunky-free/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241220_000641/sitemap.json) and [diff.json](./data/sprunkin.com/20241220_000641/diff.json)
-
-### 20241219_000700
-
-- https://sprunkin.com/fan-game/sprunki-redone-3/
-- https://sprunkin.com/fan-game/sprunked-pokemon-pokesprunki/
-- https://sprunkin.com/fan-game/aaaaaaaaaaaaaaaaaa/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241219_000700/sitemap.json) and [diff.json](./data/sprunkin.com/20241219_000700/diff.json)
 
 ## sprunkisinner.org
 
@@ -3735,6 +3738,29 @@ Raw data: [sitemap.json](./data/crazygames.com/20241219_000700/sitemap.json) and
 
 ## y8.com
 
+### 20241222_000720
+
+- https://www.y8.com/games/connect_balls_new_year_puzzles_
+- https://www.y8.com/games/flowers_merge_2048
+- https://www.y8.com/games/gun_racing
+- https://www.y8.com/games/block_puzzle_webgl
+- https://www.y8.com/games/with_you_webgl
+- https://www.y8.com/games/flag_puzzle_jam_collect_flags
+- https://www.y8.com/games/funny_balls_2048
+- https://www.y8.com/games/the_snowman_ate_you
+- https://www.y8.com/games/jolly_jumble
+- https://www.y8.com/games/sprunki_happy_tree_friends
+- https://www.y8.com/games/sprunki_solve_and_sing
+- https://www.y8.com/games/talking_santaclaus
+- https://www.y8.com/animation/the_last_showgirl_official_teaser
+- https://www.y8.com/animation/solo_leveling_-reawakening-_trailer
+- https://www.y8.com/animation/bring_them_down_official_trailer
+- https://www.y8.com/animation/butterflies_and_flowers
+- https://www.y8.com/animation/nature_s_aerial_acrobats
+- https://www.y8.com/animation/solo_leveling_-reawakening-_trailer_2
+
+Raw data: [sitemap.json](./data/y8.com/20241222_000720/sitemap.json) and [diff.json](./data/y8.com/20241222_000720/diff.json)
+
 ### 20241221_000629
 
 - https://www.y8.com/games/real_driving_simulator
@@ -3781,30 +3807,6 @@ Raw data: [sitemap.json](./data/y8.com/20241221_000629/sitemap.json) and [diff.j
 - https://www.y8.com/animation/the_legend_of_ochi_official_trailer
 
 Raw data: [sitemap.json](./data/y8.com/20241220_000641/sitemap.json) and [diff.json](./data/y8.com/20241220_000641/diff.json)
-
-### 20241219_000700
-
-- https://www.y8.com/games/single_stroke_line_draw
-- https://www.y8.com/games/blonde_sofia_christmas_party
-- https://www.y8.com/games/burger_cafe
-- https://www.y8.com/games/rubik_s_cube_webgl
-- https://www.y8.com/games/towerfall_descension
-- https://www.y8.com/games/fright_night_defense
-- https://www.y8.com/games/vault_breaker
-- https://www.y8.com/games/spot_the_odd_one
-- https://www.y8.com/games/santa_car_cookie
-- https://www.y8.com/games/christmas_deer
-- https://www.y8.com/games/adversator_moba
-- https://www.y8.com/games/sprunki_3d
-- https://www.y8.com/games/solitaire_king
-- https://www.y8.com/animation/the_seed_of_the_sacred_fig_official_trailer
-- https://www.y8.com/animation/weekend_in_taipei_final_trailer
-- https://www.y8.com/animation/fireplace
-- https://www.y8.com/animation/closer_from_the_edge_closer_to_confusion
-- https://www.y8.com/animation/ankle_anatomy
-- https://www.y8.com/animation/butterflies_and_flowers_in_harmony
-
-Raw data: [sitemap.json](./data/y8.com/20241219_000700/sitemap.json) and [diff.json](./data/y8.com/20241219_000700/diff.json)
 
 ## kongregate.com
 
