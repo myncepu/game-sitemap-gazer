@@ -54,6 +54,15 @@
 
 ## sprunki.org
 
+### 20241223_000657
+
+- https://sprunki.org/sprunki-omega
+- https://sprunki.org/sprunki-z
+- https://sprunki.org/sprunki-but-off
+- https://sprunki.org/sprunki-steamed
+
+Raw data: [sitemap.json](./data/sprunki.org/20241223_000657/sitemap.json) and [diff.json](./data/sprunki.org/20241223_000657/diff.json)
+
 ### 20241222_000720
 
 - https://sprunki.org/parasprunked
@@ -71,12 +80,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241222_000720/sitemap.json) and [d
 - https://sprunki.org/sprunki-spruncalypse
 
 Raw data: [sitemap.json](./data/sprunki.org/20241221_000629/sitemap.json) and [diff.json](./data/sprunki.org/20241221_000629/diff.json)
-
-### 20241220_000641
-
-- https://sprunki.org/funny-balls-2048
-
-Raw data: [sitemap.json](./data/sprunki.org/20241220_000641/sitemap.json) and [diff.json](./data/sprunki.org/20241220_000641/diff.json)
 
 ## sprunki.com
 
@@ -3386,6 +3389,14 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20241223_000657
+
+- https://incrediboxsprunki.org/sprunkgerny
+- https://incrediboxsprunki.org/sprunki-bambilairity
+- https://incrediboxsprunki.org/sprunki-colordex
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241223_000657/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241223_000657/diff.json)
+
 ### 20241222_000720
 
 - https://incrediboxsprunki.org/sprunki-sbrudki
@@ -3404,12 +3415,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241222_000720/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241221_000629/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241221_000629/diff.json)
 
-### 20241220_000641
-
-- https://incrediboxsprunki.org/sprunki-but-bad
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241220_000641/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241220_000641/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -3417,6 +3422,22 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241220_000641/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20241223_000657
+
+- https://sprunkin.com/fan-game/sprunki-%d1%88%d0%b8%d0%b7%d0%b0%d0%bd%d1%83%d1%82%d1%8b%d0%b5-%d1%87%d0%b5%d0%bb%d0%be%d0%b2%d0%b5%d1%87%d0%ba%d0%b8-3/
+- https://sprunkin.com/fan-game/sprunki-sprunkiny/
+- https://sprunkin.com/fan-game/sprunki-ocs/
+- https://sprunkin.com/fan-game/incredibox-sprunki-doggy-style/
+- https://sprunkin.com/fan-game/splinkle-8-0/
+- https://sprunkin.com/fan-game/sprunki-7/
+- https://sprunkin.com/fan-game/sprunki-8/
+- https://sprunkin.com/fan-game/sprunki-retake-but-cool-as-ice/
+- https://sprunkin.com/fan-game/hypno-sprunki-mode/
+- https://sprunkin.com/fan-game/unnamed/
+- https://sprunkin.com/fan-game/weird-sprunki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241223_000657/sitemap.json) and [diff.json](./data/sprunkin.com/20241223_000657/diff.json)
 
 ### 20241222_000720
 
@@ -3457,22 +3478,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241222_000720/sitemap.json) and [
 - https://sprunkin.com/fan-game/annoy-the-toasted-rainbow-sandwich/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241221_000629/sitemap.json) and [diff.json](./data/sprunkin.com/20241221_000629/diff.json)
-
-### 20241220_000641
-
-- https://sprunkin.com/game/sprunki-popit/
-- https://sprunkin.com/fan-game/incredibox-sprunki-remix/
-- https://sprunkin.com/fan-game/sprunki-x-purple-colourbox/
-- https://sprunkin.com/fan-game/sprunki-x-purple-colourbox-2/
-- https://sprunkin.com/fan-game/sprunki-phase-5-4/
-- https://sprunkin.com/fan-game/sprunkliy/
-- https://sprunkin.com/fan-game/sprunkle-update/
-- https://sprunkin.com/fan-game/sprunki-x-sprunked/
-- https://sprunkin.com/fan-game/sprunki-x-geometry-dash-fan-diff/
-- https://sprunkin.com/fan-game/sprunki-but-my-characters/
-- https://sprunkin.com/fan-game/sperunky-free/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241220_000641/sitemap.json) and [diff.json](./data/sprunkin.com/20241220_000641/diff.json)
 
 ## sprunkisinner.org
 
@@ -3738,6 +3743,29 @@ Raw data: [sitemap.json](./data/crazygames.com/20241219_000700/sitemap.json) and
 
 ## y8.com
 
+### 20241223_000657
+
+- https://www.y8.com/games/ships_3d
+- https://www.y8.com/games/build_a_bridge
+- https://www.y8.com/games/brick_drop_bash
+- https://www.y8.com/games/sprunki_playtime
+- https://www.y8.com/games/battleship_game
+- https://www.y8.com/games/pearls_of_atlantis
+- https://www.y8.com/games/the_mystery_of_the_treehouse
+- https://www.y8.com/games/flip_knife
+- https://www.y8.com/games/jewel_match_solitaire_winterscapes
+- https://www.y8.com/games/escape_the_horror_craft
+- https://www.y8.com/games/merge_planets
+- https://www.y8.com/games/brian_the_hero
+- https://www.y8.com/animation/back_in_action_official_teaser
+- https://www.y8.com/animation/cats_with_love
+- https://www.y8.com/animation/knee_anatomy
+- https://www.y8.com/animation/the_agency_new_official_trailer
+- https://www.y8.com/animation/the_six_triple_eight_trailer
+- https://www.y8.com/animation/galactic_encounter
+
+Raw data: [sitemap.json](./data/y8.com/20241223_000657/sitemap.json) and [diff.json](./data/y8.com/20241223_000657/diff.json)
+
 ### 20241222_000720
 
 - https://www.y8.com/games/connect_balls_new_year_puzzles_
@@ -3782,31 +3810,6 @@ Raw data: [sitemap.json](./data/y8.com/20241222_000720/sitemap.json) and [diff.j
 - https://www.y8.com/animation/soaring_high_the_art_of_flight
 
 Raw data: [sitemap.json](./data/y8.com/20241221_000629/sitemap.json) and [diff.json](./data/y8.com/20241221_000629/diff.json)
-
-### 20241220_000641
-
-- https://www.y8.com/studios/solo-wow
-- https://www.y8.com/studios/paradoks
-- https://www.y8.com/games/toddie_clowncore
-- https://www.y8.com/games/christmas_candy_escape_3d
-- https://www.y8.com/games/a_pico-sized_holiday_ninja
-- https://www.y8.com/games/russian_checkers
-- https://www.y8.com/games/wonders_of_egypt_mahjong
-- https://www.y8.com/games/wordler
-- https://www.y8.com/games/4_colors_card_mania
-- https://www.y8.com/games/match_3
-- https://www.y8.com/games/2048_wood_block
-- https://www.y8.com/games/bubble_shoot_park
-- https://www.y8.com/games/roblox_christmas_dress_up
-- https://www.y8.com/games/the_grench_couple_holiday_dress_up
-- https://www.y8.com/animation/excavator_heroically_rescues_dog_from_pit
-- https://www.y8.com/animation/ultimate_funny_videos_compilation
-- https://www.y8.com/animation/new__best__cats_and_dogs_videos
-- https://www.y8.com/animation/the_last_rifleman_official_trailer
-- https://www.y8.com/animation/hilarious_cat_expressions_compilation
-- https://www.y8.com/animation/the_legend_of_ochi_official_trailer
-
-Raw data: [sitemap.json](./data/y8.com/20241220_000641/sitemap.json) and [diff.json](./data/y8.com/20241220_000641/diff.json)
 
 ## kongregate.com
 
