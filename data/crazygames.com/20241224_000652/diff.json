@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://www.crazygames.com/game/dungeon-of-terror",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/mage-s-secret",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/towering-trials-div",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/game/color-match-amg",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.crazygames.com/t/mmo1",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

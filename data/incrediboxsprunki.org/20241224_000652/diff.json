@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.org/sprunki-like-minecraft",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.org/sprunki-brawl-stars",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.org/sprunki-eddsworld-mod",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.org/spruted",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
