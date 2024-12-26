@@ -54,6 +54,12 @@
 
 ## sprunki.org
 
+### 20241226_000632
+
+- https://sprunki.org/sprunki-but-best
+
+Raw data: [sitemap.json](./data/sprunki.org/20241226_000632/sitemap.json) and [diff.json](./data/sprunki.org/20241226_000632/diff.json)
+
 ### 20241225_000632
 
 - https://sprunki.org/sprunki-night-time-2
@@ -69,15 +75,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241225_000632/sitemap.json) and [d
 - https://sprunki.org/spruted
 
 Raw data: [sitemap.json](./data/sprunki.org/20241224_000652/sitemap.json) and [diff.json](./data/sprunki.org/20241224_000652/diff.json)
-
-### 20241223_000657
-
-- https://sprunki.org/sprunki-omega
-- https://sprunki.org/sprunki-z
-- https://sprunki.org/sprunki-but-off
-- https://sprunki.org/sprunki-steamed
-
-Raw data: [sitemap.json](./data/sprunki.org/20241223_000657/sitemap.json) and [diff.json](./data/sprunki.org/20241223_000657/diff.json)
 
 ## sprunki.com
 
@@ -3419,6 +3416,42 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241223_000657/sitemap.js
 
 ## sprunkin.com
 
+### 20241226_000632
+
+- https://sprunkin.com/game/sprunki-love-edition-pinki-oren/
+- https://sprunkin.com/game/sprunki-pac-man-edition/
+- https://sprunkin.com/game/sprunki-retake-phase-3/
+- https://sprunkin.com/game/sprunki-corruptbox-cool-as-ice/
+- https://sprunkin.com/game/sprunkilairity-remake-2-0/
+- https://sprunkin.com/game/sprunki-spruted/
+- https://sprunkin.com/game/sprunki-corruptbox-remastered/
+- https://sprunkin.com/game/sprunki-sprunkboy/
+- https://sprunkin.com/fan-game/gabut/
+- https://sprunkin.com/fan-game/gabut-2/
+- https://sprunkin.com/fan-game/gabut-3/
+- https://sprunkin.com/fan-game/gabut-4/
+- https://sprunkin.com/fan-game/gabut-5/
+- https://sprunkin.com/fan-game/gabut-6/
+- https://sprunkin.com/fan-game/gabut-7/
+- https://sprunkin.com/fan-game/sprunki-countryball-mod-2/
+- https://sprunkin.com/fan-game/sprunki-schoolhouse-trouble-2/
+- https://sprunkin.com/fan-game/incredibox-abgerny-but-everyone-is-alive-moddable/
+- https://sprunkin.com/fan-game/sprunki-countryball-mod-3/
+- https://sprunkin.com/fan-game/sprunki-game/
+- https://sprunkin.com/fan-game/sprunsky/
+- https://sprunkin.com/fan-game/sprunsky-2/
+- https://sprunkin.com/fan-game/sprunki-more/
+- https://sprunkin.com/fan-game/it/
+- https://sprunkin.com/fan-game/r/
+- https://sprunkin.com/fan-game/parasprunki-phase-3-1-0-0/
+- https://sprunkin.com/fan-game/sprunki-cursed/
+- https://sprunkin.com/fan-game/sprunki-cursed-2/
+- https://sprunkin.com/fan-game/sprunki-phase-7-2/
+- https://sprunkin.com/fan-game/sprunki-incredibox-old/
+- https://sprunkin.com/fan-game/steel-factory/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20241226_000632/sitemap.json) and [diff.json](./data/sprunkin.com/20241226_000632/diff.json)
+
 ### 20241225_000632
 
 - https://sprunkin.com/game/sprunki-retake-space-balls/
@@ -3476,22 +3509,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241225_000632/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-fase-1000/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241224_000652/sitemap.json) and [diff.json](./data/sprunkin.com/20241224_000652/diff.json)
-
-### 20241223_000657
-
-- https://sprunkin.com/fan-game/sprunki-%d1%88%d0%b8%d0%b7%d0%b0%d0%bd%d1%83%d1%82%d1%8b%d0%b5-%d1%87%d0%b5%d0%bb%d0%be%d0%b2%d0%b5%d1%87%d0%ba%d0%b8-3/
-- https://sprunkin.com/fan-game/sprunki-sprunkiny/
-- https://sprunkin.com/fan-game/sprunki-ocs/
-- https://sprunkin.com/fan-game/incredibox-sprunki-doggy-style/
-- https://sprunkin.com/fan-game/splinkle-8-0/
-- https://sprunkin.com/fan-game/sprunki-7/
-- https://sprunkin.com/fan-game/sprunki-8/
-- https://sprunkin.com/fan-game/sprunki-retake-but-cool-as-ice/
-- https://sprunkin.com/fan-game/hypno-sprunki-mode/
-- https://sprunkin.com/fan-game/unnamed/
-- https://sprunkin.com/fan-game/weird-sprunki/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241223_000657/sitemap.json) and [diff.json](./data/sprunkin.com/20241223_000657/diff.json)
 
 ## sprunkisinner.org
 
@@ -3799,6 +3816,30 @@ Raw data: [sitemap.json](./data/crazygames.com/20241221_000629/sitemap.json) and
 
 ## y8.com
 
+### 20241226_000632
+
+- https://www.y8.com/studios/fady-studios
+- https://www.y8.com/games/girly_mermaid_core
+- https://www.y8.com/games/my_sushi_story
+- https://www.y8.com/games/sweetsu_tile_puzzle
+- https://www.y8.com/games/starmount
+- https://www.y8.com/games/desierto_
+- https://www.y8.com/games/winter_hidden_stars
+- https://www.y8.com/games/car_park_sort
+- https://www.y8.com/games/racing_chase
+- https://www.y8.com/games/skill_drive
+- https://www.y8.com/games/vehicles_no_way
+- https://www.y8.com/games/bricks_smasher
+- https://www.y8.com/games/my_big_blade
+- https://www.y8.com/animation/funny_pet_tiktoks_that_might_steal_your_treats
+- https://www.y8.com/animation/pedro_paramo_trailer
+- https://www.y8.com/animation/laugh_out_loud_moments_
+- https://www.y8.com/animation/cute_dogs_and_cats_doing_funny_things
+- https://www.y8.com/animation/bloody_axe_wound_official_trailer
+- https://www.y8.com/animation/owls_hawks
+
+Raw data: [sitemap.json](./data/y8.com/20241226_000632/sitemap.json) and [diff.json](./data/y8.com/20241226_000632/diff.json)
+
 ### 20241225_000632
 
 - https://www.y8.com/games/girly_fun_groovy
@@ -3845,30 +3886,26 @@ Raw data: [sitemap.json](./data/y8.com/20241225_000632/sitemap.json) and [diff.j
 
 Raw data: [sitemap.json](./data/y8.com/20241224_000652/sitemap.json) and [diff.json](./data/y8.com/20241224_000652/diff.json)
 
-### 20241223_000657
-
-- https://www.y8.com/games/ships_3d
-- https://www.y8.com/games/build_a_bridge
-- https://www.y8.com/games/brick_drop_bash
-- https://www.y8.com/games/sprunki_playtime
-- https://www.y8.com/games/battleship_game
-- https://www.y8.com/games/pearls_of_atlantis
-- https://www.y8.com/games/the_mystery_of_the_treehouse
-- https://www.y8.com/games/flip_knife
-- https://www.y8.com/games/jewel_match_solitaire_winterscapes
-- https://www.y8.com/games/escape_the_horror_craft
-- https://www.y8.com/games/merge_planets
-- https://www.y8.com/games/brian_the_hero
-- https://www.y8.com/animation/back_in_action_official_teaser
-- https://www.y8.com/animation/cats_with_love
-- https://www.y8.com/animation/knee_anatomy
-- https://www.y8.com/animation/the_agency_new_official_trailer
-- https://www.y8.com/animation/the_six_triple_eight_trailer
-- https://www.y8.com/animation/galactic_encounter
-
-Raw data: [sitemap.json](./data/y8.com/20241223_000657/sitemap.json) and [diff.json](./data/y8.com/20241223_000657/diff.json)
-
 ## kongregate.com
+
+### 20241226_000632
+
+- https://www.kongregate.com/games/wdp2010
+- https://www.kongregate.com/games/pbonomi
+- https://www.kongregate.com/games/theblackmane13
+- https://www.kongregate.com/games/PXXI
+- https://www.kongregate.com/games/ThirdByteTaken
+- https://www.kongregate.com/games/DGT_K
+- https://www.kongregate.com/games/vanderslootj20
+- https://www.kongregate.com/games/bbaldner99
+- https://www.kongregate.com/games/BriguglioE21
+- https://www.kongregate.com/games/pommerose
+- https://www.kongregate.com/games/MacroShire
+- https://www.kongregate.com/games/xamuil2
+- https://www.kongregate.com/games/F22Raptor775
+- https://www.kongregate.com/games/dq_201
+
+Raw data: [sitemap.json](./data/kongregate.com/20241226_000632/sitemap.json) and [diff.json](./data/kongregate.com/20241226_000632/diff.json)
 
 ### 20241225_000632
 
@@ -3887,12 +3924,6 @@ Raw data: [sitemap.json](./data/kongregate.com/20241225_000632/sitemap.json) and
 - https://www.kongregate.com/games/Miktar/muu-just-another-day
 
 Raw data: [sitemap.json](./data/kongregate.com/20241220_000641/sitemap.json) and [diff.json](./data/kongregate.com/20241220_000641/diff.json)
-
-### 20241219_000700
-
-- https://www.kongregate.com/games/rengesoft
-
-Raw data: [sitemap.json](./data/kongregate.com/20241219_000700/sitemap.json) and [diff.json](./data/kongregate.com/20241219_000700/diff.json)
 
 ## newgrounds.com
 
