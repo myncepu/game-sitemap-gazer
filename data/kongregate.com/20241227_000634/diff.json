@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.kongregate.com/games/Gregoriobernabe4",
+      "priority": 1.0,
+      "last_modified": null,
+      "change_frequency": "hourly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.kongregate.com/games/rengesoft",
+      "priority": 1.0,
+      "last_modified": null,
+      "change_frequency": "hourly",
+      "news_story": null
+    }
+  ]
+}

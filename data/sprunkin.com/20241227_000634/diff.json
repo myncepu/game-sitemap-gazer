@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-100/",
+      "priority": 0.5,
+      "last_modified": "2024-12-26T05:10:22Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/d-ahil/",
+      "priority": 0.5,
+      "last_modified": "2024-12-26T10:29:26Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/splinkle-9/",
+      "priority": 0.5,
+      "last_modified": "2024-12-26T10:55:43Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
