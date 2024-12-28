@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.org/sprunki-phase-2",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.org/parasprunked",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.org/sprunki-3d-escape",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.org/sprunki-popit",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
