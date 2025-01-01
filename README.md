@@ -50,6 +50,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20241229_000725/sitemap.json) 
 
 ## sprunki.org
 
+### 20250101_000719
+
+- https://sprunki.org/polytrack
+- https://sprunki.org/fanon-sprunki
+- https://sprunki.org/sprunki-police-and-prisoners
+- https://sprunki.org/sprunki-but-kid-friendly
+
+Raw data: [sitemap.json](./data/sprunki.org/20250101_000719/sitemap.json) and [diff.json](./data/sprunki.org/20250101_000719/diff.json)
+
 ### 20241231_000628
 
 - https://sprunki.org/golf-orbit
@@ -62,14 +71,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20241231_000628/sitemap.json) and [d
 - https://sprunki.org/capybara-clicker
 
 Raw data: [sitemap.json](./data/sprunki.org/20241230_000712/sitemap.json) and [diff.json](./data/sprunki.org/20241230_000712/diff.json)
-
-### 20241229_000725
-
-- https://sprunki.org/musical-harmony-coloring-page
-- https://sprunki.org/sprunki-sprungle-banana
-- https://sprunki.org/sprunksome
-
-Raw data: [sitemap.json](./data/sprunki.org/20241229_000725/sitemap.json) and [diff.json](./data/sprunki.org/20241229_000725/diff.json)
 
 ## sprunki.com
 
@@ -3379,6 +3380,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250101_000719
+
+- https://incrediboxsprunki.org/awesome-sprunki
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250101_000719/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250101_000719/diff.json)
+
 ### 20241231_000628
 
 - https://incrediboxsprunki.org/incredibox-goobers
@@ -3392,13 +3399,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241231_000628/sitemap.js
 - https://incrediboxsprunki.org/super-sprunki-clicker
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241230_000712/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241230_000712/diff.json)
-
-### 20241229_000725
-
-- https://incrediboxsprunki.org/sprunki-find-the-differences
-- https://incrediboxsprunki.org/friday-night-sprunki
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241229_000725/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241229_000725/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -3583,6 +3583,21 @@ Raw data: [sitemap.json](./data/sprunkisinneredition.com/20241230_000712/sitemap
 Raw data: [sitemap.json](./data/sprunkisinneredition.com/20241224_000652/sitemap.json) and [diff.json](./data/sprunkisinneredition.com/20241224_000652/diff.json)
 
 ## playsprunki.com
+
+### 20250101_000719
+
+- https://playsprunki.com/collection
+- https://playsprunki.com/item/sprunki-pyramixed
+- https://playsprunki.com/item/incredibox-cool-as-ice
+- https://playsprunki.com/item/incredibox-warm-like-fire
+- https://playsprunki.com/item/incredibox-dusty-like-air
+- https://playsprunki.com/item/incredibox-mild-as-spring
+- https://playsprunki.com/item/colorbox-relish
+- https://playsprunki.com/category/incredibox
+- https://playsprunki.com/blog/discover-the-musical-world-of-sprunki-characters-meet-oren-and-his-ensemble
+- https://playsprunki.com/blog/sprunki-retake-experience-the-new-era-of-music-creation
+
+Raw data: [sitemap.json](./data/playsprunki.com/20250101_000719/sitemap.json) and [diff.json](./data/playsprunki.com/20250101_000719/diff.json)
 
 ### 20241123_152330
 

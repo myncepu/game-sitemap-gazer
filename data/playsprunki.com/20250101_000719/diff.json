@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "url": "https://playsprunki.com/collection",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T17:05:30.360000Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/sprunki-pyramixed",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T12:10:24Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/incredibox-cool-as-ice",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T15:31:27Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/incredibox-warm-like-fire",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T15:24:08Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/incredibox-dusty-like-air",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T15:31:51Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/incredibox-mild-as-spring",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T15:31:03Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/colorbox-relish",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T15:30:38Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/category/incredibox",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T15:00:18Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/blog/discover-the-musical-world-of-sprunki-characters-meet-oren-and-his-ensemble",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T14:27:36Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/blog/sprunki-retake-experience-the-new-era-of-music-creation",
+      "priority": 0.5,
+      "last_modified": "2024-12-31T14:14:27Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
