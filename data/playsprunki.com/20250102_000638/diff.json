@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://playsprunki.com/item/sprunki-sprunkr-2-0",
+      "priority": 0.5,
+      "last_modified": "2025-01-01T15:24:06Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/blog/discover-the-magic-of-incredibox-cool-as-ice-a-winter-wonderland-of-music-creation",
+      "priority": 0.5,
+      "last_modified": "2025-01-01T15:41:49Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/blog/unveiling-the-thrills-of-sprunki-sprunkr-2-0-mod-a-horror-inspired-musical-adventure",
+      "priority": 0.5,
+      "last_modified": "2025-01-01T15:31:38Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

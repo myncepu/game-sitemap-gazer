@@ -50,6 +50,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20241229_000725/sitemap.json) 
 
 ## sprunki.org
 
+### 20250102_000638
+
+- https://sprunki.org/sprunki-reboot
+
+Raw data: [sitemap.json](./data/sprunki.org/20250102_000638/sitemap.json) and [diff.json](./data/sprunki.org/20250102_000638/diff.json)
+
 ### 20250101_000719
 
 - https://sprunki.org/polytrack
@@ -65,12 +71,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250101_000719/sitemap.json) and [d
 - https://sprunki.org/sprunkstard-cancelled-update
 
 Raw data: [sitemap.json](./data/sprunki.org/20241231_000628/sitemap.json) and [diff.json](./data/sprunki.org/20241231_000628/diff.json)
-
-### 20241230_000712
-
-- https://sprunki.org/capybara-clicker
-
-Raw data: [sitemap.json](./data/sprunki.org/20241230_000712/sitemap.json) and [diff.json](./data/sprunki.org/20241230_000712/diff.json)
 
 ## sprunki.com
 
@@ -3380,6 +3380,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250102_000638
+
+- https://incrediboxsprunki.org/sprunki-version-katshup
+- https://incrediboxsprunki.org/sprinkle
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250102_000638/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250102_000638/diff.json)
+
 ### 20250101_000719
 
 - https://incrediboxsprunki.org/awesome-sprunki
@@ -3393,13 +3400,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250101_000719/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241231_000628/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241231_000628/diff.json)
 
-### 20241230_000712
-
-- https://incrediboxsprunki.org/sprunki-challenge
-- https://incrediboxsprunki.org/super-sprunki-clicker
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241230_000712/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20241230_000712/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -3407,6 +3407,40 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20241230_000712/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20250102_000638
+
+- https://sprunkin.com/game/sprunki-but-they-are-alive-remake/
+- https://sprunkin.com/game/sprunki-retake-tcom-kwamis/
+- https://sprunkin.com/game/sprunki-definitive-phase-11/
+- https://sprunkin.com/game/sprunki-phase-70/
+- https://sprunkin.com/game/sprunki-retake-neo-version/
+- https://sprunkin.com/game/sprunki-retake-slow-version/
+- https://sprunkin.com/game/sprunki-but-dont-singing-mouth/
+- https://sprunkin.com/game/sprunki-retake-dandys-world-2-0/
+- https://sprunkin.com/game/sprunki-singments-2-0/
+- https://sprunkin.com/game/sprunki-retake-hd-edition/
+- https://sprunkin.com/game/sprunki-their-feelings/
+- https://sprunkin.com/game/sprunki-virus/
+- https://sprunkin.com/game/sprunki-geepers/
+- https://sprunkin.com/fan-game/do-not-use/
+- https://sprunkin.com/fan-game/sprunki-eye-mod/
+- https://sprunkin.com/fan-game/sprunki-archive-edition/
+- https://sprunkin.com/fan-game/sprunki-not-terror/
+- https://sprunkin.com/fan-game/sprunki-rebrayed/
+- https://sprunkin.com/fan-game/sprunki-but-i-ruined-it-1-0-first-update/
+- https://sprunkin.com/fan-game/sprunki-but-with-kermit-the-frog/
+- https://sprunkin.com/fan-game/sprunki-phase-3-not-terror/
+- https://sprunkin.com/fan-game/sprunki-phase-4-not-terror/
+- https://sprunkin.com/fan-game/sprunki-phase-5-not-terror/
+- https://sprunkin.com/fan-game/sprunki-phase-4-not-terror-definitive/
+- https://sprunkin.com/fan-game/yellow_guy/
+- https://sprunkin.com/fan-game/incredibox-plate/
+- https://sprunkin.com/fan-game/spanky/
+- https://sprunkin.com/fan-game/not-a-game/
+- https://sprunkin.com/fan-game/sprunki-but-their-jaws-are-broken/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250102_000638/sitemap.json) and [diff.json](./data/sprunkin.com/20250102_000638/diff.json)
 
 ### 20241231_000628
 
@@ -3471,27 +3505,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20241231_000628/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-retake-30/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20241229_000725/sitemap.json) and [diff.json](./data/sprunkin.com/20241229_000725/diff.json)
-
-### 20241228_000639
-
-- https://sprunkin.com/game/sprunked-but-hands/
-- https://sprunkin.com/game/agent-sprunkis/
-- https://sprunkin.com/game/sprunki-jamacian/
-- https://sprunkin.com/game/sprunki-phase-3-remastered/
-- https://sprunkin.com/game/sprinkle-scratch-port/
-- https://sprunkin.com/game/sprunki-sprunkr-2-0/
-- https://sprunkin.com/game/sprunked-but-normal-2-0/
-- https://sprunkin.com/fan-game/sprunki-but-they-are-not-horrorified-no-more-d-2/
-- https://sprunkin.com/fan-game/sprunki-phase-3-but-everyone-is-alive/
-- https://sprunkin.com/fan-game/sprunki-phase-1-5/
-- https://sprunkin.com/fan-game/sprunki-definitive-phase-5/
-- https://sprunkin.com/fan-game/sprunki-cancelled-update/
-- https://sprunkin.com/fan-game/sprunked/
-- https://sprunkin.com/fan-game/sprunki-12/
-- https://sprunkin.com/fan-game/sprunki-autumn-fields/
-- https://sprunkin.com/author/pritam/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20241228_000639/sitemap.json) and [diff.json](./data/sprunkin.com/20241228_000639/diff.json)
 
 ## sprunkisinner.org
 
@@ -3583,6 +3596,14 @@ Raw data: [sitemap.json](./data/sprunkisinneredition.com/20241230_000712/sitemap
 Raw data: [sitemap.json](./data/sprunkisinneredition.com/20241224_000652/sitemap.json) and [diff.json](./data/sprunkisinneredition.com/20241224_000652/diff.json)
 
 ## playsprunki.com
+
+### 20250102_000638
+
+- https://playsprunki.com/item/sprunki-sprunkr-2-0
+- https://playsprunki.com/blog/discover-the-magic-of-incredibox-cool-as-ice-a-winter-wonderland-of-music-creation
+- https://playsprunki.com/blog/unveiling-the-thrills-of-sprunki-sprunkr-2-0-mod-a-horror-inspired-musical-adventure
+
+Raw data: [sitemap.json](./data/playsprunki.com/20250102_000638/sitemap.json) and [diff.json](./data/playsprunki.com/20250102_000638/diff.json)
 
 ### 20250101_000719
 
@@ -3781,6 +3802,21 @@ Raw data: [sitemap.json](./data/sprunki-sinner.org/20241123_152330/sitemap.json)
 
 ## sprunki.app
 
+### 20250102_000638
+
+- https://sprunki.app/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/es/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/pt/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/ja/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/ko/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/ru/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/zh-CN/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/zh-TW/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/fr/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+- https://sprunki.app/de/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
+
+Raw data: [sitemap.json](./data/sprunki.app/20250102_000638/sitemap.json) and [diff.json](./data/sprunki.app/20250102_000638/diff.json)
+
 ### 20241231_000628
 
 - https://sprunki.app/blog/sprunki-simon-incredibox-guide
@@ -3810,21 +3846,6 @@ Raw data: [sitemap.json](./data/sprunki.app/20241231_000628/sitemap.json) and [d
 - https://sprunki.app/de/blog/2024-12-29-sprunki-kiss-mod
 
 Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [diff.json](./data/sprunki.app/20241230_000712/diff.json)
-
-### 20241123_152330
-
-- https://sprunki.app/sprunki-kiss-edition
-- https://sprunki.app/es/sprunki-kiss-edition
-- https://sprunki.app/pt/sprunki-kiss-edition
-- https://sprunki.app/ja/sprunki-kiss-edition
-- https://sprunki.app/ko/sprunki-kiss-edition
-- https://sprunki.app/ru/sprunki-kiss-edition
-- https://sprunki.app/zh-CN/sprunki-kiss-edition
-- https://sprunki.app/zh-TW/sprunki-kiss-edition
-- https://sprunki.app/fr/sprunki-kiss-edition
-- https://sprunki.app/de/sprunki-kiss-edition
-
-Raw data: [sitemap.json](./data/sprunki.app/20241123_152330/sitemap.json) and [diff.json](./data/sprunki.app/20241123_152330/diff.json)
 
 ## newgrounds.com
 
