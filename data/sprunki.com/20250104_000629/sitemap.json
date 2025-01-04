@@ -1,0 +1,1847 @@
+{
+  "url": "https://sprunki.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://sprunki.com/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [],
+      "pages": []
+    },
+    {
+      "url": "https://sprunki.com/sitemap",
+      "type": "PagesXMLSitemap",
+      "sitemaps": [],
+      "pages": [
+        {
+          "url": "https://sprunki.com/yellow-colorbox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/xdemon-sprunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/the-adventures-of-durple",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/super-sprunki-brasil",
+          "priority": 1.0,
+          "last_modified": "2025-01-02 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/studki-sprunki-reskin",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/srunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/spruted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunky",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkstard",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkr",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkiwithoc2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkiwithfancharacter",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkis",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkilairity",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkify",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkifpe",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-x-regretevator",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-world",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Sprunki-Universe",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-undertale",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-typos",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-the-reddest-mod",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sugar",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-spunkr",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sprunkohol",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sproinky",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sprejecz",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-shocked",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-ruang-roblox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-roblox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-retake",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-remastered",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-rejoyed",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-rainbow-friends",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Sprunki-Rainbow-Friends",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-puncher",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-pokemon",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-10",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-9",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-8",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-7",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-6",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-5",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-4",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-3",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-1",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-parasite",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-mustard",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-mundo-torajo",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-modded-version",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-megalovania",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-kiss",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-katchup",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-katchup-2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-inverted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-infected",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-icebox-cool-as-ice",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-gyat",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-extended",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-encore-wip",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-eddsworld-mod",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-deluxe",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-dash",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-corruptbox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-christmas",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-cancelled-update",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-with-memes",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-somethings-not-right",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-something-is-wrong",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-manada",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-is-modded",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-i-ruined-it",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-bad",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-baldunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-bad",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-baby",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-babies",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-abstracted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-3d-mod",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkers",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunked",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunked-daytime-demo",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprung",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprejecz",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/slap-grey",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sfunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/remix-plus",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/punch-oren-clicker",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/pink-colorbox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/parasprunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/objectbox-sprunkstard",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/MonsterBox-v1-Plant-Island-incredibox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V9_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V8_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V7_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V6_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V5_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V4_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V4-Armed",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V3_deleted",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V2_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V1_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Ultimate",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Trillybox-V3-Pollywog",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Trillybox-V2-Bupkis",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-template-v0-2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibox-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibox-sprunki-but-somewhat-funni",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-not-so",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibox-cool-as-ice",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Clockwork",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Cataclysm",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibop-deadline",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibo-The-Scatposters",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/imsosprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/i-ruined-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/hot-like-lava",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/horror-spranky-beats",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/hacked-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/green-colorbox",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/fnf-vs-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/corruptbox-2-but-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/corruptbox3-x-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/cool-as-ice",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/cold-as-frost",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/bettericons",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/awesome-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/abgerny",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        }
+      ]
+    },
+    {
+      "url": "https://sprunki.com/sitemap.xml",
+      "type": "PagesXMLSitemap",
+      "sitemaps": [],
+      "pages": [
+        {
+          "url": "https://sprunki.com/yellow-colorbox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/xdemon-sprunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/the-adventures-of-durple",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/super-sprunki-brasil",
+          "priority": 1.0,
+          "last_modified": "2025-01-02 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/studki-sprunki-reskin",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/srunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/spruted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunky",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkstard",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkr",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkiwithoc2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkiwithfancharacter",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkis",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkilairity",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkify",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkifpe",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-x-regretevator",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-world",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Sprunki-Universe",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-undertale",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-typos",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-the-reddest-mod",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sugar",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-spunkr",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sprunkohol",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sproinky",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-sprejecz",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-shocked",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-ruang-roblox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-roblox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-retake",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-remastered",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-rejoyed",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-rainbow-friends",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Sprunki-Rainbow-Friends",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-puncher",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-pokemon",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-10",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-9",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-8",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-7",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-6",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-5",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-4",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-3",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-phase-1",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-parasite",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-mustard",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-mundo-torajo",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-modded-version",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-megalovania",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-kiss",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-katchup",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-katchup-2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-inverted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-infected",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-icebox-cool-as-ice",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-gyat",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-extended",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-encore-wip",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-eddsworld-mod",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-deluxe",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-dash",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-corruptbox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-christmas",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-cancelled-update",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-with-memes",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-somethings-not-right",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-something-is-wrong",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-manada",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-is-modded",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-i-ruined-it",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-but-bad",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-baldunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-bad",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-baby",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-babies",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-abstracted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunki-3d-mod",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunkers",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunked",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprunked-daytime-demo",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprung",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sprejecz",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/slap-grey",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/sfunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/remix-plus",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/punch-oren-clicker",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/pink-colorbox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/parasprunki",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/objectbox-sprunkstard",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/MonsterBox-v1-Plant-Island-incredibox",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V9_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V8_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V7_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V6_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V5_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V4_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V4-Armed",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V3_deleted",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V2_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-V1_deleted",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Ultimate",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Trillybox-V3-Pollywog",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Trillybox-V2-Bupkis",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-template-v0-2",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibox-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibox-sprunki-but-somewhat-funni",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-not-so",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibox-cool-as-ice",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Clockwork",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibox-Cataclysm",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/incredibop-deadline",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/Incredibo-The-Scatposters",
+          "priority": 1.0,
+          "last_modified": "2024-12-31 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/imsosprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/i-ruined-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/hot-like-lava",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/horror-spranky-beats",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/hacked-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/green-colorbox",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/fnf-vs-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/corruptbox-2-but-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/corruptbox3-x-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/cool-as-ice",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/cold-as-frost",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/bettericons",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/awesome-sprunki",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunki.com/abgerny",
+          "priority": 1.0,
+          "last_modified": "2025-01-03 00:00:00",
+          "change_frequency": "always",
+          "news_story": null
+        }
+      ]
+    }
+  ],
+  "pages": []
+}
