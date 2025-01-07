@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkiphase4.app/bunbox-v1-purrgatory",
+      "priority": 0.7,
+      "last_modified": "2025-01-06T12:48:11.226000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiphase4.app/colorbox-maroon",
+      "priority": 0.7,
+      "last_modified": "2025-01-06T12:48:59.020000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiphase4.app/incredibox-oneshot-pibble-mayhem",
+      "priority": 0.7,
+      "last_modified": "2025-01-06T12:46:43.624000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiphase4.app/incredibox-pointless-simulator",
+      "priority": 0.7,
+      "last_modified": "2025-01-06T12:47:21.746000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
