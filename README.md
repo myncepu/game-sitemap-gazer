@@ -92,6 +92,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250103_000643/sitemap.json) 
 
 ## sprunki.org
 
+### 20250113_000719
+
+- https://sprunki.org/sprunki-but-epic
+
+Raw data: [sitemap.json](./data/sprunki.org/20250113_000719/sitemap.json) and [diff.json](./data/sprunki.org/20250113_000719/diff.json)
+
 ### 20250112_000732
 
 - https://sprunki.org/sprunki-phase-888
@@ -107,12 +113,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250112_000732/sitemap.json) and [d
 - https://sprunki.org/sprunki-whack-a-mole
 
 Raw data: [sitemap.json](./data/sprunki.org/20250111_000643/sitemap.json) and [diff.json](./data/sprunki.org/20250111_000643/diff.json)
-
-### 20250110_000644
-
-- https://sprunki.org/sprunki-phase-999
-
-Raw data: [sitemap.json](./data/sprunki.org/20250110_000644/sitemap.json) and [diff.json](./data/sprunki.org/20250110_000644/diff.json)
 
 ## sprunki.com
 
@@ -10274,6 +10274,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20241213_000724/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250113_000719
+
+- https://incrediboxsprunki.org/sprunki-hyperblast
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250113_000719/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250113_000719/diff.json)
+
 ### 20250112_000732
 
 - https://incrediboxsprunki.org/sprunki-fnaf-4
@@ -10287,13 +10293,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250112_000732/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250111_000643/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250111_000643/diff.json)
 
-### 20250110_000644
-
-- https://incrediboxsprunki.org/sprunki-cute-mod
-- https://incrediboxsprunki.org/sprunki-ocs-life-work
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250110_000644/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250110_000644/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -10301,6 +10300,33 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250110_000644/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20250113_000719
+
+- https://sprunkin.com/game/sprunki-titanic-cat-gang-edition/
+- https://sprunkin.com/game/sprunki-but-15000000-funbots/
+- https://sprunkin.com/game/sprunki-mayonaise-2/
+- https://sprunkin.com/game/sprunki-terror-phase-10/
+- https://sprunkin.com/game/sprinkle-parasite/
+- https://sprunkin.com/game/sprunki-terror-phase-30/
+- https://sprunkin.com/game/sprunki-in-ohio-brainrot/
+- https://sprunkin.com/fan-game/sprunki-phase-2/
+- https://sprunkin.com/fan-game/spkpiece/
+- https://sprunkin.com/fan-game/sprunki-the-mercury-mod/
+- https://sprunkin.com/fan-game/horror-raddy-sprunki/
+- https://sprunkin.com/fan-game/sprunki-phase-6-fe/
+- https://sprunkin.com/fan-game/sprinki-modified/
+- https://sprunkin.com/fan-game/sprunki-phase-9-mod/
+- https://sprunkin.com/fan-game/sprunki-phase-9-mod-2/
+- https://sprunkin.com/fan-game/sprunki-cancelled-update-3/
+- https://sprunkin.com/fan-game/sprunki-pokemon-pokesprunki-phase-3/
+- https://sprunkin.com/fan-game/pedrohenriquecardosoyahoo-com-3/
+- https://sprunkin.com/fan-game/sprunki-sunat-%f0%9f%98%b3%f0%9f%98%b3/
+- https://sprunkin.com/fan-game/sprunki-definitive-phase-5-2/
+- https://sprunkin.com/fan-game/incredibox-glitched-sprunki-mod-for-glitch/
+- https://sprunkin.com/fan-game/sprunki-the-mercury-mod-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250113_000719/sitemap.json) and [diff.json](./data/sprunkin.com/20250113_000719/diff.json)
 
 ### 20250112_000732
 
@@ -10339,26 +10365,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250112_000732/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunk-venus-edition/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250111_000643/sitemap.json) and [diff.json](./data/sprunkin.com/20250111_000643/diff.json)
-
-### 20250110_000644
-
-- https://sprunkin.com/game/parasprunki-14/
-- https://sprunkin.com/game/sprunkr-be-edition/
-- https://sprunkin.com/game/sprunki-reboot-phase-5-but-all-alive/
-- https://sprunkin.com/game/kino-sprunked-be-edition/
-- https://sprunkin.com/game/sprunki-reboot-phase-4-but-all-alive/
-- https://sprunkin.com/game/sprunki-babies-with-ocs/
-- https://sprunkin.com/game/sprunki-retake-but-all-alive/
-- https://sprunkin.com/fan-game/sprunki-but-they-are-cats/
-- https://sprunkin.com/fan-game/sprunki-but-with-cats/
-- https://sprunkin.com/fan-game/sprunkit-texture-update-test-pt/
-- https://sprunkin.com/fan-game/sprunki-phase-4-update/
-- https://sprunkin.com/fan-game/sprinki-modified/
-- https://sprunkin.com/fan-game/sprunki-x-voidoc/
-- https://sprunkin.com/fan-game/first-mod/
-- https://sprunkin.com/fan-game/first-mod-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250110_000644/sitemap.json) and [diff.json](./data/sprunkin.com/20250110_000644/diff.json)
 
 ## sprunkisinner.org
 
