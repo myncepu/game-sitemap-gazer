@@ -1,0 +1,165 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkiincredibox.com/",
+      "priority": 1.0,
+      "last_modified": "2025-01-22T10:31:52Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/play/",
+      "priority": 0.8,
+      "last_modified": "2025-01-22T11:40:43Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/mod/",
+      "priority": 0.8,
+      "last_modified": "2025-01-22T11:42:42Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/download/",
+      "priority": 0.8,
+      "last_modified": "2025-01-22T11:41:13Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-characters/",
+      "priority": 0.8,
+      "last_modified": "2025-01-22T11:41:24Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-phase/",
+      "priority": 0.8,
+      "last_modified": "2025-01-22T11:11:34Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/ko/",
+      "priority": 0.8,
+      "last_modified": "2025-01-22T13:34:48Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/ru/",
+      "priority": 0.8,
+      "last_modified": "2025-01-22T12:09:28Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/pt/",
+      "priority": 0.8,
+      "last_modified": "2025-01-23T02:26:46Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/neesterversal-v3-incredibox/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T11:00:24Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/gray-sprunki/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T10:55:16Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-oc/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T10:36:38Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/dandys-world/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T14:01:17Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/fnf/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T11:43:24Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-phase-3/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T13:07:31Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-phase-4/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T11:16:23Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/ko/download/",
+      "priority": 0.64,
+      "last_modified": "2025-01-23T02:26:46Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/ru/download/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T19:00:31Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/pt/download/",
+      "priority": 0.64,
+      "last_modified": "2025-01-23T02:26:46Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-phase-5/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T13:25:31Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-phase-6/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T11:18:32Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-phase-7/",
+      "priority": 0.64,
+      "last_modified": "2025-01-22T10:56:32Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiincredibox.com/sprunki-oc/game/",
+      "priority": 0.51,
+      "last_modified": "2025-01-22T10:36:42Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
