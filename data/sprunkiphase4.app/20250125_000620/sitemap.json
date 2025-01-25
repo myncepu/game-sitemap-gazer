@@ -1,0 +1,447 @@
+{
+  "url": "https://sprunkiphase4.app/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://sprunkiphase4.app/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [
+        {
+          "url": "https://sprunkiphase4.app/sitemap.xml",
+          "type": "InvalidSitemap",
+          "sitemaps": [],
+          "pages": []
+        }
+      ],
+      "pages": []
+    },
+    {
+      "url": "https://sprunkiphase4.app/sitemap",
+      "type": "PagesXMLSitemap",
+      "sitemaps": [],
+      "pages": [
+        {
+          "url": "https://sprunkiphase4.app",
+          "priority": 1.0,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/features",
+          "priority": 0.8,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/how-to-play",
+          "priority": 0.8,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/faq",
+          "priority": 0.8,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/privacy",
+          "priority": 0.8,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/terms",
+          "priority": 0.8,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/sprunki-phase-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/sprunki-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/incredibox-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/music-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/mod-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/halloween-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/new-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/hot-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/categories/featured-games",
+          "priority": 0.9,
+          "last_modified": "2025-01-25 00:06:26.039000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/Sprunki-Chaotic-Good",
+          "priority": 0.7,
+          "last_modified": "2025-01-01 09:32:24.258000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/andlbox-cv1-carol-of-the-bells",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:28:42.257000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/bunbox-v1-purrgatory",
+          "priority": 0.7,
+          "last_modified": "2025-01-06 12:48:11.226000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/colorbox-maroon",
+          "priority": 0.7,
+          "last_modified": "2025-01-06 12:48:59.020000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/colorbox-violet",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:31:16.293000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/colorbox-vp-sage",
+          "priority": 0.7,
+          "last_modified": "2025-01-05 07:52:32.521000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/cool-as-ice-horror",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:37:11.785000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/corruptbox-4",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:26:17.666000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/fiddlebops",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:39:28.158000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/fiddlesprunki",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:38:34.297000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-burnout",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:34:55.767000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-game-on",
+          "priority": 0.7,
+          "last_modified": "2025-01-05 07:53:34.416000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-oneshot-pibble-mayhem",
+          "priority": 0.7,
+          "last_modified": "2025-01-06 12:46:43.624000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-pointless-simulator",
+          "priority": 0.7,
+          "last_modified": "2025-01-06 12:47:21.746000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-silly-slop",
+          "priority": 0.7,
+          "last_modified": "2025-01-05 07:53:05.505000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-sprunksters",
+          "priority": 0.7,
+          "last_modified": "2025-01-24 07:08:21.912000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-survival",
+          "priority": 0.7,
+          "last_modified": "2025-01-02 13:29:58.986000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-the-scatposters",
+          "priority": 0.7,
+          "last_modified": "2025-01-05 07:54:04.653000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/incredibox-vbal6-the-ruler-rap",
+          "priority": 0.7,
+          "last_modified": "2025-01-05 07:51:57.725000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/monochrome-incredibox-mod",
+          "priority": 0.7,
+          "last_modified": "2025-01-01 13:13:06.489000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-babies",
+          "priority": 0.7,
+          "last_modified": "2024-01-01 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-but-alpha",
+          "priority": 0.7,
+          "last_modified": "2024-01-16 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-but-everyone-is-alive",
+          "priority": 0.7,
+          "last_modified": "2024-01-15 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-corruptbox-3-infected-war",
+          "priority": 0.7,
+          "last_modified": "2025-01-01 13:14:23.607000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-corruptbox-5",
+          "priority": 0.7,
+          "last_modified": "2025-01-24 07:34:18.436000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-dandys-world",
+          "priority": 0.7,
+          "last_modified": "2024-01-14 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-incredibox",
+          "priority": 0.7,
+          "last_modified": "2024-01-17 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-incredibox-pokemon-as-ice",
+          "priority": 0.7,
+          "last_modified": "2025-01-01 13:15:37.025000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-1",
+          "priority": 0.7,
+          "last_modified": "2024-01-02 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-10",
+          "priority": 0.7,
+          "last_modified": "2024-01-11 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-2",
+          "priority": 0.7,
+          "last_modified": "2024-01-03 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-3",
+          "priority": 0.7,
+          "last_modified": "2024-01-04 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-4",
+          "priority": 0.7,
+          "last_modified": "2024-01-05 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-5",
+          "priority": 0.7,
+          "last_modified": "2024-01-06 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-6",
+          "priority": 0.7,
+          "last_modified": "2024-01-07 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-7",
+          "priority": 0.7,
+          "last_modified": "2024-01-08 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-8",
+          "priority": 0.7,
+          "last_modified": "2024-01-09 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-phase-9",
+          "priority": 0.7,
+          "last_modified": "2024-01-10 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-pyramixed-phase-3",
+          "priority": 0.7,
+          "last_modified": "2025-01-24 08:07:01.796000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-retake",
+          "priority": 0.7,
+          "last_modified": "2024-11-19 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-scrunkly",
+          "priority": 0.7,
+          "last_modified": "2025-01-05 07:55:15.431000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-skibidi-toilet-2-0",
+          "priority": 0.7,
+          "last_modified": "2025-01-01 13:16:20.603000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-sprunksters",
+          "priority": 0.7,
+          "last_modified": "2025-01-24 07:02:08.758000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-swapped-version",
+          "priority": 0.7,
+          "last_modified": "2024-01-13 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://sprunkiphase4.app/sprunki-with-fan-character",
+          "priority": 0.7,
+          "last_modified": "2024-01-18 00:00:00+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        }
+      ]
+    }
+  ],
+  "pages": []
+}

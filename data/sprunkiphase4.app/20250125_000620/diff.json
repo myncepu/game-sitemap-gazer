@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkiphase4.app/incredibox-sprunksters",
+      "priority": 0.7,
+      "last_modified": "2025-01-24T07:08:21.912000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiphase4.app/sprunki-corruptbox-5",
+      "priority": 0.7,
+      "last_modified": "2025-01-24T07:34:18.436000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiphase4.app/sprunki-pyramixed-phase-3",
+      "priority": 0.7,
+      "last_modified": "2025-01-24T08:07:01.796000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkiphase4.app/sprunki-sprunksters",
+      "priority": 0.7,
+      "last_modified": "2025-01-24T07:02:08.758000Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
