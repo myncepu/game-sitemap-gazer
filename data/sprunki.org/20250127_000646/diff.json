@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.org/starve",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/labadab",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/sprunked-re-taped",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
