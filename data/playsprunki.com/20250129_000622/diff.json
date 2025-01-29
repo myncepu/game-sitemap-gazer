@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://playsprunki.com/item/sprunksters",
+      "priority": 0.5,
+      "last_modified": "2025-01-28T01:35:15Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/sprunked-final-version",
+      "priority": 0.5,
+      "last_modified": "2025-01-28T01:53:32Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/parasprunki",
+      "priority": 0.5,
+      "last_modified": "2025-01-28T02:12:52Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
