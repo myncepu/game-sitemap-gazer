@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250203_000647
+
+- https://sprunki.org/bous-revenge
+
+Raw data: [sitemap.json](./data/sprunki.org/20250203_000647/sitemap.json) and [diff.json](./data/sprunki.org/20250203_000647/diff.json)
+
 ### 20250202_000652
 
 - https://sprunki.org/what-beats-rock
@@ -84,13 +90,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250202_000652/sitemap.json) and [d
 - https://sprunki.org/cucumber-clicker
 
 Raw data: [sitemap.json](./data/sprunki.org/20250201_000651/sitemap.json) and [diff.json](./data/sprunki.org/20250201_000651/diff.json)
-
-### 20250131_000624
-
-- https://sprunki.org/banana-clicker
-- https://sprunki.org/sprunki-banana-porridge-remix
-
-Raw data: [sitemap.json](./data/sprunki.org/20250131_000624/sitemap.json) and [diff.json](./data/sprunki.org/20250131_000624/diff.json)
 
 ## sprunki.com
 
@@ -10612,6 +10611,39 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250203_000647
+
+- https://sprunkin.com/game/sprunki-phase-3-rm-but-all-alive/
+- https://sprunkin.com/game/sprunki-new-look/
+- https://sprunkin.com/game/sprunked-parasite-remake/
+- https://sprunkin.com/game/sprunki-banana-porridge/
+- https://sprunkin.com/game/sprunki-parodybox-but-kids/
+- https://sprunkin.com/fan-game/sprunki-sater-edition-v-5/
+- https://sprunkin.com/fan-game/sprutor/
+- https://sprunkin.com/fan-game/pyramixed-sprunki/
+- https://sprunkin.com/fan-game/sprunki-retake-night-time/
+- https://sprunkin.com/fan-game/sprunki-vanilla/
+- https://sprunkin.com/fan-game/amir-peli/
+- https://sprunkin.com/fan-game/incredibox-warm-like-fire-beta/
+- https://sprunkin.com/fan-game/sprunki-overloaded/
+- https://sprunkin.com/fan-game/incrediox-pavojus/
+- https://sprunkin.com/fan-game/sprunki-corrupt-box-2-but-cfmot/
+- https://sprunkin.com/fan-game/sater-sprunki-au-v-7/
+- https://sprunkin.com/fan-game/sprunki-but-everyone-is-puzzled/
+- https://sprunkin.com/fan-game/sprunki-realin-uncompleted/
+- https://sprunkin.com/fan-game/sprunki-remake-3/
+- https://sprunkin.com/fan-game/trivolution-sprunki/
+- https://sprunkin.com/fan-game/sbrunjiba/
+- https://sprunkin.com/fan-game/sprunki-but-they-are-all-alive/
+- https://sprunkin.com/fan-game/sprunki-nemo/
+- https://sprunkin.com/fan-game/sprunki-birlet/
+- https://sprunkin.com/fan-game/sprunki-birlet-2/
+- https://sprunkin.com/fan-game/sprunkiberlit/
+- https://sprunkin.com/fan-game/sprunker/
+- https://sprunkin.com/fan-game/sprunki-phase-4-but-all-alive/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250203_000647/sitemap.json) and [diff.json](./data/sprunkin.com/20250203_000647/diff.json)
+
 ### 20250201_000651
 
 - https://sprunkin.com/game/sprunki-remade/
@@ -10659,29 +10691,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250201_000651/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-sprunki-swapped-new-version/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250131_000624/sitemap.json) and [diff.json](./data/sprunkin.com/20250131_000624/diff.json)
-
-### 20250130_000625
-
-- https://sprunkin.com/game/strawberry-jam-but-sprunki/
-- https://sprunkin.com/game/sprunki-sprinkle-2/
-- https://sprunkin.com/game/sprunki-phase-3-remaster-but-real/
-- https://sprunkin.com/game/sprunki-funier/
-- https://sprunkin.com/game/sprunki-pyramixed-phase-2-remake/
-- https://sprunkin.com/game/sprunkibox-spruns/
-- https://sprunkin.com/game/sprunki-city-york-phase-2/
-- https://sprunkin.com/fan-game/singularity-x-sprunki/
-- https://sprunkin.com/fan-game/sprinkle-pyrmixed/
-- https://sprunkin.com/fan-game/sprinkle-pyrmixed-2/
-- https://sprunkin.com/fan-game/murndiny/
-- https://sprunkin.com/fan-game/sprunki-pyramix-but-black-is-normal/
-- https://sprunkin.com/fan-game/sprunki-phase-1000-remake/
-- https://sprunkin.com/fan-game/sprunki-phase-1000-2/
-- https://sprunkin.com/fan-game/sprunki-but-robots/
-- https://sprunkin.com/fan-game/custom-sprunked/
-- https://sprunkin.com/fan-game/sprunki-but-remake-not-finished/
-- https://sprunkin.com/fan-game/sprunki-phase-1-5-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250130_000625/sitemap.json) and [diff.json](./data/sprunkin.com/20250130_000625/diff.json)
 
 ## sprunkisinner.org
 
