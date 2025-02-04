@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250204_000634
+
+- https://sprunki.org/duck-life
+
+Raw data: [sitemap.json](./data/sprunki.org/20250204_000634/sitemap.json) and [diff.json](./data/sprunki.org/20250204_000634/diff.json)
+
 ### 20250203_000647
 
 - https://sprunki.org/bous-revenge
@@ -84,12 +90,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250203_000647/sitemap.json) and [d
 - https://sprunki.org/what-beats-rock
 
 Raw data: [sitemap.json](./data/sprunki.org/20250202_000652/sitemap.json) and [diff.json](./data/sprunki.org/20250202_000652/diff.json)
-
-### 20250201_000651
-
-- https://sprunki.org/cucumber-clicker
-
-Raw data: [sitemap.json](./data/sprunki.org/20250201_000651/sitemap.json) and [diff.json](./data/sprunki.org/20250201_000651/diff.json)
 
 ## sprunki.com
 
@@ -10611,6 +10611,22 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250204_000634
+
+- https://sprunkin.com/game/sprunki-summer-time/
+- https://sprunkin.com/game/sprunki-fun-guinea-pig/
+- https://sprunkin.com/game/sprunki-phase-3-octatheredrawer-version/
+- https://sprunkin.com/game/sprunki-barasite/
+- https://sprunkin.com/game/sprunkiphobia/
+- https://sprunkin.com/fan-game/sprunki-pokemon-pokesprunki-phase-4-definitive/
+- https://sprunkin.com/fan-game/sprunki-but-its-opposite-day/
+- https://sprunkin.com/fan-game/sprunki-cancelled-update-but-they-are-all-alive-in-phase-2/
+- https://sprunkin.com/fan-game/sprunki-redesign/
+- https://sprunkin.com/fan-game/sprunki-birlet2-0/
+- https://sprunkin.com/fan-game/sprunki-alive-phase-2-but-cancelled-update-jevins-animation-syncs-with-his-sprunki-incredimake-audio/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250204_000634/sitemap.json) and [diff.json](./data/sprunkin.com/20250204_000634/diff.json)
+
 ### 20250203_000647
 
 - https://sprunkin.com/game/sprunki-phase-3-rm-but-all-alive/
@@ -10658,39 +10674,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250203_000647/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-geometry-dash/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250201_000651/sitemap.json) and [diff.json](./data/sprunkin.com/20250201_000651/diff.json)
-
-### 20250131_000624
-
-- https://sprunkin.com/game/sprunki-red-vs-plants/
-- https://sprunkin.com/game/sprunki-sunchonre/
-- https://sprunkin.com/game/sprunki-poppy-playtime-phase-5/
-- https://sprunkin.com/game/sprunki-retake-but-its-blockies/
-- https://sprunkin.com/game/sprunki-msi/
-- https://sprunkin.com/game/sprunki-pyramixed-but-robot/
-- https://sprunkin.com/game/sprunki-ozzybox-2-0/
-- https://sprunkin.com/game/sprunki-but-fruity-2/
-- https://sprunkin.com/fan-game/sprunki-but-street-lights/
-- https://sprunkin.com/fan-game/sprunki-but-street-lights-3/
-- https://sprunkin.com/fan-game/roblox-oc-sprunki-beta-2/
-- https://sprunkin.com/fan-game/roblox-ocs-sprunki-beta-unblocked/
-- https://sprunkin.com/fan-game/sprunki-pyramixed-but-street-lights/
-- https://sprunkin.com/fan-game/garnolds-sprunki-2/
-- https://sprunkin.com/fan-game/incredibox-sprunki-redesigned/
-- https://sprunkin.com/fan-game/sprunki-but-they-are-scared-of-the-dark/
-- https://sprunkin.com/fan-game/sprunki-but-they-survived/
-- https://sprunkin.com/fan-game/sprunki-babies-phase-3/
-- https://sprunkin.com/fan-game/the-end-of-sprunki/
-- https://sprunkin.com/fan-game/sprunki-but-i-fanremixed-it/
-- https://sprunkin.com/fan-game/sprunki-phase-1-2/
-- https://sprunkin.com/fan-game/knock-out-bruds-bucket-game/
-- https://sprunkin.com/fan-game/knock-out-bruds-bucket-game-2/
-- https://sprunkin.com/fan-game/vincent-sprunki-phase-4/
-- https://sprunkin.com/fan-game/vincent-sprunki/
-- https://sprunkin.com/fan-game/vincent-sprunki-corrputedbox/
-- https://sprunkin.com/fan-game/sater-sprunki-au-v-3/
-- https://sprunkin.com/fan-game/incredibox-sprunki-swapped-new-version/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250131_000624/sitemap.json) and [diff.json](./data/sprunkin.com/20250131_000624/diff.json)
 
 ## sprunkisinner.org
 
