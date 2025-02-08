@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250208_000620
+
+- https://sprunki.org/incredibox-sprunkios
+- https://sprunki.org/sprunki-tennis
+- https://sprunki.org/sprunki-spikes
+- https://sprunki.org/incredibox-party-frozen-sprunki-beat
+- https://sprunki.org/block-breaker
+
+Raw data: [sitemap.json](./data/sprunki.org/20250208_000620/sitemap.json) and [diff.json](./data/sprunki.org/20250208_000620/diff.json)
+
 ### 20250207_000631
 
 - https://sprunki.org/sprunked-time
@@ -90,12 +100,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250207_000631/sitemap.json) and [d
 - https://sprunki.org/blast-sprunki
 
 Raw data: [sitemap.json](./data/sprunki.org/20250206_000621/sitemap.json) and [diff.json](./data/sprunki.org/20250206_000621/diff.json)
-
-### 20250205_000633
-
-- https://sprunki.org/sprunki-increidibox-rotrizi-50
-
-Raw data: [sitemap.json](./data/sprunki.org/20250205_000633/sitemap.json) and [diff.json](./data/sprunki.org/20250205_000633/diff.json)
 
 ## sprunki.com
 
@@ -10562,6 +10566,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250208_000620
+
+- https://incrediboxsprunki.org/sprunki-warrior-cats
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250208_000620/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250208_000620/diff.json)
+
 ### 20250206_000621
 
 - https://incrediboxsprunki.org/sprunki-bland-edition
@@ -10575,12 +10585,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250206_000621/sitemap.js
 - https://incrediboxsprunki.org/astro-robot-clicker
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250205_000633/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250205_000633/diff.json)
-
-### 20250201_000651
-
-- https://incrediboxsprunki.org/sprunki-padek-man
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250201_000651/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250201_000651/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10761,6 +10765,27 @@ Raw data: [sitemap.json](./data/sprunkisinneredition.com/20241224_000652/sitemap
 
 ## playsprunki.com
 
+### 20250208_000620
+
+- https://playsprunki.com/item/sprunki-retake-updated
+- https://playsprunki.com/item/sprunki-swap-2
+- https://playsprunki.com/item/sprunki-but-squid-game
+- https://playsprunki.com/item/sprunki-banana-porridge
+- https://playsprunki.com/item/sprunki-retake-deluxe
+- https://playsprunki.com/item/sprunki-oren-x-simon
+- https://playsprunki.com/item/sprunksters-human-edition
+- https://playsprunki.com/item/sprunki-redsun
+- https://playsprunki.com/item/blast-sprunki
+- https://playsprunki.com/item/sprunki-metahide-v1
+- https://playsprunki.com/?page=2
+- https://playsprunki.com/?page=3
+- https://playsprunki.com/category/gameplay?page=2
+- https://playsprunki.com/category/character?page=2
+- https://playsprunki.com/tag/overhaul?page=2
+- https://playsprunki.com/tag/expansion?page=2
+
+Raw data: [sitemap.json](./data/playsprunki.com/20250208_000620/sitemap.json) and [diff.json](./data/playsprunki.com/20250208_000620/diff.json)
+
 ### 20250129_000622
 
 - https://playsprunki.com/item/sprunksters
@@ -10774,14 +10799,6 @@ Raw data: [sitemap.json](./data/playsprunki.com/20250129_000622/sitemap.json) an
 - https://playsprunki.com/collection/harryshorriblehumor
 
 Raw data: [sitemap.json](./data/playsprunki.com/20250103_000643/sitemap.json) and [diff.json](./data/playsprunki.com/20250103_000643/diff.json)
-
-### 20250102_000638
-
-- https://playsprunki.com/item/sprunki-sprunkr-2-0
-- https://playsprunki.com/blog/discover-the-magic-of-incredibox-cool-as-ice-a-winter-wonderland-of-music-creation
-- https://playsprunki.com/blog/unveiling-the-thrills-of-sprunki-sprunkr-2-0-mod-a-horror-inspired-musical-adventure
-
-Raw data: [sitemap.json](./data/playsprunki.com/20250102_000638/sitemap.json) and [diff.json](./data/playsprunki.com/20250102_000638/diff.json)
 
 ## sprunki-sinner.org
 
