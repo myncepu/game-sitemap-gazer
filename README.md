@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250213_000626
+
+- https://sprunki.org/gulperio
+
+Raw data: [sitemap.json](./data/sprunki.org/20250213_000626/sitemap.json) and [diff.json](./data/sprunki.org/20250213_000626/diff.json)
+
 ### 20250212_000631
 
 - https://sprunki.org/clash-of-ages-army-evolution
@@ -84,13 +90,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250212_000631/sitemap.json) and [d
 - https://sprunki.org/dragon-io
 
 Raw data: [sitemap.json](./data/sprunki.org/20250211_000626/sitemap.json) and [diff.json](./data/sprunki.org/20250211_000626/diff.json)
-
-### 20250210_000652
-
-- https://sprunki.org/digdig
-- https://sprunki.org/sprunki-ragdoll-box-3d
-
-Raw data: [sitemap.json](./data/sprunki.org/20250210_000652/sitemap.json) and [diff.json](./data/sprunki.org/20250210_000652/diff.json)
 
 ## sprunki.com
 
@@ -10611,6 +10610,20 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250213_000626
+
+- https://sprunkin.com/game/sprunkilicious/
+- https://sprunkin.com/game/sprunki-phase-5-rm/
+- https://sprunkin.com/game/sprinkler-scratch-edition/
+- https://sprunkin.com/game/sprunki-spronkin/
+- https://sprunkin.com/game/sprunki-neo-side/
+- https://sprunkin.com/game/sprunki-frunki/
+- https://sprunkin.com/fan-game/sprunki-but-i-added-my-ocs/
+- https://sprunkin.com/fan-game/sprunki-phase-8-original/
+- https://sprunkin.com/fan-game/incredibox-sprunki-%d0%ba%d1%83%d0%bb%d1%8c%d1%81%d0%b2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250213_000626/sitemap.json) and [diff.json](./data/sprunkin.com/20250213_000626/diff.json)
+
 ### 20250212_000631
 
 - https://sprunkin.com/game/sprunki-compas/
@@ -10652,25 +10665,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250212_000631/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-fiy/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250211_000626/sitemap.json) and [diff.json](./data/sprunkin.com/20250211_000626/diff.json)
-
-### 20250210_000652
-
-- https://sprunkin.com/game/sprunki-modded-4-0/
-- https://sprunkin.com/game/sprunki-swap-repost/
-- https://sprunkin.com/game/sprunki-star-heart/
-- https://sprunkin.com/game/sprunki-pyramixed-animated-happy-mod/
-- https://sprunkin.com/game/sprunki-dandys-twotake/
-- https://sprunkin.com/fan-game/sprunki-alive-edition/
-- https://sprunkin.com/fan-game/sprunki-pryamixed-pokemon-pokesprunki/
-- https://sprunkin.com/fan-game/mss/
-- https://sprunkin.com/fan-game/my-singing-sprunki/
-- https://sprunkin.com/fan-game/sprunki-color-swap/
-- https://sprunkin.com/fan-game/sprunki-plus/
-- https://sprunkin.com/fan-game/sprunki-but-everybody-has-covid/
-- https://sprunkin.com/fan-game/sprunki-temm/
-- https://sprunkin.com/fan-game/incredibox-sprunki-chicken-gun/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250210_000652/sitemap.json) and [diff.json](./data/sprunkin.com/20250210_000652/diff.json)
 
 ## sprunkisinner.org
 
