@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250216_000700
+
+- https://sprunki.org/hangaroo
+- https://sprunki.org/stimulation-clicker
+- https://sprunki.org/jamming-with-sprunki
+- https://sprunki.org/gold-digger-frvr
+- https://sprunki.org/sandustry
+
+Raw data: [sitemap.json](./data/sprunki.org/20250216_000700/sitemap.json) and [diff.json](./data/sprunki.org/20250216_000700/diff.json)
+
 ### 20250215_000624
 
 - https://sprunki.org/hidden-sprunki
@@ -87,12 +97,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250215_000624/sitemap.json) and [d
 - https://sprunki.org/sprunki-awkward
 
 Raw data: [sitemap.json](./data/sprunki.org/20250214_000624/sitemap.json) and [diff.json](./data/sprunki.org/20250214_000624/diff.json)
-
-### 20250213_000626
-
-- https://sprunki.org/gulperio
-
-Raw data: [sitemap.json](./data/sprunki.org/20250213_000626/sitemap.json) and [diff.json](./data/sprunki.org/20250213_000626/diff.json)
 
 ## sprunki.com
 
@@ -10559,6 +10563,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250216_000700
+
+- https://incrediboxsprunki.io/htsprunkis-retake
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250216_000700/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250216_000700/diff.json)
+
 ### 20250215_000624
 
 - https://incrediboxsprunki.io/sprunki-puppet
@@ -10839,12 +10849,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250215_000624/sitemap.js
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250214_000624/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250214_000624/diff.json)
 
-### 20250212_000631
-
-- https://incrediboxsprunki.org/blast-sprunki
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250212_000631/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250212_000631/diff.json)
-
 ## sprunki-incredibox.org
 
 ## sprunkiincredibox.com
@@ -10880,6 +10884,25 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 ## sprunkiremastered.org
 
 ## sprunkin.com
+
+### 20250216_000700
+
+- https://sprunkin.com/game/sprunked-upside-down/
+- https://sprunkin.com/game/sprunki-scratch-remake/
+- https://sprunkin.com/game/sprunki-night-time-3-0/
+- https://sprunkin.com/game/sprunki-chaotic-good-remade/
+- https://sprunkin.com/game/sprunki-pyramixed-squid-game/
+- https://sprunkin.com/fan-game/daves-reskins-pryamixed-og-game-by-pryamix/
+- https://sprunkin.com/fan-game/sprunki-phase-12-remake/
+- https://sprunkin.com/fan-game/cool-as-ice-babies/
+- https://sprunkin.com/fan-game/sprunki-but-resprunkied-beta-1-0-0-2/
+- https://sprunkin.com/fan-game/warm-like-fire/
+- https://sprunkin.com/fan-game/sprunki-modded-sound-update/
+- https://sprunkin.com/fan-game/sprunki-piramixed-but-doors/
+- https://sprunkin.com/fan-game/sprunki-piramixed-but-doors-2/
+- https://sprunkin.com/fan-game/sprunki-phase-5-y-n-r-sprunki-edition-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250216_000700/sitemap.json) and [diff.json](./data/sprunkin.com/20250216_000700/diff.json)
 
 ### 20250215_000624
 
@@ -10923,20 +10946,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250215_000624/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-polos-only-phase-1/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250214_000624/sitemap.json) and [diff.json](./data/sprunkin.com/20250214_000624/diff.json)
-
-### 20250213_000626
-
-- https://sprunkin.com/game/sprunkilicious/
-- https://sprunkin.com/game/sprunki-phase-5-rm/
-- https://sprunkin.com/game/sprinkler-scratch-edition/
-- https://sprunkin.com/game/sprunki-spronkin/
-- https://sprunkin.com/game/sprunki-neo-side/
-- https://sprunkin.com/game/sprunki-frunki/
-- https://sprunkin.com/fan-game/sprunki-but-i-added-my-ocs/
-- https://sprunkin.com/fan-game/sprunki-phase-8-original/
-- https://sprunkin.com/fan-game/incredibox-sprunki-%d0%ba%d1%83%d0%bb%d1%8c%d1%81%d0%b2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250213_000626/sitemap.json) and [diff.json](./data/sprunkin.com/20250213_000626/diff.json)
 
 ## sprunkisinner.org
 
