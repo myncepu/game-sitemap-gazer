@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.io/glove-power",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/sandustry",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/tag/simulation-games",
+      "priority": 0.9,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
