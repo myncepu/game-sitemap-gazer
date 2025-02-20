@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-but-poppy-playtime/",
+      "priority": 0.5,
+      "last_modified": "2025-02-19T13:27:23Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-sprunki-phase-5/",
+      "priority": 0.5,
+      "last_modified": "2025-02-19T19:01:39Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-metahide-v2-2/",
+      "priority": 0.5,
+      "last_modified": "2025-02-19T21:28:34Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

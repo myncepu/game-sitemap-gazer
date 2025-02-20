@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.io/dreader",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/tag/puzzle-games",
+      "priority": 0.9,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
