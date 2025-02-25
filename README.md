@@ -10484,6 +10484,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250225_000650
+
+- https://incrediboxsprunki.io/sprunky-dunky
+- https://incrediboxsprunki.io/love-pawsona-quiz
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250225_000650/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250225_000650/diff.json)
+
 ### 20250224_000658
 
 - https://incrediboxsprunki.io/farm-merge-valley
@@ -10495,12 +10502,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250224_000658/sitemap.js
 - https://incrediboxsprunki.io/balloon-pop
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250223_000704/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250223_000704/diff.json)
-
-### 20250222_000624
-
-- https://incrediboxsprunki.io/burgertime
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250222_000624/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250222_000624/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10538,6 +10539,19 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250225_000650
+
+- https://sprunkin.com/fan-game/sprunki-but-random/
+- https://sprunkin.com/fan-game/sprunki-but-it-really-stupid/
+- https://sprunkin.com/fan-game/sprunki-pyramixed-but-have-bonuses-characters-new/
+- https://sprunkin.com/fan-game/sprunki-15/
+- https://sprunkin.com/fan-game/sprunki-revamped/
+- https://sprunkin.com/fan-game/sprunksters-pokemon-pokesprunki/
+- https://sprunkin.com/fan-game/sprunki-20sd/
+- https://sprunkin.com/fan-game/sprunki-polo/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250225_000650/sitemap.json) and [diff.json](./data/sprunkin.com/20250225_000650/diff.json)
+
 ### 20250224_000658
 
 - https://sprunkin.com/game/sprunki-emojicat/
@@ -10568,29 +10582,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250224_000658/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-somethings-off-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250223_000704/sitemap.json) and [diff.json](./data/sprunkin.com/20250223_000704/diff.json)
-
-### 20250222_000624
-
-- https://sprunkin.com/game/sprunki-phase-7-original/
-- https://sprunkin.com/game/cool-as-ice-with-abgerny/
-- https://sprunkin.com/game/sprunki-chaotic-good-night-time/
-- https://sprunkin.com/game/sprunksters-but-sprunki/
-- https://sprunkin.com/fan-game/sprunki-but-swapped-remake-remaster/
-- https://sprunkin.com/fan-game/custom-sprunki-pyramix/
-- https://sprunkin.com/fan-game/sprunki-phase-3-swapped/
-- https://sprunkin.com/fan-game/mild-as-spring/
-- https://sprunkin.com/fan-game/hot-like-lava/
-- https://sprunkin.com/fan-game/dusty-like-air/
-- https://sprunkin.com/fan-game/solid-as-metal/
-- https://sprunkin.com/fan-game/sprunki-warm-like-fire/
-- https://sprunkin.com/fan-game/parodybox-sprunki-but-reversed/
-- https://sprunkin.com/fan-game/sprunki-the-face-infection/
-- https://sprunkin.com/fan-game/sprunki-pyramixed-1-5-update/
-- https://sprunkin.com/fan-game/hd-sprunkmans-seconds-of-joy/
-- https://sprunkin.com/fan-game/sprunkilarity-remastered/
-- https://sprunkin.com/fan-game/225566/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250222_000624/sitemap.json) and [diff.json](./data/sprunkin.com/20250222_000624/diff.json)
 
 ## sprunkisinner.org
 
