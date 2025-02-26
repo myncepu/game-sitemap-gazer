@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-spikes",
+      "priority": 1.0,
+      "last_modified": "2025-02-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-incredibox-horror",
+      "priority": 1.0,
+      "last_modified": "2025-02-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-snakeio",
+      "priority": 1.0,
+      "last_modified": "2025-02-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/flappy-sprunki-endless-flying",
+      "priority": 1.0,
+      "last_modified": "2025-02-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-13-2592",
+      "priority": 1.0,
+      "last_modified": "2025-02-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-2p/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T08:53:36Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-momo/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T10:10:42Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-phase-4-5-remake/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T10:12:20Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-donkstard/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T10:14:02Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-1996/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T10:15:46Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-7-4/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T03:07:58Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/elemental/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T16:56:59Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-fiddlestard/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T21:15:55Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-00-3/",
+      "priority": 0.5,
+      "last_modified": "2025-02-25T21:27:21Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
