@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/incredibox-goobers",
+      "priority": 1.0,
+      "last_modified": "2025-02-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/incredibox-sprunkle",
+      "priority": 1.0,
+      "last_modified": "2025-02-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-rework",
+      "priority": 1.0,
+      "last_modified": "2025-02-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/numberrunki",
+      "priority": 1.0,
+      "last_modified": "2025-02-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/Sprunki-Remix",
+      "priority": 1.0,
+      "last_modified": "2025-02-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/five-nights-at-freddys-sprunki",
+      "priority": 1.0,
+      "last_modified": "2025-02-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

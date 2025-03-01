@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250301_000716
+
+- https://sprunki.org/avatar-world
+- https://sprunki.org/cute-toca-life-puzzles
+- https://sprunki.org/sprunki-retake-beat-box
+- https://sprunki.org/yandere-simulator
+- https://sprunki.org/happy-wheels
+
+Raw data: [sitemap.json](./data/sprunki.org/20250301_000716/sitemap.json) and [diff.json](./data/sprunki.org/20250301_000716/diff.json)
+
 ### 20250228_000656
 
 - https://sprunki.org/squidki
@@ -86,18 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250228_000656/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250227_000657/sitemap.json) and [diff.json](./data/sprunki.org/20250227_000657/diff.json)
 
-### 20250226_000643
-
-- https://sprunki.org/map-game
-- https://sprunki.org/rocketpult
-- https://sprunki.org/sprunki-1996
-- https://sprunki.org/mahjong-connect
-- https://sprunki.org/stabfish
-- https://sprunki.org/guess-the-kitty
-
-Raw data: [sitemap.json](./data/sprunki.org/20250226_000643/sitemap.json) and [diff.json](./data/sprunki.org/20250226_000643/diff.json)
-
 ## sprunki.com
+
+### 20250301_000716
+
+- https://sprunki.com/incredibox-goobers
+- https://sprunki.com/incredibox-sprunkle
+- https://sprunki.com/sprunki-rework
+- https://sprunki.com/numberrunki
+- https://sprunki.com/Sprunki-Remix
+- https://sprunki.com/five-nights-at-freddys-sprunki
+
+Raw data: [sitemap.json](./data/sprunki.com/20250301_000716/sitemap.json) and [diff.json](./data/sprunki.com/20250301_000716/diff.json)
 
 ### 20250228_000656
 
@@ -124,21 +134,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250228_000656/sitemap.json) and [d
 - https://sprunki.com/sprunki-phase-13-2592
 
 Raw data: [sitemap.json](./data/sprunki.com/20250226_000643/sitemap.json) and [diff.json](./data/sprunki.com/20250226_000643/diff.json)
-
-### 20250222_000624
-
-- https://sprunki.com/sprunki-x-regretevator-music-game
-- https://sprunki.com/sprunbox-musical-adventure-game
-- https://sprunki.com/sprunki-incredibox-music-game-play
-- https://sprunki.com/sprunki-punch-oren-clicker
-- https://sprunki.com/sprunki-funny-music-game
-- https://sprunki.com/sprunki-remastered-music-game
-- https://sprunki.com/sprunki-phase-9-horror-mod
-- https://sprunki.com/sprunki-alive-vibrant-adventure-game
-- https://sprunki.com/sprunki-with-fan-character-game
-- https://sprunki.com/sprunki-clicker-game-music-rhythm-adventure
-
-Raw data: [sitemap.json](./data/sprunki.com/20250222_000624/sitemap.json) and [diff.json](./data/sprunki.com/20250222_000624/diff.json)
 
 ## sprunki.net
 
@@ -10234,6 +10229,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250301_000716
+
+- https://incrediboxsprunki.io/among-us-3d
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250301_000716/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250301_000716/diff.json)
+
 ### 20250228_000656
 
 - https://incrediboxsprunki.io/wormate
@@ -10246,12 +10247,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250228_000656/sitemap.js
 - https://incrediboxsprunki.io/incredibox-dandys-retour
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250227_000657/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250227_000657/diff.json)
-
-### 20250226_000643
-
-- https://incrediboxsprunki.io/sprunki-3d-rp-mod
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250226_000643/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250226_000643/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10384,6 +10379,27 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250301_000716
+
+- https://sprunkin.com/game/sprunkirus-2/
+- https://sprunkin.com/game/sprunki-but-old/
+- https://sprunkin.com/game/sprunki-pyramix-silly-edition/
+- https://sprunkin.com/game/sprunki-swapped-nuclear-version/
+- https://sprunkin.com/game/sprunki-dandys-world-remastered/
+- https://sprunkin.com/game/sprunki-pyramixed-human-edition/
+- https://sprunkin.com/fan-game/sprunki-jackson/
+- https://sprunkin.com/fan-game/sprunki-but-polos/
+- https://sprunkin.com/fan-game/sprunki-oc-maker/
+- https://sprunkin.com/fan-game/sprunki-reanimated-2/
+- https://sprunkin.com/fan-game/sprunki-sus-mod/
+- https://sprunkin.com/fan-game/sprunki-polos/
+- https://sprunkin.com/fan-game/mild-as-spring-but-everyone-is-voice-2/
+- https://sprunkin.com/fan-game/sprunki-seal-edition/
+- https://sprunkin.com/fan-game/cool-as-ice-but-everyone-is-beeswees/
+- https://sprunkin.com/fan-game/sprunki-gyatt-butt/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250301_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250301_000716/diff.json)
+
 ### 20250228_000656
 
 - https://sprunkin.com/game/sprunki-vintage-definitive-phase-3/
@@ -10410,20 +10426,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250228_000656/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-rejoin-kayden-firends/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250227_000657/sitemap.json) and [diff.json](./data/sprunkin.com/20250227_000657/diff.json)
-
-### 20250226_000643
-
-- https://sprunkin.com/game/sprunki-2p/
-- https://sprunkin.com/game/sprunki-momo/
-- https://sprunkin.com/game/sprunki-phase-4-5-remake/
-- https://sprunkin.com/game/sprunki-donkstard/
-- https://sprunkin.com/game/sprunki-1996/
-- https://sprunkin.com/fan-game/sprunki-phase-7-4/
-- https://sprunkin.com/fan-game/elemental/
-- https://sprunkin.com/fan-game/incredibox-fiddlestard/
-- https://sprunkin.com/fan-game/sprunki-phase-00-3/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250226_000643/sitemap.json) and [diff.json](./data/sprunkin.com/20250226_000643/diff.json)
 
 ## sprunkisinner.org
 
