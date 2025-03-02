@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250302_000701
+
+- https://sprunki.org/sprunktastical
+
+Raw data: [sitemap.json](./data/sprunki.org/20250302_000701/sitemap.json) and [diff.json](./data/sprunki.org/20250302_000701/diff.json)
+
 ### 20250301_000716
 
 - https://sprunki.org/avatar-world
@@ -89,12 +95,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250301_000716/sitemap.json) and [d
 - https://sprunki.org/sakura-school-simulator
 
 Raw data: [sitemap.json](./data/sprunki.org/20250228_000656/sitemap.json) and [diff.json](./data/sprunki.org/20250228_000656/diff.json)
-
-### 20250227_000657
-
-- https://sprunki.org/hollow-knight
-
-Raw data: [sitemap.json](./data/sprunki.org/20250227_000657/sitemap.json) and [diff.json](./data/sprunki.org/20250227_000657/diff.json)
 
 ## sprunki.com
 
@@ -10229,6 +10229,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250302_000701
+
+- https://incrediboxsprunki.io/10-minutes-till-dawn
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250302_000701/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250302_000701/diff.json)
+
 ### 20250301_000716
 
 - https://incrediboxsprunki.io/among-us-3d
@@ -10240,13 +10246,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250301_000716/sitemap.js
 - https://incrediboxsprunki.io/wormate
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250228_000656/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250228_000656/diff.json)
-
-### 20250227_000657
-
-- https://incrediboxsprunki.io/dentis-sprunkilarity-remake
-- https://incrediboxsprunki.io/incredibox-dandys-retour
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250227_000657/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250227_000657/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10379,6 +10378,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250302_000701
+
+- https://sprunkin.com/game/sprunki-pyramixed-phase-5/
+- https://sprunkin.com/game/spruted-remastered-final-update/
+- https://sprunkin.com/game/sprunki-retake-poppy-playtime-4/
+- https://sprunkin.com/game/sprunksters-but-happy-tree-friends/
+- https://sprunkin.com/game/sprunki-retake-human-new/
+- https://sprunkin.com/fan-game/cool-as-ice-iciella-gyatt/
+- https://sprunkin.com/fan-game/sprunki-vanilla-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250302_000701/sitemap.json) and [diff.json](./data/sprunkin.com/20250302_000701/diff.json)
+
 ### 20250301_000716
 
 - https://sprunkin.com/game/sprunkirus-2/
@@ -10416,16 +10427,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250301_000716/sitemap.json) and [
 - https://sprunkin.com/fan-game/cat-z-db/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250228_000656/sitemap.json) and [diff.json](./data/sprunkin.com/20250228_000656/diff.json)
-
-### 20250227_000657
-
-- https://sprunkin.com/game/sprunki-ener-caster-retake/
-- https://sprunkin.com/game/sprunked-x-sprunki-but-parasite-2-5/
-- https://sprunkin.com/game/sprunki-the-history-of-plants/
-- https://sprunkin.com/game/sprunki-phase-9-original/
-- https://sprunkin.com/game/sprunki-rejoin-kayden-firends/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250227_000657/sitemap.json) and [diff.json](./data/sprunkin.com/20250227_000657/diff.json)
 
 ## sprunkisinner.org
 
