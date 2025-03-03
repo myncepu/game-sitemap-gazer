@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250303_000657
+
+- https://sprunki.org/incredibox-pink-funcki-mod
+
+Raw data: [sitemap.json](./data/sprunki.org/20250303_000657/sitemap.json) and [diff.json](./data/sprunki.org/20250303_000657/diff.json)
+
 ### 20250302_000701
 
 - https://sprunki.org/sprunktastical
@@ -88,13 +94,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250302_000701/sitemap.json) and [d
 - https://sprunki.org/happy-wheels
 
 Raw data: [sitemap.json](./data/sprunki.org/20250301_000716/sitemap.json) and [diff.json](./data/sprunki.org/20250301_000716/diff.json)
-
-### 20250228_000656
-
-- https://sprunki.org/squidki
-- https://sprunki.org/sakura-school-simulator
-
-Raw data: [sitemap.json](./data/sprunki.org/20250228_000656/sitemap.json) and [diff.json](./data/sprunki.org/20250228_000656/diff.json)
 
 ## sprunki.com
 
@@ -10378,6 +10377,24 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250303_000657
+
+- https://sprunkin.com/game/sprunki-cendi/
+- https://sprunkin.com/game/sprunki-retake-golden-apple/
+- https://sprunkin.com/game/sprunkle-salad/
+- https://sprunkin.com/fan-game/cool-as-ice-butt-gyatt/
+- https://sprunkin.com/fan-game/sprunki-rip_demon-edition/
+- https://sprunkin.com/fan-game/sprunki-phase-5-10/
+- https://sprunkin.com/fan-game/sprunki-sprejectz-edited-by-me/
+- https://sprunkin.com/fan-game/sprejectz/
+- https://sprunkin.com/fan-game/sprunki-game-sprunki-but-squid-game/
+- https://sprunkin.com/fan-game/cool-as-ice-but-everyone-is-lilla/
+- https://sprunkin.com/fan-game/sprunki-phase-3-remastered-but-daves-reskins/
+- https://sprunkin.com/fan-game/cool-as-ice-but-everyone-is-iciella/
+- https://sprunkin.com/fan-game/toxsprunki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250303_000657/sitemap.json) and [diff.json](./data/sprunkin.com/20250303_000657/diff.json)
+
 ### 20250302_000701
 
 - https://sprunkin.com/game/sprunki-pyramixed-phase-5/
@@ -10410,23 +10427,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250302_000701/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-gyatt-butt/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250301_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250301_000716/diff.json)
-
-### 20250228_000656
-
-- https://sprunkin.com/game/sprunki-vintage-definitive-phase-3/
-- https://sprunkin.com/game/sprunk-but-bob/
-- https://sprunkin.com/game/sprunki-simplified-phase-2-all-character/
-- https://sprunkin.com/game/sprunkirb/
-- https://sprunkin.com/game/sprunki-pyramixed-parasite/
-- https://sprunkin.com/fan-game/mcsprunki/
-- https://sprunkin.com/fan-game/mcsprunki-2/
-- https://sprunkin.com/fan-game/allstars-sprunki/
-- https://sprunkin.com/fan-game/sprunki-but-alive/
-- https://sprunkin.com/fan-game/sprunki-phase-3333/
-- https://sprunkin.com/fan-game/cool-as-ice-but-everyone-turned-into-wenda/
-- https://sprunkin.com/fan-game/cat-z-db/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250228_000656/sitemap.json) and [diff.json](./data/sprunkin.com/20250228_000656/diff.json)
 
 ## sprunkisinner.org
 
