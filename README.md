@@ -73,6 +73,14 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250304_000658
+
+- https://sprunki.org/craftnite
+- https://sprunki.org/spruted-remastered
+- https://sprunki.org/fnf-silly-billy
+
+Raw data: [sitemap.json](./data/sprunki.org/20250304_000658/sitemap.json) and [diff.json](./data/sprunki.org/20250304_000658/diff.json)
+
 ### 20250303_000657
 
 - https://sprunki.org/incredibox-pink-funcki-mod
@@ -84,16 +92,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250303_000657/sitemap.json) and [d
 - https://sprunki.org/sprunktastical
 
 Raw data: [sitemap.json](./data/sprunki.org/20250302_000701/sitemap.json) and [diff.json](./data/sprunki.org/20250302_000701/diff.json)
-
-### 20250301_000716
-
-- https://sprunki.org/avatar-world
-- https://sprunki.org/cute-toca-life-puzzles
-- https://sprunki.org/sprunki-retake-beat-box
-- https://sprunki.org/yandere-simulator
-- https://sprunki.org/happy-wheels
-
-Raw data: [sitemap.json](./data/sprunki.org/20250301_000716/sitemap.json) and [diff.json](./data/sprunki.org/20250301_000716/diff.json)
 
 ## sprunki.com
 
@@ -10228,6 +10226,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250304_000658
+
+- https://incrediboxsprunki.io/spruted-remastered
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250304_000658/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250304_000658/diff.json)
+
 ### 20250302_000701
 
 - https://incrediboxsprunki.io/10-minutes-till-dawn
@@ -10239,12 +10243,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250302_000701/sitemap.js
 - https://incrediboxsprunki.io/among-us-3d
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250301_000716/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250301_000716/diff.json)
-
-### 20250228_000656
-
-- https://incrediboxsprunki.io/wormate
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250228_000656/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250228_000656/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10377,6 +10375,20 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250304_000658
+
+- https://sprunkin.com/fan-game/sprunki-sprejectz-edited-by-me-update-1/
+- https://sprunkin.com/fan-game/sprunm/
+- https://sprunkin.com/fan-game/s-sprunks-cruelty/
+- https://sprunkin.com/fan-game/sprunkm-phase-5-defintive/
+- https://sprunkin.com/fan-game/sprunki-retake-pyramixed-with-kiki-and-bouba/
+- https://sprunkin.com/fan-game/splunki/
+- https://sprunkin.com/fan-game/cool-as-ice-but-everyone-is-iciella-2/
+- https://sprunkin.com/fan-game/incredibox-sprunki-rethink/
+- https://sprunkin.com/fan-game/sprunki-kid/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250304_000658/sitemap.json) and [diff.json](./data/sprunkin.com/20250304_000658/diff.json)
+
 ### 20250303_000657
 
 - https://sprunkin.com/game/sprunki-cendi/
@@ -10406,27 +10418,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250303_000657/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-vanilla-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250302_000701/sitemap.json) and [diff.json](./data/sprunkin.com/20250302_000701/diff.json)
-
-### 20250301_000716
-
-- https://sprunkin.com/game/sprunkirus-2/
-- https://sprunkin.com/game/sprunki-but-old/
-- https://sprunkin.com/game/sprunki-pyramix-silly-edition/
-- https://sprunkin.com/game/sprunki-swapped-nuclear-version/
-- https://sprunkin.com/game/sprunki-dandys-world-remastered/
-- https://sprunkin.com/game/sprunki-pyramixed-human-edition/
-- https://sprunkin.com/fan-game/sprunki-jackson/
-- https://sprunkin.com/fan-game/sprunki-but-polos/
-- https://sprunkin.com/fan-game/sprunki-oc-maker/
-- https://sprunkin.com/fan-game/sprunki-reanimated-2/
-- https://sprunkin.com/fan-game/sprunki-sus-mod/
-- https://sprunkin.com/fan-game/sprunki-polos/
-- https://sprunkin.com/fan-game/mild-as-spring-but-everyone-is-voice-2/
-- https://sprunkin.com/fan-game/sprunki-seal-edition/
-- https://sprunkin.com/fan-game/cool-as-ice-but-everyone-is-beeswees/
-- https://sprunkin.com/fan-game/sprunki-gyatt-butt/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250301_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250301_000716/diff.json)
 
 ## sprunkisinner.org
 
