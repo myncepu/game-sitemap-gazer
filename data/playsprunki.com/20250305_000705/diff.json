@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://playsprunki.com/item/sprunki-retake-human-new",
+      "priority": 0.5,
+      "last_modified": "2025-03-04T09:42:13Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/incredibox-sprunki-vaporwave-v2",
+      "priority": 0.5,
+      "last_modified": "2025-03-04T09:43:51Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/?page=6",
+      "priority": 0.5,
+      "last_modified": "2025-03-04T22:27:41.795000Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/tag/overhaul?page=4",
+      "priority": 0.5,
+      "last_modified": "2024-10-27T04:45:52Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

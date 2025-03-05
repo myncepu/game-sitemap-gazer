@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/phase-5",
+      "priority": 1.0,
+      "last_modified": "2025-03-04T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-version-katshup",
+      "priority": 1.0,
+      "last_modified": "2025-03-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/obosruniki-sprunki-reskin",
+      "priority": 1.0,
+      "last_modified": "2025-03-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-x-fpe-v9",
+      "priority": 1.0,
+      "last_modified": "2025-03-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/incredibox-spruncraft",
+      "priority": 1.0,
+      "last_modified": "2025-03-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/incredibox-sprunkosc",
+      "priority": 1.0,
+      "last_modified": "2025-03-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprinkle",
+      "priority": 1.0,
+      "last_modified": "2025-03-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
