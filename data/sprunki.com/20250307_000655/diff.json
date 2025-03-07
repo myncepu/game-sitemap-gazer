@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/dandys-sprunki",
+      "priority": 1.0,
+      "last_modified": "2025-03-06T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-youtubers",
+      "priority": 1.0,
+      "last_modified": "2025-03-06T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/dusty-like-air-incredibox",
+      "priority": 1.0,
+      "last_modified": "2025-03-06T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-christmas-edition",
+      "priority": 1.0,
+      "last_modified": "2025-03-06T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-hyperblast",
+      "priority": 1.0,
+      "last_modified": "2025-03-06T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

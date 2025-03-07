@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.org/lolbeans",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/curve-rush",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/laceys-flash-games",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/color-block-jam",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/helicopter-game",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

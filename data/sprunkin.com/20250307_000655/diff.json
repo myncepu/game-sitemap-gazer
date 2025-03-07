@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-x-comic-catastrophe/",
+      "priority": 0.5,
+      "last_modified": "2024-12-08T23:38:19Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/swunkye-incredibox/",
+      "priority": 0.5,
+      "last_modified": "2025-03-03T19:18:41Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-cruetly/",
+      "priority": 0.5,
+      "last_modified": "2025-03-04T08:39:58Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-swap/",
+      "priority": 0.5,
+      "last_modified": "2025-03-06T02:17:47Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
