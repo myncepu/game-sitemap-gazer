@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-poppy-playtime",
+      "priority": 1.0,
+      "last_modified": "2025-03-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/My-Singing-Sprunki-s",
+      "priority": 1.0,
+      "last_modified": "2025-03-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/abgerny-but-overlap",
+      "priority": 1.0,
+      "last_modified": "2025-03-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-mastered",
+      "priority": 1.0,
+      "last_modified": "2025-03-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
