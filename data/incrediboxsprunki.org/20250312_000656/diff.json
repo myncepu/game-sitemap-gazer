@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.io/curve-rush",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/incredibox-sprunki-dx",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
