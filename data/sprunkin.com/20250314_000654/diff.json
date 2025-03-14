@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-sprejectz-edited-by-me/",
+      "priority": 0.5,
+      "last_modified": "2025-03-08T09:08:09Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprejectz/",
+      "priority": 0.5,
+      "last_modified": "2025-03-05T09:27:46Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprejectz-edited-by-me-2/",
+      "priority": 0.5,
+      "last_modified": "2025-03-09T16:56:05Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprejectz-edited-by-me-2update-1/",
+      "priority": 0.5,
+      "last_modified": "2025-03-10T09:19:17Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/pibble-mayhem-x-sprunki",
+      "priority": 1.0,
+      "last_modified": "2025-03-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/five-nights-with-sprunki",
+      "priority": 1.0,
+      "last_modified": "2025-03-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunk-war",
+      "priority": 1.0,
+      "last_modified": "2025-03-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/Parasprunki-Interactive-Phase-2",
+      "priority": 1.0,
+      "last_modified": "2025-03-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-mr-fun-computers",
+      "priority": 1.0,
+      "last_modified": "2025-03-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-skibidi-toilet-remake",
+      "priority": 1.0,
+      "last_modified": "2025-03-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
