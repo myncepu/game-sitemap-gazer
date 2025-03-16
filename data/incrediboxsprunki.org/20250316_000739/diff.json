@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.io/sprunki-master",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/sprunkbricks",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

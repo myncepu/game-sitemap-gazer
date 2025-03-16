@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250316_000739
+
+- https://sprunki.org/stratego
+
+Raw data: [sitemap.json](./data/sprunki.org/20250316_000739/sitemap.json) and [diff.json](./data/sprunki.org/20250316_000739/diff.json)
+
 ### 20250315_000648
 
 - https://sprunki.org/papas-scooperia
@@ -89,14 +95,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250315_000648/sitemap.json) and [d
 - https://sprunki.org/incredibox-shatter-sprunk
 
 Raw data: [sitemap.json](./data/sprunki.org/20250314_000654/sitemap.json) and [diff.json](./data/sprunki.org/20250314_000654/diff.json)
-
-### 20250313_000711
-
-- https://sprunki.org/wobbler-sprunki
-- https://sprunki.org/cubefield
-- https://sprunki.org/papas-cheeseria
-
-Raw data: [sitemap.json](./data/sprunki.org/20250313_000711/sitemap.json) and [diff.json](./data/sprunki.org/20250313_000711/diff.json)
 
 ## sprunki.com
 
@@ -10227,6 +10225,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250316_000739
+
+- https://incrediboxsprunki.io/sprunki-master
+- https://incrediboxsprunki.io/sprunkbricks
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250316_000739/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250316_000739/diff.json)
+
 ### 20250315_000648
 
 - https://incrediboxsprunki.io/sprunki-backroom-terrors-skibidi-toilet
@@ -10240,12 +10245,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250315_000648/sitemap.js
 - https://incrediboxsprunki.io/retro-sprunki
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250314_000654/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250314_000654/diff.json)
-
-### 20250313_000711
-
-- https://incrediboxsprunki.io/airport-security-3d
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250313_000711/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250313_000711/diff.json)
 
 ## sprunki-incredibox.org
 
