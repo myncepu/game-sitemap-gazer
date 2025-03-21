@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/maroon-x-sprunki",
+      "priority": 1.0,
+      "last_modified": "2025-03-20T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/Sprunki-Pyramix-0-9-Love-Edition",
+      "priority": 1.0,
+      "last_modified": "2025-03-20T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-rkiupen-11",
+      "priority": 1.0,
+      "last_modified": "2025-03-20T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
