@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.io/sprunki-sprankler",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/random-sprunked",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

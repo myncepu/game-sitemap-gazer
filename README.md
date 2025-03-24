@@ -73,6 +73,17 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250324_000721
+
+- https://sprunki.org/doodle-jump
+- https://sprunki.org/sprunki-brawl-stars-2
+- https://sprunki.org/poppit
+- https://sprunki.org/sprunki-mini-games
+- https://sprunki.org/sprunki-vaporwave-v1
+- https://sprunki.org/wibbox-v1-glibble-globbler-incredibox
+
+Raw data: [sitemap.json](./data/sprunki.org/20250324_000721/sitemap.json) and [diff.json](./data/sprunki.org/20250324_000721/diff.json)
+
 ### 20250323_000741
 
 - https://sprunki.org/getting-over-it
@@ -87,13 +98,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250323_000741/sitemap.json) and [d
 - https://sprunki.org/catnap-poppy-playtime
 
 Raw data: [sitemap.json](./data/sprunki.org/20250322_000701/sitemap.json) and [diff.json](./data/sprunki.org/20250322_000701/diff.json)
-
-### 20250321_000704
-
-- https://sprunki.org/snake-arena
-- https://sprunki.org/love-tester
-
-Raw data: [sitemap.json](./data/sprunki.org/20250321_000704/sitemap.json) and [diff.json](./data/sprunki.org/20250321_000704/diff.json)
 
 ## sprunki.com
 
@@ -10219,6 +10223,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250324_000721
+
+- https://incrediboxsprunki.io/sprunki-sprankler
+- https://incrediboxsprunki.io/random-sprunked
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250324_000721/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250324_000721/diff.json)
+
 ### 20250323_000741
 
 - https://incrediboxsprunki.io/sprunkus
@@ -10231,12 +10242,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250323_000741/sitemap.js
 - https://incrediboxsprunki.io/sprunki-their-feelings
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250322_000701/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250322_000701/diff.json)
-
-### 20250321_000704
-
-- https://incrediboxsprunki.io/sprunki-spraklee
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250321_000704/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250321_000704/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10391,6 +10396,19 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250324_000721
+
+- https://sprunkin.com/fan-game/sprunki-phase-infinity-10/
+- https://sprunkin.com/fan-game/countryballs-sprunki-5/
+- https://sprunkin.com/fan-game/sprunkilairity-pokemon-pokesprunki-remastered/
+- https://sprunkin.com/fan-game/sprunki-mad/
+- https://sprunkin.com/fan-game/sprunki-remastered-demo/
+- https://sprunkin.com/fan-game/sprunki-lol/
+- https://sprunkin.com/fan-game/sprunki-phase-24-5/
+- https://sprunkin.com/fan-game/sprunki-ruined/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250324_000721/sitemap.json) and [diff.json](./data/sprunkin.com/20250324_000721/diff.json)
+
 ### 20250323_000741
 
 - https://sprunkin.com/game/sprunki-aquamix-phase-4/
@@ -10423,28 +10441,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250323_000741/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-new-phase-3-3-5-0/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250322_000701/sitemap.json) and [diff.json](./data/sprunkin.com/20250322_000701/diff.json)
-
-### 20250321_000704
-
-- https://sprunkin.com/game/sprunki-pokemon-phase-4/
-- https://sprunkin.com/game/sprunki-game-but-restyled/
-- https://sprunkin.com/game/sprunki-phase-100-9/
-- https://sprunkin.com/game/sprunki-pyramixed-ink-virus/
-- https://sprunkin.com/game/sprunki-retake-but-everyone-sky/
-- https://sprunkin.com/fan-game/srunki-by-zalupa/
-- https://sprunkin.com/fan-game/sprunki-but-alive-2/
-- https://sprunkin.com/fan-game/sprunki-pet/
-- https://sprunkin.com/fan-game/sprunki-final-phase/
-- https://sprunkin.com/fan-game/sprunki-new-phase-3-3-4-2/
-- https://sprunkin.com/fan-game/sprunki-sprynoked-2/
-- https://sprunkin.com/fan-game/sprunki-pyramixed/
-- https://sprunkin.com/fan-game/sprunki-phase-36/
-- https://sprunkin.com/fan-game/sprunki-uglies/
-- https://sprunkin.com/fan-game/sprunki-phase-69-but-kid-friendly/
-- https://sprunkin.com/fan-game/hawk-tuah-sprunk/
-- https://sprunkin.com/fan-game/sprunki-phase-%cf%89100/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250321_000704/sitemap.json) and [diff.json](./data/sprunkin.com/20250321_000704/diff.json)
 
 ## sprunkisinner.org
 
