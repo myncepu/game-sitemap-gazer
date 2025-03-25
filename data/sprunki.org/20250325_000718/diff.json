@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.org/candy-clicker-2",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/chill-guy-clicker-3d",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/incredibox-blue-amp-rue",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/maroon-sprunki",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/sprunki-jump",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

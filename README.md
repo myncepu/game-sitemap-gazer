@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250325_000718
+
+- https://sprunki.org/candy-clicker-2
+- https://sprunki.org/chill-guy-clicker-3d
+- https://sprunki.org/incredibox-blue-amp-rue
+- https://sprunki.org/maroon-sprunki
+- https://sprunki.org/sprunki-jump
+
+Raw data: [sitemap.json](./data/sprunki.org/20250325_000718/sitemap.json) and [diff.json](./data/sprunki.org/20250325_000718/diff.json)
+
 ### 20250324_000721
 
 - https://sprunki.org/doodle-jump
@@ -89,15 +99,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250324_000721/sitemap.json) and [d
 - https://sprunki.org/getting-over-it
 
 Raw data: [sitemap.json](./data/sprunki.org/20250323_000741/sitemap.json) and [diff.json](./data/sprunki.org/20250323_000741/diff.json)
-
-### 20250322_000701
-
-- https://sprunki.org/bunnys-farm
-- https://sprunki.org/blob-beats
-- https://sprunki.org/incredibox-banana
-- https://sprunki.org/catnap-poppy-playtime
-
-Raw data: [sitemap.json](./data/sprunki.org/20250322_000701/sitemap.json) and [diff.json](./data/sprunki.org/20250322_000701/diff.json)
 
 ## sprunki.com
 
@@ -10223,6 +10224,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250325_000718
+
+- https://incrediboxsprunki.io/super-villainy
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250325_000718/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250325_000718/diff.json)
+
 ### 20250324_000721
 
 - https://incrediboxsprunki.io/sprunki-sprankler
@@ -10235,13 +10242,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250324_000721/sitemap.js
 - https://incrediboxsprunki.io/sprunkus
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250323_000741/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250323_000741/diff.json)
-
-### 20250322_000701
-
-- https://incrediboxsprunki.io/sprunki-sakura
-- https://incrediboxsprunki.io/sprunki-their-feelings
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250322_000701/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250322_000701/diff.json)
 
 ## sprunki-incredibox.org
 
