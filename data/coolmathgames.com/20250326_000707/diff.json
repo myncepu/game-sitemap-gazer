@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-isocubes",
+      "priority": 0.5,
+      "last_modified": "2025-03-17T20:09:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-sprycik",
+      "priority": 0.5,
+      "last_modified": "2025-03-21T18:51:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-glitch-game",
+      "priority": 0.5,
+      "last_modified": "2025-03-18T21:20:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-100-doors-challenge",
+      "priority": 0.5,
+      "last_modified": "2025-03-13T20:29:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-by-the-boxes",
+      "priority": 0.5,
+      "last_modified": "2025-03-21T23:12:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-the-white-room-5",
+      "priority": 0.5,
+      "last_modified": "2025-03-20T20:25:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-word-swipe",
+      "priority": 0.5,
+      "last_modified": "2025-03-19T15:10:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/find-it",
+      "priority": 0.5,
+      "last_modified": "2025-03-17T18:58:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/blog/how-to-play-word-swipe",
+      "priority": 0.5,
+      "last_modified": "2025-03-18T19:32:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
