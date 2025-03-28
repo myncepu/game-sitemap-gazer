@@ -73,6 +73,14 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250328_000700
+
+- https://sprunki.org/uno-online
+- https://sprunki.org/silly-sprunki
+- https://sprunki.org/sprunki-ultimate-deluxe-2
+
+Raw data: [sitemap.json](./data/sprunki.org/20250328_000700/sitemap.json) and [diff.json](./data/sprunki.org/20250328_000700/diff.json)
+
 ### 20250327_000701
 
 - https://sprunki.org/fish-eat-getting-big
@@ -87,17 +95,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250327_000701/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250326_000707/sitemap.json) and [diff.json](./data/sprunki.org/20250326_000707/diff.json)
 
-### 20250325_000718
-
-- https://sprunki.org/candy-clicker-2
-- https://sprunki.org/chill-guy-clicker-3d
-- https://sprunki.org/incredibox-blue-amp-rue
-- https://sprunki.org/maroon-sprunki
-- https://sprunki.org/sprunki-jump
-
-Raw data: [sitemap.json](./data/sprunki.org/20250325_000718/sitemap.json) and [diff.json](./data/sprunki.org/20250325_000718/diff.json)
-
 ## sprunki.com
+
+### 20250328_000700
+
+- https://sprunki.com/sprunki-1996-but-with-hands
+- https://sprunki.com/sprunki-pyramixed-ink-virus
+- https://sprunki.com/sprunki-1996
+
+Raw data: [sitemap.json](./data/sprunki.com/20250328_000700/sitemap.json) and [diff.json](./data/sprunki.com/20250328_000700/diff.json)
 
 ### 20250326_000707
 
@@ -125,14 +131,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250326_000707/sitemap.json) and [d
 - https://sprunki.com/sprunki-definitive-phase-9-fan-made
 
 Raw data: [sitemap.json](./data/sprunki.com/20250322_000701/sitemap.json) and [diff.json](./data/sprunki.com/20250322_000701/diff.json)
-
-### 20250321_000704
-
-- https://sprunki.com/maroon-x-sprunki
-- https://sprunki.com/Sprunki-Pyramix-0-9-Love-Edition
-- https://sprunki.com/sprunki-rkiupen-11
-
-Raw data: [sitemap.json](./data/sprunki.com/20250321_000704/sitemap.json) and [diff.json](./data/sprunki.com/20250321_000704/diff.json)
 
 ## sprunki.net
 
@@ -10228,6 +10226,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250328_000700
+
+- https://incrediboxsprunki.io/incredibox-banana
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250328_000700/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250328_000700/diff.json)
+
 ### 20250327_000701
 
 - https://incrediboxsprunki.io/sprunkilairity
@@ -10239,12 +10243,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250327_000701/sitemap.js
 - https://incrediboxsprunki.io/farming-town
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250326_000707/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250326_000707/diff.json)
-
-### 20250325_000718
-
-- https://incrediboxsprunki.io/super-villainy
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250325_000718/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250325_000718/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10830,6 +10828,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250328_000700
+
+- https://www.coolmathgames.com/0-flipfox
+- https://www.coolmathgames.com/0-leo-zara
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250328_000700/sitemap.json) and [diff.json](./data/coolmathgames.com/20250328_000700/diff.json)
+
 ### 20250326_000707
 
 - https://www.coolmathgames.com/0-isocubes
@@ -10849,407 +10854,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250326_000707/sitemap.json) 
 - https://www.coolmathgames.com/0-paint-race
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250314_000654/sitemap.json) and [diff.json](./data/coolmathgames.com/20250314_000654/diff.json)
-
-### 20250312_000656
-
-- https://www.coolmathgames.com/0-room-escape
-- https://www.coolmathgames.com/0-hexanag
-- https://www.coolmathgames.com/0-naklejka-2
-- https://www.coolmathgames.com/0-robust-robots
-- https://www.coolmathgames.com/0-dunk-digger
-- https://www.coolmathgames.com/0-parking-escape
-- https://www.coolmathgames.com/0-gnomes-vs-roots
-- https://www.coolmathgames.com/0-mind-shapes
-- https://www.coolmathgames.com/0-solve-and-sail
-- https://www.coolmathgames.com/0-scribble-world-physics-puzzle
-- https://www.coolmathgames.com/0-penguin-love-puzzle
-- https://www.coolmathgames.com/0-yellow-lines
-- https://www.coolmathgames.com/0-collapstle
-- https://www.coolmathgames.com/0-pizzaverse
-- https://www.coolmathgames.com/0-tortuga-racing
-- https://www.coolmathgames.com/0-epic-breakfast
-- https://www.coolmathgames.com/0-tiny-jukebox-2
-- https://www.coolmathgames.com/0-lost-in-lampyrid-fog
-- https://www.coolmathgames.com/0-chill-out
-- https://www.coolmathgames.com/0-lost-in-translation
-- https://www.coolmathgames.com/0-deck-the-halls
-- https://www.coolmathgames.com/0-into-the-dark
-- https://www.coolmathgames.com/0-wood-cutter
-- https://www.coolmathgames.com/0-checkmate
-- https://www.coolmathgames.com/0-forest-blocks
-- https://www.coolmathgames.com/0-rocket-to-the-top
-- https://www.coolmathgames.com/0-on-being-undermined
-- https://www.coolmathgames.com/0-day-of-the-sandwich
-- https://www.coolmathgames.com/0-banana-duck
-- https://www.coolmathgames.com/0-tile-farm-story
-- https://www.coolmathgames.com/0-pixel-fixel
-- https://www.coolmathgames.com/0-duck-duck-clicker
-- https://www.coolmathgames.com/0-pipedown
-- https://www.coolmathgames.com/0-draw-to-smash
-- https://www.coolmathgames.com/0-fall-words
-- https://www.coolmathgames.com/0-bubbly-lab
-- https://www.coolmathgames.com/0-buscity
-- https://www.coolmathgames.com/0-line-sudoku
-- https://www.coolmathgames.com/0-castle-defense
-- https://www.coolmathgames.com/0-plug-away-2
-- https://www.coolmathgames.com/0-living-cannon-dx
-- https://www.coolmathgames.com/0-deep-forest-chapter-2
-- https://www.coolmathgames.com/0-dungeon-heart
-- https://www.coolmathgames.com/0-swift-numbers
-- https://www.coolmathgames.com/0-squarex-2
-- https://www.coolmathgames.com/0-chrono-break
-- https://www.coolmathgames.com/0-pet-fall
-- https://www.coolmathgames.com/0-aliens-moved-the-pyramids
-- https://www.coolmathgames.com/0-interstate-drifter-hyperdrive
-- https://www.coolmathgames.com/0-orange
-- https://www.coolmathgames.com/0-mutablob
-- https://www.coolmathgames.com/0-wire-beat
-- https://www.coolmathgames.com/0-pebbles-presents
-- https://www.coolmathgames.com/0-idle-pinball-merge-and-pin
-- https://www.coolmathgames.com/0-appel
-- https://www.coolmathgames.com/0-untetris
-- https://www.coolmathgames.com/0-rolling-in-gears
-- https://www.coolmathgames.com/0-music-rush
-- https://www.coolmathgames.com/0-ball-sort
-- https://www.coolmathgames.com/0-color-by-numbers-pixel-house
-- https://www.coolmathgames.com/0-billys-button-volume-2
-- https://www.coolmathgames.com/0-leaving-the-nest
-- https://www.coolmathgames.com/0-element-merge
-- https://www.coolmathgames.com/0-desperatea
-- https://www.coolmathgames.com/0-color-combo
-- https://www.coolmathgames.com/0-the-realms-of-terranor
-- https://www.coolmathgames.com/0-ninja-parkour-multiplayer
-- https://www.coolmathgames.com/0-simons-lab-3
-- https://www.coolmathgames.com/0-stickyfoot
-- https://www.coolmathgames.com/blog/how-to-play-bloxd-io
-- https://www.coolmathgames.com/0-times-tables-duck
-- https://www.coolmathgames.com/0-pillow-fight
-- https://www.coolmathgames.com/0-colorful-beetles
-- https://www.coolmathgames.com/0-pawzzle
-- https://www.coolmathgames.com/0-clide
-- https://www.coolmathgames.com/0-helios
-- https://www.coolmathgames.com/blog/how-to-solve-chess-puzzles
-- https://www.coolmathgames.com/0-upside-down
-- https://www.coolmathgames.com/0-pac-xon
-- https://www.coolmathgames.com/0-tag-game
-- https://www.coolmathgames.com/blog/best-games-of-2024
-- https://www.coolmathgames.com/0-katkoot
-- https://www.coolmathgames.com/blog/how-to-play-duck-duck-clicker
-- https://www.coolmathgames.com/0-color-by-numbers-pixel-rooms
-- https://www.coolmathgames.com/parents
-- https://www.coolmathgames.com/0-cryptograms
-- https://www.coolmathgames.com/0-lodge
-- https://www.coolmathgames.com/0-tongue-tied
-- https://www.coolmathgames.com/0-glitch
-- https://www.coolmathgames.com/0-glutek-escape-dungeon
-- https://www.coolmathgames.com/0-color-strings
-- https://www.coolmathgames.com/0-farming-10x10
-- https://www.coolmathgames.com/blog/how-to-play-ball-sort
-- https://www.coolmathgames.com/0-face-breaker
-- https://www.coolmathgames.com/0-clicker-heroes-escape
-- https://www.coolmathgames.com/0-bee-magic
-- https://www.coolmathgames.com/0-cherry-on-the-ice-cream
-- https://www.coolmathgames.com/0-cribbage
-- https://www.coolmathgames.com/blog/what-is-en-passant
-- https://www.coolmathgames.com/0-cards-21
-- https://www.coolmathgames.com/0-quick-escape
-- https://www.coolmathgames.com/0-pinpoint-by-linkedin
-- https://www.coolmathgames.com/blog/how-to-play-cribbage
-- https://www.coolmathgames.com/0-rabbit-sweets
-- https://www.coolmathgames.com/0-pents-wacky-zany-road-trip-to-adulthood
-- https://www.coolmathgames.com/0-cube-connect
-- https://www.coolmathgames.com/0-bomb-pirates
-- https://www.coolmathgames.com/0-space-obby
-- https://www.coolmathgames.com/0-sweet-penguin
-- https://www.coolmathgames.com/0-fabled-conquerors
-- https://www.coolmathgames.com/0-snakebyte
-- https://www.coolmathgames.com/0-puzzle-blocks
-- https://www.coolmathgames.com/0-vex-x3m
-- https://www.coolmathgames.com/0-jewel-burst
-- https://www.coolmathgames.com/blog/how-to-play-element-merge
-- https://www.coolmathgames.com/0-jelly-candy-drop
-- https://www.coolmathgames.com/0-war-card-game
-- https://www.coolmathgames.com/0-queens-by-linkedin
-- https://www.coolmathgames.com/0-crossclimb-by-linkedin
-- https://www.coolmathgames.com/coolmath-games-accessibility
-- https://www.coolmathgames.com/blog/best-single-player-card-games
-- https://www.coolmathgames.com/blog/how-to-play-lodge
-- https://www.coolmathgames.com/0-mushroom-blocks
-- https://www.coolmathgames.com/0-gin-rummy
-- https://www.coolmathgames.com/0-kamaeru
-- https://www.coolmathgames.com/blog/how-to-play-appel
-- https://www.coolmathgames.com/0-pac-xon-deluxe
-- https://www.coolmathgames.com/blog/how-to-play-cherry-on-the-ice-cream
-- https://www.coolmathgames.com/the-2024-coolmath-games-awards
-- https://www.coolmathgames.com/winners-of-the-2024-coolmath-games-awards
-- https://www.coolmathgames.com/0-creature-card-idle
-- https://www.coolmathgames.com/blog/how-to-play-tag-game
-- https://www.coolmathgames.com/0-worldguessr
-- https://www.coolmathgames.com/blog/how-to-play-vex-x3m
-- https://www.coolmathgames.com/blog/how-to-play-gin-rummy
-- https://www.coolmathgames.com/0-super-tic-tac-toe
-- https://www.coolmathgames.com/0-words-of-wonders
-- https://www.coolmathgames.com/blog/how-to-play-war-card-game
-- https://www.coolmathgames.com/blog/linkedin-games-guide
-- https://www.coolmathgames.com/blog/how-to-play-worldguessr
-- https://www.coolmathgames.com/0-fill-the-heart
-- https://www.coolmathgames.com/0-tentrix
-- https://www.coolmathgames.com/blog/how-to-play-cryptograms
-- https://www.coolmathgames.com/blog/how-to-play-words-of-wonders
-- https://www.coolmathgames.com/c/home-games
-- https://www.coolmathgames.com/quiz-category/cooking
-- https://www.coolmathgames.com/quiz-category/home
-- https://www.coolmathgames.com/quiz-category/regional
-- https://www.coolmathgames.com/quiz-category/ingredients
-- https://www.coolmathgames.com/quiz-category/restaurants-and-chefs
-- https://www.coolmathgames.com/quiz-category/style
-- https://www.coolmathgames.com/quiz-category/beauty
-- https://www.coolmathgames.com/quiz-category/accessories
-- https://www.coolmathgames.com/quiz-category/culture
-- https://www.coolmathgames.com/quiz-category/fashion
-- https://www.coolmathgames.com/c/rope-cutting-games
-- https://www.coolmathgames.com/quiz-category/people
-- https://www.coolmathgames.com/quiz-category/body-health
-- https://www.coolmathgames.com/quiz-category/fitness-and-health
-- https://www.coolmathgames.com/quiz-category/body
-- https://www.coolmathgames.com/quiz-category/fun-stuff
-- https://www.coolmathgames.com/quiz-category/words
-- https://www.coolmathgames.com/quiz-category/digital-culture
-- https://www.coolmathgames.com/quiz-category/culture-0
-- https://www.coolmathgames.com/quiz-category/emotions
-- https://www.coolmathgames.com/quiz-category/language
-- https://www.coolmathgames.com/quiz-category/quotations
-- https://www.coolmathgames.com/quiz-category/celebrity
-- https://www.coolmathgames.com/quiz-category/religion
-- https://www.coolmathgames.com/quiz-category/money-shopping
-- https://www.coolmathgames.com/quiz-category/history-politics
-- https://www.coolmathgames.com/quiz-category/history
-- https://www.coolmathgames.com/quiz-category/war
-- https://www.coolmathgames.com/quiz-category/post-20th-century
-- https://www.coolmathgames.com/quiz-category/person
-- https://www.coolmathgames.com/quiz-category/pre-20th-century
-- https://www.coolmathgames.com/quiz-category/religion-0
-- https://www.coolmathgames.com/quiz-category/technology
-- https://www.coolmathgames.com/quiz-category/movements
-- https://www.coolmathgames.com/quiz-category/global
-- https://www.coolmathgames.com/quiz-category/american
-- https://www.coolmathgames.com/quiz-category/european
-- https://www.coolmathgames.com/quiz-category/ancient
-- https://www.coolmathgames.com/quiz-category/places
-- https://www.coolmathgames.com/quiz-category/north-america
-- https://www.coolmathgames.com/quiz-category/travelers-quiz
-- https://www.coolmathgames.com/quiz-category/asia
-- https://www.coolmathgames.com/quiz-category/europe
-- https://www.coolmathgames.com/quiz-category/science-nature
-- https://www.coolmathgames.com/quiz-category/science-general
-- https://www.coolmathgames.com/quiz-category/nature-general
-- https://www.coolmathgames.com/quiz-category/animals
-- https://www.coolmathgames.com/quiz-category/engineering
-- https://www.coolmathgames.com/quiz-category/how-to
-- https://www.coolmathgames.com/quiz-category/unclaimed-topics
-- https://www.coolmathgames.com/c/daily-games
-- https://www.coolmathgames.com/1-mobile-daily-games
-- https://www.coolmathgames.com/c/word-games
-- https://www.coolmathgames.com/c/drawing-games
-- https://www.coolmathgames.com/1-mobile-app-popular-games
-- https://www.coolmathgames.com/c/adventure-games
-- https://www.coolmathgames.com/c/endless-puzzle-games
-- https://www.coolmathgames.com/c/think-outside-the-box-games
-- https://www.coolmathgames.com/c/idle-games
-- https://www.coolmathgames.com/c/endless-runner-games
-- https://www.coolmathgames.com/c/sliding-games
-- https://www.coolmathgames.com/c/cooking-games
-- https://www.coolmathgames.com/c/brick-breaking-games
-- https://www.coolmathgames.com/c/helping-games
-- https://www.coolmathgames.com/c/board-games
-- https://www.coolmathgames.com/c/golf-games
-- https://www.coolmathgames.com/c/collector-games
-- https://www.coolmathgames.com/c/puzzle-games
-- https://www.coolmathgames.com/c/2-player-games
-- https://www.coolmathgames.com/c/critical-thinking-games
-- https://www.coolmathgames.com/c/strategy-board-games
-- https://www.coolmathgames.com/c/mahjong-games
-- https://www.coolmathgames.com/c/tactics-games
-- https://www.coolmathgames.com/c/painting-games
-- https://www.coolmathgames.com/c/spelling-games
-- https://www.coolmathgames.com/c/ragdoll-games
-- https://www.coolmathgames.com/c/escape-games
-- https://www.coolmathgames.com/c/battle-royale-games
-- https://www.coolmathgames.com/c/history-games
-- https://www.coolmathgames.com/c/deck-building-games
-- https://www.coolmathgames.com/c/io-games
-- https://www.coolmathgames.com/c/typing-games
-- https://www.coolmathgames.com/c/hidden-object-games
-- https://www.coolmathgames.com/c/art-games
-- https://www.coolmathgames.com/c/music-games
-- https://www.coolmathgames.com/c/virtual-pet-games
-- https://www.coolmathgames.com/c/simulation-games
-- https://www.coolmathgames.com/c/cute-games
-- https://www.coolmathgames.com/c/motorcycle-games
-- https://www.coolmathgames.com/c/localized-games
-- https://www.coolmathgames.com/c/solitaire-games
-- https://www.coolmathgames.com/c/building-games
-- https://www.coolmathgames.com/c/creative-games
-- https://www.coolmathgames.com/c/digging-games
-- https://www.coolmathgames.com/c/stickman-games
-- https://www.coolmathgames.com/c/casual-games
-- https://www.coolmathgames.com/c/mystery-games
-- https://www.coolmathgames.com/c/crafting-games
-- https://www.coolmathgames.com/c/pirate-games
-- https://www.coolmathgames.com/c/funny-games
-- https://www.coolmathgames.com/c/climbing-games
-- https://www.coolmathgames.com/c/flashlight-games
-- https://www.coolmathgames.com/c/grid-based-games
-- https://www.coolmathgames.com/c/clicker-games
-- https://www.coolmathgames.com/c/winners-of-the-2023-coolmath-game-awards
-- https://www.coolmathgames.com/c/fruit-games
-- https://www.coolmathgames.com/c/block-games
-- https://www.coolmathgames.com/c/8-bit-games
-- https://www.coolmathgames.com/c/archery-games
-- https://www.coolmathgames.com/c/coffee-games
-- https://www.coolmathgames.com/c/coloring-games
-- https://www.coolmathgames.com/c/dragon-games
-- https://www.coolmathgames.com/c/ghost-games
-- https://www.coolmathgames.com/c/medieval-games
-- https://www.coolmathgames.com/c/mini-golf-games
-- https://www.coolmathgames.com/c/point-and-click-games
-- https://www.coolmathgames.com/c/tycoon-games
-- https://www.coolmathgames.com/c/underwater-games
-- https://www.coolmathgames.com/c/candy-games
-- https://www.coolmathgames.com/c/coolmath-original-games
-- https://www.coolmathgames.com/c/high-score-games
-- https://www.coolmathgames.com/c/role-playing-games
-- https://www.coolmathgames.com/c/sandbox-games
-- https://www.coolmathgames.com/c/car-games
-- https://www.coolmathgames.com/c/christmas-games
-- https://www.coolmathgames.com/c/retro-games
-- https://www.coolmathgames.com/c/brain-games
-- https://www.coolmathgames.com/c/multiplayer-games
-- https://www.coolmathgames.com/c/space-games
-- https://www.coolmathgames.com/c/ball-games
-- https://www.coolmathgames.com/c/sports-games
-- https://www.coolmathgames.com/c/money-games
-- https://www.coolmathgames.com/c/ninja-games
-- https://www.coolmathgames.com/c/3d-games
-- https://www.coolmathgames.com/c/animal-games
-- https://www.coolmathgames.com/c/food-games
-- https://www.coolmathgames.com/c/hard-games
-- https://www.coolmathgames.com/c/robot-games
-- https://www.coolmathgames.com/c/weird-games
-- https://www.coolmathgames.com/c/shape-games
-- https://www.coolmathgames.com/c/thinking-games
-- https://www.coolmathgames.com/c/winners-of-the-2022-coolmath-game-awards
-- https://www.coolmathgames.com/c/stuck-at-home-games
-- https://www.coolmathgames.com/c/linkedin-games
-- https://www.coolmathgames.com/c/platforming-puzzle-games
-- https://www.coolmathgames.com/c/winners-of-the-2021-coolmath-game-awards
-- https://www.coolmathgames.com/c/halloween-games
-- https://www.coolmathgames.com/c/placement-games
-- https://www.coolmathgames.com/c/abstract-puzzles-games
-- https://www.coolmathgames.com/c/number-games
-- https://www.coolmathgames.com/c/addition-subtraction-games
-- https://www.coolmathgames.com/c/tower-defense-games
-- https://www.coolmathgames.com/c/multiplication-division-games
-- https://www.coolmathgames.com/c/other-math-games
-- https://www.coolmathgames.com/c/applied-math-games
-- https://www.coolmathgames.com/c/just-numbers-games
-- https://www.coolmathgames.com/c/memory-games
-- https://www.coolmathgames.com/c/maze-games
-- https://www.coolmathgames.com/c/course-memorization-games
-- https://www.coolmathgames.com/c/matching-games
-- https://www.coolmathgames.com/c/pattern-memory-games
-- https://www.coolmathgames.com/c/geography-games
-- https://www.coolmathgames.com/c/match-3-games
-- https://www.coolmathgames.com/c/classic-games
-- https://www.coolmathgames.com/c/business-games
-- https://www.coolmathgames.com/c/figure-it-out-games
-- https://www.coolmathgames.com/c/abstract-games
-- https://www.coolmathgames.com/c/construction-games
-- https://www.coolmathgames.com/c/skill-games
-- https://www.coolmathgames.com/c/hard-control-games
-- https://www.coolmathgames.com/c/time-management-games
-- https://www.coolmathgames.com/c/strategy-games
-- https://www.coolmathgames.com/c/aiming-games
-- https://www.coolmathgames.com/c/science-games
-- https://www.coolmathgames.com/1-mobile-games
-- https://www.coolmathgames.com/c/stacking-games
-- https://www.coolmathgames.com/puzzle-category/easy-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/beach-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/chicago-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/chicago-spring-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/colorado-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/costa-rica-puzzles
-- https://www.coolmathgames.com/c/platformer-games
-- https://www.coolmathgames.com/puzzle-category/critters-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/cruise-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/fall-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/flowers-etc-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/fractal-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/cool-graphics-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/michigan-puzzles
-- https://www.coolmathgames.com/puzzle-category/oc-metro-puzzles
-- https://www.coolmathgames.com/puzzle-category/spring-time-puzzles
-- https://www.coolmathgames.com/puzzle-category/summer-puzzles
-- https://www.coolmathgames.com/c/training-games
-- https://www.coolmathgames.com/puzzle-category/winter-snow-puzzles
-- https://www.coolmathgames.com/puzzle-category/wrightwood-puzzles
-- https://www.coolmathgames.com/puzzle-category/yellowstone-puzzles
-- https://www.coolmathgames.com/puzzle-category/yosemite-puzzles
-- https://www.coolmathgames.com/puzzle-category/christmas-and-holiday-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/st-patricks-day-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/valentines-day-jigsaw-puzzles
-- https://www.coolmathgames.com/puzzle-category/bhutan-jigsaw-puzzles
-- https://www.coolmathgames.com/c/rotating-games
-- https://www.coolmathgames.com/1-mobile-site-newest-games
-- https://www.coolmathgames.com/1-mobile-site-most-popular-games
-- https://www.coolmathgames.com/1-mobile-app-plist-games
-- https://www.coolmathgames.com/c/timing-games
-- https://www.coolmathgames.com/puzzle-category/cool-animals
-- https://www.coolmathgames.com/puzzle-category/amazing-places
-- https://www.coolmathgames.com/puzzle-category/fun-stuff
-- https://www.coolmathgames.com/puzzle-category/sports
-- https://www.coolmathgames.com/c/logic-games
-- https://www.coolmathgames.com/puzzle-category/fast-machines
-- https://www.coolmathgames.com/puzzle-category/coolmath-games
-- https://www.coolmathgames.com/puzzle-category/american-moments
-- https://www.coolmathgames.com/c/html5-games
-- https://www.coolmathgames.com/c/card-games
-- https://www.coolmathgames.com/c/physics-puzzle-games
-- https://www.coolmathgames.com/1-match-3-games-0
-- https://www.coolmathgames.com/1-run-jump-games
-- https://www.coolmathgames.com/1-fun-physics-games
-- https://www.coolmathgames.com/1-stop-think-games
-- https://www.coolmathgames.com/1-path-planning-games
-- https://www.coolmathgames.com/1-classic-games-0
-- https://www.coolmathgames.com/1-cars-planes-trains-games
-- https://www.coolmathgames.com/1-be-the-hero-games
-- https://www.coolmathgames.com/1-aiming-games-0
-- https://www.coolmathgames.com/1-strategy-puzzle-games
-- https://www.coolmathgames.com/1-animals-games
-- https://www.coolmathgames.com/1-drawing-games-0
-- https://www.coolmathgames.com/1-quick-reaction-games
-- https://www.coolmathgames.com/c/one-button-games
-- https://www.coolmathgames.com/quiz-category/arts-entertainment
-- https://www.coolmathgames.com/quiz-category/movies
-- https://www.coolmathgames.com/quiz-category/books-literature
-- https://www.coolmathgames.com/quiz-category/music
-- https://www.coolmathgames.com/quiz-category/television
-- https://www.coolmathgames.com/quiz-category/visual-arts
-- https://www.coolmathgames.com/quiz-category/drama
-- https://www.coolmathgames.com/quiz-category/sports
-- https://www.coolmathgames.com/quiz-category/american-football
-- https://www.coolmathgames.com/quiz-category/basketball
-- https://www.coolmathgames.com/quiz-category/baseball
-- https://www.coolmathgames.com/quiz-category/hockey
-- https://www.coolmathgames.com/quiz-category/other-sport
-- https://www.coolmathgames.com/quiz-category/olympics
-- https://www.coolmathgames.com/quiz-category/soccer
-- https://www.coolmathgames.com/quiz-category/sports-general
-- https://www.coolmathgames.com/quiz-category/food-home
-- https://www.coolmathgames.com/quiz-category/food
-- https://www.coolmathgames.com/quiz-category/alcohol
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250312_000656/sitemap.json) and [diff.json](./data/coolmathgames.com/20250312_000656/diff.json)
 
 ## pogo.com
 

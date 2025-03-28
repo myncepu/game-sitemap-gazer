@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-flipfox",
+      "priority": 0.5,
+      "last_modified": "2025-03-25T20:41:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-leo-zara",
+      "priority": 0.5,
+      "last_modified": "2025-03-24T20:50:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
