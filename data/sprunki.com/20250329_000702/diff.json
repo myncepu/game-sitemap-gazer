@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-pyramix-ultimate-port",
+      "priority": 1.0,
+      "last_modified": "2025-03-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/runki-pyramixed-version",
+      "priority": 1.0,
+      "last_modified": "2025-03-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-retake-but-everyone-sky",
+      "priority": 1.0,
+      "last_modified": "2025-03-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
