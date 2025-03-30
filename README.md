@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250330_000738
+
+- https://sprunki.org/google-feud
+- https://sprunki.org/scrunkly-revamped
+- https://sprunki.org/sprunki-dessert-sweetnessc
+- https://sprunki.org/sprunka-but-with-better-sound
+
+Raw data: [sitemap.json](./data/sprunki.org/20250330_000738/sitemap.json) and [diff.json](./data/sprunki.org/20250330_000738/diff.json)
+
 ### 20250329_000702
 
 - https://sprunki.org/baseball-bros
@@ -87,12 +96,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250329_000702/sitemap.json) and [d
 - https://sprunki.org/sprunki-ultimate-deluxe-2
 
 Raw data: [sitemap.json](./data/sprunki.org/20250328_000700/sitemap.json) and [diff.json](./data/sprunki.org/20250328_000700/diff.json)
-
-### 20250327_000701
-
-- https://sprunki.org/fish-eat-getting-big
-
-Raw data: [sitemap.json](./data/sprunki.org/20250327_000701/sitemap.json) and [diff.json](./data/sprunki.org/20250327_000701/diff.json)
 
 ## sprunki.com
 
@@ -10221,6 +10224,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250330_000738
+
+- https://incrediboxsprunki.io/chibi-dolls
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250330_000738/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250330_000738/diff.json)
+
 ### 20250329_000702
 
 - https://incrediboxsprunki.io/life-organizer
@@ -10232,12 +10241,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250329_000702/sitemap.js
 - https://incrediboxsprunki.io/incredibox-banana
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250328_000700/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250328_000700/diff.json)
-
-### 20250327_000701
-
-- https://incrediboxsprunki.io/sprunkilairity
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250327_000701/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250327_000701/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10392,6 +10395,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250330_000738
+
+- https://sprunkin.com/game/sprunki-swapped-unknown/
+- https://sprunkin.com/game/sprunki-refunned/
+- https://sprunkin.com/game/sprunki-but-everyone-is-sharp/
+- https://sprunkin.com/game/sprunki-cute-time-mega/
+- https://sprunkin.com/game/sprunki-retake-deeep-io-reskin/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250330_000738/sitemap.json) and [diff.json](./data/sprunkin.com/20250330_000738/diff.json)
+
 ### 20250329_000702
 
 - https://sprunkin.com/game/sprunki-midnight-upheaval/
@@ -10427,31 +10440,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250329_000702/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-remix/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250327_000701/sitemap.json) and [diff.json](./data/sprunkin.com/20250327_000701/diff.json)
-
-### 20250326_000707
-
-- https://sprunkin.com/game/sprunki-phase-5-but-babies/
-- https://sprunkin.com/game/sprunki-monomixed-2-0/
-- https://sprunkin.com/game/sprunki-sprunkfell/
-- https://sprunkin.com/game/sprunked-re-taped/
-- https://sprunkin.com/fan-game/sprunki-but-emo/
-- https://sprunkin.com/fan-game/sprunki-phase-4-2/
-- https://sprunkin.com/fan-game/sprunkr-swapped/
-- https://sprunkin.com/fan-game/sprunki-phase-4-but-are-fully-alive/
-- https://sprunkin.com/fan-game/sprunki-cancelled-update-6/
-- https://sprunkin.com/fan-game/sprunki-but-6-characters-are-edited/
-- https://sprunkin.com/fan-game/my-talking-tom-news/
-- https://sprunkin.com/fan-game/sprunki-classic/
-- https://sprunkin.com/fan-game/sprunki-birds-reupload/
-- https://sprunkin.com/fan-game/sprunki-phase-6-original/
-- https://sprunkin.com/fan-game/sprunki-phase-7-5/
-- https://sprunkin.com/fan-game/sprunki-new-phase-3-3-8-1/
-- https://sprunkin.com/fan-game/swunkye/
-- https://sprunkin.com/fan-game/swunkye-2/
-- https://sprunkin.com/fan-game/swunkye-3/
-- https://sprunkin.com/fan-game/sprunki-but-new-designs-sounds/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250326_000707/sitemap.json) and [diff.json](./data/sprunkin.com/20250326_000707/diff.json)
 
 ## sprunkisinner.org
 
@@ -10833,6 +10821,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250330_000738
+
+- https://www.coolmathgames.com/0-logic-bend
+- https://www.coolmathgames.com/c/coding-games
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250330_000738/sitemap.json) and [diff.json](./data/coolmathgames.com/20250330_000738/diff.json)
+
 ### 20250328_000700
 
 - https://www.coolmathgames.com/0-flipfox
@@ -10853,12 +10848,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250328_000700/sitemap.json) 
 - https://www.coolmathgames.com/blog/how-to-play-word-swipe
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250326_000707/sitemap.json) and [diff.json](./data/coolmathgames.com/20250326_000707/diff.json)
-
-### 20250314_000654
-
-- https://www.coolmathgames.com/0-paint-race
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250314_000654/sitemap.json) and [diff.json](./data/coolmathgames.com/20250314_000654/diff.json)
 
 ## pogo.com
 
