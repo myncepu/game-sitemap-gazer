@@ -73,6 +73,13 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250401_000808
+
+- https://sprunki.org/baseball-bros-unblocked
+- https://sprunki.org/sprunki-wenda
+
+Raw data: [sitemap.json](./data/sprunki.org/20250401_000808/sitemap.json) and [diff.json](./data/sprunki.org/20250401_000808/diff.json)
+
 ### 20250331_000722
 
 - https://sprunki.org/line-rider
@@ -88,13 +95,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250331_000722/sitemap.json) and [d
 - https://sprunki.org/sprunka-but-with-better-sound
 
 Raw data: [sitemap.json](./data/sprunki.org/20250330_000738/sitemap.json) and [diff.json](./data/sprunki.org/20250330_000738/diff.json)
-
-### 20250329_000702
-
-- https://sprunki.org/baseball-bros
-- https://sprunki.org/sprunki-sprunkbricks-0
-
-Raw data: [sitemap.json](./data/sprunki.org/20250329_000702/sitemap.json) and [diff.json](./data/sprunki.org/20250329_000702/diff.json)
 
 ## sprunki.com
 
@@ -10223,6 +10223,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250401_000808
+
+- https://incrediboxsprunki.io/skate-hooligans
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250401_000808/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250401_000808/diff.json)
+
 ### 20250331_000722
 
 - https://incrediboxsprunki.io/flag-quiz
@@ -10234,12 +10240,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250331_000722/sitemap.js
 - https://incrediboxsprunki.io/chibi-dolls
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250330_000738/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250330_000738/diff.json)
-
-### 20250329_000702
-
-- https://incrediboxsprunki.io/life-organizer
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250329_000702/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250329_000702/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10394,6 +10394,25 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250401_000808
+
+- https://sprunkin.com/game/sprunki-phase-7-big-update/
+- https://sprunkin.com/game/diseasprunki/
+- https://sprunkin.com/game/sprunki-tragic-breakout/
+- https://sprunkin.com/game/sprunki-skrunchy-2-0/
+- https://sprunkin.com/fan-game/incredibox-sprunki-jtmg-version/
+- https://sprunkin.com/fan-game/sprunkr-roblox/
+- https://sprunkin.com/fan-game/sprunki-phase-3-new-update-mod/
+- https://sprunkin.com/fan-game/sprunki-phase-14-2/
+- https://sprunkin.com/fan-game/sprunki-phase-4-remake/
+- https://sprunkin.com/fan-game/incredibox-nitro-sprunki-update-1/
+- https://sprunkin.com/fan-game/fiddlebops/
+- https://sprunkin.com/fan-game/fiddlebops-2/
+- https://sprunkin.com/fan-game/fiddlebops-3/
+- https://sprunkin.com/fan-game/baby-custom-sprunki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250401_000808/sitemap.json) and [diff.json](./data/sprunkin.com/20250401_000808/diff.json)
+
 ### 20250331_000722
 
 - https://sprunkin.com/fan-game/sprunki-phase-45/
@@ -10419,29 +10438,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250331_000722/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-retake-deeep-io-reskin/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250330_000738/sitemap.json) and [diff.json](./data/sprunkin.com/20250330_000738/diff.json)
-
-### 20250329_000702
-
-- https://sprunkin.com/game/sprunki-midnight-upheaval/
-- https://sprunkin.com/game/sprunki-phase-4-remastered/
-- https://sprunkin.com/game/sprunki-1996-but-accident-reforged/
-- https://sprunkin.com/game/re-sprunked-3-0/
-- https://sprunkin.com/game/parasprunki-15-0-part-1/
-- https://sprunkin.com/fan-game/hand-drawn-sprunki/
-- https://sprunkin.com/fan-game/hand-drawn-sprunki-2/
-- https://sprunkin.com/fan-game/nighmarebox/
-- https://sprunkin.com/fan-game/e/
-- https://sprunkin.com/fan-game/sprunki-retake-definitive-phase-5/
-- https://sprunkin.com/fan-game/sprunki-pyramixed-but-with-my-friends/
-- https://sprunkin.com/fan-game/sprunki-brikhi/
-- https://sprunkin.com/fan-game/sprunki-but-is-corrumpet-whith-a-new-black-glitch/
-- https://sprunkin.com/fan-game/sprunki-but-something-is-wrong-2/
-- https://sprunkin.com/fan-game/normal-sprunki/
-- https://sprunkin.com/fan-game/normal-sprunki-2/
-- https://sprunkin.com/fan-game/sprunki-the-last-phase-ever/
-- https://sprunkin.com/fan-game/sprunki-phase-8-original-5/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250329_000702/sitemap.json) and [diff.json](./data/sprunkin.com/20250329_000702/diff.json)
 
 ## sprunkisinner.org
 
