@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250402_000708
+
+- https://sprunki.org/sprunki-2p
+- https://sprunki.org/block-blast-unblocked
+- https://sprunki.org/crossy-road
+- https://sprunki.org/kuromi-maker
+
+Raw data: [sitemap.json](./data/sprunki.org/20250402_000708/sitemap.json) and [diff.json](./data/sprunki.org/20250402_000708/diff.json)
+
 ### 20250401_000808
 
 - https://sprunki.org/baseball-bros-unblocked
@@ -87,16 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250401_000808/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250331_000722/sitemap.json) and [diff.json](./data/sprunki.org/20250331_000722/diff.json)
 
-### 20250330_000738
-
-- https://sprunki.org/google-feud
-- https://sprunki.org/scrunkly-revamped
-- https://sprunki.org/sprunki-dessert-sweetnessc
-- https://sprunki.org/sprunka-but-with-better-sound
-
-Raw data: [sitemap.json](./data/sprunki.org/20250330_000738/sitemap.json) and [diff.json](./data/sprunki.org/20250330_000738/diff.json)
-
 ## sprunki.com
+
+### 20250402_000708
+
+- https://sprunki.com/sprunki-pyramixed-but-agents
+- https://sprunki.com/sprunki-of-rexi-original
+- https://sprunki.com/sprunki-pyramixed-descent-story-reskin
+
+Raw data: [sitemap.json](./data/sprunki.com/20250402_000708/sitemap.json) and [diff.json](./data/sprunki.com/20250402_000708/diff.json)
 
 ### 20250329_000702
 
@@ -113,21 +121,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250329_000702/sitemap.json) and [d
 - https://sprunki.com/sprunki-1996
 
 Raw data: [sitemap.json](./data/sprunki.com/20250328_000700/sitemap.json) and [diff.json](./data/sprunki.com/20250328_000700/diff.json)
-
-### 20250326_000707
-
-- https://sprunki.com/sprunki-mm2
-- https://sprunki.com/sprunk-bad
-- https://sprunki.com/sprunki-mayhem
-- https://sprunki.com/sprunki-pyramixed
-- https://sprunki.com/sprunk-happy-friends
-- https://sprunki.com/sprunkigenics
-- https://sprunki.com/abgerny-baggerhead
-- https://sprunki.com/sprunki-halloween
-- https://sprunki.com/sprunki-banana-edition
-- https://sprunki.com/sprunki-renovation
-
-Raw data: [sitemap.json](./data/sprunki.com/20250326_000707/sitemap.json) and [diff.json](./data/sprunki.com/20250326_000707/diff.json)
 
 ## sprunki.net
 
@@ -10223,6 +10216,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250402_000708
+
+- https://incrediboxsprunki.io/sprunki-cendi
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250402_000708/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250402_000708/diff.json)
+
 ### 20250401_000808
 
 - https://incrediboxsprunki.io/skate-hooligans
@@ -10234,12 +10233,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250401_000808/sitemap.js
 - https://incrediboxsprunki.io/flag-quiz
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250331_000722/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250331_000722/diff.json)
-
-### 20250330_000738
-
-- https://incrediboxsprunki.io/chibi-dolls
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250330_000738/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250330_000738/diff.json)
 
 ## sprunki-incredibox.org
 

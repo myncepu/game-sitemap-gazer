@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-pyramixed-but-agents",
+      "priority": 1.0,
+      "last_modified": "2025-04-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-of-rexi-original",
+      "priority": 1.0,
+      "last_modified": "2025-04-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-pyramixed-descent-story-reskin",
+      "priority": 1.0,
+      "last_modified": "2025-04-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
