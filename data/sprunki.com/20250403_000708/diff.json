@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-midnight-upheaval",
+      "priority": 1.0,
+      "last_modified": "2025-04-02T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-1996-but-accident-reforged",
+      "priority": 1.0,
+      "last_modified": "2025-04-02T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-pyramixed-squid-game",
+      "priority": 1.0,
+      "last_modified": "2025-04-02T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
