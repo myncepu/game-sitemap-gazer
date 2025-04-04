@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-say-cheese",
+      "priority": 0.5,
+      "last_modified": "2025-03-31T21:08:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/taxonomy/term/1227",
+      "priority": 0.5,
+      "last_modified": "2025-03-26T19:24:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}

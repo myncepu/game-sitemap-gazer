@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250404_000707
+
+- https://sprunki.org/dino-dash-3d
+- https://sprunki.org/sprunki-click-sprunki
+- https://sprunki.org/standoff-strike-2
+- https://sprunki.org/save-kuromi-drawing
+
+Raw data: [sitemap.json](./data/sprunki.org/20250404_000707/sitemap.json) and [diff.json](./data/sprunki.org/20250404_000707/diff.json)
+
 ### 20250403_000708
 
 - https://sprunki.org/geoguessr-free
@@ -88,13 +97,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250403_000708/sitemap.json) and [d
 - https://sprunki.org/kuromi-maker
 
 Raw data: [sitemap.json](./data/sprunki.org/20250402_000708/sitemap.json) and [diff.json](./data/sprunki.org/20250402_000708/diff.json)
-
-### 20250401_000808
-
-- https://sprunki.org/baseball-bros-unblocked
-- https://sprunki.org/sprunki-wenda
-
-Raw data: [sitemap.json](./data/sprunki.org/20250401_000808/sitemap.json) and [diff.json](./data/sprunki.org/20250401_000808/diff.json)
 
 ## sprunki.com
 
@@ -10216,6 +10218,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250404_000707
+
+- https://incrediboxsprunki.io/sprunki-resurged
+- https://incrediboxsprunki.io/sprunki-unswapped
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250404_000707/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250404_000707/diff.json)
+
 ### 20250403_000708
 
 - https://incrediboxsprunki.io/sprunki-rotrizi-50
@@ -10227,12 +10236,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250403_000708/sitemap.js
 - https://incrediboxsprunki.io/sprunki-cendi
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250402_000708/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250402_000708/diff.json)
-
-### 20250401_000808
-
-- https://incrediboxsprunki.io/skate-hooligans
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250401_000808/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250401_000808/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10533,6 +10536,15 @@ Raw data: [sitemap.json](./data/sprunkisinneredition.com/20241224_000652/sitemap
 
 ## playsprunki.com
 
+### 20250404_000707
+
+- https://playsprunki.com/item/sprunki-tis
+- https://playsprunki.com/item/sprunkibox-v2-close-to-life
+- https://playsprunki.com/item/spruted-remastered-phase-2
+- https://playsprunki.com/category/character?page=4
+
+Raw data: [sitemap.json](./data/playsprunki.com/20250404_000707/sitemap.json) and [diff.json](./data/playsprunki.com/20250404_000707/diff.json)
+
 ### 20250305_000705
 
 - https://playsprunki.com/item/sprunki-retake-human-new
@@ -10558,42 +10570,6 @@ Raw data: [sitemap.json](./data/playsprunki.com/20250305_000705/sitemap.json) an
 - https://playsprunki.com/tag/expansion?page=4
 
 Raw data: [sitemap.json](./data/playsprunki.com/20250211_000626/sitemap.json) and [diff.json](./data/playsprunki.com/20250211_000626/diff.json)
-
-### 20250209_000703
-
-- https://playsprunki.com/item/sprunki-but-better-cooler
-- https://playsprunki.com/item/sprunki-mega
-- https://playsprunki.com/item/sprunked-dugs
-- https://playsprunki.com/item/sprunki-anime
-- https://playsprunki.com/item/sprunki-but-they-got-healed
-- https://playsprunki.com/item/sprunkibot-2
-- https://playsprunki.com/item/sprunki-but-better-osc
-- https://playsprunki.com/item/sprunki-punki-google
-- https://playsprunki.com/item/sprunbfdia-again
-- https://playsprunki.com/item/sprunki-skrunchy
-- https://playsprunki.com/item/sprunki-sproonkly
-- https://playsprunki.com/item/sprunki-new-night
-- https://playsprunki.com/item/sprunki-interactive
-- https://playsprunki.com/item/sprunki-barasite
-- https://playsprunki.com/item/sprunki-swapped-version
-- https://playsprunki.com/item/incredibox-sprunkios
-- https://playsprunki.com/item/sprunki-phase-8
-- https://playsprunki.com/item/incredibox-singularity
-- https://playsprunki.com/item/colorbox-vo-turquoise
-- https://playsprunki.com/item/sprunki-slickback
-- https://playsprunki.com/item/sprunki-vaporwave
-- https://playsprunki.com/?page=4
-- https://playsprunki.com/?page=5
-- https://playsprunki.com/category/gameplay?page=3
-- https://playsprunki.com/category/visual?page=2
-- https://playsprunki.com/category/visual?page=3
-- https://playsprunki.com/category/audio?page=2
-- https://playsprunki.com/category/audio?page=3
-- https://playsprunki.com/category/character?page=3
-- https://playsprunki.com/tag/overhaul?page=3
-- https://playsprunki.com/tag/expansion?page=3
-
-Raw data: [sitemap.json](./data/playsprunki.com/20250209_000703/sitemap.json) and [diff.json](./data/playsprunki.com/20250209_000703/diff.json)
 
 ## sprunki-sinner.org
 
@@ -10822,6 +10798,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250404_000707
+
+- https://www.coolmathgames.com/0-say-cheese
+- https://www.coolmathgames.com/taxonomy/term/1227
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250404_000707/sitemap.json) and [diff.json](./data/coolmathgames.com/20250404_000707/diff.json)
+
 ### 20250330_000738
 
 - https://www.coolmathgames.com/0-logic-bend
@@ -10835,20 +10818,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250330_000738/sitemap.json) 
 - https://www.coolmathgames.com/0-leo-zara
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250328_000700/sitemap.json) and [diff.json](./data/coolmathgames.com/20250328_000700/diff.json)
-
-### 20250326_000707
-
-- https://www.coolmathgames.com/0-isocubes
-- https://www.coolmathgames.com/0-sprycik
-- https://www.coolmathgames.com/0-glitch-game
-- https://www.coolmathgames.com/0-100-doors-challenge
-- https://www.coolmathgames.com/0-by-the-boxes
-- https://www.coolmathgames.com/0-the-white-room-5
-- https://www.coolmathgames.com/0-word-swipe
-- https://www.coolmathgames.com/find-it
-- https://www.coolmathgames.com/blog/how-to-play-word-swipe
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250326_000707/sitemap.json) and [diff.json](./data/coolmathgames.com/20250326_000707/diff.json)
 
 ## pogo.com
 

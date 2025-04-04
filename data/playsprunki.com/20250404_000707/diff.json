@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://playsprunki.com/item/sprunki-tis",
+      "priority": 0.5,
+      "last_modified": "2025-04-02T23:17:09Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/sprunkibox-v2-close-to-life",
+      "priority": 0.5,
+      "last_modified": "2025-04-02T23:17:05Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/item/spruted-remastered-phase-2",
+      "priority": 0.5,
+      "last_modified": "2025-04-02T23:17:00Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://playsprunki.com/category/character?page=4",
+      "priority": 0.5,
+      "last_modified": "2024-10-28T09:55:35Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
