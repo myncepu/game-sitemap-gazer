@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-16-beads",
+      "priority": 0.5,
+      "last_modified": "2025-04-02T19:51:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/c/escape-games",
+      "priority": 0.5,
+      "last_modified": "2025-04-01T16:54:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
