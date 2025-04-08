@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-refunned",
+      "priority": 1.0,
+      "last_modified": "2025-04-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-but-everyone-is-sharp",
+      "priority": 1.0,
+      "last_modified": "2025-04-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-2p",
+      "priority": 1.0,
+      "last_modified": "2025-04-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
