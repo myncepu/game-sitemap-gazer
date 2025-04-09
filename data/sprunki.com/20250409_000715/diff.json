@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-phase-777-2-5-but-theyre-survivors",
+      "priority": 1.0,
+      "last_modified": "2025-04-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-pokemon-phase-3",
+      "priority": 1.0,
+      "last_modified": "2025-04-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-4-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-04-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
