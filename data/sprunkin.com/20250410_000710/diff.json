@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-sprungame/",
+      "priority": 0.5,
+      "last_modified": "2025-04-09T08:33:02Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-pyramix-melophobia/",
+      "priority": 0.5,
+      "last_modified": "2025-04-09T08:35:27Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-13-2/",
+      "priority": 0.5,
+      "last_modified": "2025-04-09T15:35:38Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/cursed-spunki-game/",
+      "priority": 0.5,
+      "last_modified": "2025-04-09T15:58:23Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/talking-ben/",
+      "priority": 0.5,
+      "last_modified": "2025-04-09T19:05:04Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

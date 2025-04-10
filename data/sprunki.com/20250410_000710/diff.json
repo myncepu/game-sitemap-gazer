@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/incredibox",
+      "priority": 1.0,
+      "last_modified": "2025-04-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ruinedit",
+      "priority": 1.0,
+      "last_modified": "2025-04-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/infected",
+      "priority": 1.0,
+      "last_modified": "2025-04-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunkilairity-bit-better",
+      "priority": 1.0,
+      "last_modified": "2025-04-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-retake-deeep-io-reskin",
+      "priority": 1.0,
+      "last_modified": "2025-04-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-dash-2-0",
+      "priority": 1.0,
+      "last_modified": "2025-04-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
