@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-frunki-2-0",
+      "priority": 1.0,
+      "last_modified": "2025-04-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-777-xd",
+      "priority": 1.0,
+      "last_modified": "2025-04-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-2020",
+      "priority": 1.0,
+      "last_modified": "2025-04-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
