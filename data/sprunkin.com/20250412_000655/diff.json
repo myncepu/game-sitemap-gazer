@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-away/",
+      "priority": 0.5,
+      "last_modified": "2025-04-11T17:37:06Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-spfundi-fans-edition/",
+      "priority": 0.5,
+      "last_modified": "2025-04-11T17:39:37Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/spruted-x-the-team-i-n-s-r-remastered/",
+      "priority": 0.5,
+      "last_modified": "2025-04-11T17:43:29Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/fiddlebops-but-its-sprinkle/",
+      "priority": 0.5,
+      "last_modified": "2025-04-11T17:45:39Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-sparking/",
+      "priority": 0.5,
+      "last_modified": "2025-04-10T13:35:11Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-sprunki-peep-and-the-big-wide-world/",
+      "priority": 0.5,
+      "last_modified": "2025-04-10T14:05:50Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
