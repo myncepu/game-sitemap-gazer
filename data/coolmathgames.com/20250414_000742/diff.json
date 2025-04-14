@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-jelly-matches",
+      "priority": 0.5,
+      "last_modified": "2025-04-11T20:37:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-dip-n-dice",
+      "priority": 0.5,
+      "last_modified": "2025-04-10T20:33:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
