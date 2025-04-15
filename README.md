@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250415_000720
+
+- https://sprunki.org/sprunki-horror-version-dark
+
+Raw data: [sitemap.json](./data/sprunki.org/20250415_000720/sitemap.json) and [diff.json](./data/sprunki.org/20250415_000720/diff.json)
+
 ### 20250414_000742
 
 - https://sprunki.org/stunt-sprunki
@@ -85,15 +91,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250414_000742/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250413_003141/sitemap.json) and [diff.json](./data/sprunki.org/20250413_003141/diff.json)
 
-### 20250412_000655
-
-- https://sprunki.org/create-sprunki
-- https://sprunki.org/my-pet-sprunki
-- https://sprunki.org/sprunki-pyramixed-squid-game
-
-Raw data: [sitemap.json](./data/sprunki.org/20250412_000655/sitemap.json) and [diff.json](./data/sprunki.org/20250412_000655/diff.json)
-
 ## sprunki.com
+
+### 20250415_000720
+
+- https://sprunki.com/sprunki-pyramix-creatophobos
+- https://sprunki.com/skrunchy-phase-3
+- https://sprunki.com/sprunki-phase-3-remastered-but-everyone-is-vineria
+
+Raw data: [sitemap.json](./data/sprunki.com/20250415_000720/sitemap.json) and [diff.json](./data/sprunki.com/20250415_000720/diff.json)
 
 ### 20250412_000655
 
@@ -110,17 +116,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250412_000655/sitemap.json) and [d
 - https://sprunki.com/sprunki-2020
 
 Raw data: [sitemap.json](./data/sprunki.com/20250411_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250411_000711/diff.json)
-
-### 20250410_000710
-
-- https://sprunki.com/incredibox
-- https://sprunki.com/ruinedit
-- https://sprunki.com/infected
-- https://sprunki.com/sprunkilairity-bit-better
-- https://sprunki.com/sprunki-retake-deeep-io-reskin
-- https://sprunki.com/sprunki-dash-2-0
-
-Raw data: [sitemap.json](./data/sprunki.com/20250410_000710/sitemap.json) and [diff.json](./data/sprunki.com/20250410_000710/diff.json)
 
 ## sprunki.net
 
@@ -10216,6 +10211,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250415_000720
+
+- https://incrediboxsprunki.io/sprunki-memory-game
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250415_000720/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250415_000720/diff.json)
+
 ### 20250414_000742
 
 - https://incrediboxsprunki.io/sprunki-retake-beat-box
@@ -10227,12 +10228,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250414_000742/sitemap.js
 - https://incrediboxsprunki.io/sprunki-stick
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250413_003141/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250413_003141/diff.json)
-
-### 20250412_000655
-
-- https://incrediboxsprunki.io/sprunki-clicker-master
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250412_000655/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250412_000655/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10387,6 +10382,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250415_000720
+
+- https://sprunkin.com/game/sprunki-sprunktastic/
+- https://sprunkin.com/game/sprunki-sprunded/
+- https://sprunkin.com/game/sprunki-blueberry/
+- https://sprunkin.com/fan-game/sprunki-feverdream/
+- https://sprunkin.com/fan-game/incredibox-hello/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250415_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20250415_000720/diff.json)
+
 ### 20250414_000742
 
 - https://sprunkin.com/game/sprunki-sprunknam/
@@ -10414,17 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250414_000742/sitemap.json) and [
 - https://sprunkin.com/fan-game/talking-raddy-and-jevin-news/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250413_003141/sitemap.json) and [diff.json](./data/sprunkin.com/20250413_003141/diff.json)
-
-### 20250412_000655
-
-- https://sprunkin.com/game/sprunki-away/
-- https://sprunkin.com/game/sprunki-spfundi-fans-edition/
-- https://sprunkin.com/game/spruted-x-the-team-i-n-s-r-remastered/
-- https://sprunkin.com/game/fiddlebops-but-its-sprinkle/
-- https://sprunkin.com/fan-game/sprunki-sparking/
-- https://sprunkin.com/fan-game/incredibox-sprunki-peep-and-the-big-wide-world/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250412_000655/sitemap.json) and [diff.json](./data/sprunkin.com/20250412_000655/diff.json)
 
 ## sprunkisinner.org
 

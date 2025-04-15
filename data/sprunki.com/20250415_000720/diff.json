@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-pyramix-creatophobos",
+      "priority": 1.0,
+      "last_modified": "2025-04-14T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/skrunchy-phase-3",
+      "priority": 1.0,
+      "last_modified": "2025-04-14T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-3-remastered-but-everyone-is-vineria",
+      "priority": 1.0,
+      "last_modified": "2025-04-14T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-sprunktastic/",
+      "priority": 0.5,
+      "last_modified": "2025-04-14T11:03:24Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-sprunded/",
+      "priority": 0.5,
+      "last_modified": "2025-04-14T11:05:35Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-blueberry/",
+      "priority": 0.5,
+      "last_modified": "2025-04-14T11:08:06Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-feverdream/",
+      "priority": 0.5,
+      "last_modified": "2025-04-14T04:40:14Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-hello/",
+      "priority": 0.5,
+      "last_modified": "2025-04-14T10:40:28Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
