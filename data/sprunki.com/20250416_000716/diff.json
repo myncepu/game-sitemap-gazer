@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/incredibox-shatter-sprunk",
+      "priority": 1.0,
+      "last_modified": "2025-04-15T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-retake-dandys-world",
+      "priority": 1.0,
+      "last_modified": "2025-04-15T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/tekitonki-sprunki-tekito-version",
+      "priority": 1.0,
+      "last_modified": "2025-04-15T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

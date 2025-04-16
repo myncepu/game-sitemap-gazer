@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250416_000716
+
+- https://sprunki.org/sprunky-kids
+
+Raw data: [sitemap.json](./data/sprunki.org/20250416_000716/sitemap.json) and [diff.json](./data/sprunki.org/20250416_000716/diff.json)
+
 ### 20250415_000720
 
 - https://sprunki.org/sprunki-horror-version-dark
@@ -85,13 +91,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250415_000720/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250414_000742/sitemap.json) and [diff.json](./data/sprunki.org/20250414_000742/diff.json)
 
-### 20250413_003141
-
-- https://sprunki.org/sprunki-swap
-
-Raw data: [sitemap.json](./data/sprunki.org/20250413_003141/sitemap.json) and [diff.json](./data/sprunki.org/20250413_003141/diff.json)
-
 ## sprunki.com
+
+### 20250416_000716
+
+- https://sprunki.com/incredibox-shatter-sprunk
+- https://sprunki.com/sprunki-retake-dandys-world
+- https://sprunki.com/tekitonki-sprunki-tekito-version
+
+Raw data: [sitemap.json](./data/sprunki.com/20250416_000716/sitemap.json) and [diff.json](./data/sprunki.com/20250416_000716/diff.json)
 
 ### 20250415_000720
 
@@ -108,14 +116,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250415_000720/sitemap.json) and [d
 - https://sprunki.com/parasprunki-phase-3-7
 
 Raw data: [sitemap.json](./data/sprunki.com/20250412_000655/sitemap.json) and [diff.json](./data/sprunki.com/20250412_000655/diff.json)
-
-### 20250411_000711
-
-- https://sprunki.com/sprunki-frunki-2-0
-- https://sprunki.com/sprunki-phase-777-xd
-- https://sprunki.com/sprunki-2020
-
-Raw data: [sitemap.json](./data/sprunki.com/20250411_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250411_000711/diff.json)
 
 ## sprunki.net
 
@@ -10211,6 +10211,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250416_000716
+
+- https://incrediboxsprunki.io/bongo-cat
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250416_000716/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250416_000716/diff.json)
+
 ### 20250415_000720
 
 - https://incrediboxsprunki.io/sprunki-memory-game
@@ -10222,12 +10228,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250415_000720/sitemap.js
 - https://incrediboxsprunki.io/sprunki-retake-beat-box
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250414_000742/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250414_000742/diff.json)
-
-### 20250413_003141
-
-- https://incrediboxsprunki.io/sprunki-stick
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250413_003141/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250413_003141/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10382,6 +10382,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250416_000716
+
+- https://sprunkin.com/fan-game/sprunki-phase-4-but-in-my-style/
+- https://sprunkin.com/fan-game/sprunki-but-with-a-twisted-wont-be-a-very-good-game-because-its-my-first/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250416_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250416_000716/diff.json)
+
 ### 20250415_000720
 
 - https://sprunkin.com/game/sprunki-sprunktastic/
@@ -10406,19 +10413,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250415_000720/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-3-7/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250414_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20250414_000742/diff.json)
-
-### 20250413_003141
-
-- https://sprunkin.com/game/spruined-1996-ocs/
-- https://sprunkin.com/game/sprunki-pyramixed-swapped/
-- https://sprunkin.com/game/sprunky-tree-friends-still-alive/
-- https://sprunkin.com/game/parodybox-scott-2029-edition/
-- https://sprunkin.com/fan-game/cursed-game-2/
-- https://sprunkin.com/fan-game/parodyboxsprunki-modded/
-- https://sprunkin.com/fan-game/sprunki-phase-3-remsatered-fan-meke/
-- https://sprunkin.com/fan-game/talking-raddy-and-jevin-news/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250413_003141/sitemap.json) and [diff.json](./data/sprunkin.com/20250413_003141/diff.json)
 
 ## sprunkisinner.org
 
