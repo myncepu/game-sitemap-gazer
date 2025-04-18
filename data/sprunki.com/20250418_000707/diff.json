@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-sprunksters-new-oc-update",
+      "priority": 1.0,
+      "last_modified": "2025-04-17T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-sprunksters",
+      "priority": 1.0,
+      "last_modified": "2025-04-17T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-and-monsters-merge-and-mix",
+      "priority": 1.0,
+      "last_modified": "2025-04-17T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

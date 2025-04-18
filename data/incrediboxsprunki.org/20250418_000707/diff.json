@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://incrediboxsprunki.io/incredibox-party-frozen-sprunki-beat",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/crazy-cattle-3d",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://incrediboxsprunki.io/tag/trending-game",
+      "priority": 0.9,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
