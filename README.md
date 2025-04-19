@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250419_000654
+
+- https://sprunki.org/chilly-guy-sprunky
+- https://sprunki.org/sprunki-craft
+- https://sprunki.org/fusion-horror-sprunki
+- https://sprunki.org/10000-player-chess
+
+Raw data: [sitemap.json](./data/sprunki.org/20250419_000654/sitemap.json) and [diff.json](./data/sprunki.org/20250419_000654/diff.json)
+
 ### 20250418_000707
 
 - https://sprunki.org/sprunki-sonic-exe
@@ -87,13 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250418_000707/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250417_000711/sitemap.json) and [diff.json](./data/sprunki.org/20250417_000711/diff.json)
 
-### 20250416_000716
-
-- https://sprunki.org/sprunky-kids
-
-Raw data: [sitemap.json](./data/sprunki.org/20250416_000716/sitemap.json) and [diff.json](./data/sprunki.org/20250416_000716/diff.json)
-
 ## sprunki.com
+
+### 20250419_000654
+
+- https://sprunki.com/sprunki-but-its-christmas
+- https://sprunki.com/sprunki-school-house-trouble
+- https://sprunki.com/sprunki-fall-edition
+
+Raw data: [sitemap.json](./data/sprunki.com/20250419_000654/sitemap.json) and [diff.json](./data/sprunki.com/20250419_000654/diff.json)
 
 ### 20250418_000707
 
@@ -110,14 +121,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250418_000707/sitemap.json) and [d
 - https://sprunki.com/parasprunki-pyramixed-new-models-update
 
 Raw data: [sitemap.json](./data/sprunki.com/20250417_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250417_000711/diff.json)
-
-### 20250416_000716
-
-- https://sprunki.com/incredibox-shatter-sprunk
-- https://sprunki.com/sprunki-retake-dandys-world
-- https://sprunki.com/tekitonki-sprunki-tekito-version
-
-Raw data: [sitemap.json](./data/sprunki.com/20250416_000716/sitemap.json) and [diff.json](./data/sprunki.com/20250416_000716/diff.json)
 
 ## sprunki.net
 
@@ -10213,6 +10216,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250419_000654
+
+- https://incrediboxsprunki.io/sprunki-jump-challenge
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250419_000654/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250419_000654/diff.json)
+
 ### 20250418_000707
 
 - https://incrediboxsprunki.io/incredibox-party-frozen-sprunki-beat
@@ -10226,12 +10235,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250418_000707/sitemap.js
 - https://incrediboxsprunki.io/sprunki-456-squid-cookie
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250417_000711/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250417_000711/diff.json)
-
-### 20250416_000716
-
-- https://incrediboxsprunki.io/bongo-cat
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250416_000716/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250416_000716/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10386,6 +10389,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250419_000654
+
+- https://sprunkin.com/game/sprungle-banana-with-sprunki/
+- https://sprunkin.com/game/sprunky-tree-friends-retro-leaf/
+- https://sprunkin.com/game/sprunki-1999-windows-xp/
+- https://sprunkin.com/game/parasprunki-15-5-5-recre/
+- https://sprunkin.com/fan-game/para-phase-3-0/
+- https://sprunkin.com/fan-game/sprunki-devilhour/
+- https://sprunkin.com/fan-game/sprunka-but-schoolworld/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250419_000654/sitemap.json) and [diff.json](./data/sprunkin.com/20250419_000654/diff.json)
+
 ### 20250418_000707
 
 - https://sprunkin.com/game/sprunki-phase-10-definitive/
@@ -10413,13 +10428,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250418_000707/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-with-a-twist-wont-be-a-very-good-game-because-its-my-first/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250417_000711/sitemap.json) and [diff.json](./data/sprunkin.com/20250417_000711/diff.json)
-
-### 20250416_000716
-
-- https://sprunkin.com/fan-game/sprunki-phase-4-but-in-my-style/
-- https://sprunkin.com/fan-game/sprunki-but-with-a-twisted-wont-be-a-very-good-game-because-its-my-first/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250416_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250416_000716/diff.json)
 
 ## sprunkisinner.org
 
@@ -10760,6 +10768,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250419_000654
+
+- https://www.coolmathgames.com/0-chain-color-sort
+- https://www.coolmathgames.com/blog/how-to-play-metro-escape
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250419_000654/sitemap.json) and [diff.json](./data/coolmathgames.com/20250419_000654/diff.json)
+
 ### 20250414_000742
 
 - https://www.coolmathgames.com/0-jelly-matches
@@ -10772,12 +10787,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250414_000742/sitemap.json) 
 - https://www.coolmathgames.com/0-auto-ninja
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250412_000655/sitemap.json) and [diff.json](./data/coolmathgames.com/20250412_000655/diff.json)
-
-### 20250410_000710
-
-- https://www.coolmathgames.com/0-metro-escape
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250410_000710/sitemap.json) and [diff.json](./data/coolmathgames.com/20250410_000710/diff.json)
 
 ## pogo.com
 
