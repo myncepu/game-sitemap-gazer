@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250420_000742
+
+- https://sprunki.org/sprunki-music
+- https://sprunki.org/call-wenda-sprunki-right-now
+- https://sprunki.org/crazy-sprunki-3d
+- https://sprunki.org/crazy-cattle-3d-unblocked
+
+Raw data: [sitemap.json](./data/sprunki.org/20250420_000742/sitemap.json) and [diff.json](./data/sprunki.org/20250420_000742/diff.json)
+
 ### 20250419_000654
 
 - https://sprunki.org/chilly-guy-sprunky
@@ -89,12 +98,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250419_000654/sitemap.json) and [d
 - https://sprunki.org/pokevoid
 
 Raw data: [sitemap.json](./data/sprunki.org/20250418_000707/sitemap.json) and [diff.json](./data/sprunki.org/20250418_000707/diff.json)
-
-### 20250417_000711
-
-- https://sprunki.org/sprunki-family
-
-Raw data: [sitemap.json](./data/sprunki.org/20250417_000711/sitemap.json) and [diff.json](./data/sprunki.org/20250417_000711/diff.json)
 
 ## sprunki.com
 
@@ -10216,6 +10219,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250420_000742
+
+- https://incrediboxsprunki.io/sprunki-horror-version-dark
+- https://incrediboxsprunki.io/crazy-sprunki-3d
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250420_000742/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250420_000742/diff.json)
+
 ### 20250419_000654
 
 - https://incrediboxsprunki.io/sprunki-jump-challenge
@@ -10229,12 +10239,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250419_000654/sitemap.js
 - https://incrediboxsprunki.io/tag/trending-game
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250418_000707/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250418_000707/diff.json)
-
-### 20250417_000711
-
-- https://incrediboxsprunki.io/sprunki-456-squid-cookie
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250417_000711/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250417_000711/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10389,6 +10393,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250420_000742
+
+- https://sprunkin.com/game/sprunki-phase-2-5-but-different/
+- https://sprunkin.com/game/parodybox-p%d0%b0rasprunki/
+- https://sprunkin.com/game/sprunki-wreckage/
+- https://sprunkin.com/game/spruted-but-its-sprunked/
+- https://sprunkin.com/fan-game/sprunki-phase-%cf%89100-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250420_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20250420_000742/diff.json)
+
 ### 20250419_000654
 
 - https://sprunkin.com/game/sprungle-banana-with-sprunki/
@@ -10415,19 +10429,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250419_000654/sitemap.json) and [
 - https://sprunkin.com/fan-game/https-sprunkin-com-game-sprunki-mustard/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250418_000707/sitemap.json) and [diff.json](./data/sprunkin.com/20250418_000707/diff.json)
-
-### 20250417_000711
-
-- https://sprunkin.com/game/sprunki-r-b-o-t/
-- https://sprunkin.com/game/sprunki-pyramixed-dpg/
-- https://sprunkin.com/game/sprunki-cool-as-dandys-world/
-- https://sprunkin.com/fan-game/sprunki-tag/
-- https://sprunkin.com/fan-game/sprunki-swapped-with-ocs/
-- https://sprunkin.com/fan-game/frunki-2/
-- https://sprunkin.com/fan-game/sprunki-phase-1-angry-phase-2-happy/
-- https://sprunkin.com/fan-game/sprunki-but-with-a-twist-wont-be-a-very-good-game-because-its-my-first/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250417_000711/sitemap.json) and [diff.json](./data/sprunkin.com/20250417_000711/diff.json)
 
 ## sprunkisinner.org
 
