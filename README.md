@@ -10219,6 +10219,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250421_000755
+
+- https://incrediboxsprunki.io/sprunki-hidden-stars-challenge
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250421_000755/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250421_000755/diff.json)
+
 ### 20250420_000742
 
 - https://incrediboxsprunki.io/sprunki-horror-version-dark
@@ -10231,14 +10237,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250420_000742/sitemap.js
 - https://incrediboxsprunki.io/sprunki-jump-challenge
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250419_000654/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250419_000654/diff.json)
-
-### 20250418_000707
-
-- https://incrediboxsprunki.io/incredibox-party-frozen-sprunki-beat
-- https://incrediboxsprunki.io/crazy-cattle-3d
-- https://incrediboxsprunki.io/tag/trending-game
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250418_000707/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250418_000707/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10393,6 +10391,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250421_000755
+
+- https://sprunkin.com/fan-game/sprunki-final-phase/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250421_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250421_000755/diff.json)
+
 ### 20250420_000742
 
 - https://sprunkin.com/game/sprunki-phase-2-5-but-different/
@@ -10414,21 +10418,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250420_000742/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunka-but-schoolworld/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250419_000654/sitemap.json) and [diff.json](./data/sprunkin.com/20250419_000654/diff.json)
-
-### 20250418_000707
-
-- https://sprunkin.com/game/sprunki-phase-10-definitive/
-- https://sprunkin.com/game/sprunki-simons-realm/
-- https://sprunkin.com/game/sprunki-remake-5-0/
-- https://sprunkin.com/fan-game/donked/
-- https://sprunkin.com/fan-game/sprunki-retake-deluxe-revamp/
-- https://sprunkin.com/fan-game/sprejectz-but-they-have-incredibox-mouths/
-- https://sprunkin.com/fan-game/sprunki-rotazione-26-0/
-- https://sprunkin.com/fan-game/sprunki-pyramixed-swapped-retextured-version/
-- https://sprunkin.com/fan-game/phase-1-5-remake-5/
-- https://sprunkin.com/fan-game/https-sprunkin-com-game-sprunki-mustard/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250418_000707/sitemap.json) and [diff.json](./data/sprunkin.com/20250418_000707/diff.json)
 
 ## sprunkisinner.org
 
