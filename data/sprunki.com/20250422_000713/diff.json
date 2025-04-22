@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-redsun",
+      "priority": 1.0,
+      "last_modified": "2025-04-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-sprungle-banana",
+      "priority": 1.0,
+      "last_modified": "2025-04-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-padek-man",
+      "priority": 1.0,
+      "last_modified": "2025-04-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
