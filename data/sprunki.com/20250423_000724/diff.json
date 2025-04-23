@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-love-mod",
+      "priority": 1.0,
+      "last_modified": "2025-04-22T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/fanon-sprunki",
+      "priority": 1.0,
+      "last_modified": "2025-04-22T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-challenge",
+      "priority": 1.0,
+      "last_modified": "2025-04-22T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
