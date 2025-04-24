@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/squidki",
+      "priority": 1.0,
+      "last_modified": "2025-04-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ketchup-with-sprunki-human-edition",
+      "priority": 1.0,
+      "last_modified": "2025-04-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-but-its-mario",
+      "priority": 1.0,
+      "last_modified": "2025-04-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
