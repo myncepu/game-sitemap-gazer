@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.org/sprunki-shuvali",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/speed-stars",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/speed-stars-unblocked",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

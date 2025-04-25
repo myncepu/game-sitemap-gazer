@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-oc-real",
+      "priority": 1.0,
+      "last_modified": "2025-04-24T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-23",
+      "priority": 1.0,
+      "last_modified": "2025-04-24T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-awkward",
+      "priority": 1.0,
+      "last_modified": "2025-04-24T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

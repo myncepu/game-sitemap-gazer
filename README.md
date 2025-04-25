@@ -73,6 +73,14 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250425_000721
+
+- https://sprunki.org/sprunki-shuvali
+- https://sprunki.org/speed-stars
+- https://sprunki.org/speed-stars-unblocked
+
+Raw data: [sitemap.json](./data/sprunki.org/20250425_000721/sitemap.json) and [diff.json](./data/sprunki.org/20250425_000721/diff.json)
+
 ### 20250424_000709
 
 - https://sprunki.org/sprunki-duel
@@ -87,13 +95,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250424_000709/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250423_000724/sitemap.json) and [diff.json](./data/sprunki.org/20250423_000724/diff.json)
 
-### 20250422_000713
-
-- https://sprunki.org/sprunki-popular-songs
-
-Raw data: [sitemap.json](./data/sprunki.org/20250422_000713/sitemap.json) and [diff.json](./data/sprunki.org/20250422_000713/diff.json)
-
 ## sprunki.com
+
+### 20250425_000721
+
+- https://sprunki.com/sprunki-oc-real
+- https://sprunki.com/sprunki-phase-23
+- https://sprunki.com/sprunki-awkward
+
+Raw data: [sitemap.json](./data/sprunki.com/20250425_000721/sitemap.json) and [diff.json](./data/sprunki.com/20250425_000721/diff.json)
 
 ### 20250424_000709
 
@@ -110,14 +120,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250424_000709/sitemap.json) and [d
 - https://sprunki.com/sprunki-challenge
 
 Raw data: [sitemap.json](./data/sprunki.com/20250423_000724/sitemap.json) and [diff.json](./data/sprunki.com/20250423_000724/diff.json)
-
-### 20250422_000713
-
-- https://sprunki.com/sprunki-redsun
-- https://sprunki.com/sprunki-sprungle-banana
-- https://sprunki.com/sprunki-padek-man
-
-Raw data: [sitemap.json](./data/sprunki.com/20250422_000713/sitemap.json) and [diff.json](./data/sprunki.com/20250422_000713/diff.json)
 
 ## sprunki.net
 
@@ -10213,6 +10215,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250425_000721
+
+- https://incrediboxsprunki.io/sprunki-incredibox-slide-puzzle
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250425_000721/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250425_000721/diff.json)
+
 ### 20250424_000709
 
 - https://incrediboxsprunki.io/sprunki-vs-mccraft
@@ -10226,12 +10234,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250424_000709/sitemap.js
 - https://incrediboxsprunki.io/baseball-bros-io
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250423_000724/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250423_000724/diff.json)
-
-### 20250422_000713
-
-- https://incrediboxsprunki.io/stunt-sprunki
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250422_000713/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250422_000713/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10386,6 +10388,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250425_000721
+
+- https://sprunkin.com/fan-game/sprinkle-with-horror/
+- https://sprunkin.com/fan-game/sprunki-rozblox-retakke/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250425_000721/sitemap.json) and [diff.json](./data/sprunkin.com/20250425_000721/diff.json)
+
 ### 20250424_000709
 
 - https://sprunkin.com/game/frunki-remastered/
@@ -10424,12 +10433,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250424_000709/sitemap.json) and [
 - https://sprunkin.com/fan-game/jjennsnnsbvd/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250422_000713/sitemap.json) and [diff.json](./data/sprunkin.com/20250422_000713/diff.json)
-
-### 20250421_000755
-
-- https://sprunkin.com/fan-game/sprunki-final-phase/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250421_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250421_000755/diff.json)
 
 ## sprunkisinner.org
 
@@ -10770,6 +10773,12 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250425_000721
+
+- https://www.coolmathgames.com/0-scrap-boy
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250425_000721/sitemap.json) and [diff.json](./data/coolmathgames.com/20250425_000721/diff.json)
+
 ### 20250424_000709
 
 - https://www.coolmathgames.com/0-braininess-2
@@ -10782,13 +10791,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250424_000709/sitemap.json) 
 - https://www.coolmathgames.com/0-cubic-mahjong-3d
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250422_000713/sitemap.json) and [diff.json](./data/coolmathgames.com/20250422_000713/diff.json)
-
-### 20250419_000654
-
-- https://www.coolmathgames.com/0-chain-color-sort
-- https://www.coolmathgames.com/blog/how-to-play-metro-escape
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250419_000654/sitemap.json) and [diff.json](./data/coolmathgames.com/20250419_000654/diff.json)
 
 ## pogo.com
 
