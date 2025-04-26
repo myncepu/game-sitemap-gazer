@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250426_000706
+
+- https://sprunki.org/sprunki-cold-as-frost
+- https://sprunki.org/crazy-cattle
+- https://sprunki.org/meme-songs-sigma-boy-fnaf-squid-beast-sprunki
+- https://sprunki.org/sprunki-snow-day
+- https://sprunki.org/speed-master
+
+Raw data: [sitemap.json](./data/sprunki.org/20250426_000706/sitemap.json) and [diff.json](./data/sprunki.org/20250426_000706/diff.json)
+
 ### 20250425_000721
 
 - https://sprunki.org/sprunki-shuvali
@@ -88,14 +98,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250425_000721/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250424_000709/sitemap.json) and [diff.json](./data/sprunki.org/20250424_000709/diff.json)
 
-### 20250423_000724
-
-- https://sprunki.org/max-sprunki
-- https://sprunki.org/baseball-bros-io
-
-Raw data: [sitemap.json](./data/sprunki.org/20250423_000724/sitemap.json) and [diff.json](./data/sprunki.org/20250423_000724/diff.json)
-
 ## sprunki.com
+
+### 20250426_000706
+
+- https://sprunki.com/sprunki-pyramixed-dpg
+- https://sprunki.com/sprunki-parodybox
+- https://sprunki.com/sprunki-blueberry
+
+Raw data: [sitemap.json](./data/sprunki.com/20250426_000706/sitemap.json) and [diff.json](./data/sprunki.com/20250426_000706/diff.json)
 
 ### 20250425_000721
 
@@ -112,14 +123,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250425_000721/sitemap.json) and [d
 - https://sprunki.com/sprunki-but-its-mario
 
 Raw data: [sitemap.json](./data/sprunki.com/20250424_000709/sitemap.json) and [diff.json](./data/sprunki.com/20250424_000709/diff.json)
-
-### 20250423_000724
-
-- https://sprunki.com/sprunki-love-mod
-- https://sprunki.com/fanon-sprunki
-- https://sprunki.com/sprunki-challenge
-
-Raw data: [sitemap.json](./data/sprunki.com/20250423_000724/sitemap.json) and [diff.json](./data/sprunki.com/20250423_000724/diff.json)
 
 ## sprunki.net
 
@@ -10215,6 +10218,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250426_000706
+
+- https://incrediboxsprunki.io/slice-sprunki-clicker
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250426_000706/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250426_000706/diff.json)
+
 ### 20250425_000721
 
 - https://incrediboxsprunki.io/sprunki-incredibox-slide-puzzle
@@ -10227,13 +10236,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250425_000721/sitemap.js
 - https://incrediboxsprunki.io/crazy-cattle-3d-
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250424_000709/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250424_000709/diff.json)
-
-### 20250423_000724
-
-- https://incrediboxsprunki.io/sprunki-difference-and-sing
-- https://incrediboxsprunki.io/baseball-bros-io
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250423_000724/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250423_000724/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10388,6 +10390,22 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250426_000706
+
+- https://sprunkin.com/game/sprunki-pyramixed-restyled/
+- https://sprunkin.com/game/sprunki-pyrof-nfe/
+- https://sprunkin.com/game/sprunki-incredibast/
+- https://sprunkin.com/game/sprunki-infected-x-v0-5/
+- https://sprunkin.com/fan-game/sprunki-interactive-redesigned-black/
+- https://sprunkin.com/fan-game/interactive-tunner-not-mine/
+- https://sprunkin.com/fan-game/incedibox-sprunki-x-rejectz-but-they-have-incedibox-mouths/
+- https://sprunkin.com/fan-game/arduino-mustard/
+- https://sprunkin.com/fan-game/sprunki-but-your-ocs/
+- https://sprunkin.com/fan-game/sprunki-but-polos-are-different/
+- https://sprunkin.com/fan-game/wenda-treatment-phase-3/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250426_000706/sitemap.json) and [diff.json](./data/sprunkin.com/20250426_000706/diff.json)
+
 ### 20250425_000721
 
 - https://sprunkin.com/fan-game/sprinkle-with-horror/
@@ -10410,29 +10428,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250425_000721/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-chill-outdemoversion-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250424_000709/sitemap.json) and [diff.json](./data/sprunkin.com/20250424_000709/diff.json)
-
-### 20250422_000713
-
-- https://sprunkin.com/game/sprunki-phase-14-remake/
-- https://sprunkin.com/game/desertisprunki/
-- https://sprunkin.com/game/ketchup-with-sprunki-human-edition/
-- https://sprunkin.com/fan-game/sprunki-phase-%cf%89100-2/
-- https://sprunkin.com/fan-game/ariffventures-incredibox/
-- https://sprunkin.com/fan-game/%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d0%bc%d0%be%d0%b4-%d0%bd%d0%b0-%d1%81%d0%bf%d1%80%d1%83%d0%bd%d0%ba%d0%b8/
-- https://sprunkin.com/fan-game/sprunki-definite-phase-6-new/
-- https://sprunkin.com/fan-game/sprunki-definite-phase-7-new/
-- https://sprunkin.com/fan-game/sprunki-definite-phase-8-new/
-- https://sprunkin.com/fan-game/sprunki-definite-phase-8-new-2/
-- https://sprunkin.com/fan-game/sprunki-definite-phase-9/
-- https://sprunkin.com/fan-game/sprunki-rnf-edition/
-- https://sprunkin.com/fan-game/sprunki-phase-2-5-new/
-- https://sprunkin.com/fan-game/sprunki-the-definitive-phase-3/
-- https://sprunkin.com/fan-game/ytyg7yh6/
-- https://sprunkin.com/fan-game/sprunki-phase-15-original/
-- https://sprunkin.com/fan-game/sprunki-rnf-edition-update/
-- https://sprunkin.com/fan-game/jjennsnnsbvd/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250422_000713/sitemap.json) and [diff.json](./data/sprunkin.com/20250422_000713/diff.json)
 
 ## sprunkisinner.org
 
