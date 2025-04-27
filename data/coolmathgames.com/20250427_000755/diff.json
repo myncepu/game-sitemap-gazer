@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-word-sort-puzzle",
+      "priority": 0.5,
+      "last_modified": "2025-04-25T21:25:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-magnetic-pull",
+      "priority": 0.5,
+      "last_modified": "2025-04-24T20:58:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/1-match-3-games-app",
+      "priority": 0.5,
+      "last_modified": "2025-04-24T16:50:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/1-animal-games",
+      "priority": 0.5,
+      "last_modified": "2025-04-25T01:19:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/1-drawing-games-app",
+      "priority": 0.5,
+      "last_modified": "2025-04-24T16:51:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

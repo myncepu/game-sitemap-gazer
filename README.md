@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250427_000755
+
+- https://sprunki.org/mini-games-sprunki-sounds-relaxation
+- https://sprunki.org/slope-cyber
+- https://sprunki.org/sprunki-satellite-catcher
+- https://sprunki.org/crazy-chicken-3d
+- https://sprunki.org/cheese-chompers-3d
+
+Raw data: [sitemap.json](./data/sprunki.org/20250427_000755/sitemap.json) and [diff.json](./data/sprunki.org/20250427_000755/diff.json)
+
 ### 20250426_000706
 
 - https://sprunki.org/sprunki-cold-as-frost
@@ -90,13 +100,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250426_000706/sitemap.json) and [d
 - https://sprunki.org/speed-stars-unblocked
 
 Raw data: [sitemap.json](./data/sprunki.org/20250425_000721/sitemap.json) and [diff.json](./data/sprunki.org/20250425_000721/diff.json)
-
-### 20250424_000709
-
-- https://sprunki.org/sprunki-duel
-- https://sprunki.org/crazy-cattle-3d-0
-
-Raw data: [sitemap.json](./data/sprunki.org/20250424_000709/sitemap.json) and [diff.json](./data/sprunki.org/20250424_000709/diff.json)
 
 ## sprunki.com
 
@@ -10218,6 +10221,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250427_000755
+
+- https://incrediboxsprunki.io/launch-the-sprunki
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250427_000755/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250427_000755/diff.json)
+
 ### 20250426_000706
 
 - https://incrediboxsprunki.io/slice-sprunki-clicker
@@ -10229,13 +10238,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250426_000706/sitemap.js
 - https://incrediboxsprunki.io/sprunki-incredibox-slide-puzzle
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250425_000721/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250425_000721/diff.json)
-
-### 20250424_000709
-
-- https://incrediboxsprunki.io/sprunki-vs-mccraft
-- https://incrediboxsprunki.io/crazy-cattle-3d-
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250424_000709/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250424_000709/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10768,6 +10770,16 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250427_000755
+
+- https://www.coolmathgames.com/0-word-sort-puzzle
+- https://www.coolmathgames.com/0-magnetic-pull
+- https://www.coolmathgames.com/1-match-3-games-app
+- https://www.coolmathgames.com/1-animal-games
+- https://www.coolmathgames.com/1-drawing-games-app
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250427_000755/sitemap.json) and [diff.json](./data/coolmathgames.com/20250427_000755/diff.json)
+
 ### 20250425_000721
 
 - https://www.coolmathgames.com/0-scrap-boy
@@ -10779,13 +10791,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250425_000721/sitemap.json) 
 - https://www.coolmathgames.com/0-braininess-2
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250424_000709/sitemap.json) and [diff.json](./data/coolmathgames.com/20250424_000709/diff.json)
-
-### 20250422_000713
-
-- https://www.coolmathgames.com/0-fisquarium
-- https://www.coolmathgames.com/0-cubic-mahjong-3d
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250422_000713/sitemap.json) and [diff.json](./data/coolmathgames.com/20250422_000713/diff.json)
 
 ## pogo.com
 
