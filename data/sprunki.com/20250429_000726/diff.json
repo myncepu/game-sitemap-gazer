@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/frunki-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-04-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-14-remake",
+      "priority": 1.0,
+      "last_modified": "2025-04-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-wreckage",
+      "priority": 1.0,
+      "last_modified": "2025-04-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

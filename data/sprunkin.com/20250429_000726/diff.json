@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-donki/",
+      "priority": 0.5,
+      "last_modified": "2025-04-28T11:01:59Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-phase-8-v1-0/",
+      "priority": 0.5,
+      "last_modified": "2025-04-28T11:02:09Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/frunki-2-0-swap/",
+      "priority": 0.5,
+      "last_modified": "2025-04-28T11:01:57Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-6-original/",
+      "priority": 0.5,
+      "last_modified": "2025-04-27T19:12:35Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/hd-sprunkmans-updated/",
+      "priority": 0.5,
+      "last_modified": "2025-04-28T01:51:02Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/bluey-sprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-04-28T08:42:51Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/bluey-sprunki-2/",
+      "priority": 0.5,
+      "last_modified": "2025-04-28T08:43:02Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/bluey-sprunki-3/",
+      "priority": 0.5,
+      "last_modified": "2025-04-28T08:43:13Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
