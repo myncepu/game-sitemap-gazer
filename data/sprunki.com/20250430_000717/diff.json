@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-digital",
+      "priority": 1.0,
+      "last_modified": "2025-04-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-corruption",
+      "priority": 1.0,
+      "last_modified": "2025-04-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-all-bonus",
+      "priority": 1.0,
+      "last_modified": "2025-04-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/Sprunki-Rainbow-Friends-2275",
+      "priority": 1.0,
+      "last_modified": "2025-04-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
