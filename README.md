@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250503_000705
+
+- https://sprunki.org/kinitopet-playground-ragdoll-sandbox
+
+Raw data: [sitemap.json](./data/sprunki.org/20250503_000705/sitemap.json) and [diff.json](./data/sprunki.org/20250503_000705/diff.json)
+
 ### 20250502_000715
 
 - https://sprunki.org/sprunki-very-scary
@@ -87,15 +93,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250502_000715/sitemap.json) and [d
 - https://sprunki.org/sprunka-need-help-incredibox-challenge
 
 Raw data: [sitemap.json](./data/sprunki.org/20250501_000805/sitemap.json) and [diff.json](./data/sprunki.org/20250501_000805/diff.json)
-
-### 20250430_000717
-
-- https://sprunki.org/pokerogue
-- https://sprunki.org/tung-tung-sahur-gta-miami
-- https://sprunki.org/backrooms-tung-tung-tung-saur
-- https://sprunki.org/crazy-animal-city
-
-Raw data: [sitemap.json](./data/sprunki.org/20250430_000717/sitemap.json) and [diff.json](./data/sprunki.org/20250430_000717/diff.json)
 
 ## sprunki.com
 
@@ -10270,6 +10267,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250503_000705
+
+- https://incrediboxsprunki.io/sprunki-dx
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250503_000705/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250503_000705/diff.json)
+
 ### 20250502_000715
 
 - https://incrediboxsprunki.io/squid-sprunki-mingle-game-2
@@ -10281,12 +10284,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250502_000715/sitemap.js
 - https://incrediboxsprunki.io/squid-game-x-sprunki-tetris
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250501_000805/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250501_000805/diff.json)
-
-### 20250430_000717
-
-- https://incrediboxsprunki.io/sprunki-ball-juggling
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250430_000717/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250430_000717/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10441,6 +10438,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250503_000705
+
+- https://sprunkin.com/game/sprunki-phase-9-remastered/
+- https://sprunkin.com/game/sprunki-parasprinkle/
+- https://sprunkin.com/game/sprunked-wenda-treatment/
+- https://sprunkin.com/game/sprunki-gray-treatment/
+- https://sprunkin.com/fan-game/simon-y-brud/
+- https://sprunkin.com/fan-game/sprunki-cupcakes-au/
+- https://sprunkin.com/fan-game/sprunki-bud-remade/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250503_000705/sitemap.json) and [diff.json](./data/sprunkin.com/20250503_000705/diff.json)
+
 ### 20250502_000715
 
 - https://sprunkin.com/game/sprunki-retikx/
@@ -10467,13 +10476,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250502_000715/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-simons-realm-with-a-bonus/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250501_000805/sitemap.json) and [diff.json](./data/sprunkin.com/20250501_000805/diff.json)
-
-### 20250430_000717
-
-- https://sprunkin.com/fan-game/the-electro-gems/
-- https://sprunkin.com/fan-game/sprunki-ocs-maxbox/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250430_000717/sitemap.json) and [diff.json](./data/sprunkin.com/20250430_000717/diff.json)
 
 ## sprunkisinner.org
 
