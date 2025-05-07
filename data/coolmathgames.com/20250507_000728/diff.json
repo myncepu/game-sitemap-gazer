@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-code-maze",
+      "priority": 0.5,
+      "last_modified": "2025-05-02T21:34:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-duck-duck-clicker-3d",
+      "priority": 0.5,
+      "last_modified": "2025-05-05T19:07:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-ball-sort-bicolor",
+      "priority": 0.5,
+      "last_modified": "2025-05-05T20:29:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
