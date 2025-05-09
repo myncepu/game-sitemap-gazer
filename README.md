@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250509_000722
+
+- https://sprunki.org/crack-eggs
+- https://sprunki.org/chicken-jockey-clicker
+- https://sprunki.org/internet-roadtrip
+- https://sprunki.org/sonic-the-hedgehog
+- https://sprunki.org/sprunki-version-mostard
+
+Raw data: [sitemap.json](./data/sprunki.org/20250509_000722/sitemap.json) and [diff.json](./data/sprunki.org/20250509_000722/diff.json)
+
 ### 20250508_000725
 
 - https://sprunki.org/pixel-path
@@ -86,13 +96,20 @@ Raw data: [sitemap.json](./data/sprunki.org/20250508_000725/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250506_000732/sitemap.json) and [diff.json](./data/sprunki.org/20250506_000732/diff.json)
 
-### 20250505_000804
-
-- https://sprunki.org/sprunki-poppy-playtime-mod
-
-Raw data: [sitemap.json](./data/sprunki.org/20250505_000804/sitemap.json) and [diff.json](./data/sprunki.org/20250505_000804/diff.json)
-
 ## sprunki.com
+
+### 20250509_000722
+
+- https://sprunki.com/sprunki-ultimate-deluxe
+- https://sprunki.com/sprunki-simon-s-realm
+- https://sprunki.com/sprunki-msi
+- https://sprunki.com/sprunki-cendi
+- https://sprunki.com/sprunki-wenda-treatment
+- https://sprunki.com/de/sprunki-phase-5
+- https://sprunki.com/de/sprunki-phase-8
+- https://sprunki.com/de/sprunki-phase-10
+
+Raw data: [sitemap.json](./data/sprunki.com/20250509_000722/sitemap.json) and [diff.json](./data/sprunki.com/20250509_000722/diff.json)
 
 ### 20250508_000725
 
@@ -120,66 +137,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250508_000725/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-777
 
 Raw data: [sitemap.json](./data/sprunki.com/20250507_000728/sitemap.json) and [diff.json](./data/sprunki.com/20250507_000728/diff.json)
-
-### 20250501_000805
-
-- https://sprunki.com/sprunki-max-design-pro
-- https://sprunki.com/sprunki-mixer
-- https://sprunki.com/sprunki-dandy-s-world
-- https://sprunki.com/es/sprunki-phase-3
-- https://sprunki.com/es/sprunki-phase-4
-- https://sprunki.com/es/sprunki-phase-5
-- https://sprunki.com/es/sprunki-retake
-- https://sprunki.com/es/sprunky
-- https://sprunki.com/es/sprunki-phase-777
-- https://sprunki.com/es/sprunki-phase-777-but-3-7
-- https://sprunki.com/es/sprunki-pyramixed
-- https://sprunki.com/es/sprunki-1996
-- https://sprunki.com/pt/sprunki-phase-2
-- https://sprunki.com/pt/sprunki-phase-3
-- https://sprunki.com/pt/sprunki-phase-4
-- https://sprunki.com/pt/sprunki-phase-5
-- https://sprunki.com/pt/sprunki-phase-10
-- https://sprunki.com/pt/sprunki-retake
-- https://sprunki.com/pt/sprunky
-- https://sprunki.com/pt/sprunki-phase-777
-- https://sprunki.com/pt/sprunki-phase-777-but-3-7
-- https://sprunki.com/pt/sprunki-pyramixed
-- https://sprunki.com/pt/sprunki-1996
-- https://sprunki.com/ja/sprunki-kiss
-- https://sprunki.com/ja/sprunki-mustard
-- https://sprunki.com/ja/sprunki-phase-1
-- https://sprunki.com/ja/sprunki-phase-2
-- https://sprunki.com/ja/sprunki-phase-3
-- https://sprunki.com/ja/sprunki-phase-4
-- https://sprunki.com/ja/sprunki-phase-5
-- https://sprunki.com/ja/sprunki-phase-6
-- https://sprunki.com/ja/sprunki-phase-7
-- https://sprunki.com/ja/sprunki-phase-8
-- https://sprunki.com/ja/sprunki-phase-9
-- https://sprunki.com/ja/sprunki-phase-10
-- https://sprunki.com/ja/sprunki-pokemon
-- https://sprunki.com/ja/sprunki-retake
-- https://sprunki.com/ja/sprunky
-- https://sprunki.com/ja/sprunki-pyramixed
-- https://sprunki.com/ja/sprunki-1996
-- https://sprunki.com/ko/sprunki-phase-3
-- https://sprunki.com/ko/sprunki-phase-5
-- https://sprunki.com/ko/sprunki-retake
-- https://sprunki.com/ko/sprunky
-- https://sprunki.com/ko/sprunki-pyramixed
-- https://sprunki.com/de/sprunki-phase-3
-- https://sprunki.com/de/sprunki-phase-4
-- https://sprunki.com/de/sprunki-retake
-- https://sprunki.com/de/sprunky
-- https://sprunki.com/de/sprunki-pyramixed
-- https://sprunki.com/fr/sprunki-phase-3
-- https://sprunki.com/fr/sprunki-phase-4
-- https://sprunki.com/fr/sprunki-retake
-- https://sprunki.com/fr/sprunky
-- https://sprunki.com/fr/sprunki-pyramixed
-
-Raw data: [sitemap.json](./data/sprunki.com/20250501_000805/sitemap.json) and [diff.json](./data/sprunki.com/20250501_000805/diff.json)
 
 ## sprunki.net
 
@@ -10275,6 +10232,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250509_000722
+
+- https://incrediboxsprunki.io/hop-ballz-3d
+- https://incrediboxsprunki.io/chicken-jockey-clicker
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250509_000722/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250509_000722/diff.json)
+
 ### 20250508_000725
 
 - https://incrediboxsprunki.io/geometry-open-world
@@ -10286,13 +10250,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250508_000725/sitemap.js
 - https://incrediboxsprunki.io/colorsandforms
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250507_000728/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250507_000728/diff.json)
-
-### 20250506_000732
-
-- https://incrediboxsprunki.io/dta-best-thief
-- https://incrediboxsprunki.io/preco-v-2
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250506_000732/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250506_000732/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10447,6 +10404,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250509_000722
+
+- https://sprunkin.com/game/sprunki-sky-treatment/
+- https://sprunkin.com/game/yet-another-boring-old-sprunki-mod/
+- https://sprunkin.com/game/sprunki-wenda-treatment-new-human/
+- https://sprunkin.com/fan-game/sprunki-but-everyone-turned-into-gray-except-wenda/
+- https://sprunkin.com/fan-game/sprunki-pyramixed-ultimate-port/
+- https://sprunkin.com/fan-game/incredibox-srunki/
+- https://sprunkin.com/fan-game/sprunki-mod-phase-5/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250509_000722/sitemap.json) and [diff.json](./data/sprunkin.com/20250509_000722/diff.json)
+
 ### 20250508_000725
 
 - https://sprunkin.com/game/gingerdandys-sprunki/
@@ -10486,16 +10455,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250508_000725/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-novo1/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250507_000728/sitemap.json) and [diff.json](./data/sprunkin.com/20250507_000728/diff.json)
-
-### 20250506_000732
-
-- https://sprunkin.com/fan-game/sprunki-but-textured/
-- https://sprunkin.com/fan-game/sprunki-dash-2/
-- https://sprunkin.com/fan-game/sprunki-phase-4-5-new/
-- https://sprunkin.com/fan-game/sprunki-but-darker/
-- https://sprunkin.com/fan-game/sprunki-but-darker-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250506_000732/sitemap.json) and [diff.json](./data/sprunkin.com/20250506_000732/diff.json)
 
 ## sprunkisinner.org
 

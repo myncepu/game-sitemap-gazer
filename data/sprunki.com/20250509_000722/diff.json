@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-ultimate-deluxe",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-simon-s-realm",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-msi",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-cendi",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-wenda-treatment",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/de/sprunki-phase-5",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/de/sprunki-phase-8",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/de/sprunki-phase-10",
+      "priority": 1.0,
+      "last_modified": "2025-05-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
