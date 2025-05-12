@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250512_000807
+
+- https://sprunki.org/sprunki-phase-mustard
+
+Raw data: [sitemap.json](./data/sprunki.org/20250512_000807/sitemap.json) and [diff.json](./data/sprunki.org/20250512_000807/diff.json)
+
 ### 20250511_000751
 
 - https://sprunki.org/sprunki-monster-music-beats
@@ -92,16 +98,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250511_000751/sitemap.json) and [d
 - https://sprunki.org/basketball-bros
 
 Raw data: [sitemap.json](./data/sprunki.org/20250510_000701/sitemap.json) and [diff.json](./data/sprunki.org/20250510_000701/diff.json)
-
-### 20250509_000722
-
-- https://sprunki.org/crack-eggs
-- https://sprunki.org/chicken-jockey-clicker
-- https://sprunki.org/internet-roadtrip
-- https://sprunki.org/sonic-the-hedgehog
-- https://sprunki.org/sprunki-version-mostard
-
-Raw data: [sitemap.json](./data/sprunki.org/20250509_000722/sitemap.json) and [diff.json](./data/sprunki.org/20250509_000722/diff.json)
 
 ## sprunki.com
 
@@ -10250,6 +10246,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250512_000807
+
+- https://incrediboxsprunki.io/brainrot-clicker
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250512_000807/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250512_000807/diff.json)
+
 ### 20250511_000751
 
 - https://incrediboxsprunki.io/sonic-the-hedgehog
@@ -10261,13 +10263,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250511_000751/sitemap.js
 - https://incrediboxsprunki.io/musical-bubble
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250510_000701/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250510_000701/diff.json)
-
-### 20250509_000722
-
-- https://incrediboxsprunki.io/hop-ballz-3d
-- https://incrediboxsprunki.io/chicken-jockey-clicker
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250509_000722/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250509_000722/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10796,6 +10791,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250512_000807
+
+- https://www.coolmathgames.com/0-cars-merge
+- https://www.coolmathgames.com/0-binary-boy
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250512_000807/sitemap.json) and [diff.json](./data/coolmathgames.com/20250512_000807/diff.json)
+
 ### 20250510_000701
 
 - https://www.coolmathgames.com/0-vex-x3m-2
@@ -10809,12 +10811,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250510_000701/sitemap.json) 
 - https://www.coolmathgames.com/0-ball-sort-bicolor
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250507_000728/sitemap.json) and [diff.json](./data/coolmathgames.com/20250507_000728/diff.json)
-
-### 20250505_000804
-
-- https://www.coolmathgames.com/0-enable
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250505_000804/sitemap.json) and [diff.json](./data/coolmathgames.com/20250505_000804/diff.json)
 
 ## pogo.com
 

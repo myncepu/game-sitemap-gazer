@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-cars-merge",
+      "priority": 0.5,
+      "last_modified": "2025-05-09T20:05:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-binary-boy",
+      "priority": 0.5,
+      "last_modified": "2025-05-09T20:35:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
