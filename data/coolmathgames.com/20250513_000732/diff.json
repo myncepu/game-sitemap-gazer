@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/wallace",
+      "priority": 0.5,
+      "last_modified": "2025-05-11T14:18:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/wreath",
+      "priority": 0.5,
+      "last_modified": "2025-05-11T14:18:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/marq",
+      "priority": 0.5,
+      "last_modified": "2025-05-11T14:19:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
