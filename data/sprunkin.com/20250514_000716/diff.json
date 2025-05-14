@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-spurufuture/",
+      "priority": 0.5,
+      "last_modified": "2025-05-13T11:29:36Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-rotrizi-7/",
+      "priority": 0.5,
+      "last_modified": "2025-05-13T11:31:17Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-old-2/",
+      "priority": 0.5,
+      "last_modified": "2025-05-13T13:04:24Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
