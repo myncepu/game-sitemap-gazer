@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/just-another-sprunki-reskin/",
+      "priority": 0.5,
+      "last_modified": "2025-05-14T11:32:57Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-skibidi-toilet-remake-5/",
+      "priority": 0.5,
+      "last_modified": "2025-05-14T11:37:26Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/the-definitive-phase-10/",
+      "priority": 0.5,
+      "last_modified": "2025-05-14T06:46:22Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-old-2x-speed/",
+      "priority": 0.5,
+      "last_modified": "2025-05-14T13:32:58Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
