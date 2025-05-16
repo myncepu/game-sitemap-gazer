@@ -73,6 +73,13 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250516_000730
+
+- https://sprunki.org/incredimon-v1-plant-island
+- https://sprunki.org/pokemon-gamma-emerald
+
+Raw data: [sitemap.json](./data/sprunki.org/20250516_000730/sitemap.json) and [diff.json](./data/sprunki.org/20250516_000730/diff.json)
+
 ### 20250515_000704
 
 - https://sprunki.org/tralalero-tralala-and-tung-tung-sahur-hard-quiz
@@ -89,14 +96,25 @@ Raw data: [sitemap.json](./data/sprunki.org/20250515_000704/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250514_000716/sitemap.json) and [diff.json](./data/sprunki.org/20250514_000716/diff.json)
 
-### 20250513_000732
-
-- https://sprunki.org/sprunki-baby-phase-3
-- https://sprunki.org/wacky-flip
-
-Raw data: [sitemap.json](./data/sprunki.org/20250513_000732/sitemap.json) and [diff.json](./data/sprunki.org/20250513_000732/diff.json)
-
 ## sprunki.com
+
+### 20250516_000730
+
+- https://sprunki.com/sprunki-pyramixed-regretful
+- https://sprunki.com/sprunki-brud-treatment
+- https://sprunki.com/sprunkle-salad
+- https://sprunki.com/ja/sprunki-phase-14
+- https://sprunki.com/ja/sprunki-phase-666_6
+- https://sprunki.com/ja/sprunki-all-sun
+- https://sprunki.com/ja/sprunki-phase-20
+- https://sprunki.com/ja/sprunki-phase-3-but-babies
+- https://sprunki.com/ja/sprunki-phase-57
+- https://sprunki.com/ja/sprunk-swapped_v1-1-2-remix
+- https://sprunki.com/ja/sprunki-swap-3
+- https://sprunki.com/ja/sprunki-retake-but-everyone-sky
+- https://sprunki.com/ja/squidki
+
+Raw data: [sitemap.json](./data/sprunki.com/20250516_000730/sitemap.json) and [diff.json](./data/sprunki.com/20250516_000730/diff.json)
 
 ### 20250515_000704
 
@@ -133,24 +151,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250515_000704/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-1996-but-with-hands
 
 Raw data: [sitemap.json](./data/sprunki.com/20250514_000716/sitemap.json) and [diff.json](./data/sprunki.com/20250514_000716/diff.json)
-
-### 20250513_000732
-
-- https://sprunki.com/warm-like-fire-but-sprunki-2-0
-- https://sprunki.com/sprunki-simon-treatment
-- https://sprunki.com/sprunki-raddy-treatment
-- https://sprunki.com/ja/sprunki-baby
-- https://sprunki.com/ja/sprunki-phase-69
-- https://sprunki.com/ja/sprunki-phase-5-original
-- https://sprunki.com/ja/sprunki-phase-9-original
-- https://sprunki.com/ja/sprunki-ultimate-deluxe
-- https://sprunki.com/ja/sprunki-wenda-treatment-new-human
-- https://sprunki.com/ja/sprunki-wenda-treatment-2-0
-- https://sprunki.com/ja/sprunki-durple-treatment
-- https://sprunki.com/ja/sprunki-black-treatment
-- https://sprunki.com/ja/sprunki-sky-treatment
-
-Raw data: [sitemap.json](./data/sprunki.com/20250513_000732/sitemap.json) and [diff.json](./data/sprunki.com/20250513_000732/diff.json)
 
 ## sprunki.net
 
@@ -10246,6 +10246,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250516_000730
+
+- https://incrediboxsprunki.io/crazy-animal-city
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250516_000730/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250516_000730/diff.json)
+
 ### 20250515_000704
 
 - https://incrediboxsprunki.io/guess-the-kitty
@@ -10257,12 +10263,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250515_000704/sitemap.js
 - https://incrediboxsprunki.io/color-switch
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250514_000716/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250514_000716/diff.json)
-
-### 20250513_000732
-
-- https://incrediboxsprunki.io/internet-roadtrip
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250513_000732/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250513_000732/diff.json)
 
 ## sprunki-incredibox.org
 
