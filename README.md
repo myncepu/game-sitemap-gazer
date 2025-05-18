@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250518_000801
+
+- https://sprunki.org/the-seasons-autumn-incredibox
+
+Raw data: [sitemap.json](./data/sprunki.org/20250518_000801/sitemap.json) and [diff.json](./data/sprunki.org/20250518_000801/diff.json)
+
 ### 20250517_000717
 
 - https://sprunki.org/kats-incredibox
@@ -86,13 +92,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250517_000717/sitemap.json) and [d
 - https://sprunki.org/pokemon-gamma-emerald
 
 Raw data: [sitemap.json](./data/sprunki.org/20250516_000730/sitemap.json) and [diff.json](./data/sprunki.org/20250516_000730/diff.json)
-
-### 20250515_000704
-
-- https://sprunki.org/tralalero-tralala-and-tung-tung-sahur-hard-quiz
-- https://sprunki.org/trap-the-cat
-
-Raw data: [sitemap.json](./data/sprunki.org/20250515_000704/sitemap.json) and [diff.json](./data/sprunki.org/20250515_000704/diff.json)
 
 ## sprunki.com
 
@@ -10244,6 +10243,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250518_000801
+
+- https://incrediboxsprunki.io/sprunki-space-challenge
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250518_000801/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250518_000801/diff.json)
+
 ### 20250517_000717
 
 - https://incrediboxsprunki.io/ziggy-road
@@ -10255,12 +10260,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250517_000717/sitemap.js
 - https://incrediboxsprunki.io/crazy-animal-city
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250516_000730/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250516_000730/diff.json)
-
-### 20250515_000704
-
-- https://incrediboxsprunki.io/guess-the-kitty
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250515_000704/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250515_000704/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10415,6 +10414,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250518_000801
+
+- https://sprunkin.com/fan-game/sprunki-with-my-ocs-and-new-jevin-durple/
+- https://sprunkin.com/fan-game/sprunki-phase-6-3/
+- https://sprunkin.com/fan-game/sprunki-phase-15-but-practice/
+- https://sprunkin.com/fan-game/sprunki-but-they-are-cats-2/
+- https://sprunkin.com/fan-game/sprunki-but-they-are-cats-3/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250518_000801/sitemap.json) and [diff.json](./data/sprunkin.com/20250518_000801/diff.json)
+
 ### 20250517_000717
 
 - https://sprunkin.com/game/sprunki-jevin-treatment/
@@ -10438,14 +10447,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250517_000717/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-old-2x-speed/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250515_000704/sitemap.json) and [diff.json](./data/sprunkin.com/20250515_000704/diff.json)
-
-### 20250514_000716
-
-- https://sprunkin.com/game/sprunki-spurufuture/
-- https://sprunkin.com/game/sprunki-rotrizi-7/
-- https://sprunkin.com/fan-game/sprunki-old-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250514_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250514_000716/diff.json)
 
 ## sprunkisinner.org
 
