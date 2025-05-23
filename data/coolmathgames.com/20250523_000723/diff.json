@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-viscous-ventures",
+      "priority": 0.5,
+      "last_modified": "2025-05-20T21:03:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/blog/how-to-play-duck-duck-clicker-3d",
+      "priority": 0.5,
+      "last_modified": "2025-05-20T22:36:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/c/cars-planes-trains-games",
+      "priority": 0.5,
+      "last_modified": "2025-05-20T17:03:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
