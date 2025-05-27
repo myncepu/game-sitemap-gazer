@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/ja/sprunki-pyramixed-human-edition",
+      "priority": 1.0,
+      "last_modified": "2025-05-26T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-4-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-05-26T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-human-beach-edition",
+      "priority": 1.0,
+      "last_modified": "2025-05-26T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
