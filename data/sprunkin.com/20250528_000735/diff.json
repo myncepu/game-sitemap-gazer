@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-spupil/",
+      "priority": 0.5,
+      "last_modified": "2025-05-27T11:39:37Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/the-sprunki-shifted/",
+      "priority": 0.5,
+      "last_modified": "2025-05-27T11:44:21Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/jevintx-treatment-remix/",
+      "priority": 0.5,
+      "last_modified": "2025-05-27T11:48:40Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-3-defintive-but-alive/",
+      "priority": 0.5,
+      "last_modified": "2025-05-27T18:09:06Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

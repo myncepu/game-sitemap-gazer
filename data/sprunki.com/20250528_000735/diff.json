@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/incredibox-kats",
+      "priority": 1.0,
+      "last_modified": "2025-05-27T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/parasprunki-msi",
+      "priority": 1.0,
+      "last_modified": "2025-05-27T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-sunshine-isle",
+      "priority": 1.0,
+      "last_modified": "2025-05-27T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

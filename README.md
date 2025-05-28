@@ -73,6 +73,13 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250528_000735
+
+- https://sprunki.org/sprunki-superhero
+- https://sprunki.org/italian-brainrot-clicker
+
+Raw data: [sitemap.json](./data/sprunki.org/20250528_000735/sitemap.json) and [diff.json](./data/sprunki.org/20250528_000735/diff.json)
+
 ### 20250527_000716
 
 - https://sprunki.org/sprunki-retake-but-abgerny
@@ -87,14 +94,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250527_000716/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250526_000749/sitemap.json) and [diff.json](./data/sprunki.org/20250526_000749/diff.json)
 
-### 20250525_000814
-
-- https://sprunki.org/sprunki-craft-sandbox-3d
-- https://sprunki.org/sprunki-phase-4-but-normal
-
-Raw data: [sitemap.json](./data/sprunki.org/20250525_000814/sitemap.json) and [diff.json](./data/sprunki.org/20250525_000814/diff.json)
-
 ## sprunki.com
+
+### 20250528_000735
+
+- https://sprunki.com/incredibox-kats
+- https://sprunki.com/parasprunki-msi
+- https://sprunki.com/sprunki-sunshine-isle
+
+Raw data: [sitemap.json](./data/sprunki.com/20250528_000735/sitemap.json) and [diff.json](./data/sprunki.com/20250528_000735/diff.json)
 
 ### 20250527_000716
 
@@ -114,17 +122,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250527_000716/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-1996-like-human
 
 Raw data: [sitemap.json](./data/sprunki.com/20250524_000707/sitemap.json) and [diff.json](./data/sprunki.com/20250524_000707/diff.json)
-
-### 20250523_000723
-
-- https://sprunki.com/sprunki-italian-brainbrot
-- https://sprunki.com/sprunki-msi-phase-3
-- https://sprunki.com/sprunki-wenda-treatment-4-0
-- https://sprunki.com/ja/sprunki-night-time-phase-3
-- https://sprunki.com/ja/sprunki-phase-3-remastered-but-everyone-is-vineria
-- https://sprunki.com/ja/sprunki-garnold-treatment
-
-Raw data: [sitemap.json](./data/sprunki.com/20250523_000723/sitemap.json) and [diff.json](./data/sprunki.com/20250523_000723/diff.json)
 
 ## sprunki.net
 
@@ -10220,6 +10217,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250528_000735
+
+- https://incrediboxsprunki.io/tung-sahur-clicker
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250528_000735/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250528_000735/diff.json)
+
 ### 20250527_000716
 
 - https://incrediboxsprunki.io/2048-italian-brainrot
@@ -10231,12 +10234,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250527_000716/sitemap.js
 - https://incrediboxsprunki.io/pokemon-gamma-emerald
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250526_000749/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250526_000749/diff.json)
-
-### 20250525_000814
-
-- https://incrediboxsprunki.io/getting-over-it-unblocked
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250525_000814/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250525_000814/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10391,6 +10388,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250528_000735
+
+- https://sprunkin.com/game/sprunki-spupil/
+- https://sprunkin.com/game/the-sprunki-shifted/
+- https://sprunkin.com/fan-game/jevintx-treatment-remix/
+- https://sprunkin.com/fan-game/sprunki-phase-3-defintive-but-alive/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250528_000735/sitemap.json) and [diff.json](./data/sprunkin.com/20250528_000735/diff.json)
+
 ### 20250527_000716
 
 - https://sprunkin.com/game/sprunki-but-murder-drones/
@@ -10409,13 +10415,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250527_000716/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-i-added-my-oc/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250526_000749/sitemap.json) and [diff.json](./data/sprunkin.com/20250526_000749/diff.json)
-
-### 20250525_000814
-
-- https://sprunkin.com/game/sprunkios-repost/
-- https://sprunkin.com/game/sprunki-sprunet-nfe/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250525_000814/sitemap.json) and [diff.json](./data/sprunkin.com/20250525_000814/diff.json)
 
 ## sprunkisinner.org
 
