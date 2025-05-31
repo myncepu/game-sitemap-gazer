@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-maze-game",
+      "priority": 0.5,
+      "last_modified": "2025-05-28T17:09:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-2-player-dino-run",
+      "priority": 0.5,
+      "last_modified": "2025-05-28T18:34:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-mini-bugs",
+      "priority": 0.5,
+      "last_modified": "2025-05-29T20:38:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/c/new-games",
+      "priority": 0.5,
+      "last_modified": "2025-05-28T22:17:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/c/popular-games",
+      "priority": 0.5,
+      "last_modified": "2025-05-28T22:17:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
