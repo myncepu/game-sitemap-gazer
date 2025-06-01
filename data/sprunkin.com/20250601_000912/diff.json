@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-lack-of-sleep/",
+      "priority": 0.5,
+      "last_modified": "2025-05-31T08:29:01Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-chaos-starfall/",
+      "priority": 0.5,
+      "last_modified": "2025-05-31T08:21:09Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-misfit-mix/",
+      "priority": 0.5,
+      "last_modified": "2025-05-31T08:23:56Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-3-remake-2/",
+      "priority": 0.5,
+      "last_modified": "2025-05-31T08:59:15Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
