@@ -73,6 +73,13 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250605_000734
+
+- https://sprunki.org/doodle-cricket
+- https://sprunki.org/oo
+
+Raw data: [sitemap.json](./data/sprunki.org/20250605_000734/sitemap.json) and [diff.json](./data/sprunki.org/20250605_000734/diff.json)
+
 ### 20250604_000730
 
 - https://sprunki.org/grow-a-garden
@@ -91,14 +98,20 @@ Raw data: [sitemap.json](./data/sprunki.org/20250604_000730/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250603_000735/sitemap.json) and [diff.json](./data/sprunki.org/20250603_000735/diff.json)
 
-### 20250602_000750
-
-- https://sprunki.org/sprunki-star-and-heart
-- https://sprunki.org/sprunki-sprunet-nfe
-
-Raw data: [sitemap.json](./data/sprunki.org/20250602_000750/sitemap.json) and [diff.json](./data/sprunki.org/20250602_000750/diff.json)
-
 ## sprunki.com
+
+### 20250605_000734
+
+- https://sprunki.com/sprunki-swap-2
+- https://sprunki.com/sprunki-swap-but-i-remake
+- https://sprunki.com/sprunki-swapped-nuclear-version
+- https://sprunki.com/sprunki-phase-18
+- https://sprunki.com/sprunki-phase-28
+- https://sprunki.com/ja/sprunki-phase-20
+- https://sprunki.com/ja/sprunki-msi
+- https://sprunki.com/ja/sprunki-phase-28
+
+Raw data: [sitemap.json](./data/sprunki.com/20250605_000734/sitemap.json) and [diff.json](./data/sprunki.com/20250605_000734/diff.json)
 
 ### 20250604_000730
 
@@ -128,19 +141,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250604_000730/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-with-new-ocs
 
 Raw data: [sitemap.json](./data/sprunki.com/20250531_000717/sitemap.json) and [diff.json](./data/sprunki.com/20250531_000717/diff.json)
-
-### 20250530_000740
-
-- https://sprunki.com/sprunki-unswapped
-- https://sprunki.com/sprunki-vintage-definitive-phase-3
-- https://sprunki.com/sprunki-virus
-- https://sprunki.com/sprunkr-but-sprunki
-- https://sprunki.com/sprunkr-phase-3
-- https://sprunki.com/ja/sprunki-phase-57
-- https://sprunki.com/ja/sprunki-2020
-- https://sprunki.com/ja/sprunki-phase-7-remastered
-
-Raw data: [sitemap.json](./data/sprunki.com/20250530_000740/sitemap.json) and [diff.json](./data/sprunki.com/20250530_000740/diff.json)
 
 ## sprunki.net
 
@@ -10236,6 +10236,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250605_000734
+
+- https://incrediboxsprunki.io/tung-sahur-horror
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250605_000734/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250605_000734/diff.json)
+
 ### 20250604_000730
 
 - https://incrediboxsprunki.io/bombardino-crocodilo-clicker
@@ -10248,12 +10254,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250604_000730/sitemap.js
 - https://incrediboxsprunki.io/sprunki-sniper-squid-game
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250603_000735/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250603_000735/diff.json)
-
-### 20250602_000750
-
-- https://incrediboxsprunki.io/sprunki-policeman-for-kids
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250602_000750/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250602_000750/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10408,6 +10408,21 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250605_000734
+
+- https://sprunkin.com/game/sprunki-superheat/
+- https://sprunkin.com/game/sprunki-goofin/
+- https://sprunkin.com/fan-game/mercat-and-friends-fscore/
+- https://sprunkin.com/fan-game/sprunki-phase-3-alive-definitive-huge-special-update/
+- https://sprunkin.com/fan-game/the-old-sprunki-phase-3-alive-definitive-no-edits/
+- https://sprunkin.com/fan-game/sprunki-busch-family-version-2/
+- https://sprunkin.com/fan-game/sprunki-run-spki/
+- https://sprunkin.com/fan-game/sprunki-pyramixed-but-everyone-turned-into-wenda-except-gray/
+- https://sprunkin.com/fan-game/sprunki-but-deep-fried-sound-warning/
+- https://sprunkin.com/fan-game/vincent-sprunki-4-the-definitive-vincents-justice/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250605_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20250605_000734/diff.json)
+
 ### 20250603_000735
 
 - https://sprunkin.com/fan-game/sprunkey-free-gamne/
@@ -10428,15 +10443,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250603_000735/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-nikito-animation-mod/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250602_000750/sitemap.json) and [diff.json](./data/sprunkin.com/20250602_000750/diff.json)
-
-### 20250601_000912
-
-- https://sprunkin.com/game/sprunki-lack-of-sleep/
-- https://sprunkin.com/game/sprunki-chaos-starfall/
-- https://sprunkin.com/game/sprunki-misfit-mix/
-- https://sprunkin.com/fan-game/sprunki-phase-3-remake-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250601_000912/sitemap.json) and [diff.json](./data/sprunkin.com/20250601_000912/diff.json)
 
 ## sprunkisinner.org
 
