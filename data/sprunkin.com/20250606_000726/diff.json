@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-crazy-lime-mans-revenge/",
+      "priority": 0.5,
+      "last_modified": "2025-06-05T12:34:10Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-chidi-treatment/",
+      "priority": 0.5,
+      "last_modified": "2025-06-05T12:36:31Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/dango-game/",
+      "priority": 0.5,
+      "last_modified": "2025-06-05T00:08:39Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-1996-but-2025-version/",
+      "priority": 0.5,
+      "last_modified": "2025-06-05T03:05:15Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
