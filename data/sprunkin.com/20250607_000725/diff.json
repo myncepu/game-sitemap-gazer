@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-sprundays/",
+      "priority": 0.5,
+      "last_modified": "2025-06-06T08:14:36Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-pyramix-povpoptyr-ver/",
+      "priority": 0.5,
+      "last_modified": "2025-06-06T08:16:58Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-1996-but-2025-ver/",
+      "priority": 0.5,
+      "last_modified": "2025-06-06T08:22:24Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

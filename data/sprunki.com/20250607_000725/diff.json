@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/ja/sprunki-swap-3",
+      "priority": 1.0,
+      "last_modified": "2025-06-06T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-pyramixed-0-9-update",
+      "priority": 1.0,
+      "last_modified": "2025-06-06T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

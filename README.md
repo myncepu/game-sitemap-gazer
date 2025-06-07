@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250607_000725
+
+- https://sprunki.org/cluster-rush
+- https://sprunki.org/sprunki-wenda-treatment-pyramixed-30
+- https://sprunki.org/sprunki-the-lost-souls
+- https://sprunki.org/deltarune
+
+Raw data: [sitemap.json](./data/sprunki.org/20250607_000725/sitemap.json) and [diff.json](./data/sprunki.org/20250607_000725/diff.json)
+
 ### 20250606_000726
 
 - https://sprunki.org/sprunki-geometry-dash
@@ -87,15 +96,14 @@ Raw data: [sitemap.json](./data/sprunki.org/20250606_000726/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250605_000734/sitemap.json) and [diff.json](./data/sprunki.org/20250605_000734/diff.json)
 
-### 20250604_000730
-
-- https://sprunki.org/grow-a-garden
-- https://sprunki.org/sprunki-italian-brainrot-mod
-- https://sprunki.org/sprunki-simon-treatment
-
-Raw data: [sitemap.json](./data/sprunki.org/20250604_000730/sitemap.json) and [diff.json](./data/sprunki.org/20250604_000730/diff.json)
-
 ## sprunki.com
+
+### 20250607_000725
+
+- https://sprunki.com/ja/sprunki-swap-3
+- https://sprunki.com/ja/sprunki-pyramixed-0-9-update
+
+Raw data: [sitemap.json](./data/sprunki.com/20250607_000725/sitemap.json) and [diff.json](./data/sprunki.com/20250607_000725/diff.json)
 
 ### 20250606_000726
 
@@ -120,18 +128,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250606_000726/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-28
 
 Raw data: [sitemap.json](./data/sprunki.com/20250605_000734/sitemap.json) and [diff.json](./data/sprunki.com/20250605_000734/diff.json)
-
-### 20250604_000730
-
-- https://sprunki.com/sprunki-swapped-version-port-remix
-- https://sprunki.com/sprunki-swap-repost
-- https://sprunki.com/sprunki-terror-forms
-- https://sprunki.com/sprunki-their-feelings
-- https://sprunki.com/sprunki-the-joy-lives-on
-- https://sprunki.com/ja/sprunki-phase-9-horror-mod
-- https://sprunki.com/ja/sprunki-phase-3-remix
-
-Raw data: [sitemap.json](./data/sprunki.com/20250604_000730/sitemap.json) and [diff.json](./data/sprunki.com/20250604_000730/diff.json)
 
 ## sprunki.net
 
@@ -10227,6 +10223,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250607_000725
+
+- https://incrediboxsprunki.io/match-masters-1
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250607_000725/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250607_000725/diff.json)
+
 ### 20250606_000726
 
 - https://incrediboxsprunki.io/chicken-scream-race
@@ -10238,13 +10240,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250606_000726/sitemap.js
 - https://incrediboxsprunki.io/tung-sahur-horror
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250605_000734/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250605_000734/diff.json)
-
-### 20250604_000730
-
-- https://incrediboxsprunki.io/bombardino-crocodilo-clicker
-- https://incrediboxsprunki.io/tag/clicker-games
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250604_000730/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250604_000730/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10399,6 +10394,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250607_000725
+
+- https://sprunkin.com/game/sprunki-sprundays/
+- https://sprunkin.com/game/sprunki-pyramix-povpoptyr-ver/
+- https://sprunkin.com/game/sprunki-1996-but-2025-ver/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250607_000725/sitemap.json) and [diff.json](./data/sprunkin.com/20250607_000725/diff.json)
+
 ### 20250606_000726
 
 - https://sprunkin.com/game/sprunki-crazy-lime-mans-revenge/
@@ -10422,15 +10425,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250606_000726/sitemap.json) and [
 - https://sprunkin.com/fan-game/vincent-sprunki-4-the-definitive-vincents-justice/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250605_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20250605_000734/diff.json)
-
-### 20250603_000735
-
-- https://sprunkin.com/fan-game/sprunkey-free-gamne/
-- https://sprunkin.com/fan-game/incredibox-sprunki-mustard-but-mercat-and-freinds/
-- https://sprunkin.com/fan-game/thomas-friends-sprunki-retake/
-- https://sprunkin.com/fan-game/fnf-sprunki/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250603_000735/sitemap.json) and [diff.json](./data/sprunkin.com/20250603_000735/diff.json)
 
 ## sprunkisinner.org
 
