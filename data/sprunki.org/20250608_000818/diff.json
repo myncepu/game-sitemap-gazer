@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.org/g-switch-3",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/sprunki-the-lost-file",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
