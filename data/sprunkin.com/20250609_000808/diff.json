@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-2-so-real/",
+      "priority": 0.5,
+      "last_modified": "2025-06-08T12:35:33Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/just-sprunkin-around/",
+      "priority": 0.5,
+      "last_modified": "2025-06-08T12:37:32Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-funbot-version/",
+      "priority": 0.5,
+      "last_modified": "2025-06-08T15:01:11Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-pyramixed-d/",
+      "priority": 0.5,
+      "last_modified": "2025-06-08T17:15:01Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
