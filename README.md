@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250611_000731
+
+- https://sprunki.org/sprunki-cat
+
+Raw data: [sitemap.json](./data/sprunki.org/20250611_000731/sitemap.json) and [diff.json](./data/sprunki.org/20250611_000731/diff.json)
+
 ### 20250610_000743
 
 - https://sprunki.org/sprunki-clukr-treatment
@@ -85,14 +91,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250610_000743/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250609_000808/sitemap.json) and [diff.json](./data/sprunki.org/20250609_000808/diff.json)
 
-### 20250608_000818
-
-- https://sprunki.org/g-switch-3
-- https://sprunki.org/sprunki-the-lost-file
-
-Raw data: [sitemap.json](./data/sprunki.org/20250608_000818/sitemap.json) and [diff.json](./data/sprunki.org/20250608_000818/diff.json)
-
 ## sprunki.com
+
+### 20250611_000731
+
+- https://sprunki.com/sprunki-sunchonre
+- https://sprunki.com/sprunki-phase-12-definitive
+- https://sprunki.com/sprunki-star-and-heart
+- https://sprunki.com/sprunki-sunset
+- https://sprunki.com/sprunki-oc-ultimate
+- https://sprunki.com/ja/sprunki-definitive-phase-4-new-ver
+- https://sprunki.com/ja/sprunki-sprunksters
+
+Raw data: [sitemap.json](./data/sprunki.com/20250611_000731/sitemap.json) and [diff.json](./data/sprunki.com/20250611_000731/diff.json)
 
 ### 20250610_000743
 
@@ -107,17 +118,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250610_000743/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-pyramixed-0-9-update
 
 Raw data: [sitemap.json](./data/sprunki.com/20250607_000725/sitemap.json) and [diff.json](./data/sprunki.com/20250607_000725/diff.json)
-
-### 20250606_000726
-
-- https://sprunki.com/sprunki-pyramixed-0-9-update
-- https://sprunki.com/sprunki-chaos-starfall
-- https://sprunki.com/sprunki-sus
-- https://sprunki.com/sprunki-sussy
-- https://sprunki.com/ja/sprunki-phase-18
-- https://sprunki.com/ja/sprunki-swap-2
-
-Raw data: [sitemap.json](./data/sprunki.com/20250606_000726/sitemap.json) and [diff.json](./data/sprunki.com/20250606_000726/diff.json)
 
 ## sprunki.net
 
@@ -10213,6 +10213,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250611_000731
+
+- https://incrediboxsprunki.io/tileman-io
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250611_000731/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250611_000731/diff.json)
+
 ### 20250610_000743
 
 - https://incrediboxsprunki.io/merge-rot
@@ -10224,12 +10230,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250610_000743/sitemap.js
 - https://incrediboxsprunki.io/merge-brainrot
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250609_000808/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250609_000808/diff.json)
-
-### 20250608_000818
-
-- https://incrediboxsprunki.io/my-purrfect-cat-hotel
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250608_000818/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250608_000818/diff.json)
 
 ## sprunki-incredibox.org
 
