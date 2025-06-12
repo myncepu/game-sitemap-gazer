@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-house-painter",
+      "priority": 0.5,
+      "last_modified": "2025-06-09T19:47:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-wordsnap",
+      "priority": 0.5,
+      "last_modified": "2025-06-09T20:25:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

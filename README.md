@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250612_000724
+
+- https://sprunki.org/sprunkle-salad
+
+Raw data: [sitemap.json](./data/sprunki.org/20250612_000724/sitemap.json) and [diff.json](./data/sprunki.org/20250612_000724/diff.json)
+
 ### 20250611_000731
 
 - https://sprunki.org/sprunki-cat
@@ -85,13 +91,21 @@ Raw data: [sitemap.json](./data/sprunki.org/20250611_000731/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250610_000743/sitemap.json) and [diff.json](./data/sprunki.org/20250610_000743/diff.json)
 
-### 20250609_000808
-
-- https://sprunki.org/crazy-vikings-life
-
-Raw data: [sitemap.json](./data/sprunki.org/20250609_000808/sitemap.json) and [diff.json](./data/sprunki.org/20250609_000808/diff.json)
-
 ## sprunki.com
+
+### 20250612_000724
+
+- https://sprunki.com/sprunki-sprunksters-alive
+- https://sprunki.com/sprunki-sprunktune
+- https://sprunki.com/sprunki-phase-40
+- https://sprunki.com/sprunki-spwalki
+- https://sprunki.com/sprunki-stroonckee
+- https://sprunki.com/sprunki-summer-time
+- https://sprunki.com/ja/sprunki-garten-of-banban
+- https://sprunki.com/ja/sprunki-banana-porridge
+- https://sprunki.com/ja/sprunki-sprunksters-new-oc-update
+
+Raw data: [sitemap.json](./data/sprunki.com/20250612_000724/sitemap.json) and [diff.json](./data/sprunki.com/20250612_000724/diff.json)
 
 ### 20250611_000731
 
@@ -111,13 +125,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250611_000731/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-4-5-remake
 
 Raw data: [sitemap.json](./data/sprunki.com/20250610_000743/sitemap.json) and [diff.json](./data/sprunki.com/20250610_000743/diff.json)
-
-### 20250607_000725
-
-- https://sprunki.com/ja/sprunki-swap-3
-- https://sprunki.com/ja/sprunki-pyramixed-0-9-update
-
-Raw data: [sitemap.json](./data/sprunki.com/20250607_000725/sitemap.json) and [diff.json](./data/sprunki.com/20250607_000725/diff.json)
 
 ## sprunki.net
 
@@ -10213,6 +10220,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250612_000724
+
+- https://incrediboxsprunki.io/capybara-go
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250612_000724/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250612_000724/diff.json)
+
 ### 20250611_000731
 
 - https://incrediboxsprunki.io/tileman-io
@@ -10224,12 +10237,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250611_000731/sitemap.js
 - https://incrediboxsprunki.io/merge-rot
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250610_000743/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250610_000743/diff.json)
-
-### 20250609_000808
-
-- https://incrediboxsprunki.io/merge-brainrot
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250609_000808/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250609_000808/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10384,6 +10391,19 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250612_000724
+
+- https://sprunkin.com/game/sprunki-simons-realm-retake/
+- https://sprunkin.com/game/sprunksters-wenda-treatment/
+- https://sprunkin.com/fan-game/sprunki-but-my-cats/
+- https://sprunkin.com/fan-game/hello-would-you-like-to-have-some-fun-with-us-right-now-come-on-come-sing-along-with-us-in-this-fun-time/
+- https://sprunkin.com/fan-game/incredibox-sprunki-sprunke-tingley/
+- https://sprunkin.com/fan-game/%e3%80%90sprunki-spupil%e2%98%86%e3%80%91%ef%bc%88official-edition%ef%bc%89/
+- https://sprunkin.com/fan-game/incredibox-sprunki-but-babies/
+- https://sprunkin.com/fan-game/incredibox-sprounk-v2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250612_000724/sitemap.json) and [diff.json](./data/sprunkin.com/20250612_000724/diff.json)
+
 ### 20250610_000743
 
 - https://sprunkin.com/fan-game/%e3%80%90sprunki-spupil%ef%bc%81%e2%98%86%e3%80%91%ef%bc%88official-edition%ef%bc%89/
@@ -10399,23 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250610_000743/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-pyramixed-d/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250609_000808/sitemap.json) and [diff.json](./data/sprunkin.com/20250609_000808/diff.json)
-
-### 20250608_000818
-
-- https://sprunkin.com/game/sprunki-pyramixed-phase-3-new/
-- https://sprunkin.com/game/sprunki-revamped-3-phase-5/
-- https://sprunkin.com/game/sprunki-1996-human-version-v2/
-- https://sprunkin.com/fan-game/sprunki-chill-out/
-- https://sprunkin.com/fan-game/sprunki-watch-the-road/
-- https://sprunkin.com/fan-game/frankie/
-- https://sprunkin.com/fan-game/sprunki-pokemon-pokesprunki-phase-4-definitive-update/
-- https://sprunkin.com/fan-game/fun-day/
-- https://sprunkin.com/fan-game/fun-day-2/
-- https://sprunkin.com/fan-game/games-he-he/
-- https://sprunkin.com/fan-game/games-he-he-2/
-- https://sprunkin.com/fan-game/incredibox-sprounk/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250608_000818/sitemap.json) and [diff.json](./data/sprunkin.com/20250608_000818/diff.json)
 
 ## sprunkisinner.org
 
@@ -10776,6 +10779,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250612_000724
+
+- https://www.coolmathgames.com/0-house-painter
+- https://www.coolmathgames.com/0-wordsnap
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250612_000724/sitemap.json) and [diff.json](./data/coolmathgames.com/20250612_000724/diff.json)
+
 ### 20250609_000808
 
 - https://www.coolmathgames.com/0-paused
@@ -10788,12 +10798,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250609_000808/sitemap.json) 
 - https://www.coolmathgames.com/0-drop-numbers
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250604_000730/sitemap.json) and [diff.json](./data/coolmathgames.com/20250604_000730/diff.json)
-
-### 20250603_000735
-
-- https://www.coolmathgames.com/0-le-chat-fonce-the-clock-tower
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250603_000735/sitemap.json) and [diff.json](./data/coolmathgames.com/20250603_000735/diff.json)
 
 ## pogo.com
 
