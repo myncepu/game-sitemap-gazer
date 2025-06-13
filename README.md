@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250613_000758
+
+- https://sprunki.org/incredibox-mechanic
+- https://sprunki.org/kart-bros
+- https://sprunki.org/batter-up
+- https://sprunki.org/tralalero-tralala
+
+Raw data: [sitemap.json](./data/sprunki.org/20250613_000758/sitemap.json) and [diff.json](./data/sprunki.org/20250613_000758/diff.json)
+
 ### 20250612_000724
 
 - https://sprunki.org/sprunkle-salad
@@ -85,13 +94,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250612_000724/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250611_000731/sitemap.json) and [diff.json](./data/sprunki.org/20250611_000731/diff.json)
 
-### 20250610_000743
-
-- https://sprunki.org/sprunki-clukr-treatment
-
-Raw data: [sitemap.json](./data/sprunki.org/20250610_000743/sitemap.json) and [diff.json](./data/sprunki.org/20250610_000743/diff.json)
-
 ## sprunki.com
+
+### 20250613_000758
+
+- https://sprunki.com/sprunki-sprunkhead
+- https://sprunki.com/sprunki-sprunkli
+- https://sprunki.com/sprunki-sprunklings
+- https://sprunki.com/sprunki-sprunkr-2-0
+- https://sprunki.com/ja/sprunki-ketchup-2
+- https://sprunki.com/ja/sprunki-msi-phase-3
+- https://sprunki.com/ja/sprunki-phase-40
+
+Raw data: [sitemap.json](./data/sprunki.com/20250613_000758/sitemap.json) and [diff.json](./data/sprunki.com/20250613_000758/diff.json)
 
 ### 20250612_000724
 
@@ -118,13 +133,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250612_000724/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-sprunksters
 
 Raw data: [sitemap.json](./data/sprunki.com/20250611_000731/sitemap.json) and [diff.json](./data/sprunki.com/20250611_000731/diff.json)
-
-### 20250610_000743
-
-- https://sprunki.com/ja/sprunki-phase-6-definitive
-- https://sprunki.com/ja/sprunki-phase-4-5-remake
-
-Raw data: [sitemap.json](./data/sprunki.com/20250610_000743/sitemap.json) and [diff.json](./data/sprunki.com/20250610_000743/diff.json)
 
 ## sprunki.net
 
@@ -10391,6 +10399,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250613_000758
+
+- https://sprunkin.com/game/sprunki-warm-like-fire-2-0-remake/
+- https://sprunkin.com/game/sprunki-underworld/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250613_000758/sitemap.json) and [diff.json](./data/sprunkin.com/20250613_000758/diff.json)
+
 ### 20250612_000724
 
 - https://sprunkin.com/game/sprunki-simons-realm-retake/
@@ -10410,15 +10425,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250612_000724/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-terror-forms-v2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250610_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20250610_000743/diff.json)
-
-### 20250609_000808
-
-- https://sprunkin.com/game/sprunki-2-so-real/
-- https://sprunkin.com/game/just-sprunkin-around/
-- https://sprunkin.com/fan-game/sprunki-funbot-version/
-- https://sprunkin.com/fan-game/sprunki-pyramixed-d/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250609_000808/sitemap.json) and [diff.json](./data/sprunkin.com/20250609_000808/diff.json)
 
 ## sprunkisinner.org
 
