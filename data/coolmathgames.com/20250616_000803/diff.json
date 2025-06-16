@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-tiny-cities",
+      "priority": 0.5,
+      "last_modified": "2025-06-12T20:44:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-house-painter-game",
+      "priority": 0.5,
+      "last_modified": "2025-06-10T15:24:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-jello-merge",
+      "priority": 0.5,
+      "last_modified": "2025-06-13T20:45:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-sportsball-merge",
+      "priority": 0.5,
+      "last_modified": "2025-06-11T17:44:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
