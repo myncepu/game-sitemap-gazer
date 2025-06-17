@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/mr-hyde-and-friends-sprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-06-15T20:43:07Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/skibidi-toilet-battle/",
+      "priority": 0.5,
+      "last_modified": "2025-06-16T05:03:21Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-babies-final-update/",
+      "priority": 0.5,
+      "last_modified": "2025-06-16T10:59:56Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-8-remastered/",
+      "priority": 0.5,
+      "last_modified": "2025-06-16T20:45:31Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
