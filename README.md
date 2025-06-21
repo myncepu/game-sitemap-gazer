@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250621_000727
+
+- https://sprunki.org/sprunki-wenda-treatment-30
+- https://sprunki.org/sprunki-multishift
+- https://sprunki.org/dumahhbox-v1
+- https://sprunki.org/musical-melons-melonbox-v1
+- https://sprunki.org/clangen
+
+Raw data: [sitemap.json](./data/sprunki.org/20250621_000727/sitemap.json) and [diff.json](./data/sprunki.org/20250621_000727/diff.json)
+
 ### 20250620_000746
 
 - https://sprunki.org/merge-rot
@@ -88,14 +98,22 @@ Raw data: [sitemap.json](./data/sprunki.org/20250620_000746/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250619_000804/sitemap.json) and [diff.json](./data/sprunki.org/20250619_000804/diff.json)
 
-### 20250618_000737
-
-- https://sprunki.org/italian-brainrot-clicker-2
-- https://sprunki.org/sprunk-undertaled
-
-Raw data: [sitemap.json](./data/sprunki.org/20250618_000737/sitemap.json) and [diff.json](./data/sprunki.org/20250618_000737/diff.json)
-
 ## sprunki.com
+
+### 20250621_000727
+
+- https://sprunki.com/sprunki-retake-brud-virus
+- https://sprunki.com/sprunki-mini-remake
+- https://sprunki.com/sprunki-skibidi-toilet-2-0
+- https://sprunki.com/sprunki-retake-babies
+- https://sprunki.com/sprunki-blubbies
+- https://sprunki.com/incredibox-spainey
+- https://sprunki.com/incredibox-sprunkios
+- https://sprunki.com/sprunki-incredibox-dye
+- https://sprunki.com/abgerny-scratch-remix
+- https://sprunki.com/ja/sprunki-1996-human-version
+
+Raw data: [sitemap.json](./data/sprunki.com/20250621_000727/sitemap.json) and [diff.json](./data/sprunki.com/20250621_000727/diff.json)
 
 ### 20250620_000746
 
@@ -135,26 +153,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250620_000746/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-chidi-treatment
 
 Raw data: [sitemap.json](./data/sprunki.com/20250619_000804/sitemap.json) and [diff.json](./data/sprunki.com/20250619_000804/diff.json)
-
-### 20250618_000737
-
-- https://sprunki.com/sprunki-sprunktastical
-- https://sprunki.com/incredibox-cataclysm
-- https://sprunki.com/sprunki-sproonkly
-- https://sprunki.com/sprunki-spruncalypse
-- https://sprunki.com/sprunki-the-lost-file
-- https://sprunki.com/sprunki-the-lost-file-phase-2
-- https://sprunki.com/sprunki-t-i-s
-- https://sprunki.com/sprunki-titanic-cat-gang-edition
-- https://sprunki.com/sprunki-totally-normal
-- https://sprunki.com/sprunki-underwater
-- https://sprunki.com/sprunki-unfairness
-- https://sprunki.com/sprunki-sprunet-nfe
-- https://sprunki.com/sprunki-but-murder-drones
-- https://sprunki.com/sprunki-spupil
-- https://sprunki.com/sprunki-sprunci-pyramix-look
-
-Raw data: [sitemap.json](./data/sprunki.com/20250618_000737/sitemap.json) and [diff.json](./data/sprunki.com/20250618_000737/diff.json)
 
 ## sprunki.net
 
@@ -10250,6 +10248,13 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250621_000727
+
+- https://incrediboxsprunki.io/gnorp-apologue
+- https://incrediboxsprunki.io/chompers
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250621_000727/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250621_000727/diff.json)
+
 ### 20250620_000746
 
 - https://incrediboxsprunki.io/color-block-jam-1
@@ -10261,12 +10266,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250620_000746/sitemap.js
 - https://incrediboxsprunki.io/italian-brainrot-obby-parkour
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250619_000804/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250619_000804/diff.json)
-
-### 20250618_000737
-
-- https://incrediboxsprunki.io/find-objects-hidden-item
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250618_000737/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250618_000737/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10421,6 +10420,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250621_000727
+
+- https://sprunkin.com/fan-game/sprunki-3-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250621_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20250621_000727/diff.json)
+
 ### 20250619_000804
 
 - https://sprunkin.com/fan-game/sprunki-the-survivors-strikes-back/
@@ -10436,15 +10441,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250619_000804/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-1996-pokemon-pokesprunki/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250618_000737/sitemap.json) and [diff.json](./data/sprunkin.com/20250618_000737/diff.json)
-
-### 20250617_000753
-
-- https://sprunkin.com/fan-game/mr-hyde-and-friends-sprunki/
-- https://sprunkin.com/fan-game/skibidi-toilet-battle/
-- https://sprunkin.com/fan-game/sprunki-babies-final-update/
-- https://sprunkin.com/fan-game/sprunki-phase-8-remastered/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250617_000753/sitemap.json) and [diff.json](./data/sprunkin.com/20250617_000753/diff.json)
 
 ## sprunkisinner.org
 
