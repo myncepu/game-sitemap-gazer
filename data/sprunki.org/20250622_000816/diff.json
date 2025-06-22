@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.org/sprunki-1996-human-version",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.org/dandys-world-pyramixed-edition",
+      "priority": 0.8,
+      "last_modified": null,
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

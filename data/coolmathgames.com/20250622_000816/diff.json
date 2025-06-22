@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-my-flock-friends",
+      "priority": 0.5,
+      "last_modified": "2025-06-16T20:30:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-card-match-10",
+      "priority": 0.5,
+      "last_modified": "2025-06-17T20:30:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
