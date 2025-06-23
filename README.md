@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250623_000806
+
+- https://sprunki.org/chicken-jockey-combat
+
+Raw data: [sitemap.json](./data/sprunki.org/20250623_000806/sitemap.json) and [diff.json](./data/sprunki.org/20250623_000806/diff.json)
+
 ### 20250622_000816
 
 - https://sprunki.org/sprunki-1996-human-version
@@ -89,14 +95,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250622_000816/sitemap.json) and [d
 - https://sprunki.org/clangen
 
 Raw data: [sitemap.json](./data/sprunki.org/20250621_000727/sitemap.json) and [diff.json](./data/sprunki.org/20250621_000727/diff.json)
-
-### 20250620_000746
-
-- https://sprunki.org/merge-rot
-- https://sprunki.org/scrandle
-- https://sprunki.org/the-freak-circus
-
-Raw data: [sitemap.json](./data/sprunki.org/20250620_000746/sitemap.json) and [diff.json](./data/sprunki.org/20250620_000746/diff.json)
 
 ## sprunki.com
 
@@ -10233,6 +10231,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250623_000806
+
+- https://incrediboxsprunki.io/infinite-button-simulator
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250623_000806/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250623_000806/diff.json)
+
 ### 20250622_000816
 
 - https://incrediboxsprunki.io/battleship-online
@@ -10245,12 +10249,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250622_000816/sitemap.js
 - https://incrediboxsprunki.io/chompers
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250621_000727/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250621_000727/diff.json)
-
-### 20250620_000746
-
-- https://incrediboxsprunki.io/color-block-jam-1
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250620_000746/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250620_000746/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10405,6 +10403,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250623_000806
+
+- https://sprunkin.com/fan-game/sprunki-1996-but-2025-version-simons-realm/
+- https://sprunkin.com/fan-game/sprunkin-fun-time/
+- https://sprunkin.com/fan-game/paordyboxsprunki-modded/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250623_000806/sitemap.json) and [diff.json](./data/sprunkin.com/20250623_000806/diff.json)
+
 ### 20250622_000816
 
 - https://sprunkin.com/fan-game/sprunkute-the-definitive-phase-3/
@@ -10423,13 +10429,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250622_000816/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-3-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250621_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20250621_000727/diff.json)
-
-### 20250619_000804
-
-- https://sprunkin.com/fan-game/sprunki-the-survivors-strikes-back/
-- https://sprunkin.com/fan-game/sprunki-phase-4-big-upgrade/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250619_000804/sitemap.json) and [diff.json](./data/sprunkin.com/20250619_000804/diff.json)
 
 ## sprunkisinner.org
 
