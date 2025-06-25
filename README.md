@@ -73,6 +73,15 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250625_000749
+
+- https://sprunki.org/sprunki-muscular
+- https://sprunki.org/incredibox-instrumentalist
+- https://sprunki.org/wolfgang-incredibox-mod
+- https://sprunki.org/incredibox-studio
+
+Raw data: [sitemap.json](./data/sprunki.org/20250625_000749/sitemap.json) and [diff.json](./data/sprunki.org/20250625_000749/diff.json)
+
 ### 20250624_000750
 
 - https://sprunki.org/territorialio
@@ -85,14 +94,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250624_000750/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250623_000806/sitemap.json) and [diff.json](./data/sprunki.org/20250623_000806/diff.json)
 
-### 20250622_000816
-
-- https://sprunki.org/sprunki-1996-human-version
-- https://sprunki.org/dandys-world-pyramixed-edition
-
-Raw data: [sitemap.json](./data/sprunki.org/20250622_000816/sitemap.json) and [diff.json](./data/sprunki.org/20250622_000816/diff.json)
-
 ## sprunki.com
+
+### 20250625_000749
+
+- https://sprunki.com/sprunki-skrumped
+- https://sprunki.com/sprunki-but-kid-friendly
+- https://sprunki.com/ja/sprunki-retake-babies
+- https://sprunki.com/ja/sprunki-polo-treatment
+
+Raw data: [sitemap.json](./data/sprunki.com/20250625_000749/sitemap.json) and [diff.json](./data/sprunki.com/20250625_000749/diff.json)
 
 ### 20250624_000750
 
@@ -117,21 +128,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250624_000750/sitemap.json) and [d
 - https://sprunki.com/sprunki-skibidi-remastered
 
 Raw data: [sitemap.json](./data/sprunki.com/20250622_000816/sitemap.json) and [diff.json](./data/sprunki.com/20250622_000816/diff.json)
-
-### 20250621_000727
-
-- https://sprunki.com/sprunki-retake-brud-virus
-- https://sprunki.com/sprunki-mini-remake
-- https://sprunki.com/sprunki-skibidi-toilet-2-0
-- https://sprunki.com/sprunki-retake-babies
-- https://sprunki.com/sprunki-blubbies
-- https://sprunki.com/incredibox-spainey
-- https://sprunki.com/incredibox-sprunkios
-- https://sprunki.com/sprunki-incredibox-dye
-- https://sprunki.com/abgerny-scratch-remix
-- https://sprunki.com/ja/sprunki-1996-human-version
-
-Raw data: [sitemap.json](./data/sprunki.com/20250621_000727/sitemap.json) and [diff.json](./data/sprunki.com/20250621_000727/diff.json)
 
 ## sprunki.net
 
@@ -10227,6 +10223,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250625_000749
+
+- https://incrediboxsprunki.io/kingdom-rush
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250625_000749/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250625_000749/diff.json)
+
 ### 20250624_000750
 
 - https://incrediboxsprunki.io/bloons-tower-defense
@@ -10238,12 +10240,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250624_000750/sitemap.js
 - https://incrediboxsprunki.io/infinite-button-simulator
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250623_000806/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250623_000806/diff.json)
-
-### 20250622_000816
-
-- https://incrediboxsprunki.io/battleship-online
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250622_000816/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250622_000816/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10786,6 +10782,12 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250625_000749
+
+- https://www.coolmathgames.com/0-tiptap
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250625_000749/sitemap.json) and [diff.json](./data/coolmathgames.com/20250625_000749/diff.json)
+
 ### 20250622_000816
 
 - https://www.coolmathgames.com/0-my-flock-friends
@@ -10801,13 +10803,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250622_000816/sitemap.json) 
 - https://www.coolmathgames.com/0-sportsball-merge
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250616_000803/sitemap.json) and [diff.json](./data/coolmathgames.com/20250616_000803/diff.json)
-
-### 20250612_000724
-
-- https://www.coolmathgames.com/0-house-painter
-- https://www.coolmathgames.com/0-wordsnap
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250612_000724/sitemap.json) and [diff.json](./data/coolmathgames.com/20250612_000724/diff.json)
 
 ## pogo.com
 

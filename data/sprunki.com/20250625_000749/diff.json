@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-skrumped",
+      "priority": 1.0,
+      "last_modified": "2025-06-24T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-but-kid-friendly",
+      "priority": 1.0,
+      "last_modified": "2025-06-24T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-retake-babies",
+      "priority": 1.0,
+      "last_modified": "2025-06-24T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-polo-treatment",
+      "priority": 1.0,
+      "last_modified": "2025-06-24T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
