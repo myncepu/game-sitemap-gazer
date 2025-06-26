@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-dusty-edition",
+      "priority": 1.0,
+      "last_modified": "2025-06-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-dandys-twotake",
+      "priority": 1.0,
+      "last_modified": "2025-06-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-brud-edition",
+      "priority": 1.0,
+      "last_modified": "2025-06-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

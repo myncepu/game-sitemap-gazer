@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250626_000740
+
+- https://sprunki.org/sprunki-shooter
+
+Raw data: [sitemap.json](./data/sprunki.org/20250626_000740/sitemap.json) and [diff.json](./data/sprunki.org/20250626_000740/diff.json)
+
 ### 20250625_000749
 
 - https://sprunki.org/sprunki-muscular
@@ -88,13 +94,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250625_000749/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250624_000750/sitemap.json) and [diff.json](./data/sprunki.org/20250624_000750/diff.json)
 
-### 20250623_000806
-
-- https://sprunki.org/chicken-jockey-combat
-
-Raw data: [sitemap.json](./data/sprunki.org/20250623_000806/sitemap.json) and [diff.json](./data/sprunki.org/20250623_000806/diff.json)
-
 ## sprunki.com
+
+### 20250626_000740
+
+- https://sprunki.com/sprunki-dusty-edition
+- https://sprunki.com/sprunki-dandys-twotake
+- https://sprunki.com/ja/sprunki-brud-edition
+
+Raw data: [sitemap.json](./data/sprunki.com/20250626_000740/sitemap.json) and [diff.json](./data/sprunki.com/20250626_000740/diff.json)
 
 ### 20250625_000749
 
@@ -121,13 +129,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250625_000749/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-oc-ultimate
 
 Raw data: [sitemap.json](./data/sprunki.com/20250624_000750/sitemap.json) and [diff.json](./data/sprunki.com/20250624_000750/diff.json)
-
-### 20250622_000816
-
-- https://sprunki.com/scrunkly
-- https://sprunki.com/sprunki-skibidi-remastered
-
-Raw data: [sitemap.json](./data/sprunki.com/20250622_000816/sitemap.json) and [diff.json](./data/sprunki.com/20250622_000816/diff.json)
 
 ## sprunki.net
 
@@ -10223,6 +10224,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250626_000740
+
+- https://incrediboxsprunki.io/babel-tower
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250626_000740/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250626_000740/diff.json)
+
 ### 20250625_000749
 
 - https://incrediboxsprunki.io/kingdom-rush
@@ -10234,12 +10241,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250625_000749/sitemap.js
 - https://incrediboxsprunki.io/bloons-tower-defense
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250624_000750/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250624_000750/diff.json)
-
-### 20250623_000806
-
-- https://incrediboxsprunki.io/infinite-button-simulator
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250623_000806/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250623_000806/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10782,6 +10783,551 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250626_000740
+
+- https://www.coolmathgames.com/trivia/what-do-you-know-about-coffee
+- https://www.coolmathgames.com/trivia/tough-state-capitals
+- https://www.coolmathgames.com/trivia/new-testament-quotations
+- https://www.coolmathgames.com/trivia/understanding-babies
+- https://www.coolmathgames.com/trivia/hollywood-legends-myths-vs-facts
+- https://www.coolmathgames.com/trivia/communism
+- https://www.coolmathgames.com/trivia/how-to-cope-with-household-emergencies
+- https://www.coolmathgames.com/trivia/are-you-a-master-at-saving-money
+- https://www.coolmathgames.com/trivia/diamonds
+- https://www.coolmathgames.com/trivia/body-gunk-an-owners-manual
+- https://www.coolmathgames.com/trivia/inside-ancient-rome
+- https://www.coolmathgames.com/trivia/legendary-athletes
+- https://www.coolmathgames.com/trivia/tallest-structures-in-the-world
+- https://www.coolmathgames.com/trivia/cold-warriors
+- https://www.coolmathgames.com/trivia/american-religions
+- https://www.coolmathgames.com/trivia/world-war-i
+- https://www.coolmathgames.com/trivia/political-artists
+- https://www.coolmathgames.com/trivia/the-hair-on-your-head
+- https://www.coolmathgames.com/trivia/the-french-revolution
+- https://www.coolmathgames.com/trivia/the-old-testament-conflicts-curses
+- https://www.coolmathgames.com/trivia/the-industrial-revolution
+- https://www.coolmathgames.com/trivia/well-armed-great-pitching-achievements
+- https://www.coolmathgames.com/trivia/female-villains-in-film
+- https://www.coolmathgames.com/trivia/stephen-king
+- https://www.coolmathgames.com/trivia/absurd-celebrity-quotes
+- https://www.coolmathgames.com/trivia/great-stories-behind-everyday-words
+- https://www.coolmathgames.com/trivia/alfred-hitchcock
+- https://www.coolmathgames.com/trivia/snakes
+- https://www.coolmathgames.com/trivia/scary-smart-the-horror-movie-quiz
+- https://www.coolmathgames.com/trivia/iconic-teen-movies
+- https://www.coolmathgames.com/trivia/tame-cats-wild-cats
+- https://www.coolmathgames.com/trivia/famous-poems-complete-the-line
+- https://www.coolmathgames.com/trivia/oh-rats
+- https://www.coolmathgames.com/trivia/famous-hoaxes
+- https://www.coolmathgames.com/trivia/world-war-ii
+- https://www.coolmathgames.com/trivia/common-scents-understanding-perfume
+- https://www.coolmathgames.com/trivia/all-about-cheese
+- https://www.coolmathgames.com/trivia/handbags
+- https://www.coolmathgames.com/trivia/jeans-chucks-and-the-lbd-fashion-classics
+- https://www.coolmathgames.com/trivia/jeans
+- https://www.coolmathgames.com/trivia/great-moments-in-fashion
+- https://www.coolmathgames.com/trivia/life-behind-bars-us-prisons-today
+- https://www.coolmathgames.com/trivia/designer-quotes
+- https://www.coolmathgames.com/trivia/disturbing-local-customs
+- https://www.coolmathgames.com/trivia/great-funny-sports-quotes
+- https://www.coolmathgames.com/trivia/all-star-sports-quotes
+- https://www.coolmathgames.com/trivia/the-yanks
+- https://www.coolmathgames.com/trivia/20th-century-british-novelists
+- https://www.coolmathgames.com/trivia/know-your-vampires
+- https://www.coolmathgames.com/trivia/monumental-hollywood-flops
+- https://www.coolmathgames.com/trivia/great-rappers-complete-the-boast
+- https://www.coolmathgames.com/trivia/spiders
+- https://www.coolmathgames.com/trivia/the-office-complete-the-quote
+- https://www.coolmathgames.com/trivia/south-park-behind-the-scenes
+- https://www.coolmathgames.com/trivia/on-tv-breaking-bad
+- https://www.coolmathgames.com/trivia/comic-book-heroes-revealed
+- https://www.coolmathgames.com/trivia/arrested-development-complete-the-quote
+- https://www.coolmathgames.com/trivia/all-hail-the-king-the-elvis-quiz
+- https://www.coolmathgames.com/trivia/yiddish-words-in-english
+- https://www.coolmathgames.com/trivia/understanding-vaccines
+- https://www.coolmathgames.com/trivia/your-sense-of-smell
+- https://www.coolmathgames.com/trivia/the-crusades
+- https://www.coolmathgames.com/trivia/pregnancy-true-false
+- https://www.coolmathgames.com/trivia/alarming-original-versions-of-fairytales
+- https://www.coolmathgames.com/trivia/the-history-of-computing
+- https://www.coolmathgames.com/trivia/buddhism-101
+- https://www.coolmathgames.com/trivia/the-invention-of-the-internet
+- https://www.coolmathgames.com/trivia/10-insanely-great-facts-about-steve-jobs
+- https://www.coolmathgames.com/trivia/dinosaurs
+- https://www.coolmathgames.com/trivia/the-richest-people
+- https://www.coolmathgames.com/trivia/sharks
+- https://www.coolmathgames.com/trivia/secret-societies
+- https://www.coolmathgames.com/trivia/god-save-the-queen-punk-rocks-origins-influences
+- https://www.coolmathgames.com/trivia/body-language
+- https://www.coolmathgames.com/trivia/venomous-animals
+- https://www.coolmathgames.com/trivia/famous-novels-last-lines
+- https://www.coolmathgames.com/trivia/your-teeth
+- https://www.coolmathgames.com/trivia/what-we-know-about-dreams
+- https://www.coolmathgames.com/trivia/hello-kitty
+- https://www.coolmathgames.com/trivia/interesting-words-for-useful-concepts
+- https://www.coolmathgames.com/trivia/prohibition
+- https://www.coolmathgames.com/trivia/inside-ancient-egypt
+- https://www.coolmathgames.com/trivia/iconic-events-complete-the-headlines
+- https://www.coolmathgames.com/trivia/natural-disasters
+- https://www.coolmathgames.com/trivia/the-big-lebowski
+- https://www.coolmathgames.com/trivia/things-you-should-know-about-fire
+- https://www.coolmathgames.com/trivia/a-glimpse-of-japan
+- https://www.coolmathgames.com/trivia/how-canadian-are-you
+- https://www.coolmathgames.com/trivia/common-fears
+- https://www.coolmathgames.com/trivia/state-lines-an-edgy-us-map-quiz
+- https://www.coolmathgames.com/trivia/huh-modern-business-acronyms
+- https://www.coolmathgames.com/trivia/disney-heroines
+- https://www.coolmathgames.com/trivia/generation-x
+- https://www.coolmathgames.com/trivia/your-sense-of-taste
+- https://www.coolmathgames.com/trivia/19th-century-novels
+- https://www.coolmathgames.com/trivia/sleep
+- https://www.coolmathgames.com/trivia/game-of-thrones-complete-the-quote
+- https://www.coolmathgames.com/trivia/buzz-10-incredible-facts-about-bees
+- https://www.coolmathgames.com/trivia/islam-101
+- https://www.coolmathgames.com/trivia/nobel-prizes-literature
+- https://www.coolmathgames.com/trivia/the-history-of-video-games
+- https://www.coolmathgames.com/trivia/pulitzer-prize-winners-drama
+- https://www.coolmathgames.com/trivia/the-nobel-peace-prize
+- https://www.coolmathgames.com/trivia/a-glimpse-of-india
+- https://www.coolmathgames.com/trivia/a-glimpse-of-china
+- https://www.coolmathgames.com/trivia/atheism-101
+- https://www.coolmathgames.com/trivia/a-sprinkle-of-salt
+- https://www.coolmathgames.com/trivia/fictional-detectives
+- https://www.coolmathgames.com/trivia/inside-ancient-greece
+- https://www.coolmathgames.com/trivia/the-oil-business
+- https://www.coolmathgames.com/trivia/british-royalty
+- https://www.coolmathgames.com/trivia/shakespeare-plays
+- https://www.coolmathgames.com/trivia/the-fluttery-brilliance-of-butterflies
+- https://www.coolmathgames.com/trivia/getting-to-know-napoleon
+- https://www.coolmathgames.com/trivia/the-british-empire
+- https://www.coolmathgames.com/trivia/how-memory-works
+- https://www.coolmathgames.com/trivia/etiquette-true-or-false
+- https://www.coolmathgames.com/trivia/wilderness-survival-answers-to-live-by
+- https://www.coolmathgames.com/trivia/shakespeare-quotes
+- https://www.coolmathgames.com/trivia/all-about-pizza
+- https://www.coolmathgames.com/trivia/fast-food
+- https://www.coolmathgames.com/trivia/comfort-food
+- https://www.coolmathgames.com/trivia/christianity-101
+- https://www.coolmathgames.com/trivia/supermodel-hall-of-fame
+- https://www.coolmathgames.com/trivia/the-awesomeness-of-elephants
+- https://www.coolmathgames.com/trivia/hip-hop-fashion
+- https://www.coolmathgames.com/trivia/parenting-101
+- https://www.coolmathgames.com/trivia/horses-of-course
+- https://www.coolmathgames.com/trivia/nba-scoring-achievements
+- https://www.coolmathgames.com/trivia/great-reality-tv-moments-vol-1
+- https://www.coolmathgames.com/trivia/on-tv-the-walking-dead
+- https://www.coolmathgames.com/trivia/on-tv-mad-men
+- https://www.coolmathgames.com/trivia/the-vietnam-war
+- https://www.coolmathgames.com/trivia/classic-movie-spoilers
+- https://www.coolmathgames.com/trivia/the-solar-system
+- https://www.coolmathgames.com/trivia/things-you-should-know-about-water
+- https://www.coolmathgames.com/trivia/the-genius-of-martin-luther-king
+- https://www.coolmathgames.com/trivia/sports-lingo-101
+- https://www.coolmathgames.com/trivia/the-most-popular-rhymes-in-songs
+- https://www.coolmathgames.com/trivia/college-hoops-the-best-of-the-ncaa-tournament
+- https://www.coolmathgames.com/trivia/how-to-be-happy
+- https://www.coolmathgames.com/trivia/spot-the-canadians
+- https://www.coolmathgames.com/trivia/on-the-border-countries
+- https://www.coolmathgames.com/trivia/the-civil-war
+- https://www.coolmathgames.com/trivia/harry-potter-behind-the-names
+- https://www.coolmathgames.com/trivia/advertising-slogans-hall-of-fame-vol-1
+- https://www.coolmathgames.com/trivia/fast-and-loose-with-dr-seuss
+- https://www.coolmathgames.com/trivia/best-actor-winners
+- https://www.coolmathgames.com/trivia/ballet-101
+- https://www.coolmathgames.com/trivia/all-about-poison
+- https://www.coolmathgames.com/trivia/20th-century-american-novelists-vol-1
+- https://www.coolmathgames.com/trivia/a-chocolate-quiz
+- https://www.coolmathgames.com/trivia/understanding-dogs
+- https://www.coolmathgames.com/trivia/the-titanic
+- https://www.coolmathgames.com/trivia/would-thomas-edison-hire-you-round-1
+- https://www.coolmathgames.com/trivia/would-thomas-edison-hire-you-round-2
+- https://www.coolmathgames.com/trivia/a-total-garbage-quiz
+- https://www.coolmathgames.com/trivia/meat-smart-things-to-know-at-the-butcher
+- https://www.coolmathgames.com/trivia/things-every-25-year-old-should-know
+- https://www.coolmathgames.com/trivia/catholic-saints
+- https://www.coolmathgames.com/trivia/great-moments-in-harry-potter
+- https://www.coolmathgames.com/trivia/slavery-then-and-now
+- https://www.coolmathgames.com/trivia/cuba-and-castro
+- https://www.coolmathgames.com/trivia/breakfast-cereal-mascots
+- https://www.coolmathgames.com/trivia/no-totally-newish-slang-worth-knowing
+- https://www.coolmathgames.com/trivia/hollywood-box-office-champs
+- https://www.coolmathgames.com/trivia/fast-food-flops
+- https://www.coolmathgames.com/trivia/is-that-good-or-bad-doc-your-health-by-the-numbers
+- https://www.coolmathgames.com/trivia/donuts-the-hole-story
+- https://www.coolmathgames.com/trivia/went-viral-2
+- https://www.coolmathgames.com/trivia/classic-toys
+- https://www.coolmathgames.com/trivia/the-american-revolution
+- https://www.coolmathgames.com/trivia/who-earns-the-most
+- https://www.coolmathgames.com/trivia/smart-quotes-about-being-dumb
+- https://www.coolmathgames.com/trivia/the-long-strange-history-of-late-night-tv
+- https://www.coolmathgames.com/trivia/trivia-about-trivia
+- https://www.coolmathgames.com/trivia/winning-fashion-10-crazy-facts-about-sports-uniforms
+- https://www.coolmathgames.com/trivia/10-things-you-need-to-know-about-taylor-swift
+- https://www.coolmathgames.com/trivia/how-to-not-look-like-a-tourist
+- https://www.coolmathgames.com/trivia/would-thomas-edison-hire-you-round-3
+- https://www.coolmathgames.com/trivia/all-about-barbecue
+- https://www.coolmathgames.com/trivia/old-school-american-gangsters
+- https://www.coolmathgames.com/trivia/goofiest-rhymes-in-pop-music
+- https://www.coolmathgames.com/trivia/animal-vs-animal
+- https://www.coolmathgames.com/trivia/the-stories-behind-the-biggest-brand-names
+- https://www.coolmathgames.com/trivia/celebrity-yearbook-quotes
+- https://www.coolmathgames.com/trivia/global-business-icons
+- https://www.coolmathgames.com/trivia/memorably-terrible-pr-disasters
+- https://www.coolmathgames.com/trivia/understanding-your-cat
+- https://www.coolmathgames.com/trivia/american-bills-coins
+- https://www.coolmathgames.com/trivia/sports-money-the-richest-players-owners-teams
+- https://www.coolmathgames.com/trivia/tennis-champions
+- https://www.coolmathgames.com/trivia/shakespeares-best-insults
+- https://www.coolmathgames.com/trivia/great-feats-of-journalism
+- https://www.coolmathgames.com/trivia/great-moments-in-action-movies
+- https://www.coolmathgames.com/trivia/the-quizlife-ghost-hall-of-fame
+- https://www.coolmathgames.com/trivia/everyday-super-skills
+- https://www.coolmathgames.com/trivia/famous-flops-masterpieces-that-originally-werent
+- https://www.coolmathgames.com/trivia/finest-dining-the-worlds-legendary-restaurants
+- https://www.coolmathgames.com/trivia/great-facts-about-all-time-bestselling-books
+- https://www.coolmathgames.com/trivia/the-surprising-world-of-flowers
+- https://www.coolmathgames.com/trivia/world-series-winners
+- https://www.coolmathgames.com/trivia/all-about-candy
+- https://www.coolmathgames.com/trivia/youtube-famous
+- https://www.coolmathgames.com/trivia/great-moments-in-spielberg-movies
+- https://www.coolmathgames.com/trivia/fair-dinkum-fantastic-english-words-from-outside-the-us
+- https://www.coolmathgames.com/trivia/wonderful-animal-facts
+- https://www.coolmathgames.com/trivia/how-to-appreciate-and-not-get-hit-by-lightning
+- https://www.coolmathgames.com/trivia/listen-up-your-amazing-sense-of-hearing
+- https://www.coolmathgames.com/trivia/you-might-be-a-millennial-if-you-can-ace-this-quiz
+- https://www.coolmathgames.com/trivia/how-to-win-friends-and-influence-people
+- https://www.coolmathgames.com/trivia/golf-champions
+- https://www.coolmathgames.com/trivia/name-that-mega-bestseller
+- https://www.coolmathgames.com/trivia/drum-drummer-historys-great-beatkeepers
+- https://www.coolmathgames.com/trivia/burn-after-clicking-bizarre-moments-in-cia-history
+- https://www.coolmathgames.com/trivia/speed-drill-the-great-movies-mega-quiz
+- https://www.coolmathgames.com/trivia/brand-new-words-youll-want-to-use
+- https://www.coolmathgames.com/trivia/most-popular-baby-names
+- https://www.coolmathgames.com/trivia/ten-things-to-know-about-pope-francis
+- https://www.coolmathgames.com/trivia/the-mysterious-marvelous-world-of-insects
+- https://www.coolmathgames.com/trivia/great-soccer-players-vol-1
+- https://www.coolmathgames.com/trivia/hideously-terrifying-animal-facts
+- https://www.coolmathgames.com/trivia/how-james-bond-are-you
+- https://www.coolmathgames.com/trivia/apples
+- https://www.coolmathgames.com/trivia/conflict-zone-a-guide-to-todays-middle-east
+- https://www.coolmathgames.com/trivia/good-witches-bad-witches-real-witches
+- https://www.coolmathgames.com/trivia/secret-intelligence-james-bond-trivia
+- https://www.coolmathgames.com/trivia/its-a-good-quiz-charlie-brown
+- https://www.coolmathgames.com/trivia/curious-wonderful-old-fashioned-foods
+- https://www.coolmathgames.com/trivia/how-much-do-you-know-about-dog-breeds
+- https://www.coolmathgames.com/trivia/the-celebrity-faces-of-brands
+- https://www.coolmathgames.com/trivia/greek-gods-in-everyday-life
+- https://www.coolmathgames.com/trivia/the-greatest-most-ridiculous-toy-fads
+- https://www.coolmathgames.com/trivia/presenting-the-santa-claus-quiz
+- https://www.coolmathgames.com/trivia/is-that-really-true-everyday-myths-facts
+- https://www.coolmathgames.com/trivia/inside-downton-abbey
+- https://www.coolmathgames.com/trivia/how-grinch-are-you-a-quiz-about-the-classic-tv-special
+- https://www.coolmathgames.com/trivia/a-very-happy-new-year-quiz
+- https://www.coolmathgames.com/trivia/20th-century-world-leaders
+- https://www.coolmathgames.com/trivia/is-that-a-real-place-or-not
+- https://www.coolmathgames.com/trivia/tasty-science-how-baking-works
+- https://www.coolmathgames.com/trivia/david-bowie
+- https://www.coolmathgames.com/trivia/great-women-writers-of-today
+- https://www.coolmathgames.com/trivia/and-now-the-weather
+- https://www.coolmathgames.com/trivia/the-super-bowl-our-most-american-holiday
+- https://www.coolmathgames.com/trivia/romantic-movie-moments
+- https://www.coolmathgames.com/trivia/balls
+- https://www.coolmathgames.com/trivia/movie-quotes-name-the-best-picture-winner
+- https://www.coolmathgames.com/trivia/american-celebrity-a-history
+- https://www.coolmathgames.com/trivia/your-turn-the-board-games-quiz
+- https://www.coolmathgames.com/trivia/comparison-game-tough-us-geography
+- https://www.coolmathgames.com/trivia/how-irish-are-you
+- https://www.coolmathgames.com/trivia/understanding-easter
+- https://www.coolmathgames.com/trivia/pointlessly-hard-words-for-simple-things
+- https://www.coolmathgames.com/trivia/vocab-challenge-delightful-words-vol1
+- https://www.coolmathgames.com/trivia/state-license-plate-slogans
+- https://www.coolmathgames.com/trivia/where-in-the-us-is-that
+- https://www.coolmathgames.com/trivia/where-in-the-world-is-that
+- https://www.coolmathgames.com/trivia/slightly-more-obscure-american-presidents
+- https://www.coolmathgames.com/trivia/in-the-ocean
+- https://www.coolmathgames.com/trivia/who-painted-that
+- https://www.coolmathgames.com/trivia/under-the-microscope
+- https://www.coolmathgames.com/trivia/uncharted-territory-vol-1
+- https://www.coolmathgames.com/trivia/uncharted-territory-vol-2
+- https://www.coolmathgames.com/trivia/what-awesome-color-is-that
+- https://www.coolmathgames.com/trivia/what-awesome-color-is-that-vol-2
+- https://www.coolmathgames.com/trivia/what-font-am-i
+- https://www.coolmathgames.com/trivia/way-out-there
+- https://www.coolmathgames.com/trivia/on-tv-seinfeld
+- https://www.coolmathgames.com/trivia/lefthandedness-a-quiz
+- https://www.coolmathgames.com/trivia/this-is-our-independence-day
+- https://www.coolmathgames.com/trivia/name-that-hat
+- https://www.coolmathgames.com/trivia/over-the-moon
+- https://www.coolmathgames.com/trivia/canceled-disney-theme-park-rides
+- https://www.coolmathgames.com/trivia/unbreakable-sports-records
+- https://www.coolmathgames.com/trivia/all-about-the-wizard-of-oz
+- https://www.coolmathgames.com/trivia/name-that-designer
+- https://www.coolmathgames.com/trivia/how-preppy-are-you
+- https://www.coolmathgames.com/trivia/name-that-flower
+- https://www.coolmathgames.com/trivia/great-origin-stories-of-us-states
+- https://www.coolmathgames.com/trivia/name-that-herb
+- https://www.coolmathgames.com/trivia/things-every-gardener-should-know
+- https://www.coolmathgames.com/trivia/name-that-cheese
+- https://www.coolmathgames.com/trivia/name-that-pokemon-vol-1
+- https://www.coolmathgames.com/trivia/name-that-pokemon-vol-2
+- https://www.coolmathgames.com/trivia/name-that-pokemon-vol-3
+- https://www.coolmathgames.com/trivia/do-you-feeltheorgullo
+- https://www.coolmathgames.com/trivia/speaking-of-movies-film-terminology
+- https://www.coolmathgames.com/trivia/what-style-of-architecture-is-that
+- https://www.coolmathgames.com/trivia/which-national-park-is-that
+- https://www.coolmathgames.com/trivia/oj-simpson-the-trial-of-the-century
+- https://www.coolmathgames.com/trivia/logos-revealed
+- https://www.coolmathgames.com/trivia/understanding-hurricanes
+- https://www.coolmathgames.com/trivia/name-that-pasta
+- https://www.coolmathgames.com/trivia/common-english-errors-mega-quiz
+- https://www.coolmathgames.com/trivia/real-or-fake-iconic-food-mascots
+- https://www.coolmathgames.com/trivia/the-1980s
+- https://www.coolmathgames.com/trivia/harry-potter-who-said-it
+- https://www.coolmathgames.com/trivia/harry-potter-who-said-it-vol-2
+- https://www.coolmathgames.com/trivia/harry-potter-who-said-it-vol-3
+- https://www.coolmathgames.com/trivia/speed-drill-what-color-is-that-text
+- https://www.coolmathgames.com/trivia/vocab-master-mega-quiz
+- https://www.coolmathgames.com/trivia/voting-facts-and-laws
+- https://www.coolmathgames.com/trivia/speed-drill-name-that-logo
+- https://www.coolmathgames.com/trivia/speed-drill-state-capitals
+- https://www.coolmathgames.com/trivia/speed-drill-world-capitals
+- https://www.coolmathgames.com/trivia/speed-drill-nfl-conference-matchup
+- https://www.coolmathgames.com/trivia/the-simpsons-mega-quiz
+- https://www.coolmathgames.com/trivia/seinfeld-mega-quiz
+- https://www.coolmathgames.com/trivia/speed-drill-tough-world-capitals
+- https://www.coolmathgames.com/trivia/speed-drill-the-greatest-one-hit-wonders
+- https://www.coolmathgames.com/trivia/speed-drill-all-time-bestselling-books-name-the-author
+- https://www.coolmathgames.com/trivia/every-single-us-state-flag
+- https://www.coolmathgames.com/trivia/modern-bestsellers-name-the-author
+- https://www.coolmathgames.com/trivia/great-pop-hits-complete-the-lyrics
+- https://www.coolmathgames.com/trivia/speed-drill-%E2%80%93-sports-logos
+- https://www.coolmathgames.com/trivia/great-movies-famous-lines
+- https://www.coolmathgames.com/trivia/grunge-music
+- https://www.coolmathgames.com/trivia/name-that-coen-brothers-movie
+- https://www.coolmathgames.com/trivia/international-tourism-slogans
+- https://www.coolmathgames.com/trivia/major-events-in-us-history-name-the-year
+- https://www.coolmathgames.com/trivia/best-picture-winners-1975-2017
+- https://www.coolmathgames.com/trivia/great-movie-villains-name-the-actor
+- https://www.coolmathgames.com/trivia/nfl-stars-name-their-colleges
+- https://www.coolmathgames.com/trivia/nba-stars-name-their-colleges
+- https://www.coolmathgames.com/trivia/quizlife-unbound-trivia-challenge-vol-1
+- https://www.coolmathgames.com/trivia/iconic-pop-culture-duos
+- https://www.coolmathgames.com/trivia/classic-hip-hop
+- https://www.coolmathgames.com/trivia/great-presidential-quotes
+- https://www.coolmathgames.com/trivia/star-wars-star-trek-or-scientology
+- https://www.coolmathgames.com/trivia/us-state-slogans
+- https://www.coolmathgames.com/trivia/iconic-ad-slogans
+- https://www.coolmathgames.com/trivia/star-wars-the-original-trilogy
+- https://www.coolmathgames.com/trivia/which-came-first
+- https://www.coolmathgames.com/trivia/can-you-pass-the-us-citizenship-test
+- https://www.coolmathgames.com/trivia/friends
+- https://www.coolmathgames.com/trivia/the-best-loved-cars-of-all-time
+- https://www.coolmathgames.com/trivia/all-time-great-retro-video-games
+- https://www.coolmathgames.com/trivia/gangsters-on-screen
+- https://www.coolmathgames.com/trivia/what-a-disaster
+- https://www.coolmathgames.com/trivia/name-that-excellent-animal
+- https://www.coolmathgames.com/trivia/city-nicknames
+- https://www.coolmathgames.com/trivia/world-traveler-usa
+- https://www.coolmathgames.com/trivia/world-traveler-europe
+- https://www.coolmathgames.com/trivia/the-beatles-expert-quiz
+- https://www.coolmathgames.com/trivia/quizlife-unbound-trivia-challenge-vol-2
+- https://www.coolmathgames.com/trivia/us-states-name-the-capital
+- https://www.coolmathgames.com/trivia/on-tv-friends
+- https://www.coolmathgames.com/trivia/homophones-which-words-write-vol-1
+- https://www.coolmathgames.com/trivia/50-states-50-curious-facts
+- https://www.coolmathgames.com/trivia/silhouettes-shadows
+- https://www.coolmathgames.com/trivia/mlk-and-the-history-of-black-civil-rights-in-america
+- https://www.coolmathgames.com/trivia/the-greatest-pop-culture-sidekicks-of-all-time
+- https://www.coolmathgames.com/trivia/hamilton-complete-the-lyrics
+- https://www.coolmathgames.com/trivia/crazy-facts-about-the-human-body
+- https://www.coolmathgames.com/trivia/tough-geography-africa
+- https://www.coolmathgames.com/trivia/hard-to-swallow-uncommon-foods-of-the-world
+- https://www.coolmathgames.com/trivia/homophones-which-words-write-vol-2
+- https://www.coolmathgames.com/trivia/which-came-first-vol-2
+- https://www.coolmathgames.com/trivia/can-you-pass-4th-grade-math
+- https://www.coolmathgames.com/trivia/the-best-of-pop-culture-enemies
+- https://www.coolmathgames.com/trivia/remarkable-women-in-history
+- https://www.coolmathgames.com/trivia/banned-books
+- https://www.coolmathgames.com/trivia/college-mascots
+- https://www.coolmathgames.com/trivia/bright-facts-about-colors
+- https://www.coolmathgames.com/trivia/pop-culture-animals
+- https://www.coolmathgames.com/trivia/the-biggest-cities-in-each-state
+- https://www.coolmathgames.com/trivia/presidential-elections
+- https://www.coolmathgames.com/trivia/pop-culture-catchphrases
+- https://www.coolmathgames.com/trivia/pop-culture-villains-and-their-sidekicks
+- https://www.coolmathgames.com/trivia/this-and-that-words
+- https://www.coolmathgames.com/trivia/complete-the-old-timey-expression
+- https://www.coolmathgames.com/trivia/the-best-sports-nicknames
+- https://www.coolmathgames.com/trivia/hamilton-complete-the-lyrics-expert-level
+- https://www.coolmathgames.com/trivia/the-most-surprising-oscars-winners-and-losers-of-all-time
+- https://www.coolmathgames.com/trivia/pop-culture-siblings
+- https://www.coolmathgames.com/trivia/names-not-the-same
+- https://www.coolmathgames.com/trivia/spell-check-the-most-commonly-misspelled-words
+- https://www.coolmathgames.com/trivia/how-well-do-you-know-the-bible
+- https://www.coolmathgames.com/trivia/spell-check-commonly-misspelled-words-vol-2
+- https://www.coolmathgames.com/trivia/hit-songs-of-the-90s-name-the-artist
+- https://www.coolmathgames.com/trivia/hit-songs-of-the-60s-name-the-artist
+- https://www.coolmathgames.com/trivia/name-that-dog-vol-1
+- https://www.coolmathgames.com/trivia/name-that-simpsons-character
+- https://www.coolmathgames.com/trivia/name-that-flag
+- https://www.coolmathgames.com/trivia/the-best-baseball-movies
+- https://www.coolmathgames.com/trivia/iconic-couples
+- https://www.coolmathgames.com/trivia/which-war-was-that
+- https://www.coolmathgames.com/trivia/world-countries-name-the-capital
+- https://www.coolmathgames.com/trivia/tough-world-countries-name-the-capital
+- https://www.coolmathgames.com/trivia/words-that-mean-their-own-opposite
+- https://www.coolmathgames.com/trivia/how-well-do-you-know-the-bible-vol-2
+- https://www.coolmathgames.com/trivia/formidable-staggering-synonyms
+- https://www.coolmathgames.com/trivia/the-ncaa-tournament
+- https://www.coolmathgames.com/trivia/hit-songs-of-the-70s-name-the-artist
+- https://www.coolmathgames.com/trivia/the-rolling-stones
+- https://www.coolmathgames.com/trivia/iconic-sports-calls-are-you-kidding-me
+- https://www.coolmathgames.com/trivia/sports-scandals
+- https://www.coolmathgames.com/trivia/name-that-body-part
+- https://www.coolmathgames.com/trivia/animal-terms
+- https://www.coolmathgames.com/trivia/whats-that-youre-wearing-vol-1
+- https://www.coolmathgames.com/trivia/whats-the-difference-between
+- https://www.coolmathgames.com/trivia/commonly-messed-up-phrases
+- https://www.coolmathgames.com/trivia/name-that-president
+- https://www.coolmathgames.com/trivia/name-that-coolmath-game
+- https://www.coolmathgames.com/trivia/can-you-talk-british-vol-1
+- https://www.coolmathgames.com/trivia/can-you-talk-british-vol-2
+- https://www.coolmathgames.com/trivia/summer-olympics
+- https://www.coolmathgames.com/trivia/whats-that-youre-wearing-vol-2
+- https://www.coolmathgames.com/trivia/the-harry-potter-vocab-quiz
+- https://www.coolmathgames.com/trivia/logos-revealed-vol-2
+- https://www.coolmathgames.com/trivia/where-in-the-world-is-that-vol-2
+- https://www.coolmathgames.com/trivia/sports-logos-revealed
+- https://www.coolmathgames.com/trivia/silhouettes-and-shadows-vol-2
+- https://www.coolmathgames.com/trivia/silhouettes-and-shadows-vol-3
+- https://www.coolmathgames.com/trivia/name-that-flag-vol-2
+- https://www.coolmathgames.com/trivia/google-guess-the-autocomplete-vol-2
+- https://www.coolmathgames.com/trivia/gold
+- https://www.coolmathgames.com/trivia/kitchen-talk-cooking-vocabulary
+- https://www.coolmathgames.com/trivia/name-that-dinosaur
+- https://www.coolmathgames.com/trivia/mascot-names-colleges
+- https://www.coolmathgames.com/trivia/name-that-state-vol-1
+- https://www.coolmathgames.com/trivia/name-that-state-vol-2
+- https://www.coolmathgames.com/trivia/show-me-the-money
+- https://www.coolmathgames.com/trivia/what-country-is-that-vol-1
+- https://www.coolmathgames.com/trivia/what-country-is-that-vol-2
+- https://www.coolmathgames.com/trivia/wheres-that-city-vol-1
+- https://www.coolmathgames.com/trivia/wheres-that-city-vol-2
+- https://www.coolmathgames.com/trivia/name-that-dog-vol-2
+- https://www.coolmathgames.com/trivia/sweating-it-out-how-perspiration-works
+- https://www.coolmathgames.com/trivia/name-that-dog-vol-3
+- https://www.coolmathgames.com/trivia/name-that-excellent-animal-vol-2
+- https://www.coolmathgames.com/trivia/name-that-excellent-animal-vol-3
+- https://www.coolmathgames.com/trivia/name-that-gemstone
+- https://www.coolmathgames.com/trivia/name-that-candy
+- https://www.coolmathgames.com/trivia/hello-what-language-is-that
+- https://www.coolmathgames.com/trivia/name-that-dessert
+- https://www.coolmathgames.com/trivia/name-that-sandwich
+- https://www.coolmathgames.com/trivia/whats-that-zodiac-sign
+- https://www.coolmathgames.com/trivia/great-lines-from-novels
+- https://www.coolmathgames.com/trivia/iconic-ad-slogans-vol-2
+- https://www.coolmathgames.com/trivia/iconic-ad-slogans-vol-3
+- https://www.coolmathgames.com/trivia/name-that-useful-thing
+- https://www.coolmathgames.com/trivia/city-nicknames-vol-2
+- https://www.coolmathgames.com/trivia/animal-eyes
+- https://www.coolmathgames.com/trivia/animal-noses
+- https://www.coolmathgames.com/trivia/name-that-candy-vol-2
+- https://www.coolmathgames.com/trivia/animal-ears
+- https://www.coolmathgames.com/trivia/name-these-tools
+- https://www.coolmathgames.com/trivia/the-hunger-games
+- https://www.coolmathgames.com/trivia/classic-memes
+- https://www.coolmathgames.com/trivia/name-that-super-famous-historical-event
+- https://www.coolmathgames.com/trivia/name-that-breakfast-cereal
+- https://www.coolmathgames.com/trivia/name-that-ice-cream-treat
+- https://www.coolmathgames.com/trivia/things-without-colors
+- https://www.coolmathgames.com/trivia/very-fast-things
+- https://www.coolmathgames.com/trivia/is-that-a-painting-or-a-photograph
+- https://www.coolmathgames.com/trivia/sports-team-colors
+- https://www.coolmathgames.com/trivia/sports-team-colors-vol-2
+- https://www.coolmathgames.com/trivia/famous-faces-on-postage-stamps
+- https://www.coolmathgames.com/trivia/understanding-dolphins
+- https://www.coolmathgames.com/trivia/very-big-things
+- https://www.coolmathgames.com/trivia/spin-art-flags
+- https://www.coolmathgames.com/trivia/famous-faces-behind-frosted-glass
+- https://www.coolmathgames.com/trivia/name-that-bug
+- https://www.coolmathgames.com/trivia/whats-that-shoe-for
+- https://www.coolmathgames.com/trivia/whats-that-shoe-for-vol-2
+- https://www.coolmathgames.com/trivia/what-sport-goes-there
+- https://www.coolmathgames.com/trivia/scrambled-us-city-names
+- https://www.coolmathgames.com/trivia/internet-shorthand-worth-knowing
+- https://www.coolmathgames.com/trivia/things-you-should-know-about-birth
+- https://www.coolmathgames.com/trivia/which-came-first-vol-3
+- https://www.coolmathgames.com/trivia/complete-that-pattern
+- https://www.coolmathgames.com/trivia/complete-that-pattern-vol-2
+- https://www.coolmathgames.com/trivia/spin-art-flags-vol-2
+- https://www.coolmathgames.com/trivia/name-that-dessert-vol-2
+- https://www.coolmathgames.com/trivia/interesting-numbers-worth-knowing
+- https://www.coolmathgames.com/trivia/animal-tracks
+- https://www.coolmathgames.com/trivia/a-quiz-about-eggs
+- https://www.coolmathgames.com/trivia/state-capitals-%E2%80%93-northeastern-states
+- https://www.coolmathgames.com/trivia/state-capitals-%E2%80%93-western-states
+- https://www.coolmathgames.com/trivia/state-capitals-%E2%80%93-southern-states
+- https://www.coolmathgames.com/trivia/state-capitals-%E2%80%93-midwestern-states
+- https://www.coolmathgames.com/trivia/what-sport-is-that-for
+- https://www.coolmathgames.com/trivia/great-moments-in-harry-potter-vol-2
+- https://www.coolmathgames.com/trivia/two-lies-one-truth-animal-edition
+- https://www.coolmathgames.com/trivia/name-that-hairstyle
+- https://www.coolmathgames.com/trivia/famous-eyes
+- https://www.coolmathgames.com/trivia/thats-what-it-costs
+- https://www.coolmathgames.com/trivia/is-that-a-painting-or-a-photograph-vol-2
+- https://www.coolmathgames.com/trivia/name-those-bones-and-muscles
+- https://www.coolmathgames.com/trivia/harry-potter-name-the-character
+- https://www.coolmathgames.com/trivia/word-puzzles
+- https://www.coolmathgames.com/trivia/animal-tails
+- https://www.coolmathgames.com/trivia/classic-toys-revealed
+- https://www.coolmathgames.com/trivia/real-or-cake
+- https://www.coolmathgames.com/trivia/real-or-cake-vol-2
+- https://www.coolmathgames.com/trivia/whats-that-imaginary-animal
+- https://www.coolmathgames.com/trivia/what-do-most-americans-call-that
+- https://www.coolmathgames.com/trivia/baseball-nicknames
+- https://www.coolmathgames.com/trivia/last-lines-of-movies-hollywood-classics
+- https://www.coolmathgames.com/trivia/last-lines-of-movies-films-since-1980
+- https://www.coolmathgames.com/trivia/the-hidden-world-of-cockroaches
+- https://www.coolmathgames.com/trivia/what-do-you-know-about-tea
+- https://www.coolmathgames.com/trivia/understanding-nazi-germany
+- https://www.coolmathgames.com/trivia/famous-broadway-lyrics
+- https://www.coolmathgames.com/trivia/famous-novels-first-lines
+- https://www.coolmathgames.com/trivia/classical-composers
+- https://www.coolmathgames.com/trivia/supreme-court-cases-you-should-know
+- https://www.coolmathgames.com/trivia/us-sports-geography
+- https://www.coolmathgames.com/trivia/home-run-stars
+- https://www.coolmathgames.com/trivia/latin-phrases-you-should-know
+- https://www.coolmathgames.com/trivia/what-language-is-that
+- https://www.coolmathgames.com/trivia/albums-of-the-60s
+- https://www.coolmathgames.com/trivia/flavors-of-mexico
+- https://www.coolmathgames.com/trivia/sports-bloopers-disasters
+- https://www.coolmathgames.com/trivia/philosophy-greatest-hits
+- https://www.coolmathgames.com/trivia/nixon-and-watergate
+- https://www.coolmathgames.com/trivia/herbs-and-spices
+- https://www.coolmathgames.com/trivia/the-old-testament-iconic-moments
+- https://www.coolmathgames.com/trivia/wonders-of-the-world
+- https://www.coolmathgames.com/trivia/inside-amusement-parks
+- https://www.coolmathgames.com/trivia/bizarre-geography
+- https://www.coolmathgames.com/trivia/went-viral
+- https://www.coolmathgames.com/trivia/google-guess-the-autocomplete-vol-1
+- https://www.coolmathgames.com/trivia/knowyourhashtags
+- https://www.coolmathgames.com/trivia/the-transcontinental-railroad
+- https://www.coolmathgames.com/trivia/inspiring-quotations
+- https://www.coolmathgames.com/trivia/artists-on-art
+- https://www.coolmathgames.com/trivia/the-super-bowl-great-wins-agonizing-losses
+- https://www.coolmathgames.com/trivia/lick-this-an-ice-cream-quiz
+- https://www.coolmathgames.com/trivia/getting-to-know-abe-lincoln
+- https://www.coolmathgames.com/trivia/underrated-movie-quotes-vol-1
+- https://www.coolmathgames.com/trivia/hipster-culture
+- https://www.coolmathgames.com/trivia/homer-simpson-complete-the-quote
+- https://www.coolmathgames.com/trivia/on-tv-the-simpsons
+- https://www.coolmathgames.com/trivia/scientific-breakthroughs
+- https://www.coolmathgames.com/trivia/the-rise-of-feminism
+- https://www.coolmathgames.com/0-the-bottle-boy
+- https://www.coolmathgames.com/0-mini-switcher-dx
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250626_000740/sitemap.json) and [diff.json](./data/coolmathgames.com/20250626_000740/diff.json)
+
 ### 20250625_000749
 
 - https://www.coolmathgames.com/0-tiptap
@@ -10794,15 +11340,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250625_000749/sitemap.json) 
 - https://www.coolmathgames.com/0-card-match-10
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250622_000816/sitemap.json) and [diff.json](./data/coolmathgames.com/20250622_000816/diff.json)
-
-### 20250616_000803
-
-- https://www.coolmathgames.com/0-tiny-cities
-- https://www.coolmathgames.com/0-house-painter-game
-- https://www.coolmathgames.com/0-jello-merge
-- https://www.coolmathgames.com/0-sportsball-merge
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250616_000803/sitemap.json) and [diff.json](./data/coolmathgames.com/20250616_000803/diff.json)
 
 ## pogo.com
 
