@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-2025-edition",
+      "priority": 1.0,
+      "last_modified": "2025-06-27T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-simplified",
+      "priority": 1.0,
+      "last_modified": "2025-06-27T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-pyramixed-phase-5",
+      "priority": 1.0,
+      "last_modified": "2025-06-27T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-2025-edition",
+      "priority": 1.0,
+      "last_modified": "2025-06-27T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
