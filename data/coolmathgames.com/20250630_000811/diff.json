@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-cube-2048",
+      "priority": 0.5,
+      "last_modified": "2025-06-27T21:06:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-traffic-tap-puzzle",
+      "priority": 0.5,
+      "last_modified": "2025-06-26T20:42:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
