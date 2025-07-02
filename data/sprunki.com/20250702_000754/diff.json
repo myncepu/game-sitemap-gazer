@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-abgerny-retake",
+      "priority": 1.0,
+      "last_modified": "2025-07-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-ploinkers",
+      "priority": 1.0,
+      "last_modified": "2025-07-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-cave",
+      "priority": 1.0,
+      "last_modified": "2025-07-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-definitive-phase-8",
+      "priority": 1.0,
+      "last_modified": "2025-07-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-mr-square-daycare",
+      "priority": 1.0,
+      "last_modified": "2025-07-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-pyramixed-squid-game",
+      "priority": 1.0,
+      "last_modified": "2025-07-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-pyramixed-phase-3",
+      "priority": 1.0,
+      "last_modified": "2025-07-01T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
