@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-deluxe-epic/",
+      "priority": 0.5,
+      "last_modified": "2025-07-02T12:07:38Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-regretful-5-0/",
+      "priority": 0.5,
+      "last_modified": "2025-07-02T12:10:18Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/kats-sprunki-edition/",
+      "priority": 0.5,
+      "last_modified": "2025-07-02T12:15:07Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-swap-version/",
+      "priority": 0.5,
+      "last_modified": "2025-07-02T13:44:45Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

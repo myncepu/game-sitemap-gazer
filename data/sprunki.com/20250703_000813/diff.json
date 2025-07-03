@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-phase-888",
+      "priority": 1.0,
+      "last_modified": "2025-07-02T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-definitive-phase-5",
+      "priority": 1.0,
+      "last_modified": "2025-07-02T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunkr",
+      "priority": 1.0,
+      "last_modified": "2025-07-02T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunkr-retake",
+      "priority": 1.0,
+      "last_modified": "2025-07-02T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
