@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/htsprunkis-retake",
+      "priority": 1.0,
+      "last_modified": "2025-07-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/corruptbox-1-but-sprunki-remake",
+      "priority": 1.0,
+      "last_modified": "2025-07-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunkr-phase-4",
+      "priority": 1.0,
+      "last_modified": "2025-07-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunkr-phase-3",
+      "priority": 1.0,
+      "last_modified": "2025-07-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
