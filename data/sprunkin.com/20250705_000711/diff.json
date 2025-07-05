@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-abyss-forgotten/",
+      "priority": 0.5,
+      "last_modified": "2025-07-04T12:05:49Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/simon-time-phase-2/",
+      "priority": 0.5,
+      "last_modified": "2025-07-04T12:07:40Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-phase-7-definitive-fanmade/",
+      "priority": 0.5,
+      "last_modified": "2025-07-04T12:09:55Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunka/",
+      "priority": 0.5,
+      "last_modified": "2025-07-03T10:24:10Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

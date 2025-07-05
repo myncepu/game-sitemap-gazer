@@ -73,6 +73,16 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250705_000711
+
+- https://sprunki.org/musical-incidents
+- https://sprunki.org/sprunkies-party
+- https://sprunki.org/sprunki-polo-treatment
+- https://sprunki.org/sprunki-tan
+- https://sprunki.org/sprunki-viegre-treatment
+
+Raw data: [sitemap.json](./data/sprunki.org/20250705_000711/sitemap.json) and [diff.json](./data/sprunki.org/20250705_000711/diff.json)
+
 ### 20250704_000755
 
 - https://sprunki.org/bike-xtreme
@@ -89,13 +99,17 @@ Raw data: [sitemap.json](./data/sprunki.org/20250704_000755/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250703_000813/sitemap.json) and [diff.json](./data/sprunki.org/20250703_000813/diff.json)
 
-### 20250702_000754
-
-- https://sprunki.org/chibi-unicorn-dress-up
-
-Raw data: [sitemap.json](./data/sprunki.org/20250702_000754/sitemap.json) and [diff.json](./data/sprunki.org/20250702_000754/diff.json)
-
 ## sprunki.com
+
+### 20250705_000711
+
+- https://sprunki.com/sprunki-ralr
+- https://sprunki.com/sprunki-pvz-edition
+- https://sprunki.com/ja/sprunki-phase-222
+- https://sprunki.com/ja/sprunki-phase-175-retake
+- https://sprunki.com/ja/sprunki-phase-888
+
+Raw data: [sitemap.json](./data/sprunki.com/20250705_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250705_000711/diff.json)
 
 ### 20250704_000755
 
@@ -114,18 +128,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250704_000755/sitemap.json) and [d
 - https://sprunki.com/ja/sprunkr-retake
 
 Raw data: [sitemap.json](./data/sprunki.com/20250703_000813/sitemap.json) and [diff.json](./data/sprunki.com/20250703_000813/diff.json)
-
-### 20250702_000754
-
-- https://sprunki.com/sprunki-abgerny-retake
-- https://sprunki.com/sprunki-ploinkers
-- https://sprunki.com/sprunki-cave
-- https://sprunki.com/sprunki-definitive-phase-8
-- https://sprunki.com/sprunki-mr-square-daycare
-- https://sprunki.com/ja/sprunki-pyramixed-squid-game
-- https://sprunki.com/ja/sprunki-pyramixed-phase-3
-
-Raw data: [sitemap.json](./data/sprunki.com/20250702_000754/sitemap.json) and [diff.json](./data/sprunki.com/20250702_000754/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10394,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250705_000711
+
+- https://sprunkin.com/game/sprunki-abyss-forgotten/
+- https://sprunkin.com/game/simon-time-phase-2/
+- https://sprunkin.com/game/sprunki-phase-7-definitive-fanmade/
+- https://sprunkin.com/fan-game/sprunka/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250705_000711/sitemap.json) and [diff.json](./data/sprunkin.com/20250705_000711/diff.json)
+
 ### 20250704_000755
 
 - https://sprunkin.com/fan-game/sprunki-18/
@@ -10408,13 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250704_000755/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-swap-version/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250703_000813/sitemap.json) and [diff.json](./data/sprunkin.com/20250703_000813/diff.json)
-
-### 20250701_000853
-
-- https://sprunkin.com/game/sprunki-tan/
-- https://sprunkin.com/game/sprunki-metallic-edition/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250701_000853/sitemap.json) and [diff.json](./data/sprunkin.com/20250701_000853/diff.json)
 
 ## sprunkisinner.org
 

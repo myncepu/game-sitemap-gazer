@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-ralr",
+      "priority": 1.0,
+      "last_modified": "2025-07-04T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-pvz-edition",
+      "priority": 1.0,
+      "last_modified": "2025-07-04T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-222",
+      "priority": 1.0,
+      "last_modified": "2025-07-04T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-175-retake",
+      "priority": 1.0,
+      "last_modified": "2025-07-04T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-888",
+      "priority": 1.0,
+      "last_modified": "2025-07-04T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
