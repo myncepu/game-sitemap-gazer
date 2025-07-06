@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250706_000845
+
+- https://sprunki.org/lie-detector-online
+
+Raw data: [sitemap.json](./data/sprunki.org/20250706_000845/sitemap.json) and [diff.json](./data/sprunki.org/20250706_000845/diff.json)
+
 ### 20250705_000711
 
 - https://sprunki.org/musical-incidents
@@ -91,13 +97,6 @@ Raw data: [sitemap.json](./data/sprunki.org/20250705_000711/sitemap.json) and [d
 - https://sprunki.org/games/horror-games
 
 Raw data: [sitemap.json](./data/sprunki.org/20250704_000755/sitemap.json) and [diff.json](./data/sprunki.org/20250704_000755/diff.json)
-
-### 20250703_000813
-
-- https://sprunki.org/dancing-kittens
-- https://sprunki.org/sprunki-simon-time-phase-3
-
-Raw data: [sitemap.json](./data/sprunki.org/20250703_000813/sitemap.json) and [diff.json](./data/sprunki.org/20250703_000813/diff.json)
 
 ## sprunki.com
 
@@ -10394,6 +10393,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250706_000845
+
+- https://sprunkin.com/fan-game/incredibox-spronkly/
+- https://sprunkin.com/fan-game/sonic-frenzy-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250706_000845/sitemap.json) and [diff.json](./data/sprunkin.com/20250706_000845/diff.json)
+
 ### 20250705_000711
 
 - https://sprunkin.com/game/sprunki-abyss-forgotten/
@@ -10410,15 +10416,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250705_000711/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-20/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250704_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250704_000755/diff.json)
-
-### 20250703_000813
-
-- https://sprunkin.com/game/sprunki-deluxe-epic/
-- https://sprunkin.com/game/sprunki-regretful-5-0/
-- https://sprunkin.com/game/kats-sprunki-edition/
-- https://sprunkin.com/fan-game/sprunki-phase-swap-version/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250703_000813/sitemap.json) and [diff.json](./data/sprunkin.com/20250703_000813/diff.json)
 
 ## sprunkisinner.org
 
