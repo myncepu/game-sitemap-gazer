@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-chaotic-good-night-time",
+      "priority": 1.0,
+      "last_modified": "2025-07-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-chaotic-good",
+      "priority": 1.0,
+      "last_modified": "2025-07-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-mostaza",
+      "priority": 1.0,
+      "last_modified": "2025-07-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-retake-new-update",
+      "priority": 1.0,
+      "last_modified": "2025-07-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-sus",
+      "priority": 1.0,
+      "last_modified": "2025-07-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-pyramixed-phase-5-definitive",
+      "priority": 1.0,
+      "last_modified": "2025-07-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-definitive-phase-8",
+      "priority": 1.0,
+      "last_modified": "2025-07-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
