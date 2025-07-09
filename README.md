@@ -73,6 +73,12 @@ Raw data: [sitemap.json](./data/sprunkiphase4.app/20250106_000658/sitemap.json) 
 
 ## sprunki.org
 
+### 20250709_000804
+
+- https://sprunki.org/sprunki-ice-mod-aqua
+
+Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [diff.json](./data/sprunki.org/20250709_000804/diff.json)
+
 ### 20250708_000802
 
 - https://sprunki.org/halloween-lily
@@ -87,13 +93,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250708_000802/sitemap.json) and [d
 
 Raw data: [sitemap.json](./data/sprunki.org/20250707_000806/sitemap.json) and [diff.json](./data/sprunki.org/20250707_000806/diff.json)
 
-### 20250706_000845
-
-- https://sprunki.org/lie-detector-online
-
-Raw data: [sitemap.json](./data/sprunki.org/20250706_000845/sitemap.json) and [diff.json](./data/sprunki.org/20250706_000845/diff.json)
-
 ## sprunki.com
+
+### 20250709_000804
+
+- https://sprunki.com/tetra-blocks
+- https://sprunki.com/shapes-puzzle
+- https://sprunki.com/ball-sort-puzzle
+- https://sprunki.com/candy-crush
+- https://sprunki.com/block-blast
+- https://sprunki.com/ja/sprunki-definitive-phase-5
+- https://sprunki.com/ja/sprunki-retake-new-update
+
+Raw data: [sitemap.json](./data/sprunki.com/20250709_000804/sitemap.json) and [diff.json](./data/sprunki.com/20250709_000804/diff.json)
 
 ### 20250708_000802
 
@@ -116,15 +128,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250708_000802/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-888
 
 Raw data: [sitemap.json](./data/sprunki.com/20250705_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250705_000711/diff.json)
-
-### 20250704_000755
-
-- https://sprunki.com/htsprunkis-retake
-- https://sprunki.com/corruptbox-1-but-sprunki-remake
-- https://sprunki.com/ja/sprunkr-phase-4
-- https://sprunki.com/ja/sprunkr-phase-3
-
-Raw data: [sitemap.json](./data/sprunki.com/20250704_000755/sitemap.json) and [diff.json](./data/sprunki.com/20250704_000755/diff.json)
 
 ## sprunki.net
 
@@ -10220,6 +10223,12 @@ Raw data: [sitemap.json](./data/sprunki.net/20250110_000644/sitemap.json) and [d
 
 ## incrediboxsprunki.org
 
+### 20250709_000804
+
+- https://incrediboxsprunki.io/boxel-rebound
+
+Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250709_000804/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250709_000804/diff.json)
+
 ### 20250708_000802
 
 - https://incrediboxsprunki.io/vex4
@@ -10232,12 +10241,6 @@ Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250708_000802/sitemap.js
 - https://incrediboxsprunki.io/the-impossible-game
 
 Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250707_000806/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250707_000806/diff.json)
-
-### 20250704_000755
-
-- https://incrediboxsprunki.io/sad-satan
-
-Raw data: [sitemap.json](./data/incrediboxsprunki.org/20250704_000755/sitemap.json) and [diff.json](./data/incrediboxsprunki.org/20250704_000755/diff.json)
 
 ## sprunki-incredibox.org
 
@@ -10392,6 +10395,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250709_000804
+
+- https://sprunkin.com/fan-game/%e9%a3%9f%e3%81%b9%e7%89%a9%e3%83%a9%e3%83%b3%e3%83%89%ef%bc%81%e3%80%803/
+- https://sprunkin.com/fan-game/sprunkute-the-definitive-phase-9/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250709_000804/sitemap.json) and [diff.json](./data/sprunkin.com/20250709_000804/diff.json)
+
 ### 20250708_000802
 
 - https://sprunkin.com/fan-game/incredibox-abgerny-but-fun-with-phonics/
@@ -10408,15 +10418,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250708_000802/sitemap.json) and [
 - https://sprunkin.com/fan-game/sonic-frenzy-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250706_000845/sitemap.json) and [diff.json](./data/sprunkin.com/20250706_000845/diff.json)
-
-### 20250705_000711
-
-- https://sprunkin.com/game/sprunki-abyss-forgotten/
-- https://sprunkin.com/game/simon-time-phase-2/
-- https://sprunkin.com/game/sprunki-phase-7-definitive-fanmade/
-- https://sprunkin.com/fan-game/sprunka/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250705_000711/sitemap.json) and [diff.json](./data/sprunkin.com/20250705_000711/diff.json)
 
 ## sprunkisinner.org
 
