@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-who-are-you",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-fiddlecopys",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-stick",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-reversed",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-definitive-phase-11",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-spupil",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-chaotic-good",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-simon-time",
+      "priority": 1.0,
+      "last_modified": "2025-07-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
