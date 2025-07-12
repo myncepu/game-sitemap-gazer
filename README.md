@@ -96,6 +96,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250712_000736
+
+- https://sprunki.com/sprunki-forsaken
+- https://sprunki.com/sprunki-phase-10-definitive
+- https://sprunki.com/sprunki-sky-and-you
+- https://sprunki.com/sprunki-2013
+- https://sprunki.com/sprunki-multishift
+
+Raw data: [sitemap.json](./data/sprunki.com/20250712_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250712_000736/diff.json)
+
 ### 20250711_000755
 
 - https://sprunki.com/sprunki-who-are-you
@@ -124,18 +134,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250711_000755/sitemap.json) and [d
 - https://sprunki.com/ja/brainrot-puzzle
 
 Raw data: [sitemap.json](./data/sprunki.com/20250710_000804/sitemap.json) and [diff.json](./data/sprunki.com/20250710_000804/diff.json)
-
-### 20250709_000804
-
-- https://sprunki.com/tetra-blocks
-- https://sprunki.com/shapes-puzzle
-- https://sprunki.com/ball-sort-puzzle
-- https://sprunki.com/candy-crush
-- https://sprunki.com/block-blast
-- https://sprunki.com/ja/sprunki-definitive-phase-5
-- https://sprunki.com/ja/sprunki-retake-new-update
-
-Raw data: [sitemap.json](./data/sprunki.com/20250709_000804/sitemap.json) and [diff.json](./data/sprunki.com/20250709_000804/diff.json)
 
 ## sprunki.net
 
@@ -10402,6 +10400,17 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250712_000736
+
+- https://sprunkin.com/fan-game/incredibox-sprunki-r-doom-official-mod-2/
+- https://sprunkin.com/fan-game/sprunki-human-song/
+- https://sprunkin.com/fan-game/sprunki-human-song-2/
+- https://sprunkin.com/fan-game/fscore-but-abc-toddler/
+- https://sprunkin.com/fan-game/sprunki-defortbox-mold/
+- https://sprunkin.com/fan-game/sprunki-defortbox-v2-astro/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250712_000736/sitemap.json) and [diff.json](./data/sprunkin.com/20250712_000736/diff.json)
+
 ### 20250711_000755
 
 - https://sprunkin.com/fan-game/sprunki-wenda-treatment-new-update-not-official/
@@ -10415,16 +10424,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250711_000755/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunkute-the-definitive-phase-9/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250709_000804/sitemap.json) and [diff.json](./data/sprunkin.com/20250709_000804/diff.json)
-
-### 20250708_000802
-
-- https://sprunkin.com/fan-game/incredibox-abgerny-but-fun-with-phonics/
-- https://sprunkin.com/fan-game/sprunki-phase-7-remastered-2/
-- https://sprunkin.com/fan-game/sprunkioren-treatment/
-- https://sprunkin.com/fan-game/sprunka-2/
-- https://sprunkin.com/fan-game/incredibox-abgerny-but-mercat-and-friends/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250708_000802/sitemap.json) and [diff.json](./data/sprunkin.com/20250708_000802/diff.json)
 
 ## sprunkisinner.org
 

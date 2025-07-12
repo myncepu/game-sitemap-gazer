@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-forsaken",
+      "priority": 1.0,
+      "last_modified": "2025-07-11T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-10-definitive",
+      "priority": 1.0,
+      "last_modified": "2025-07-11T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-sky-and-you",
+      "priority": 1.0,
+      "last_modified": "2025-07-11T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-2013",
+      "priority": 1.0,
+      "last_modified": "2025-07-11T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-multishift",
+      "priority": 1.0,
+      "last_modified": "2025-07-11T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
