@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-merge-flowers",
+      "priority": 0.5,
+      "last_modified": "2025-07-08T21:09:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/blog/how-to-play-papas-pizzeria",
+      "priority": 0.5,
+      "last_modified": "2025-07-09T22:15:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

@@ -10784,6 +10784,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250713_000848
+
+- https://www.coolmathgames.com/0-merge-flowers
+- https://www.coolmathgames.com/blog/how-to-play-papas-pizzeria
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250713_000848/sitemap.json) and [diff.json](./data/coolmathgames.com/20250713_000848/diff.json)
+
 ### 20250710_000804
 
 - https://www.coolmathgames.com/0-twisted-blocks
@@ -10795,12 +10802,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250710_000804/sitemap.json) 
 - https://www.coolmathgames.com/0-find-the-differences-spot-em-all
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250707_000806/sitemap.json) and [diff.json](./data/coolmathgames.com/20250707_000806/diff.json)
-
-### 20250704_000755
-
-- https://www.coolmathgames.com/0-big-block-blast
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250704_000755/sitemap.json) and [diff.json](./data/coolmathgames.com/20250704_000755/diff.json)
 
 ## pogo.com
 
