@@ -10784,6 +10784,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250714_000809
+
+- https://www.coolmathgames.com/0-dunk-frenzy
+- https://www.coolmathgames.com/0-bubble-letters
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250714_000809/sitemap.json) and [diff.json](./data/coolmathgames.com/20250714_000809/diff.json)
+
 ### 20250713_000848
 
 - https://www.coolmathgames.com/0-merge-flowers
@@ -10796,12 +10803,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250713_000848/sitemap.json) 
 - https://www.coolmathgames.com/0-twisted-blocks
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250710_000804/sitemap.json) and [diff.json](./data/coolmathgames.com/20250710_000804/diff.json)
-
-### 20250707_000806
-
-- https://www.coolmathgames.com/0-find-the-differences-spot-em-all
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250707_000806/sitemap.json) and [diff.json](./data/coolmathgames.com/20250707_000806/diff.json)
 
 ## pogo.com
 

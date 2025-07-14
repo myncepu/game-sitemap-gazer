@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-dunk-frenzy",
+      "priority": 0.5,
+      "last_modified": "2025-07-10T20:51:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-bubble-letters",
+      "priority": 0.5,
+      "last_modified": "2025-07-11T20:51:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
