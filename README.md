@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250716_000804
+
+- https://sprunki.com/sprunki-reversed-phase-3
+- https://sprunki.com/sprunki-angry
+- https://sprunki.com/sprunki-cendi-oc
+- https://sprunki.com/sprunki-vaporwave-v2
+- https://sprunki.com/sprunki-phase-1-5
+- https://sprunki.com/ja/sprunki-multishift
+- https://sprunki.com/ja/sprunki-retake-deluxe
+
+Raw data: [sitemap.json](./data/sprunki.com/20250716_000804/sitemap.json) and [diff.json](./data/sprunki.com/20250716_000804/diff.json)
+
 ### 20250715_000813
 
 - https://sprunki.com/sprunki-retake-deluxe
@@ -118,19 +130,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250715_000813/sitemap.json) and [d
 - https://sprunki.com/sprunki-multishift
 
 Raw data: [sitemap.json](./data/sprunki.com/20250712_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250712_000736/diff.json)
-
-### 20250711_000755
-
-- https://sprunki.com/sprunki-who-are-you
-- https://sprunki.com/sprunki-fiddlecopys
-- https://sprunki.com/sprunki-stick
-- https://sprunki.com/sprunki-reversed
-- https://sprunki.com/sprunki-definitive-phase-11
-- https://sprunki.com/ja/sprunki-spupil
-- https://sprunki.com/ja/sprunki-chaotic-good
-- https://sprunki.com/ja/sprunki-simon-time
-
-Raw data: [sitemap.json](./data/sprunki.com/20250711_000755/sitemap.json) and [diff.json](./data/sprunki.com/20250711_000755/diff.json)
 
 ## sprunki.net
 
@@ -10397,6 +10396,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250716_000804
+
+- https://sprunkin.com/fan-game/sprunki-the-definitive-phases-switcher/
+- https://sprunkin.com/fan-game/sprunki-gmax-retake-the-finale-game-by-the-happy-face/
+- https://sprunkin.com/fan-game/simon-realism-my-take-v1-alpha/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250716_000804/sitemap.json) and [diff.json](./data/sprunkin.com/20250716_000804/diff.json)
+
 ### 20250715_000813
 
 - https://sprunkin.com/fan-game/sprunki-reversed-new-unswap/
@@ -10418,13 +10425,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250715_000813/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-defortbox-v2-astro/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250712_000736/sitemap.json) and [diff.json](./data/sprunkin.com/20250712_000736/diff.json)
-
-### 20250711_000755
-
-- https://sprunkin.com/fan-game/sprunki-wenda-treatment-new-update-not-official/
-- https://sprunkin.com/fan-game/sprunki-pokemon-pokesprunki-wenda-treatment/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250711_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250711_000755/diff.json)
 
 ## sprunkisinner.org
 
