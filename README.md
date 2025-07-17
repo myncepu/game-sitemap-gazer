@@ -96,6 +96,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250717_000815
+
+- https://sprunki.com/italian-brainrot-merge-rot
+- https://sprunki.com/sprunki-mr-tree-treatment
+- https://sprunki.com/sprunki-retake-shifted
+- https://sprunki.com/sprunki-pyramixed-new-update
+- https://sprunki.com/sprunki-reversed-phase-3-definitive-pyramixed
+- https://sprunki.com/sprunki-reversed-phase-3-definitive
+- https://sprunki.com/ja/sprunki-vaporwave
+- https://sprunki.com/ja/italian-brainrot-merge-rot
+
+Raw data: [sitemap.json](./data/sprunki.com/20250717_000815/sitemap.json) and [diff.json](./data/sprunki.com/20250717_000815/diff.json)
+
 ### 20250716_000804
 
 - https://sprunki.com/sprunki-reversed-phase-3
@@ -120,16 +133,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250716_000804/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-2013
 
 Raw data: [sitemap.json](./data/sprunki.com/20250715_000813/sitemap.json) and [diff.json](./data/sprunki.com/20250715_000813/diff.json)
-
-### 20250712_000736
-
-- https://sprunki.com/sprunki-forsaken
-- https://sprunki.com/sprunki-phase-10-definitive
-- https://sprunki.com/sprunki-sky-and-you
-- https://sprunki.com/sprunki-2013
-- https://sprunki.com/sprunki-multishift
-
-Raw data: [sitemap.json](./data/sprunki.com/20250712_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250712_000736/diff.json)
 
 ## sprunki.net
 
@@ -10396,6 +10399,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250717_000815
+
+- https://sprunkin.com/fan-game/sprunki-phase-3-definitive-swap-unswap-style/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250717_000815/sitemap.json) and [diff.json](./data/sprunkin.com/20250717_000815/diff.json)
+
 ### 20250716_000804
 
 - https://sprunkin.com/fan-game/sprunki-the-definitive-phases-switcher/
@@ -10414,17 +10423,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250716_000804/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-garnold-time/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250715_000813/sitemap.json) and [diff.json](./data/sprunkin.com/20250715_000813/diff.json)
-
-### 20250712_000736
-
-- https://sprunkin.com/fan-game/incredibox-sprunki-r-doom-official-mod-2/
-- https://sprunkin.com/fan-game/sprunki-human-song/
-- https://sprunkin.com/fan-game/sprunki-human-song-2/
-- https://sprunkin.com/fan-game/fscore-but-abc-toddler/
-- https://sprunkin.com/fan-game/sprunki-defortbox-mold/
-- https://sprunkin.com/fan-game/sprunki-defortbox-v2-astro/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250712_000736/sitemap.json) and [diff.json](./data/sprunkin.com/20250712_000736/diff.json)
 
 ## sprunkisinner.org
 
