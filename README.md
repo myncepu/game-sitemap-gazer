@@ -96,6 +96,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250718_000801
+
+- https://sprunki.com/sprunki-phase-10000
+- https://sprunki.com/sprunki-playground
+- https://sprunki.com/sprunki-phase-21
+- https://sprunki.com/sprunki-phase-1000
+- https://sprunki.com/sprunki-pyramixed-ultimate-deluxe
+- https://sprunki.com/ja/sprunki-pyramixed-finished
+- https://sprunki.com/ja/sprunki-reversed-phase-3
+- https://sprunki.com/ja/sprunki-mr-tree-treatment
+
+Raw data: [sitemap.json](./data/sprunki.com/20250718_000801/sitemap.json) and [diff.json](./data/sprunki.com/20250718_000801/diff.json)
+
 ### 20250717_000815
 
 - https://sprunki.com/italian-brainrot-merge-rot
@@ -120,19 +133,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250717_000815/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-retake-deluxe
 
 Raw data: [sitemap.json](./data/sprunki.com/20250716_000804/sitemap.json) and [diff.json](./data/sprunki.com/20250716_000804/diff.json)
-
-### 20250715_000813
-
-- https://sprunki.com/sprunki-retake-deluxe
-- https://sprunki.com/sprunki-pyramixed-finished
-- https://sprunki.com/sprunki-vaporwave
-- https://sprunki.com/sprunki-phase-3-definitive-retake
-- https://sprunki.com/sprunki-retake-final-update
-- https://sprunki.com/ja/sprunki-definitive-phase-11
-- https://sprunki.com/ja/sprunki-reversed
-- https://sprunki.com/ja/sprunki-2013
-
-Raw data: [sitemap.json](./data/sprunki.com/20250715_000813/sitemap.json) and [diff.json](./data/sprunki.com/20250715_000813/diff.json)
 
 ## sprunki.net
 
@@ -10783,6 +10783,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250718_000801
+
+- https://www.coolmathgames.com/0-hidden-antique-shop
+- https://www.coolmathgames.com/0-puffinick-a-wingless-story
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250718_000801/sitemap.json) and [diff.json](./data/coolmathgames.com/20250718_000801/diff.json)
+
 ### 20250714_000809
 
 - https://www.coolmathgames.com/0-dunk-frenzy
@@ -10796,12 +10803,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250714_000809/sitemap.json) 
 - https://www.coolmathgames.com/blog/how-to-play-papas-pizzeria
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250713_000848/sitemap.json) and [diff.json](./data/coolmathgames.com/20250713_000848/diff.json)
-
-### 20250710_000804
-
-- https://www.coolmathgames.com/0-twisted-blocks
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250710_000804/sitemap.json) and [diff.json](./data/coolmathgames.com/20250710_000804/diff.json)
 
 ## pogo.com
 
