@@ -10399,6 +10399,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250720_000859
+
+- https://sprunkin.com/fan-game/sprunki-but-with-tail/
+- https://sprunkin.com/fan-game/sprunki-paradise/
+- https://sprunkin.com/fan-game/sprunki-paradise-2/
+- https://sprunkin.com/fan-game/incredibox-abgerny-but-lemon-lumberjacks-letter-mill/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250720_000859/sitemap.json) and [diff.json](./data/sprunkin.com/20250720_000859/diff.json)
+
 ### 20250717_000815
 
 - https://sprunkin.com/fan-game/sprunki-phase-3-definitive-swap-unswap-style/
@@ -10412,17 +10421,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250717_000815/sitemap.json) and [
 - https://sprunkin.com/fan-game/simon-realism-my-take-v1-alpha/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250716_000804/sitemap.json) and [diff.json](./data/sprunkin.com/20250716_000804/diff.json)
-
-### 20250715_000813
-
-- https://sprunkin.com/fan-game/sprunki-reversed-new-unswap/
-- https://sprunkin.com/fan-game/stickman/
-- https://sprunkin.com/fan-game/this-sprunki-game-is-sus/
-- https://sprunkin.com/fan-game/sprunki-the-infection/
-- https://sprunkin.com/fan-game/sprunki-expanded/
-- https://sprunkin.com/fan-game/sprunki-garnold-time/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250715_000813/sitemap.json) and [diff.json](./data/sprunkin.com/20250715_000813/diff.json)
 
 ## sprunkisinner.org
 
@@ -10783,6 +10781,12 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250720_000859
+
+- https://www.coolmathgames.com/0-sheep-vs-wolf
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250720_000859/sitemap.json) and [diff.json](./data/coolmathgames.com/20250720_000859/diff.json)
+
 ### 20250718_000801
 
 - https://www.coolmathgames.com/0-hidden-antique-shop
@@ -10796,13 +10800,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250718_000801/sitemap.json) 
 - https://www.coolmathgames.com/0-bubble-letters
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250714_000809/sitemap.json) and [diff.json](./data/coolmathgames.com/20250714_000809/diff.json)
-
-### 20250713_000848
-
-- https://www.coolmathgames.com/0-merge-flowers
-- https://www.coolmathgames.com/blog/how-to-play-papas-pizzeria
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250713_000848/sitemap.json) and [diff.json](./data/coolmathgames.com/20250713_000848/diff.json)
 
 ## pogo.com
 
