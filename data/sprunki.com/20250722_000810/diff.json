@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-reboot",
+      "priority": 1.0,
+      "last_modified": "2025-07-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-999",
+      "priority": 1.0,
+      "last_modified": "2025-07-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-parodybox-big-update",
+      "priority": 1.0,
+      "last_modified": "2025-07-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-angry",
+      "priority": 1.0,
+      "last_modified": "2025-07-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-pyramixed-new-update",
+      "priority": 1.0,
+      "last_modified": "2025-07-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-retake-shifted",
+      "priority": 1.0,
+      "last_modified": "2025-07-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

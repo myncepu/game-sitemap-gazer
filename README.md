@@ -96,6 +96,17 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250722_000810
+
+- https://sprunki.com/sprunki-reboot
+- https://sprunki.com/sprunki-phase-999
+- https://sprunki.com/sprunki-parodybox-big-update
+- https://sprunki.com/ja/sprunki-angry
+- https://sprunki.com/ja/sprunki-pyramixed-new-update
+- https://sprunki.com/ja/sprunki-retake-shifted
+
+Raw data: [sitemap.json](./data/sprunki.com/20250722_000810/sitemap.json) and [diff.json](./data/sprunki.com/20250722_000810/diff.json)
+
 ### 20250718_000801
 
 - https://sprunki.com/sprunki-phase-10000
@@ -121,18 +132,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250718_000801/sitemap.json) and [d
 - https://sprunki.com/ja/italian-brainrot-merge-rot
 
 Raw data: [sitemap.json](./data/sprunki.com/20250717_000815/sitemap.json) and [diff.json](./data/sprunki.com/20250717_000815/diff.json)
-
-### 20250716_000804
-
-- https://sprunki.com/sprunki-reversed-phase-3
-- https://sprunki.com/sprunki-angry
-- https://sprunki.com/sprunki-cendi-oc
-- https://sprunki.com/sprunki-vaporwave-v2
-- https://sprunki.com/sprunki-phase-1-5
-- https://sprunki.com/ja/sprunki-multishift
-- https://sprunki.com/ja/sprunki-retake-deluxe
-
-Raw data: [sitemap.json](./data/sprunki.com/20250716_000804/sitemap.json) and [diff.json](./data/sprunki.com/20250716_000804/diff.json)
 
 ## sprunki.net
 
