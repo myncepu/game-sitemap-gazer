@@ -96,6 +96,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250723_000820
+
+- https://sprunki.com/sprunki-metallic-edition
+- https://sprunki.com/simon-time-phase-2
+- https://sprunki.com/sprunki-phase-8-remastered
+- https://sprunki.com/sprunki-phase-888-death
+- https://sprunki.com/sprunki-2-archive
+- https://sprunki.com/ja/sprunki-pyramixed-ultimate-deluxe
+- https://sprunki.com/ja/sprunki-phase-10000
+- https://sprunki.com/ja/sprunki-parodybox-big-update
+
+Raw data: [sitemap.json](./data/sprunki.com/20250723_000820/sitemap.json) and [diff.json](./data/sprunki.com/20250723_000820/diff.json)
+
 ### 20250722_000810
 
 - https://sprunki.com/sprunki-reboot
@@ -119,19 +132,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250722_000810/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-mr-tree-treatment
 
 Raw data: [sitemap.json](./data/sprunki.com/20250718_000801/sitemap.json) and [diff.json](./data/sprunki.com/20250718_000801/diff.json)
-
-### 20250717_000815
-
-- https://sprunki.com/italian-brainrot-merge-rot
-- https://sprunki.com/sprunki-mr-tree-treatment
-- https://sprunki.com/sprunki-retake-shifted
-- https://sprunki.com/sprunki-pyramixed-new-update
-- https://sprunki.com/sprunki-reversed-phase-3-definitive-pyramixed
-- https://sprunki.com/sprunki-reversed-phase-3-definitive
-- https://sprunki.com/ja/sprunki-vaporwave
-- https://sprunki.com/ja/italian-brainrot-merge-rot
-
-Raw data: [sitemap.json](./data/sprunki.com/20250717_000815/sitemap.json) and [diff.json](./data/sprunki.com/20250717_000815/diff.json)
 
 ## sprunki.net
 
@@ -10398,6 +10398,21 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250723_000820
+
+- https://sprunkin.com/game/sprunki-wenda-treatment-4-0/
+- https://sprunkin.com/game/parasprunki-reskin-edition/
+- https://sprunkin.com/fan-game/goofy-ahh-sprunki/
+- https://sprunkin.com/fan-game/sprunki-retake-new-human-15/
+- https://sprunkin.com/fan-game/sprunki-nightly-2/
+- https://sprunkin.com/fan-game/incredibox-abgerny-but-rocky-and-socky/
+- https://sprunkin.com/fan-game/sprunki-parodybox/
+- https://sprunkin.com/fan-game/sprunki-modded-solfege-update/
+- https://sprunkin.com/fan-game/retake-new-human-ketchup/
+- https://sprunkin.com/fan-game/sprunki-phase-9-but-alive/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250723_000820/sitemap.json) and [diff.json](./data/sprunkin.com/20250723_000820/diff.json)
+
 ### 20250720_000859
 
 - https://sprunkin.com/fan-game/sprunki-but-with-tail/
@@ -10412,14 +10427,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250720_000859/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-3-definitive-swap-unswap-style/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250717_000815/sitemap.json) and [diff.json](./data/sprunkin.com/20250717_000815/diff.json)
-
-### 20250716_000804
-
-- https://sprunkin.com/fan-game/sprunki-the-definitive-phases-switcher/
-- https://sprunkin.com/fan-game/sprunki-gmax-retake-the-finale-game-by-the-happy-face/
-- https://sprunkin.com/fan-game/simon-realism-my-take-v1-alpha/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250716_000804/sitemap.json) and [diff.json](./data/sprunkin.com/20250716_000804/diff.json)
 
 ## sprunkisinner.org
 
