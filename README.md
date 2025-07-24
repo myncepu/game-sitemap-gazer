@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250724_000817
+
+- https://sprunki.com/sprunki-phase-3-5
+- https://sprunki.com/sprunki-banana-porridge-2
+- https://sprunki.com/sprunki-phase-22
+- https://sprunki.com/sprunki-phase-25
+- https://sprunki.com/sprunksters-msi
+- https://sprunki.com/ja/sprunki-phase-10-definitive
+- https://sprunki.com/ja/sprunki-phase-3-definitive-retake
+
+Raw data: [sitemap.json](./data/sprunki.com/20250724_000817/sitemap.json) and [diff.json](./data/sprunki.com/20250724_000817/diff.json)
+
 ### 20250723_000820
 
 - https://sprunki.com/sprunki-metallic-edition
@@ -119,19 +131,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250723_000820/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-retake-shifted
 
 Raw data: [sitemap.json](./data/sprunki.com/20250722_000810/sitemap.json) and [diff.json](./data/sprunki.com/20250722_000810/diff.json)
-
-### 20250718_000801
-
-- https://sprunki.com/sprunki-phase-10000
-- https://sprunki.com/sprunki-playground
-- https://sprunki.com/sprunki-phase-21
-- https://sprunki.com/sprunki-phase-1000
-- https://sprunki.com/sprunki-pyramixed-ultimate-deluxe
-- https://sprunki.com/ja/sprunki-pyramixed-finished
-- https://sprunki.com/ja/sprunki-reversed-phase-3
-- https://sprunki.com/ja/sprunki-mr-tree-treatment
-
-Raw data: [sitemap.json](./data/sprunki.com/20250718_000801/sitemap.json) and [diff.json](./data/sprunki.com/20250718_000801/diff.json)
 
 ## sprunki.net
 
@@ -10398,6 +10397,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250724_000817
+
+- https://sprunkin.com/fan-game/sprunki-banana-porridge-official-sound/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250724_000817/sitemap.json) and [diff.json](./data/sprunkin.com/20250724_000817/diff.json)
+
 ### 20250723_000820
 
 - https://sprunkin.com/game/sprunki-wenda-treatment-4-0/
@@ -10421,12 +10426,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250723_000820/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-abgerny-but-lemon-lumberjacks-letter-mill/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250720_000859/sitemap.json) and [diff.json](./data/sprunkin.com/20250720_000859/diff.json)
-
-### 20250717_000815
-
-- https://sprunkin.com/fan-game/sprunki-phase-3-definitive-swap-unswap-style/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250717_000815/sitemap.json) and [diff.json](./data/sprunkin.com/20250717_000815/diff.json)
 
 ## sprunkisinner.org
 
@@ -10787,6 +10786,12 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250724_000817
+
+- https://www.coolmathgames.com/0-flight-cosa
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250724_000817/sitemap.json) and [diff.json](./data/coolmathgames.com/20250724_000817/diff.json)
+
 ### 20250720_000859
 
 - https://www.coolmathgames.com/0-sheep-vs-wolf
@@ -10799,13 +10804,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250720_000859/sitemap.json) 
 - https://www.coolmathgames.com/0-puffinick-a-wingless-story
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250718_000801/sitemap.json) and [diff.json](./data/coolmathgames.com/20250718_000801/diff.json)
-
-### 20250714_000809
-
-- https://www.coolmathgames.com/0-dunk-frenzy
-- https://www.coolmathgames.com/0-bubble-letters
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250714_000809/sitemap.json) and [diff.json](./data/coolmathgames.com/20250714_000809/diff.json)
 
 ## pogo.com
 

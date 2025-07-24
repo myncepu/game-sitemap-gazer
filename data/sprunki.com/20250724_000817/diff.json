@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-phase-3-5",
+      "priority": 1.0,
+      "last_modified": "2025-07-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-banana-porridge-2",
+      "priority": 1.0,
+      "last_modified": "2025-07-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-22",
+      "priority": 1.0,
+      "last_modified": "2025-07-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-25",
+      "priority": 1.0,
+      "last_modified": "2025-07-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunksters-msi",
+      "priority": 1.0,
+      "last_modified": "2025-07-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-10-definitive",
+      "priority": 1.0,
+      "last_modified": "2025-07-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-3-definitive-retake",
+      "priority": 1.0,
+      "last_modified": "2025-07-23T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
