@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250725_000805
+
+- https://sprunki.com/sprunki-phase-9-definitive-new
+- https://sprunki.com/sprunki-phase-17
+- https://sprunki.com/sprunki-moch-treatment
+- https://sprunki.com/ja/sprunki-playground
+- https://sprunki.com/ja/sprunki-phase-8-remastered
+- https://sprunki.com/ja/sprunki-banana-porridge-2
+- https://sprunki.com/ja/sprunki-phase-3-5
+
+Raw data: [sitemap.json](./data/sprunki.com/20250725_000805/sitemap.json) and [diff.json](./data/sprunki.com/20250725_000805/diff.json)
+
 ### 20250724_000817
 
 - https://sprunki.com/sprunki-phase-3-5
@@ -120,17 +132,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250724_000817/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-parodybox-big-update
 
 Raw data: [sitemap.json](./data/sprunki.com/20250723_000820/sitemap.json) and [diff.json](./data/sprunki.com/20250723_000820/diff.json)
-
-### 20250722_000810
-
-- https://sprunki.com/sprunki-reboot
-- https://sprunki.com/sprunki-phase-999
-- https://sprunki.com/sprunki-parodybox-big-update
-- https://sprunki.com/ja/sprunki-angry
-- https://sprunki.com/ja/sprunki-pyramixed-new-update
-- https://sprunki.com/ja/sprunki-retake-shifted
-
-Raw data: [sitemap.json](./data/sprunki.com/20250722_000810/sitemap.json) and [diff.json](./data/sprunki.com/20250722_000810/diff.json)
 
 ## sprunki.net
 
@@ -10397,6 +10398,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250725_000805
+
+- https://sprunkin.com/game/sprunki-ocsbox-sprocssters/
+- https://sprunkin.com/game/sprunki-shifted-remastered/
+- https://sprunkin.com/fan-game/sprunki-corruptbox-4/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250725_000805/sitemap.json) and [diff.json](./data/sprunkin.com/20250725_000805/diff.json)
+
 ### 20250724_000817
 
 - https://sprunkin.com/fan-game/sprunki-banana-porridge-official-sound/
@@ -10417,15 +10426,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250724_000817/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-9-but-alive/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250723_000820/sitemap.json) and [diff.json](./data/sprunkin.com/20250723_000820/diff.json)
-
-### 20250720_000859
-
-- https://sprunkin.com/fan-game/sprunki-but-with-tail/
-- https://sprunkin.com/fan-game/sprunki-paradise/
-- https://sprunkin.com/fan-game/sprunki-paradise-2/
-- https://sprunkin.com/fan-game/incredibox-abgerny-but-lemon-lumberjacks-letter-mill/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250720_000859/sitemap.json) and [diff.json](./data/sprunkin.com/20250720_000859/diff.json)
 
 ## sprunkisinner.org
 

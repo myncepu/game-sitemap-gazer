@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-ocsbox-sprocssters/",
+      "priority": 0.5,
+      "last_modified": "2025-07-24T10:24:15Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-shifted-remastered/",
+      "priority": 0.5,
+      "last_modified": "2025-07-24T10:27:56Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-corruptbox-4/",
+      "priority": 0.5,
+      "last_modified": "2025-07-24T16:56:19Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
