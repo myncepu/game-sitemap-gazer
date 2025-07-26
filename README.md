@@ -96,6 +96,13 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250726_000808
+
+- https://sprunki.com/sprunki-wenda-treatment-pyramixed
+- https://sprunki.com/sprunki-phase-24
+
+Raw data: [sitemap.json](./data/sprunki.com/20250726_000808/sitemap.json) and [diff.json](./data/sprunki.com/20250726_000808/diff.json)
+
 ### 20250725_000805
 
 - https://sprunki.com/sprunki-phase-9-definitive-new
@@ -119,19 +126,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250725_000805/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-3-definitive-retake
 
 Raw data: [sitemap.json](./data/sprunki.com/20250724_000817/sitemap.json) and [diff.json](./data/sprunki.com/20250724_000817/diff.json)
-
-### 20250723_000820
-
-- https://sprunki.com/sprunki-metallic-edition
-- https://sprunki.com/simon-time-phase-2
-- https://sprunki.com/sprunki-phase-8-remastered
-- https://sprunki.com/sprunki-phase-888-death
-- https://sprunki.com/sprunki-2-archive
-- https://sprunki.com/ja/sprunki-pyramixed-ultimate-deluxe
-- https://sprunki.com/ja/sprunki-phase-10000
-- https://sprunki.com/ja/sprunki-parodybox-big-update
-
-Raw data: [sitemap.json](./data/sprunki.com/20250723_000820/sitemap.json) and [diff.json](./data/sprunki.com/20250723_000820/diff.json)
 
 ## sprunki.net
 
@@ -10398,6 +10392,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250726_000808
+
+- https://sprunkin.com/game/sprunki-blossomed/
+- https://sprunkin.com/game/sprunki-vaporwave-v2/
+- https://sprunkin.com/fan-game/sprunki-monki/
+- https://sprunkin.com/fan-game/sxpxr-mxsxo/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250726_000808/sitemap.json) and [diff.json](./data/sprunkin.com/20250726_000808/diff.json)
+
 ### 20250725_000805
 
 - https://sprunkin.com/game/sprunki-ocsbox-sprocssters/
@@ -10411,21 +10414,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250725_000805/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-banana-porridge-official-sound/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250724_000817/sitemap.json) and [diff.json](./data/sprunkin.com/20250724_000817/diff.json)
-
-### 20250723_000820
-
-- https://sprunkin.com/game/sprunki-wenda-treatment-4-0/
-- https://sprunkin.com/game/parasprunki-reskin-edition/
-- https://sprunkin.com/fan-game/goofy-ahh-sprunki/
-- https://sprunkin.com/fan-game/sprunki-retake-new-human-15/
-- https://sprunkin.com/fan-game/sprunki-nightly-2/
-- https://sprunkin.com/fan-game/incredibox-abgerny-but-rocky-and-socky/
-- https://sprunkin.com/fan-game/sprunki-parodybox/
-- https://sprunkin.com/fan-game/sprunki-modded-solfege-update/
-- https://sprunkin.com/fan-game/retake-new-human-ketchup/
-- https://sprunkin.com/fan-game/sprunki-phase-9-but-alive/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250723_000820/sitemap.json) and [diff.json](./data/sprunkin.com/20250723_000820/diff.json)
 
 ## sprunkisinner.org
 
