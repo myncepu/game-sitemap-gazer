@@ -10392,6 +10392,20 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250728_000852
+
+- https://sprunkin.com/game/sprunki-evening/
+- https://sprunkin.com/game/sprunki-static/
+- https://sprunkin.com/fan-game/sprunki-but-silly/
+- https://sprunkin.com/fan-game/sprunkibrudremixtreatment/
+- https://sprunkin.com/fan-game/sprunki-shifted-unshifted/
+- https://sprunkin.com/fan-game/wenda-treatment-update-unofficial/
+- https://sprunkin.com/fan-game/pyramixed-updated-not-official/
+- https://sprunkin.com/fan-game/a-sprunki-tornadoes-2000/
+- https://sprunkin.com/fan-game/parodybox-updated/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250728_000852/sitemap.json) and [diff.json](./data/sprunkin.com/20250728_000852/diff.json)
+
 ### 20250726_000808
 
 - https://sprunkin.com/game/sprunki-blossomed/
@@ -10408,12 +10422,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250726_000808/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-corruptbox-4/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250725_000805/sitemap.json) and [diff.json](./data/sprunkin.com/20250725_000805/diff.json)
-
-### 20250724_000817
-
-- https://sprunkin.com/fan-game/sprunki-banana-porridge-official-sound/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250724_000817/sitemap.json) and [diff.json](./data/sprunkin.com/20250724_000817/diff.json)
 
 ## sprunkisinner.org
 
@@ -10774,6 +10782,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250728_000852
+
+- https://www.coolmathgames.com/0-super-stun-gun-man
+- https://www.coolmathgames.com/0-jigsort-puzzles
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250728_000852/sitemap.json) and [diff.json](./data/coolmathgames.com/20250728_000852/diff.json)
+
 ### 20250724_000817
 
 - https://www.coolmathgames.com/0-flight-cosa
@@ -10785,13 +10800,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250724_000817/sitemap.json) 
 - https://www.coolmathgames.com/0-sheep-vs-wolf
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250720_000859/sitemap.json) and [diff.json](./data/coolmathgames.com/20250720_000859/diff.json)
-
-### 20250718_000801
-
-- https://www.coolmathgames.com/0-hidden-antique-shop
-- https://www.coolmathgames.com/0-puffinick-a-wingless-story
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250718_000801/sitemap.json) and [diff.json](./data/coolmathgames.com/20250718_000801/diff.json)
 
 ## pogo.com
 
