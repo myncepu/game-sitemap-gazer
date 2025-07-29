@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunkiland",
+      "priority": 1.0,
+      "last_modified": "2025-07-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-2-definitive",
+      "priority": 1.0,
+      "last_modified": "2025-07-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-pyramixed-oc",
+      "priority": 1.0,
+      "last_modified": "2025-07-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-oc-v3",
+      "priority": 1.0,
+      "last_modified": "2025-07-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-99",
+      "priority": 1.0,
+      "last_modified": "2025-07-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-moch-treatment",
+      "priority": 1.0,
+      "last_modified": "2025-07-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-wenda-treatment-pyramixed",
+      "priority": 1.0,
+      "last_modified": "2025-07-28T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

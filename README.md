@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250729_000853
+
+- https://sprunki.com/sprunkiland
+- https://sprunki.com/sprunki-phase-2-definitive
+- https://sprunki.com/sprunki-pyramixed-oc
+- https://sprunki.com/sprunki-oc-v3
+- https://sprunki.com/sprunki-phase-99
+- https://sprunki.com/ja/sprunki-moch-treatment
+- https://sprunki.com/ja/sprunki-wenda-treatment-pyramixed
+
+Raw data: [sitemap.json](./data/sprunki.com/20250729_000853/sitemap.json) and [diff.json](./data/sprunki.com/20250729_000853/diff.json)
+
 ### 20250726_000808
 
 - https://sprunki.com/sprunki-wenda-treatment-pyramixed
@@ -114,18 +126,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250726_000808/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-3-5
 
 Raw data: [sitemap.json](./data/sprunki.com/20250725_000805/sitemap.json) and [diff.json](./data/sprunki.com/20250725_000805/diff.json)
-
-### 20250724_000817
-
-- https://sprunki.com/sprunki-phase-3-5
-- https://sprunki.com/sprunki-banana-porridge-2
-- https://sprunki.com/sprunki-phase-22
-- https://sprunki.com/sprunki-phase-25
-- https://sprunki.com/sprunksters-msi
-- https://sprunki.com/ja/sprunki-phase-10-definitive
-- https://sprunki.com/ja/sprunki-phase-3-definitive-retake
-
-Raw data: [sitemap.json](./data/sprunki.com/20250724_000817/sitemap.json) and [diff.json](./data/sprunki.com/20250724_000817/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10392,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250729_000853
+
+- https://sprunkin.com/fan-game/mercat-and-friends-phase-3/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250729_000853/sitemap.json) and [diff.json](./data/sprunkin.com/20250729_000853/diff.json)
+
 ### 20250728_000852
 
 - https://sprunkin.com/game/sprunki-evening/
@@ -10414,14 +10420,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250728_000852/sitemap.json) and [
 - https://sprunkin.com/fan-game/sxpxr-mxsxo/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250726_000808/sitemap.json) and [diff.json](./data/sprunkin.com/20250726_000808/diff.json)
-
-### 20250725_000805
-
-- https://sprunkin.com/game/sprunki-ocsbox-sprocssters/
-- https://sprunkin.com/game/sprunki-shifted-remastered/
-- https://sprunkin.com/fan-game/sprunki-corruptbox-4/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250725_000805/sitemap.json) and [diff.json](./data/sprunkin.com/20250725_000805/diff.json)
 
 ## sprunkisinner.org
 
