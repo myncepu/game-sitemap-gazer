@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new/",
+      "priority": 0.5,
+      "last_modified": "2025-07-29T15:21:04Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-sprunkly/",
+      "priority": 0.5,
+      "last_modified": "2025-07-29T15:38:09Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-3-3/",
+      "priority": 0.5,
+      "last_modified": "2025-07-29T18:35:44Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-srunki-strinkered/",
+      "priority": 0.5,
+      "last_modified": "2025-07-30T18:10:04Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

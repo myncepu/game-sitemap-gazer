@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-remastered-3-0",
+      "priority": 1.0,
+      "last_modified": "2025-07-30T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunkilairity-remake-2-0",
+      "priority": 1.0,
+      "last_modified": "2025-07-30T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-paw-patrol",
+      "priority": 1.0,
+      "last_modified": "2025-07-30T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-with-oc-2",
+      "priority": 1.0,
+      "last_modified": "2025-07-30T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-swap-showcase",
+      "priority": 1.0,
+      "last_modified": "2025-07-30T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/simon-time-phase-2",
+      "priority": 1.0,
+      "last_modified": "2025-07-30T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-pinki-treatment",
+      "priority": 1.0,
+      "last_modified": "2025-07-30T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

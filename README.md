@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250731_000802
+
+- https://sprunki.com/sprunki-remastered-3-0
+- https://sprunki.com/sprunkilairity-remake-2-0
+- https://sprunki.com/sprunki-paw-patrol
+- https://sprunki.com/sprunki-with-oc-2
+- https://sprunki.com/sprunki-swap-showcase
+- https://sprunki.com/ja/simon-time-phase-2
+- https://sprunki.com/ja/sprunki-pinki-treatment
+
+Raw data: [sitemap.json](./data/sprunki.com/20250731_000802/sitemap.json) and [diff.json](./data/sprunki.com/20250731_000802/diff.json)
+
 ### 20250730_000837
 
 - https://sprunki.com/sprunki-phase-19
@@ -119,13 +131,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250730_000837/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-wenda-treatment-pyramixed
 
 Raw data: [sitemap.json](./data/sprunki.com/20250729_000853/sitemap.json) and [diff.json](./data/sprunki.com/20250729_000853/diff.json)
-
-### 20250726_000808
-
-- https://sprunki.com/sprunki-wenda-treatment-pyramixed
-- https://sprunki.com/sprunki-phase-24
-
-Raw data: [sitemap.json](./data/sprunki.com/20250726_000808/sitemap.json) and [diff.json](./data/sprunki.com/20250726_000808/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10397,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250731_000802
+
+- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new/
+- https://sprunkin.com/fan-game/incredibox-sprunkly/
+- https://sprunkin.com/fan-game/sprunki-phase-3-3/
+- https://sprunkin.com/fan-game/incredibox-srunki-strinkered/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250731_000802/sitemap.json) and [diff.json](./data/sprunkin.com/20250731_000802/diff.json)
+
 ### 20250730_000837
 
 - https://sprunkin.com/game/sprunki-sprunksters-1996/
@@ -10405,20 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250730_000837/sitemap.json) and [
 - https://sprunkin.com/fan-game/mercat-and-friends-phase-3/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250729_000853/sitemap.json) and [diff.json](./data/sprunkin.com/20250729_000853/diff.json)
-
-### 20250728_000852
-
-- https://sprunkin.com/game/sprunki-evening/
-- https://sprunkin.com/game/sprunki-static/
-- https://sprunkin.com/fan-game/sprunki-but-silly/
-- https://sprunkin.com/fan-game/sprunkibrudremixtreatment/
-- https://sprunkin.com/fan-game/sprunki-shifted-unshifted/
-- https://sprunkin.com/fan-game/wenda-treatment-update-unofficial/
-- https://sprunkin.com/fan-game/pyramixed-updated-not-official/
-- https://sprunkin.com/fan-game/a-sprunki-tornadoes-2000/
-- https://sprunkin.com/fan-game/parodybox-updated/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250728_000852/sitemap.json) and [diff.json](./data/sprunkin.com/20250728_000852/diff.json)
 
 ## sprunkisinner.org
 
