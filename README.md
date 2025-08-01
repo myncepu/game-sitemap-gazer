@@ -96,6 +96,14 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250801_000912
+
+- https://sprunki.com/sprunki-phase-30
+- https://sprunki.com/ja/sprunksters-msi
+- https://sprunki.com/ja/sprunki-oc-v3
+
+Raw data: [sitemap.json](./data/sprunki.com/20250801_000912/sitemap.json) and [diff.json](./data/sprunki.com/20250801_000912/diff.json)
+
 ### 20250731_000802
 
 - https://sprunki.com/sprunki-remastered-3-0
@@ -119,18 +127,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250731_000802/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-reboot
 
 Raw data: [sitemap.json](./data/sprunki.com/20250730_000837/sitemap.json) and [diff.json](./data/sprunki.com/20250730_000837/diff.json)
-
-### 20250729_000853
-
-- https://sprunki.com/sprunkiland
-- https://sprunki.com/sprunki-phase-2-definitive
-- https://sprunki.com/sprunki-pyramixed-oc
-- https://sprunki.com/sprunki-oc-v3
-- https://sprunki.com/sprunki-phase-99
-- https://sprunki.com/ja/sprunki-moch-treatment
-- https://sprunki.com/ja/sprunki-wenda-treatment-pyramixed
-
-Raw data: [sitemap.json](./data/sprunki.com/20250729_000853/sitemap.json) and [diff.json](./data/sprunki.com/20250729_000853/diff.json)
 
 ## sprunki.net
 
@@ -10779,6 +10775,13 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250801_000912
+
+- https://www.coolmathgames.com/0-pinball-pro
+- https://www.coolmathgames.com/0-mysa
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250801_000912/sitemap.json) and [diff.json](./data/coolmathgames.com/20250801_000912/diff.json)
+
 ### 20250728_000852
 
 - https://www.coolmathgames.com/0-super-stun-gun-man
@@ -10791,12 +10794,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250728_000852/sitemap.json) 
 - https://www.coolmathgames.com/0-flight-cosa
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250724_000817/sitemap.json) and [diff.json](./data/coolmathgames.com/20250724_000817/diff.json)
-
-### 20250720_000859
-
-- https://www.coolmathgames.com/0-sheep-vs-wolf
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250720_000859/sitemap.json) and [diff.json](./data/coolmathgames.com/20250720_000859/diff.json)
 
 ## pogo.com
 

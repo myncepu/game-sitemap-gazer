@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-phase-30",
+      "priority": 1.0,
+      "last_modified": "2025-07-31T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunksters-msi",
+      "priority": 1.0,
+      "last_modified": "2025-07-31T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-oc-v3",
+      "priority": 1.0,
+      "last_modified": "2025-07-31T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
