@@ -96,6 +96,17 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250802_000811
+
+- https://sprunki.com/sprunki-colors
+- https://sprunki.com/incredibox-warm-like-fire
+- https://sprunki.com/sprunki-bunbox
+- https://sprunki.com/sprunbox-qoobies
+- https://sprunki.com/sprunki-cute-time
+- https://sprunki.com/ja/sprunki-vaporwave-v2
+
+Raw data: [sitemap.json](./data/sprunki.com/20250802_000811/sitemap.json) and [diff.json](./data/sprunki.com/20250802_000811/diff.json)
+
 ### 20250801_000912
 
 - https://sprunki.com/sprunki-phase-30
@@ -115,18 +126,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250801_000912/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-pinki-treatment
 
 Raw data: [sitemap.json](./data/sprunki.com/20250731_000802/sitemap.json) and [diff.json](./data/sprunki.com/20250731_000802/diff.json)
-
-### 20250730_000837
-
-- https://sprunki.com/sprunki-phase-19
-- https://sprunki.com/sprunki-phase-13-original
-- https://sprunki.com/sprunki-rat-dance
-- https://sprunki.com/gorilla-tag-sprunki
-- https://sprunki.com/sprunki-pinki-treatment
-- https://sprunki.com/ja/sprunki-unswapped
-- https://sprunki.com/ja/sprunki-reboot
-
-Raw data: [sitemap.json](./data/sprunki.com/20250730_000837/sitemap.json) and [diff.json](./data/sprunki.com/20250730_000837/diff.json)
 
 ## sprunki.net
 
@@ -10393,6 +10392,22 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250802_000811
+
+- https://sprunkin.com/game/sprunki-deluxe-ocs/
+- https://sprunkin.com/game/sprunki-msi-2-0/
+- https://sprunkin.com/game/sprunki-abgerny-3-0/
+- https://sprunkin.com/fan-game/sprunki-phase-69-but-everyone-survived-except-black/
+- https://sprunkin.com/fan-game/sprunki-phase-6-but-rosaline-healed-everyone/
+- https://sprunkin.com/fan-game/sprunki-phase-1452/
+- https://sprunkin.com/fan-game/sprunki-phase-1116/
+- https://sprunkin.com/fan-game/sprunki-phase-1000002/
+- https://sprunkin.com/fan-game/abgerny-1999-but-mercat-and-friends/
+- https://sprunkin.com/fan-game/sprunki-monki-last-update/
+- https://sprunkin.com/fan-game/sprunki-phase-3-definitive-reversed-edition/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250802_000811/sitemap.json) and [diff.json](./data/sprunkin.com/20250802_000811/diff.json)
+
 ### 20250731_000802
 
 - https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new/
@@ -10409,12 +10424,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250731_000802/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-monki-latest-uptd/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250730_000837/sitemap.json) and [diff.json](./data/sprunkin.com/20250730_000837/diff.json)
-
-### 20250729_000853
-
-- https://sprunkin.com/fan-game/mercat-and-friends-phase-3/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250729_000853/sitemap.json) and [diff.json](./data/sprunkin.com/20250729_000853/diff.json)
 
 ## sprunkisinner.org
 
