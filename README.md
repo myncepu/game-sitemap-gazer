@@ -10392,6 +10392,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250803_000908
+
+- https://sprunkin.com/game/sprunki-definitive-phase-9-new/
+- https://sprunkin.com/game/sprunki-abgerny-deluxe-edition/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250803_000908/sitemap.json) and [diff.json](./data/sprunkin.com/20250803_000908/diff.json)
+
 ### 20250802_000811
 
 - https://sprunkin.com/game/sprunki-deluxe-ocs/
@@ -10416,14 +10423,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250802_000811/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-srunki-strinkered/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250731_000802/sitemap.json) and [diff.json](./data/sprunkin.com/20250731_000802/diff.json)
-
-### 20250730_000837
-
-- https://sprunkin.com/game/sprunki-sprunksters-1996/
-- https://sprunkin.com/game/parasprunki-16-0-part-3-5/
-- https://sprunkin.com/fan-game/sprunki-monki-latest-uptd/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250730_000837/sitemap.json) and [diff.json](./data/sprunkin.com/20250730_000837/diff.json)
 
 ## sprunkisinner.org
 
@@ -10784,6 +10783,12 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 
 ## coolmathgames.com
 
+### 20250803_000908
+
+- https://www.coolmathgames.com/0-jewel-jet
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250803_000908/sitemap.json) and [diff.json](./data/coolmathgames.com/20250803_000908/diff.json)
+
 ### 20250801_000912
 
 - https://www.coolmathgames.com/0-pinball-pro
@@ -10797,12 +10802,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250801_000912/sitemap.json) 
 - https://www.coolmathgames.com/0-jigsort-puzzles
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250728_000852/sitemap.json) and [diff.json](./data/coolmathgames.com/20250728_000852/diff.json)
-
-### 20250724_000817
-
-- https://www.coolmathgames.com/0-flight-cosa
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250724_000817/sitemap.json) and [diff.json](./data/coolmathgames.com/20250724_000817/diff.json)
 
 ## pogo.com
 
