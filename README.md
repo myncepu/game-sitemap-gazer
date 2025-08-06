@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250806_000824
+
+- https://sprunki.com/kino-sprunked-2-0-mini-remake
+- https://sprunki.com/sprunki-retake-max-design-pro
+- https://sprunki.com/ja/sprunki-phase-21
+- https://sprunki.com/ja/sprunki-phase-19
+
+Raw data: [sitemap.json](./data/sprunki.com/20250806_000824/sitemap.json) and [diff.json](./data/sprunki.com/20250806_000824/diff.json)
+
 ### 20250805_000825
 
 - https://sprunki.com/sprunki-nightly
@@ -116,14 +125,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250805_000825/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-vaporwave-v2
 
 Raw data: [sitemap.json](./data/sprunki.com/20250802_000811/sitemap.json) and [diff.json](./data/sprunki.com/20250802_000811/diff.json)
-
-### 20250801_000912
-
-- https://sprunki.com/sprunki-phase-30
-- https://sprunki.com/ja/sprunksters-msi
-- https://sprunki.com/ja/sprunki-oc-v3
-
-Raw data: [sitemap.json](./data/sprunki.com/20250801_000912/sitemap.json) and [diff.json](./data/sprunki.com/20250801_000912/diff.json)
 
 ## sprunki.net
 
@@ -10390,6 +10391,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250806_000824
+
+- https://sprunkin.com/game/sprunki-swap-cancel/
+- https://sprunkin.com/game/sprunked-but-100th-ver/
+- https://sprunkin.com/fan-game/sprunki-definitive-phase-11-fanmade/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250806_000824/sitemap.json) and [diff.json](./data/sprunkin.com/20250806_000824/diff.json)
+
 ### 20250805_000825
 
 - https://sprunkin.com/fan-game/sprunki-so-que-turma-da-alaninha-mod/
@@ -10403,22 +10412,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250805_000825/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-abgerny-deluxe-edition/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250803_000908/sitemap.json) and [diff.json](./data/sprunkin.com/20250803_000908/diff.json)
-
-### 20250802_000811
-
-- https://sprunkin.com/game/sprunki-deluxe-ocs/
-- https://sprunkin.com/game/sprunki-msi-2-0/
-- https://sprunkin.com/game/sprunki-abgerny-3-0/
-- https://sprunkin.com/fan-game/sprunki-phase-69-but-everyone-survived-except-black/
-- https://sprunkin.com/fan-game/sprunki-phase-6-but-rosaline-healed-everyone/
-- https://sprunkin.com/fan-game/sprunki-phase-1452/
-- https://sprunkin.com/fan-game/sprunki-phase-1116/
-- https://sprunkin.com/fan-game/sprunki-phase-1000002/
-- https://sprunkin.com/fan-game/abgerny-1999-but-mercat-and-friends/
-- https://sprunkin.com/fan-game/sprunki-monki-last-update/
-- https://sprunkin.com/fan-game/sprunki-phase-3-definitive-reversed-edition/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250802_000811/sitemap.json) and [diff.json](./data/sprunkin.com/20250802_000811/diff.json)
 
 ## sprunkisinner.org
 
@@ -10776,6 +10769,12 @@ Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [d
 ## newgrounds.com
 
 ## miniclip.com
+
+### 20250806_000824
+
+- https://www.miniclip.com/pc-privacy-policy
+
+Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [diff.json](./data/miniclip.com/20250806_000824/diff.json)
 
 ## coolmathgames.com
 

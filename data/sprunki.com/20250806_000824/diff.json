@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/kino-sprunked-2-0-mini-remake",
+      "priority": 1.0,
+      "last_modified": "2025-08-05T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-retake-max-design-pro",
+      "priority": 1.0,
+      "last_modified": "2025-08-05T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-21",
+      "priority": 1.0,
+      "last_modified": "2025-08-05T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-19",
+      "priority": 1.0,
+      "last_modified": "2025-08-05T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
