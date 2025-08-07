@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-find-the-difference",
+      "priority": 0.5,
+      "last_modified": "2025-08-04T20:12:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-sheldon",
+      "priority": 0.5,
+      "last_modified": "2025-08-04T20:31:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/blog/best-games-for-chromebook",
+      "priority": 0.5,
+      "last_modified": "2025-08-01T22:05:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-merge-combo",
+      "priority": 0.5,
+      "last_modified": "2025-08-01T20:37:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}

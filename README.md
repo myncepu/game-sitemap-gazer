@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250807_000821
+
+- https://sprunki.com/sprunki-phase-5-remastered
+- https://sprunki.com/sprunki-abgerny-deluxe-edition
+- https://sprunki.com/ja/sprunki-phase-30
+- https://sprunki.com/ja/sprunki-cute-time
+
+Raw data: [sitemap.json](./data/sprunki.com/20250807_000821/sitemap.json) and [diff.json](./data/sprunki.com/20250807_000821/diff.json)
+
 ### 20250806_000824
 
 - https://sprunki.com/kino-sprunked-2-0-mini-remake
@@ -114,17 +123,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250806_000824/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-22
 
 Raw data: [sitemap.json](./data/sprunki.com/20250805_000825/sitemap.json) and [diff.json](./data/sprunki.com/20250805_000825/diff.json)
-
-### 20250802_000811
-
-- https://sprunki.com/sprunki-colors
-- https://sprunki.com/incredibox-warm-like-fire
-- https://sprunki.com/sprunki-bunbox
-- https://sprunki.com/sprunbox-qoobies
-- https://sprunki.com/sprunki-cute-time
-- https://sprunki.com/ja/sprunki-vaporwave-v2
-
-Raw data: [sitemap.json](./data/sprunki.com/20250802_000811/sitemap.json) and [diff.json](./data/sprunki.com/20250802_000811/diff.json)
 
 ## sprunki.net
 
@@ -10778,6 +10776,15 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250807_000821
+
+- https://www.coolmathgames.com/0-find-the-difference
+- https://www.coolmathgames.com/0-sheldon
+- https://www.coolmathgames.com/blog/best-games-for-chromebook
+- https://www.coolmathgames.com/0-merge-combo
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250807_000821/sitemap.json) and [diff.json](./data/coolmathgames.com/20250807_000821/diff.json)
+
 ### 20250803_000908
 
 - https://www.coolmathgames.com/0-jewel-jet
@@ -10790,13 +10797,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250803_000908/sitemap.json) 
 - https://www.coolmathgames.com/0-mysa
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250801_000912/sitemap.json) and [diff.json](./data/coolmathgames.com/20250801_000912/diff.json)
-
-### 20250728_000852
-
-- https://www.coolmathgames.com/0-super-stun-gun-man
-- https://www.coolmathgames.com/0-jigsort-puzzles
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250728_000852/sitemap.json) and [diff.json](./data/coolmathgames.com/20250728_000852/diff.json)
 
 ## pogo.com
 
