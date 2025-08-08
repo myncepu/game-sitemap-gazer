@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/agent-sprunkis",
+      "priority": 1.0,
+      "last_modified": "2025-08-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-3-reimagined",
+      "priority": 1.0,
+      "last_modified": "2025-08-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-13-definitive",
+      "priority": 1.0,
+      "last_modified": "2025-08-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunka",
+      "priority": 1.0,
+      "last_modified": "2025-08-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-3-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-08-07T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
