@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-but-better-cooler",
+      "priority": 1.0,
+      "last_modified": "2025-08-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-the-amazing-digital-circus",
+      "priority": 1.0,
+      "last_modified": "2025-08-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-super-tunes",
+      "priority": 1.0,
+      "last_modified": "2025-08-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-9-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-08-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunkilairity-swapped",
+      "priority": 1.0,
+      "last_modified": "2025-08-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-5-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-08-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-3-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-08-08T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

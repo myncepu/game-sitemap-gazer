@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-reestiled/",
+      "priority": 0.5,
+      "last_modified": "2025-08-08T07:07:48Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/fiddlebops-sprunkters/",
+      "priority": 0.5,
+      "last_modified": "2025-08-08T07:10:40Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprinkle-multishift/",
+      "priority": 0.5,
+      "last_modified": "2025-08-08T07:13:03Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
