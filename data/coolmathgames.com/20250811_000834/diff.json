@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-tobinin",
+      "priority": 0.5,
+      "last_modified": "2025-08-08T20:37:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-unbrakable",
+      "priority": 0.5,
+      "last_modified": "2025-08-07T20:37:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
