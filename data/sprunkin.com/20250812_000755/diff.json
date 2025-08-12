@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-freaky/",
+      "priority": 0.5,
+      "last_modified": "2025-08-08T16:55:12Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-re-scarified/",
+      "priority": 0.5,
+      "last_modified": "2025-08-09T02:55:21Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-but-something-is-up/",
+      "priority": 0.5,
+      "last_modified": "2025-08-09T18:04:44Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

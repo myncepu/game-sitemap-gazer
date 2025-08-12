@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250812_000755
+
+- https://sprunki.com/sprunki-but-noob-block
+- https://sprunki.com/random-sprunked
+- https://sprunki.com/sprunki-after-math
+- https://sprunki.com/sprunki-multiverse
+- https://sprunki.com/incredibox-hollows
+- https://sprunki.com/ja/sprunki-with-oc-2
+- https://sprunki.com/ja/sprunkilairity-remake-2-0
+
+Raw data: [sitemap.json](./data/sprunki.com/20250812_000755/sitemap.json) and [diff.json](./data/sprunki.com/20250812_000755/diff.json)
+
 ### 20250809_000733
 
 - https://sprunki.com/sprunki-but-better-cooler
@@ -117,15 +129,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250809_000733/sitemap.json) and [d
 - https://sprunki.com/sprunki-phase-3-remastered
 
 Raw data: [sitemap.json](./data/sprunki.com/20250808_000812/sitemap.json) and [diff.json](./data/sprunki.com/20250808_000812/diff.json)
-
-### 20250807_000821
-
-- https://sprunki.com/sprunki-phase-5-remastered
-- https://sprunki.com/sprunki-abgerny-deluxe-edition
-- https://sprunki.com/ja/sprunki-phase-30
-- https://sprunki.com/ja/sprunki-cute-time
-
-Raw data: [sitemap.json](./data/sprunki.com/20250807_000821/sitemap.json) and [diff.json](./data/sprunki.com/20250807_000821/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10395,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250812_000755
+
+- https://sprunkin.com/fan-game/sprunki-freaky/
+- https://sprunkin.com/fan-game/sprunki-re-scarified/
+- https://sprunkin.com/fan-game/sprunki-but-something-is-up/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250812_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250812_000755/diff.json)
+
 ### 20250809_000733
 
 - https://sprunkin.com/game/sprunki-reestiled/
@@ -10408,14 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250809_000733/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-4-but-all-is-jevin/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250808_000812/sitemap.json) and [diff.json](./data/sprunkin.com/20250808_000812/diff.json)
-
-### 20250806_000824
-
-- https://sprunkin.com/game/sprunki-swap-cancel/
-- https://sprunkin.com/game/sprunked-but-100th-ver/
-- https://sprunkin.com/fan-game/sprunki-definitive-phase-11-fanmade/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250806_000824/sitemap.json) and [diff.json](./data/sprunkin.com/20250806_000824/diff.json)
 
 ## sprunkisinner.org
 
