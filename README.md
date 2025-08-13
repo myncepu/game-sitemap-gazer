@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250813_000805
+
+- https://sprunki.com/sprunki-phase-5-v2
+- https://sprunki.com/sprunki-retake-fe-christmas
+- https://sprunki.com/sprunki-pyrof-nfe
+- https://sprunki.com/sprunki-rebased
+- https://sprunki.com/sprunki-but-everyone-is-clukr
+- https://sprunki.com/ja/sprunki-phase-13-original
+- https://sprunki.com/ja/sprunki-swap-showcase
+
+Raw data: [sitemap.json](./data/sprunki.com/20250813_000805/sitemap.json) and [diff.json](./data/sprunki.com/20250813_000805/diff.json)
+
 ### 20250812_000755
 
 - https://sprunki.com/sprunki-but-noob-block
@@ -119,16 +131,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250812_000755/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-3-remastered
 
 Raw data: [sitemap.json](./data/sprunki.com/20250809_000733/sitemap.json) and [diff.json](./data/sprunki.com/20250809_000733/diff.json)
-
-### 20250808_000812
-
-- https://sprunki.com/agent-sprunkis
-- https://sprunki.com/sprunki-phase-3-reimagined
-- https://sprunki.com/sprunki-phase-13-definitive
-- https://sprunki.com/sprunka
-- https://sprunki.com/sprunki-phase-3-remastered
-
-Raw data: [sitemap.json](./data/sprunki.com/20250808_000812/sitemap.json) and [diff.json](./data/sprunki.com/20250808_000812/diff.json)
 
 ## sprunki.net
 
@@ -10395,6 +10397,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250813_000805
+
+- https://sprunkin.com/game/sprunki-abgerny-birds/
+- https://sprunkin.com/game/sprunky-dunky-but-sprinkle/
+- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3-but-alive/
+- https://sprunkin.com/fan-game/sulfurs-world/
+- https://sprunkin.com/fan-game/sprunki-but-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250813_000805/sitemap.json) and [diff.json](./data/sprunkin.com/20250813_000805/diff.json)
+
 ### 20250812_000755
 
 - https://sprunkin.com/fan-game/sprunki-freaky/
@@ -10410,15 +10422,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250812_000755/sitemap.json) and [
 - https://sprunkin.com/game/sprinkle-multishift/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250809_000733/sitemap.json) and [diff.json](./data/sprunkin.com/20250809_000733/diff.json)
-
-### 20250808_000812
-
-- https://sprunkin.com/fan-game/sprunki-merge-beta/
-- https://sprunkin.com/fan-game/rottie-re-rotted/
-- https://sprunkin.com/fan-game/sprunked-reanimated/
-- https://sprunkin.com/fan-game/sprunki-phase-4-but-all-is-jevin/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250808_000812/sitemap.json) and [diff.json](./data/sprunkin.com/20250808_000812/diff.json)
 
 ## sprunkisinner.org
 
@@ -10809,6 +10812,20 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250807_000821/sitemap.json) 
 
 ## pogo.com
 
+### 20250813_000805
+
+- https://www.pogo.com/free-online-games/2-player
+- https://www.pogo.com/free-online-games/arcade
+- https://www.pogo.com/free-online-games/block
+- https://www.pogo.com/free-online-games/crazy-games
+- https://www.pogo.com/free-online-games/number
+- https://www.pogo.com/free-online-games/mobile
+- https://www.pogo.com/free-online-games/relaxing
+- https://www.pogo.com/free-online-games/1-player
+- https://www.pogo.com/free-online-games/skill
+
+Raw data: [sitemap.json](./data/pogo.com/20250813_000805/sitemap.json) and [diff.json](./data/pogo.com/20250813_000805/diff.json)
+
 ### 20250619_000804
 
 - https://www.pogo.com/games/card-scramble
@@ -10820,12 +10837,6 @@ Raw data: [sitemap.json](./data/pogo.com/20250619_000804/sitemap.json) and [diff
 - https://www.pogo.com/redeem-guest-pass
 
 Raw data: [sitemap.json](./data/pogo.com/20250326_000707/sitemap.json) and [diff.json](./data/pogo.com/20250326_000707/diff.json)
-
-### 20250123_000623
-
-- https://www.pogo.com/games/wheel-of-fortune
-
-Raw data: [sitemap.json](./data/pogo.com/20250123_000623/sitemap.json) and [diff.json](./data/pogo.com/20250123_000623/diff.json)
 
 ## agame.com
 
