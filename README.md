@@ -96,6 +96,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250815_000806
+
+- https://sprunki.com/sprunki-but-old
+- https://sprunki.com/sprunki-retake-added-oc
+- https://sprunki.com/sprunki-circo-digital
+- https://sprunki.com/sprunki-max-design-pro-phase-3
+- https://sprunki.com/parasprunki-nfe-update
+- https://sprunki.com/ja/sprunki-clicker
+- https://sprunki.com/ja/spruted-remastered-final-update
+- https://sprunki.com/ja/sprunki-sky-and-you
+
+Raw data: [sitemap.json](./data/sprunki.com/20250815_000806/sitemap.json) and [diff.json](./data/sprunki.com/20250815_000806/diff.json)
+
 ### 20250814_000757
 
 - https://sprunki.com/sprunki-pyramix-silly-edition
@@ -119,18 +132,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250814_000757/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-swap-showcase
 
 Raw data: [sitemap.json](./data/sprunki.com/20250813_000805/sitemap.json) and [diff.json](./data/sprunki.com/20250813_000805/diff.json)
-
-### 20250812_000755
-
-- https://sprunki.com/sprunki-but-noob-block
-- https://sprunki.com/random-sprunked
-- https://sprunki.com/sprunki-after-math
-- https://sprunki.com/sprunki-multiverse
-- https://sprunki.com/incredibox-hollows
-- https://sprunki.com/ja/sprunki-with-oc-2
-- https://sprunki.com/ja/sprunkilairity-remake-2-0
-
-Raw data: [sitemap.json](./data/sprunki.com/20250812_000755/sitemap.json) and [diff.json](./data/sprunki.com/20250812_000755/diff.json)
 
 ## sprunki.net
 
@@ -10786,6 +10787,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250815_000806
+
+- https://www.coolmathgames.com/0-tap-tap-race
+- https://www.coolmathgames.com/blog/how-to-play-find-the-difference
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250815_000806/sitemap.json) and [diff.json](./data/coolmathgames.com/20250815_000806/diff.json)
+
 ### 20250814_000757
 
 - https://www.coolmathgames.com/0-tic-tac-tumble
@@ -10798,12 +10806,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250814_000757/sitemap.json) 
 - https://www.coolmathgames.com/0-unbrakable
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250811_000834/sitemap.json) and [diff.json](./data/coolmathgames.com/20250811_000834/diff.json)
-
-### 20250809_000733
-
-- https://www.coolmathgames.com/0-bloku
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250809_000733/sitemap.json) and [diff.json](./data/coolmathgames.com/20250809_000733/diff.json)
 
 ## pogo.com
 
