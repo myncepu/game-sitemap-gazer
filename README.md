@@ -96,6 +96,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250816_000738
+
+- https://sprunki.com/sprunki-but-fruity
+- https://sprunki.com/sprunki-compas
+- https://sprunki.com/sprunki-pyramixed-parasite
+- https://sprunki.com/ja/sprunki-remastered-3-0
+- https://sprunki.com/ja/sprunki-phase-5-v2
+
+Raw data: [sitemap.json](./data/sprunki.com/20250816_000738/sitemap.json) and [diff.json](./data/sprunki.com/20250816_000738/diff.json)
+
 ### 20250815_000806
 
 - https://sprunki.com/sprunki-but-old
@@ -120,18 +130,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250815_000806/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-9-remastered
 
 Raw data: [sitemap.json](./data/sprunki.com/20250814_000757/sitemap.json) and [diff.json](./data/sprunki.com/20250814_000757/diff.json)
-
-### 20250813_000805
-
-- https://sprunki.com/sprunki-phase-5-v2
-- https://sprunki.com/sprunki-retake-fe-christmas
-- https://sprunki.com/sprunki-pyrof-nfe
-- https://sprunki.com/sprunki-rebased
-- https://sprunki.com/sprunki-but-everyone-is-clukr
-- https://sprunki.com/ja/sprunki-phase-13-original
-- https://sprunki.com/ja/sprunki-swap-showcase
-
-Raw data: [sitemap.json](./data/sprunki.com/20250813_000805/sitemap.json) and [diff.json](./data/sprunki.com/20250813_000805/diff.json)
 
 ## sprunki.net
 
@@ -10398,6 +10396,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250816_000738
+
+- https://sprunkin.com/game/sprunki-future-polaris/
+- https://sprunkin.com/game/spruted-restarted/
+- https://sprunkin.com/game/sprunki-anti-shifted/
+- https://sprunkin.com/fan-game/sprunki-phase-4-but-alive/
+- https://sprunkin.com/fan-game/sulfurs-sulfuric-little-world/
+- https://sprunkin.com/fan-game/sprunki-multishift-animated-new-ocs/
+- https://sprunkin.com/fan-game/sprunki-retake-hew-human-ketchup/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250816_000738/sitemap.json) and [diff.json](./data/sprunkin.com/20250816_000738/diff.json)
+
 ### 20250814_000757
 
 - https://sprunkin.com/game/sprunki-infectibox-ii-the-remaster/
@@ -10413,14 +10423,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250814_000757/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250813_000805/sitemap.json) and [diff.json](./data/sprunkin.com/20250813_000805/diff.json)
-
-### 20250812_000755
-
-- https://sprunkin.com/fan-game/sprunki-freaky/
-- https://sprunkin.com/fan-game/sprunki-re-scarified/
-- https://sprunkin.com/fan-game/sprunki-but-something-is-up/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250812_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250812_000755/diff.json)
 
 ## sprunkisinner.org
 
