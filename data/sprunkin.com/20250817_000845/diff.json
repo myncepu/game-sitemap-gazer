@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunkr-the-parasprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-08-16T09:12:45Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-wenda-treatment-dandys-world-style/",
+      "priority": 0.5,
+      "last_modified": "2025-08-16T09:03:03Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/%d1%85%d0%b7-%d1%87%d0%be-%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d1%82%d0%be/",
+      "priority": 0.5,
+      "last_modified": "2025-08-15T18:18:09Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/eee/",
+      "priority": 0.5,
+      "last_modified": "2025-08-15T18:18:40Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunkis-children/",
+      "priority": 0.5,
+      "last_modified": "2025-08-16T09:04:18Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/forsaken-sprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-08-16T14:14:04Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/forsaken-sprunki-2/",
+      "priority": 0.5,
+      "last_modified": "2025-08-16T14:14:20Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

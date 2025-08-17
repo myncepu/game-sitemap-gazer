@@ -10396,6 +10396,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250817_000845
+
+- https://sprunkin.com/game/sprunkr-the-parasprunki/
+- https://sprunkin.com/game/sprunki-wenda-treatment-dandys-world-style/
+- https://sprunkin.com/fan-game/%d1%85%d0%b7-%d1%87%d0%be-%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d1%82%d0%be/
+- https://sprunkin.com/fan-game/eee/
+- https://sprunkin.com/fan-game/sprunkis-children/
+- https://sprunkin.com/fan-game/forsaken-sprunki/
+- https://sprunkin.com/fan-game/forsaken-sprunki-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250817_000845/sitemap.json) and [diff.json](./data/sprunkin.com/20250817_000845/diff.json)
+
 ### 20250816_000738
 
 - https://sprunkin.com/game/sprunki-future-polaris/
@@ -10413,16 +10425,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250816_000738/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-infectibox-ii-the-remaster/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250814_000757/sitemap.json) and [diff.json](./data/sprunkin.com/20250814_000757/diff.json)
-
-### 20250813_000805
-
-- https://sprunkin.com/game/sprunki-abgerny-birds/
-- https://sprunkin.com/game/sprunky-dunky-but-sprinkle/
-- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3-but-alive/
-- https://sprunkin.com/fan-game/sulfurs-world/
-- https://sprunkin.com/fan-game/sprunki-but-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250813_000805/sitemap.json) and [diff.json](./data/sprunkin.com/20250813_000805/diff.json)
 
 ## sprunkisinner.org
 
