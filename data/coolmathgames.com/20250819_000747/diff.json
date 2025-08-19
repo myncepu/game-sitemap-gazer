@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-origin",
+      "priority": 0.5,
+      "last_modified": "2025-08-15T19:21:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-sum-master",
+      "priority": 0.5,
+      "last_modified": "2025-08-15T20:37:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-floor-is-lava",
+      "priority": 0.5,
+      "last_modified": "2025-08-14T20:20:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
