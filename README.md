@@ -96,6 +96,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250820_000736
+
+- https://sprunki.com/sprunkiblox-retake
+- https://sprunki.com/sprunki-pyramixed-phase-2-remake
+- https://sprunki.com/parasprunked
+- https://sprunki.com/sprunki-playtime
+- https://sprunki.com/sprunki-phase-26
+- https://sprunki.com/ja/sprunki-modded-christmas
+- https://sprunki.com/ja/sprunki-modded-3
+- https://sprunki.com/ja/sprunki-phase-3-reverse
+
+Raw data: [sitemap.json](./data/sprunki.com/20250820_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250820_000736/diff.json)
+
 ### 20250819_000747
 
 - https://sprunki.com/sprunki-phase-90
@@ -118,19 +131,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250819_000747/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-5-v2
 
 Raw data: [sitemap.json](./data/sprunki.com/20250816_000738/sitemap.json) and [diff.json](./data/sprunki.com/20250816_000738/diff.json)
-
-### 20250815_000806
-
-- https://sprunki.com/sprunki-but-old
-- https://sprunki.com/sprunki-retake-added-oc
-- https://sprunki.com/sprunki-circo-digital
-- https://sprunki.com/sprunki-max-design-pro-phase-3
-- https://sprunki.com/parasprunki-nfe-update
-- https://sprunki.com/ja/sprunki-clicker
-- https://sprunki.com/ja/spruted-remastered-final-update
-- https://sprunki.com/ja/sprunki-sky-and-you
-
-Raw data: [sitemap.json](./data/sprunki.com/20250815_000806/sitemap.json) and [diff.json](./data/sprunki.com/20250815_000806/diff.json)
 
 ## sprunki.net
 
