@@ -96,6 +96,19 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250821_000555
+
+- https://sprunki.com/sprunki-autumn-fields
+- https://sprunki.com/sprunky-dunky
+- https://sprunki.com/sprunki-skibidi-toilet-remake-4-5
+- https://sprunki.com/sprunki-cool-as-ice-original
+- https://sprunki.com/sprunked-2-0-fe-christmas
+- https://sprunki.com/ja/sprunki-pyramixed-oc
+- https://sprunki.com/ja/sprunki-the-amazing-digital-circus
+- https://sprunki.com/ja/sprunki-phase-26
+
+Raw data: [sitemap.json](./data/sprunki.com/20250821_000555/sitemap.json) and [diff.json](./data/sprunki.com/20250821_000555/diff.json)
+
 ### 20250820_000736
 
 - https://sprunki.com/sprunkiblox-retake
@@ -121,16 +134,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250820_000736/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-pyramixed-parasite
 
 Raw data: [sitemap.json](./data/sprunki.com/20250819_000747/sitemap.json) and [diff.json](./data/sprunki.com/20250819_000747/diff.json)
-
-### 20250816_000738
-
-- https://sprunki.com/sprunki-but-fruity
-- https://sprunki.com/sprunki-compas
-- https://sprunki.com/sprunki-pyramixed-parasite
-- https://sprunki.com/ja/sprunki-remastered-3-0
-- https://sprunki.com/ja/sprunki-phase-5-v2
-
-Raw data: [sitemap.json](./data/sprunki.com/20250816_000738/sitemap.json) and [diff.json](./data/sprunki.com/20250816_000738/diff.json)
 
 ## sprunki.net
 
@@ -10397,6 +10400,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250821_000555
+
+- https://sprunkin.com/game/sprunki-in-joudys-style/
+- https://sprunkin.com/game/scrunkly-wenda-treatment/
+- https://sprunkin.com/fan-game/parodybox-sprunki-modded-demo-versions/
+- https://sprunkin.com/fan-game/incredibox-scrunkly-edition-au/
+- https://sprunkin.com/fan-game/sprunki-oc-3/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250821_000555/sitemap.json) and [diff.json](./data/sprunkin.com/20250821_000555/diff.json)
+
 ### 20250819_000747
 
 - https://sprunkin.com/fan-game/sprunki-and-c00lkidd/
@@ -10416,18 +10429,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250819_000747/sitemap.json) and [
 - https://sprunkin.com/fan-game/forsaken-sprunki-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250817_000845/sitemap.json) and [diff.json](./data/sprunkin.com/20250817_000845/diff.json)
-
-### 20250816_000738
-
-- https://sprunkin.com/game/sprunki-future-polaris/
-- https://sprunkin.com/game/spruted-restarted/
-- https://sprunkin.com/game/sprunki-anti-shifted/
-- https://sprunkin.com/fan-game/sprunki-phase-4-but-alive/
-- https://sprunkin.com/fan-game/sulfurs-sulfuric-little-world/
-- https://sprunkin.com/fan-game/sprunki-multishift-animated-new-ocs/
-- https://sprunkin.com/fan-game/sprunki-retake-hew-human-ketchup/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250816_000738/sitemap.json) and [diff.json](./data/sprunkin.com/20250816_000738/diff.json)
 
 ## sprunkisinner.org
 
