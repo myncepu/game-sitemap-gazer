@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250822_000716
+
+- https://sprunki.com/sprunki-fun-guinea-pig
+- https://sprunki.com/sprunki-pinki-bowified
+- https://sprunki.com/sprunki-but-they-got-healed
+- https://sprunki.com/parasprunki-retake
+- https://sprunki.com/sprunki-katchup-2978
+- https://sprunki.com/ja/sprunki-sprunkr-2-0
+- https://sprunki.com/ja/sprunki-katchup-2978
+
+Raw data: [sitemap.json](./data/sprunki.com/20250822_000716/sitemap.json) and [diff.json](./data/sprunki.com/20250822_000716/diff.json)
+
 ### 20250821_000555
 
 - https://sprunki.com/sprunki-autumn-fields
@@ -121,19 +133,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250821_000555/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-3-reverse
 
 Raw data: [sitemap.json](./data/sprunki.com/20250820_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250820_000736/diff.json)
-
-### 20250819_000747
-
-- https://sprunki.com/sprunki-phase-90
-- https://sprunki.com/sprunki-1980-retro-edition
-- https://sprunki.com/scrunkly-rev-ed
-- https://sprunki.com/sprunki-phase-3-reverse
-- https://sprunki.com/sprunki-bot-2
-- https://sprunki.com/ja/sprunki-but-everyone-is-clukr
-- https://sprunki.com/ja/sprunki-future-polaris
-- https://sprunki.com/ja/sprunki-pyramixed-parasite
-
-Raw data: [sitemap.json](./data/sprunki.com/20250819_000747/sitemap.json) and [diff.json](./data/sprunki.com/20250819_000747/diff.json)
 
 ## sprunki.net
 
@@ -10400,6 +10399,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250822_000716
+
+- https://sprunkin.com/fan-game/sprunki-mr-fun-computer-treatment/
+- https://sprunkin.com/fan-game/sprunki-but-italian-brainrot-street-lights/
+- https://sprunkin.com/fan-game/wenda-treatment-sprunki-street-lights/
+- https://sprunkin.com/fan-game/nightmare-sprunki-mod/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250822_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250822_000716/diff.json)
+
 ### 20250821_000555
 
 - https://sprunkin.com/game/sprunki-in-joudys-style/
@@ -10417,18 +10425,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250821_000555/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-1996-but-my-family/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250819_000747/sitemap.json) and [diff.json](./data/sprunkin.com/20250819_000747/diff.json)
-
-### 20250817_000845
-
-- https://sprunkin.com/game/sprunkr-the-parasprunki/
-- https://sprunkin.com/game/sprunki-wenda-treatment-dandys-world-style/
-- https://sprunkin.com/fan-game/%d1%85%d0%b7-%d1%87%d0%be-%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d1%82%d0%be/
-- https://sprunkin.com/fan-game/eee/
-- https://sprunkin.com/fan-game/sprunkis-children/
-- https://sprunkin.com/fan-game/forsaken-sprunki/
-- https://sprunkin.com/fan-game/forsaken-sprunki-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250817_000845/sitemap.json) and [diff.json](./data/sprunkin.com/20250817_000845/diff.json)
 
 ## sprunkisinner.org
 
