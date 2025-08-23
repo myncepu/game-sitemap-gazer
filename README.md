@@ -96,6 +96,12 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250823_000719
+
+- https://sprunki.com/ja/parasprunki-retake
+
+Raw data: [sitemap.json](./data/sprunki.com/20250823_000719/sitemap.json) and [diff.json](./data/sprunki.com/20250823_000719/diff.json)
+
 ### 20250822_000716
 
 - https://sprunki.com/sprunki-fun-guinea-pig
@@ -120,19 +126,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250822_000716/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-26
 
 Raw data: [sitemap.json](./data/sprunki.com/20250821_000555/sitemap.json) and [diff.json](./data/sprunki.com/20250821_000555/diff.json)
-
-### 20250820_000736
-
-- https://sprunki.com/sprunkiblox-retake
-- https://sprunki.com/sprunki-pyramixed-phase-2-remake
-- https://sprunki.com/parasprunked
-- https://sprunki.com/sprunki-playtime
-- https://sprunki.com/sprunki-phase-26
-- https://sprunki.com/ja/sprunki-modded-christmas
-- https://sprunki.com/ja/sprunki-modded-3
-- https://sprunki.com/ja/sprunki-phase-3-reverse
-
-Raw data: [sitemap.json](./data/sprunki.com/20250820_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250820_000736/diff.json)
 
 ## sprunki.net
 
@@ -10399,6 +10392,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250823_000719
+
+- https://sprunkin.com/game/sprunki-retake-human-but-fnf/
+- https://sprunkin.com/game/sprunksters-retake-updated/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250823_000719/sitemap.json) and [diff.json](./data/sprunkin.com/20250823_000719/diff.json)
+
 ### 20250822_000716
 
 - https://sprunkin.com/fan-game/sprunki-mr-fun-computer-treatment/
@@ -10417,14 +10417,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250822_000716/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-oc-3/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250821_000555/sitemap.json) and [diff.json](./data/sprunkin.com/20250821_000555/diff.json)
-
-### 20250819_000747
-
-- https://sprunkin.com/fan-game/sprunki-and-c00lkidd/
-- https://sprunkin.com/fan-game/incredibox-sprunki-happy-die/
-- https://sprunkin.com/fan-game/sprunki-1996-but-my-family/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250819_000747/sitemap.json) and [diff.json](./data/sprunkin.com/20250819_000747/diff.json)
 
 ## sprunkisinner.org
 
