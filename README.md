@@ -10392,6 +10392,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250824_000828
+
+- https://sprunkin.com/game/sprunki-anti-shifted-but-alive/
+- https://sprunkin.com/game/sprunki-mothers-nature-port/
+- https://sprunkin.com/fan-game/sprunki-the-blob/
+- https://sprunkin.com/fan-game/kats-street-lights/
+- https://sprunkin.com/fan-game/sprunki-graykill/
+- https://sprunkin.com/fan-game/sprunki-graykill-aftermath/
+- https://sprunkin.com/fan-game/sprunki-happy-die/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250824_000828/sitemap.json) and [diff.json](./data/sprunkin.com/20250824_000828/diff.json)
+
 ### 20250823_000719
 
 - https://sprunkin.com/game/sprunki-retake-human-but-fnf/
@@ -10407,16 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250823_000719/sitemap.json) and [
 - https://sprunkin.com/fan-game/nightmare-sprunki-mod/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250822_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250822_000716/diff.json)
-
-### 20250821_000555
-
-- https://sprunkin.com/game/sprunki-in-joudys-style/
-- https://sprunkin.com/game/scrunkly-wenda-treatment/
-- https://sprunkin.com/fan-game/parodybox-sprunki-modded-demo-versions/
-- https://sprunkin.com/fan-game/incredibox-scrunkly-edition-au/
-- https://sprunkin.com/fan-game/sprunki-oc-3/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250821_000555/sitemap.json) and [diff.json](./data/sprunkin.com/20250821_000555/diff.json)
 
 ## sprunkisinner.org
 
@@ -10783,6 +10785,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250824_000828
+
+- https://www.coolmathgames.com/0-house-design-match-3
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250824_000828/sitemap.json) and [diff.json](./data/coolmathgames.com/20250824_000828/diff.json)
+
 ### 20250819_000747
 
 - https://www.coolmathgames.com/0-origin
@@ -10797,12 +10805,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250819_000747/sitemap.json) 
 - https://www.coolmathgames.com/blog/how-to-play-find-the-difference
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250815_000806/sitemap.json) and [diff.json](./data/coolmathgames.com/20250815_000806/diff.json)
-
-### 20250814_000757
-
-- https://www.coolmathgames.com/0-tic-tac-tumble
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250814_000757/sitemap.json) and [diff.json](./data/coolmathgames.com/20250814_000757/diff.json)
 
 ## pogo.com
 
