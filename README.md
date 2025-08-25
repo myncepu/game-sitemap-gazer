@@ -10392,6 +10392,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250825_000743
+
+- https://sprunkin.com/fan-game/sprunki-happy-die-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250825_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20250825_000743/diff.json)
+
 ### 20250824_000828
 
 - https://sprunkin.com/game/sprunki-anti-shifted-but-alive/
@@ -10410,15 +10416,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250824_000828/sitemap.json) and [
 - https://sprunkin.com/game/sprunksters-retake-updated/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250823_000719/sitemap.json) and [diff.json](./data/sprunkin.com/20250823_000719/diff.json)
-
-### 20250822_000716
-
-- https://sprunkin.com/fan-game/sprunki-mr-fun-computer-treatment/
-- https://sprunkin.com/fan-game/sprunki-but-italian-brainrot-street-lights/
-- https://sprunkin.com/fan-game/wenda-treatment-sprunki-street-lights/
-- https://sprunkin.com/fan-game/nightmare-sprunki-mod/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250822_000716/sitemap.json) and [diff.json](./data/sprunkin.com/20250822_000716/diff.json)
 
 ## sprunkisinner.org
 
@@ -10785,6 +10782,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250825_000743
+
+- https://www.coolmathgames.com/0-soccer-blast
+- https://www.coolmathgames.com/0-lines
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250825_000743/sitemap.json) and [diff.json](./data/coolmathgames.com/20250825_000743/diff.json)
+
 ### 20250824_000828
 
 - https://www.coolmathgames.com/0-house-design-match-3
@@ -10798,13 +10802,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250824_000828/sitemap.json) 
 - https://www.coolmathgames.com/0-floor-is-lava
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250819_000747/sitemap.json) and [diff.json](./data/coolmathgames.com/20250819_000747/diff.json)
-
-### 20250815_000806
-
-- https://www.coolmathgames.com/0-tap-tap-race
-- https://www.coolmathgames.com/blog/how-to-play-find-the-difference
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250815_000806/sitemap.json) and [diff.json](./data/coolmathgames.com/20250815_000806/diff.json)
 
 ## pogo.com
 
