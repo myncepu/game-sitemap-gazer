@@ -96,6 +96,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250826_000731
+
+- https://sprunki.com/sprunki-ultimate-deluxe-2
+- https://sprunki.com/sprunki-avocado-playz
+- https://sprunki.com/sprunki-phase-365
+- https://sprunki.com/sprunki-phase-4-reborn
+- https://sprunki.com/sprunked-parasite
+
+Raw data: [sitemap.json](./data/sprunki.com/20250826_000731/sitemap.json) and [diff.json](./data/sprunki.com/20250826_000731/diff.json)
+
 ### 20250823_000719
 
 - https://sprunki.com/ja/parasprunki-retake
@@ -113,19 +123,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250823_000719/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-katchup-2978
 
 Raw data: [sitemap.json](./data/sprunki.com/20250822_000716/sitemap.json) and [diff.json](./data/sprunki.com/20250822_000716/diff.json)
-
-### 20250821_000555
-
-- https://sprunki.com/sprunki-autumn-fields
-- https://sprunki.com/sprunky-dunky
-- https://sprunki.com/sprunki-skibidi-toilet-remake-4-5
-- https://sprunki.com/sprunki-cool-as-ice-original
-- https://sprunki.com/sprunked-2-0-fe-christmas
-- https://sprunki.com/ja/sprunki-pyramixed-oc
-- https://sprunki.com/ja/sprunki-the-amazing-digital-circus
-- https://sprunki.com/ja/sprunki-phase-26
-
-Raw data: [sitemap.json](./data/sprunki.com/20250821_000555/sitemap.json) and [diff.json](./data/sprunki.com/20250821_000555/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10389,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250826_000731
+
+- https://sprunkin.com/fan-game/abgerny-2-street-lights/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250826_000731/sitemap.json) and [diff.json](./data/sprunkin.com/20250826_000731/diff.json)
+
 ### 20250825_000743
 
 - https://sprunkin.com/fan-game/sprunki-happy-die-2/
@@ -10409,13 +10412,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250825_000743/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-happy-die/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250824_000828/sitemap.json) and [diff.json](./data/sprunkin.com/20250824_000828/diff.json)
-
-### 20250823_000719
-
-- https://sprunkin.com/game/sprunki-retake-human-but-fnf/
-- https://sprunkin.com/game/sprunksters-retake-updated/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250823_000719/sitemap.json) and [diff.json](./data/sprunkin.com/20250823_000719/diff.json)
 
 ## sprunkisinner.org
 

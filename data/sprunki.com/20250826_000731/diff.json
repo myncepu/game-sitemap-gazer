@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-ultimate-deluxe-2",
+      "priority": 1.0,
+      "last_modified": "2025-08-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-avocado-playz",
+      "priority": 1.0,
+      "last_modified": "2025-08-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-365",
+      "priority": 1.0,
+      "last_modified": "2025-08-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-4-reborn",
+      "priority": 1.0,
+      "last_modified": "2025-08-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunked-parasite",
+      "priority": 1.0,
+      "last_modified": "2025-08-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
