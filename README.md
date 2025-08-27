@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250827_000753
+
+- https://sprunki.com/melophobia-but-sprunki-2-0
+- https://sprunki.com/sprunki-abgerny-objectbox
+- https://sprunki.com/sprunki-pompom-infection
+- https://sprunki.com/ja/sprunki-ultimate-deluxe-2
+
+Raw data: [sitemap.json](./data/sprunki.com/20250827_000753/sitemap.json) and [diff.json](./data/sprunki.com/20250827_000753/diff.json)
+
 ### 20250826_000731
 
 - https://sprunki.com/sprunki-ultimate-deluxe-2
@@ -111,18 +120,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250826_000731/sitemap.json) and [d
 - https://sprunki.com/ja/parasprunki-retake
 
 Raw data: [sitemap.json](./data/sprunki.com/20250823_000719/sitemap.json) and [diff.json](./data/sprunki.com/20250823_000719/diff.json)
-
-### 20250822_000716
-
-- https://sprunki.com/sprunki-fun-guinea-pig
-- https://sprunki.com/sprunki-pinki-bowified
-- https://sprunki.com/sprunki-but-they-got-healed
-- https://sprunki.com/parasprunki-retake
-- https://sprunki.com/sprunki-katchup-2978
-- https://sprunki.com/ja/sprunki-sprunkr-2-0
-- https://sprunki.com/ja/sprunki-katchup-2978
-
-Raw data: [sitemap.json](./data/sprunki.com/20250822_000716/sitemap.json) and [diff.json](./data/sprunki.com/20250822_000716/diff.json)
 
 ## sprunki.net
 
@@ -10389,6 +10386,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250827_000753
+
+- https://sprunkin.com/game/sprunki-phase-4-anti-shifted/
+- https://sprunkin.com/game/fizzy-like-coke-but-sprunki/
+- https://sprunkin.com/fan-game/sprunki-but-team-fortress-2/
+- https://sprunkin.com/fan-game/sprunki-pyramixed-phase-1/
+- https://sprunkin.com/fan-game/sprunki-definitive-phase-13/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250827_000753/sitemap.json) and [diff.json](./data/sprunkin.com/20250827_000753/diff.json)
+
 ### 20250826_000731
 
 - https://sprunkin.com/fan-game/abgerny-2-street-lights/
@@ -10400,18 +10407,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250826_000731/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-happy-die-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250825_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20250825_000743/diff.json)
-
-### 20250824_000828
-
-- https://sprunkin.com/game/sprunki-anti-shifted-but-alive/
-- https://sprunkin.com/game/sprunki-mothers-nature-port/
-- https://sprunkin.com/fan-game/sprunki-the-blob/
-- https://sprunkin.com/fan-game/kats-street-lights/
-- https://sprunkin.com/fan-game/sprunki-graykill/
-- https://sprunkin.com/fan-game/sprunki-graykill-aftermath/
-- https://sprunkin.com/fan-game/sprunki-happy-die/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250824_000828/sitemap.json) and [diff.json](./data/sprunkin.com/20250824_000828/diff.json)
 
 ## sprunkisinner.org
 
@@ -10721,6 +10716,31 @@ Raw data: [sitemap.json](./data/sprunki-sinner.org/20241123_152330/sitemap.json)
 
 ## sprunki.app
 
+### 20250827_000753
+
+- https://sprunki.app/sporting
+- https://sprunki.app/spring
+- https://sprunki.app/es/sporting
+- https://sprunki.app/es/spring
+- https://sprunki.app/pt/sporting
+- https://sprunki.app/pt/spring
+- https://sprunki.app/ja/sporting
+- https://sprunki.app/ja/spring
+- https://sprunki.app/ko/sporting
+- https://sprunki.app/ko/spring
+- https://sprunki.app/ru/sporting
+- https://sprunki.app/ru/spring
+- https://sprunki.app/zh-CN/sporting
+- https://sprunki.app/zh-CN/spring
+- https://sprunki.app/zh-TW/sporting
+- https://sprunki.app/zh-TW/spring
+- https://sprunki.app/fr/sporting
+- https://sprunki.app/fr/spring
+- https://sprunki.app/de/sporting
+- https://sprunki.app/de/spring
+
+Raw data: [sitemap.json](./data/sprunki.app/20250827_000753/sitemap.json) and [diff.json](./data/sprunki.app/20250827_000753/diff.json)
+
 ### 20250102_000638
 
 - https://sprunki.app/blog/incredibox-sprunki-sinner-edition-new-mod-but-with-love-sus-mod
@@ -10750,21 +10770,6 @@ Raw data: [sitemap.json](./data/sprunki.app/20250102_000638/sitemap.json) and [d
 - https://sprunki.app/de/blog/sprunki-simon-incredibox-guide
 
 Raw data: [sitemap.json](./data/sprunki.app/20241231_000628/sitemap.json) and [diff.json](./data/sprunki.app/20241231_000628/diff.json)
-
-### 20241230_000712
-
-- https://sprunki.app/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/es/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/pt/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/ja/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/ko/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/ru/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/zh-CN/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/zh-TW/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/fr/blog/2024-12-29-sprunki-kiss-mod
-- https://sprunki.app/de/blog/2024-12-29-sprunki-kiss-mod
-
-Raw data: [sitemap.json](./data/sprunki.app/20241230_000712/sitemap.json) and [diff.json](./data/sprunki.app/20241230_000712/diff.json)
 
 ## newgrounds.com
 
