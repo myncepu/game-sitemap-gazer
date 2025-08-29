@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250829_000721
+
+- https://sprunki.com/sprunki-phase-4-5
+- https://sprunki.com/sprunki-frunki
+- https://sprunki.com/sprunki-pac-man-edition
+- https://sprunki.com/sprunki-mothers-nature
+- https://sprunki.com/sprunki-craft
+- https://sprunki.com/ja/sprunki-chaotic-good-night-time
+- https://sprunki.com/ja/sprunki-phase-12-remastered
+
+Raw data: [sitemap.json](./data/sprunki.com/20250829_000721/sitemap.json) and [diff.json](./data/sprunki.com/20250829_000721/diff.json)
+
 ### 20250828_000724
 
 - https://sprunki.com/sprunki-but-polos
@@ -115,16 +127,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250828_000724/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-ultimate-deluxe-2
 
 Raw data: [sitemap.json](./data/sprunki.com/20250827_000753/sitemap.json) and [diff.json](./data/sprunki.com/20250827_000753/diff.json)
-
-### 20250826_000731
-
-- https://sprunki.com/sprunki-ultimate-deluxe-2
-- https://sprunki.com/sprunki-avocado-playz
-- https://sprunki.com/sprunki-phase-365
-- https://sprunki.com/sprunki-phase-4-reborn
-- https://sprunki.com/sprunked-parasite
-
-Raw data: [sitemap.json](./data/sprunki.com/20250826_000731/sitemap.json) and [diff.json](./data/sprunki.com/20250826_000731/diff.json)
 
 ## sprunki.net
 
@@ -10391,6 +10393,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250829_000721
+
+- https://sprunkin.com/game/sprunkr-remaster/
+- https://sprunkin.com/game/spruted-oren-treatment/
+- https://sprunkin.com/fan-game/sprunki-phase-8-naone/
+- https://sprunkin.com/fan-game/%d1%81%d0%bf%d1%80%d1%83%d0%bd%d0%ba%d0%b8-%d0%bd%d0%be-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%b6%d0%b8-%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d1%8b/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250829_000721/sitemap.json) and [diff.json](./data/sprunkin.com/20250829_000721/diff.json)
+
 ### 20250828_000724
 
 - https://sprunkin.com/fan-game/mercat-and-friends-jack-treatment/
@@ -10406,12 +10417,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250828_000724/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-definitive-phase-13/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250827_000753/sitemap.json) and [diff.json](./data/sprunkin.com/20250827_000753/diff.json)
-
-### 20250826_000731
-
-- https://sprunkin.com/fan-game/abgerny-2-street-lights/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250826_000731/sitemap.json) and [diff.json](./data/sprunkin.com/20250826_000731/diff.json)
 
 ## sprunkisinner.org
 

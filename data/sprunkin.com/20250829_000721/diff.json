@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunkr-remaster/",
+      "priority": 0.5,
+      "last_modified": "2025-08-28T12:36:56Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/spruted-oren-treatment/",
+      "priority": 0.5,
+      "last_modified": "2025-08-28T12:39:31Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-8-naone/",
+      "priority": 0.5,
+      "last_modified": "2025-08-28T08:01:39Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/%d1%81%d0%bf%d1%80%d1%83%d0%bd%d0%ba%d0%b8-%d0%bd%d0%be-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%b6%d0%b8-%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d1%8b/",
+      "priority": 0.5,
+      "last_modified": "2025-08-28T20:11:52Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
