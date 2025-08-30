@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-spranked",
+      "priority": 1.0,
+      "last_modified": "2025-08-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-corruptbox-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-08-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-1-5",
+      "priority": 1.0,
+      "last_modified": "2025-08-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-5-definitive-the-truth",
+      "priority": 1.0,
+      "last_modified": "2025-08-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250830_000704
+
+- https://sprunki.com/sprunki-spranked
+- https://sprunki.com/sprunki-corruptbox-remastered
+- https://sprunki.com/ja/sprunki-phase-1-5
+- https://sprunki.com/ja/sprunki-phase-5-definitive-the-truth
+
+Raw data: [sitemap.json](./data/sprunki.com/20250830_000704/sitemap.json) and [diff.json](./data/sprunki.com/20250830_000704/diff.json)
+
 ### 20250829_000721
 
 - https://sprunki.com/sprunki-phase-4-5
@@ -118,15 +127,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250829_000721/sitemap.json) and [d
 - https://sprunki.com/ja/sprunked-parasite
 
 Raw data: [sitemap.json](./data/sprunki.com/20250828_000724/sitemap.json) and [diff.json](./data/sprunki.com/20250828_000724/diff.json)
-
-### 20250827_000753
-
-- https://sprunki.com/melophobia-but-sprunki-2-0
-- https://sprunki.com/sprunki-abgerny-objectbox
-- https://sprunki.com/sprunki-pompom-infection
-- https://sprunki.com/ja/sprunki-ultimate-deluxe-2
-
-Raw data: [sitemap.json](./data/sprunki.com/20250827_000753/sitemap.json) and [diff.json](./data/sprunki.com/20250827_000753/diff.json)
 
 ## sprunki.net
 
@@ -10393,6 +10393,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250830_000704
+
+- https://sprunkin.com/game/sprunki-phase-9-ggtp/
+- https://sprunkin.com/game/sprunki-msi-but-fpe/
+- https://sprunkin.com/fan-game/spunkies/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250830_000704/sitemap.json) and [diff.json](./data/sprunkin.com/20250830_000704/diff.json)
+
 ### 20250829_000721
 
 - https://sprunkin.com/game/sprunkr-remaster/
@@ -10407,16 +10415,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250829_000721/sitemap.json) and [
 - https://sprunkin.com/fan-game/mercat-and-friends-jack-treatment/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250828_000724/sitemap.json) and [diff.json](./data/sprunkin.com/20250828_000724/diff.json)
-
-### 20250827_000753
-
-- https://sprunkin.com/game/sprunki-phase-4-anti-shifted/
-- https://sprunkin.com/game/fizzy-like-coke-but-sprunki/
-- https://sprunkin.com/fan-game/sprunki-but-team-fortress-2/
-- https://sprunkin.com/fan-game/sprunki-pyramixed-phase-1/
-- https://sprunkin.com/fan-game/sprunki-definitive-phase-13/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250827_000753/sitemap.json) and [diff.json](./data/sprunkin.com/20250827_000753/diff.json)
 
 ## sprunkisinner.org
 
@@ -10793,6 +10791,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250830_000704
+
+- https://www.coolmathgames.com/0-mini-car-ball
+- https://www.coolmathgames.com/0-iliagc
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250830_000704/sitemap.json) and [diff.json](./data/coolmathgames.com/20250830_000704/diff.json)
+
 ### 20250825_000743
 
 - https://www.coolmathgames.com/0-soccer-blast
@@ -10805,14 +10810,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250825_000743/sitemap.json) 
 - https://www.coolmathgames.com/0-house-design-match-3
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250824_000828/sitemap.json) and [diff.json](./data/coolmathgames.com/20250824_000828/diff.json)
-
-### 20250819_000747
-
-- https://www.coolmathgames.com/0-origin
-- https://www.coolmathgames.com/0-sum-master
-- https://www.coolmathgames.com/0-floor-is-lava
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250819_000747/sitemap.json) and [diff.json](./data/coolmathgames.com/20250819_000747/diff.json)
 
 ## pogo.com
 
