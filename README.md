@@ -10393,6 +10393,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250831_000839
+
+- https://sprunkin.com/fan-game/sprunki-heliophobia-re-awakened/
+- https://sprunkin.com/fan-game/sprunki-dual-shifted/
+- https://sprunkin.com/fan-game/sprunki-animal-crossing-wenda-treatment/
+- https://sprunkin.com/fan-game/sprunki-phase-10-remastered/
+- https://sprunkin.com/fan-game/simons-realm-phase-1/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250831_000839/sitemap.json) and [diff.json](./data/sprunkin.com/20250831_000839/diff.json)
+
 ### 20250830_000704
 
 - https://sprunkin.com/game/sprunki-phase-9-ggtp/
@@ -10409,12 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250830_000704/sitemap.json) and [
 - https://sprunkin.com/fan-game/%d1%81%d0%bf%d1%80%d1%83%d0%bd%d0%ba%d0%b8-%d0%bd%d0%be-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%b6%d0%b8-%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d1%8b/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250829_000721/sitemap.json) and [diff.json](./data/sprunkin.com/20250829_000721/diff.json)
-
-### 20250828_000724
-
-- https://sprunkin.com/fan-game/mercat-and-friends-jack-treatment/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250828_000724/sitemap.json) and [diff.json](./data/sprunkin.com/20250828_000724/diff.json)
 
 ## sprunkisinner.org
 
