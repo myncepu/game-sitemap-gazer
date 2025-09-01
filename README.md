@@ -10393,6 +10393,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250901_000849
+
+- https://sprunkin.com/game/sprunki-parodybox-modded/
+- https://sprunkin.com/game/sprunki-anti-shifted-simon-real/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250901_000849/sitemap.json) and [diff.json](./data/sprunkin.com/20250901_000849/diff.json)
+
 ### 20250831_000839
 
 - https://sprunkin.com/fan-game/sprunki-heliophobia-re-awakened/
@@ -10410,15 +10417,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250831_000839/sitemap.json) and [
 - https://sprunkin.com/fan-game/spunkies/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250830_000704/sitemap.json) and [diff.json](./data/sprunkin.com/20250830_000704/diff.json)
-
-### 20250829_000721
-
-- https://sprunkin.com/game/sprunkr-remaster/
-- https://sprunkin.com/game/spruted-oren-treatment/
-- https://sprunkin.com/fan-game/sprunki-phase-8-naone/
-- https://sprunkin.com/fan-game/%d1%81%d0%bf%d1%80%d1%83%d0%bd%d0%ba%d0%b8-%d0%bd%d0%be-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%b6%d0%b8-%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d1%8b/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250829_000721/sitemap.json) and [diff.json](./data/sprunkin.com/20250829_000721/diff.json)
 
 ## sprunkisinner.org
 
@@ -10795,6 +10793,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250901_000849
+
+- https://www.coolmathgames.com/0-box-slide
+- https://www.coolmathgames.com/0-cuzzbe
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250901_000849/sitemap.json) and [diff.json](./data/coolmathgames.com/20250901_000849/diff.json)
+
 ### 20250830_000704
 
 - https://www.coolmathgames.com/0-mini-car-ball
@@ -10808,12 +10813,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250830_000704/sitemap.json) 
 - https://www.coolmathgames.com/0-lines
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250825_000743/sitemap.json) and [diff.json](./data/coolmathgames.com/20250825_000743/diff.json)
-
-### 20250824_000828
-
-- https://www.coolmathgames.com/0-house-design-match-3
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250824_000828/sitemap.json) and [diff.json](./data/coolmathgames.com/20250824_000828/diff.json)
 
 ## pogo.com
 
