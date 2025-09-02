@@ -1,0 +1,461 @@
+{
+  "url": "https://miniclip.com/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://miniclip.com/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [],
+      "pages": []
+    },
+    {
+      "url": "https://miniclip.com/sitemap.xml",
+      "type": "PagesXMLSitemap",
+      "sitemaps": [],
+      "pages": [
+        {
+          "url": "https://www.miniclip.com/pages/terms-ultimate-golf",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/agario",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/badminton-clash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/carrompool",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/checkersclash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/8ballpool",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/chessclash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/footballstrike",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/golfstrike",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/horseracinghero",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/soccerstars",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/ludoparty",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/volleyball-arena",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/soccerhero",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/football",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/football-strike",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/soccer-stars",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/soccer",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/chess",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/minigames/chess-clash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/agario",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/badminton-clash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/carrompool",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/checkersclash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/8ballpool",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/chessclash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/footballstrike",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/golfstrike",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/horseracinghero",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/soccerstars",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/ludoparty",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/volleyball-arena",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/soccerhero",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/football",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/football-strike",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/soccer-stars",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/soccer",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/chess",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pages/minigames/chess-clash",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/404",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/careers",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/content-and-conduct-policy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/cookie-policy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/games",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/our-story",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/pc-privacy-policy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/privacy-policy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/privacy-policy-applicants",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/publishing",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/publishing-policy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/support",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/terms-and-conditions",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/careers/apply",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/careers/vacancies",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/careers/vacancy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/games/web",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/games/webview",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/our-story/our-values",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/plain/cookie-policy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/plain/privacy-policy",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/plain/privacy-policy-applicants",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/plain/terms-and-conditions",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        },
+        {
+          "url": "https://www.miniclip.com/",
+          "priority": 0.5,
+          "last_modified": null,
+          "change_frequency": null,
+          "news_story": null
+        }
+      ]
+    }
+  ],
+  "pages": []
+}

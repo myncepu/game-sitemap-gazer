@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://www.miniclip.com/minigames/checkersclash",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.miniclip.com/minigames/ludoparty",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.miniclip.com/pages/minigames/checkersclash",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.miniclip.com/pages/minigames/ludoparty",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
