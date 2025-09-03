@@ -96,6 +96,17 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250903_000644
+
+- https://sprunki.com/sprunkr-the-parasprunki
+- https://sprunki.com/sprunki-wenda-treatment-dandys-world-style
+- https://sprunki.com/sprunki-in-joudys-style
+- https://sprunki.com/scrunkly-wenda-treatment
+- https://sprunki.com/sprunki-retake-human-but-fnf
+- https://sprunki.com/ja/sprunki-phase-4-5
+
+Raw data: [sitemap.json](./data/sprunki.com/20250903_000644/sitemap.json) and [diff.json](./data/sprunki.com/20250903_000644/diff.json)
+
 ### 20250902_000722
 
 - https://sprunki.com/sprunki-anti-shifted-but-alive
@@ -114,18 +125,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250902_000722/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-5-definitive-the-truth
 
 Raw data: [sitemap.json](./data/sprunki.com/20250830_000704/sitemap.json) and [diff.json](./data/sprunki.com/20250830_000704/diff.json)
-
-### 20250829_000721
-
-- https://sprunki.com/sprunki-phase-4-5
-- https://sprunki.com/sprunki-frunki
-- https://sprunki.com/sprunki-pac-man-edition
-- https://sprunki.com/sprunki-mothers-nature
-- https://sprunki.com/sprunki-craft
-- https://sprunki.com/ja/sprunki-chaotic-good-night-time
-- https://sprunki.com/ja/sprunki-phase-12-remastered
-
-Raw data: [sitemap.json](./data/sprunki.com/20250829_000721/sitemap.json) and [diff.json](./data/sprunki.com/20250829_000721/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10391,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250903_000644
+
+- https://sprunkin.com/fan-game/sprunke-phase-3-rm-og-style/
+- https://sprunkin.com/fan-game/incredibox-sprunki-%d0%ba%d1%83%d0%bb%d1%8c%d1%81%d0%b2/
+- https://sprunkin.com/fan-game/incredibox-abgerny-but-pee-wees-playhouse/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250903_000644/sitemap.json) and [diff.json](./data/sprunkin.com/20250903_000644/diff.json)
+
 ### 20250901_000849
 
 - https://sprunkin.com/game/sprunki-parodybox-modded/
@@ -10408,14 +10415,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250901_000849/sitemap.json) and [
 - https://sprunkin.com/fan-game/simons-realm-phase-1/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250831_000839/sitemap.json) and [diff.json](./data/sprunkin.com/20250831_000839/diff.json)
-
-### 20250830_000704
-
-- https://sprunkin.com/game/sprunki-phase-9-ggtp/
-- https://sprunkin.com/game/sprunki-msi-but-fpe/
-- https://sprunkin.com/fan-game/spunkies/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250830_000704/sitemap.json) and [diff.json](./data/sprunkin.com/20250830_000704/diff.json)
 
 ## sprunkisinner.org
 
