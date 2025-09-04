@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/among-us-megaserver/",
+      "priority": 0.5,
+      "last_modified": "2025-09-03T00:55:54Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/not-a-normal-sprunki-by-simonsprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-09-03T12:24:14Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/not-a-normal-sprunki-by-simonsprunki-2/",
+      "priority": 0.5,
+      "last_modified": "2025-09-03T12:26:12Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-splenkrate-v-1-1-0/",
+      "priority": 0.5,
+      "last_modified": "2025-09-03T14:10:33Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/cringe-sprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-09-03T17:23:53Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250904_000710
+
+- https://sprunki.com/sprunki-reestiled
+- https://sprunki.com/fiddlebops-sprunkters
+- https://sprunki.com/sprunki-abgerny-birds
+- https://sprunki.com/sprunki-phase-56
+- https://sprunki.com/sprunki-anti-shifted
+- https://sprunki.com/ja/yet-another-boring-old-sprunki-mod
+- https://sprunki.com/ja/sprunki-phase-4-definitive
+
+Raw data: [sitemap.json](./data/sprunki.com/20250904_000710/sitemap.json) and [diff.json](./data/sprunki.com/20250904_000710/diff.json)
+
 ### 20250903_000644
 
 - https://sprunki.com/sprunkr-the-parasprunki
@@ -116,15 +128,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250903_000644/sitemap.json) and [d
 - https://sprunki.com/sprunki-kosta-phase-4
 
 Raw data: [sitemap.json](./data/sprunki.com/20250902_000722/sitemap.json) and [diff.json](./data/sprunki.com/20250902_000722/diff.json)
-
-### 20250830_000704
-
-- https://sprunki.com/sprunki-spranked
-- https://sprunki.com/sprunki-corruptbox-remastered
-- https://sprunki.com/ja/sprunki-phase-1-5
-- https://sprunki.com/ja/sprunki-phase-5-definitive-the-truth
-
-Raw data: [sitemap.json](./data/sprunki.com/20250830_000704/sitemap.json) and [diff.json](./data/sprunki.com/20250830_000704/diff.json)
 
 ## sprunki.net
 
@@ -10391,6 +10394,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250904_000710
+
+- https://sprunkin.com/fan-game/among-us-megaserver/
+- https://sprunkin.com/fan-game/not-a-normal-sprunki-by-simonsprunki/
+- https://sprunkin.com/fan-game/not-a-normal-sprunki-by-simonsprunki-2/
+- https://sprunkin.com/fan-game/incredibox-splenkrate-v-1-1-0/
+- https://sprunkin.com/fan-game/cringe-sprunki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250904_000710/sitemap.json) and [diff.json](./data/sprunkin.com/20250904_000710/diff.json)
+
 ### 20250903_000644
 
 - https://sprunkin.com/fan-game/sprunke-phase-3-rm-og-style/
@@ -10405,16 +10418,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250903_000644/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-anti-shifted-simon-real/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250901_000849/sitemap.json) and [diff.json](./data/sprunkin.com/20250901_000849/diff.json)
-
-### 20250831_000839
-
-- https://sprunkin.com/fan-game/sprunki-heliophobia-re-awakened/
-- https://sprunkin.com/fan-game/sprunki-dual-shifted/
-- https://sprunkin.com/fan-game/sprunki-animal-crossing-wenda-treatment/
-- https://sprunkin.com/fan-game/sprunki-phase-10-remastered/
-- https://sprunkin.com/fan-game/simons-realm-phase-1/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250831_000839/sitemap.json) and [diff.json](./data/sprunkin.com/20250831_000839/diff.json)
 
 ## sprunkisinner.org
 

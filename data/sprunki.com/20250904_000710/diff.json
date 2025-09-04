@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-reestiled",
+      "priority": 1.0,
+      "last_modified": "2025-09-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/fiddlebops-sprunkters",
+      "priority": 1.0,
+      "last_modified": "2025-09-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-abgerny-birds",
+      "priority": 1.0,
+      "last_modified": "2025-09-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-phase-56",
+      "priority": 1.0,
+      "last_modified": "2025-09-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-anti-shifted",
+      "priority": 1.0,
+      "last_modified": "2025-09-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/yet-another-boring-old-sprunki-mod",
+      "priority": 1.0,
+      "last_modified": "2025-09-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-4-definitive",
+      "priority": 1.0,
+      "last_modified": "2025-09-03T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
