@@ -96,6 +96,12 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250905_000714
+
+- https://sprunki.com/ja/sprunki-pokemon-phase-3
+
+Raw data: [sitemap.json](./data/sprunki.com/20250905_000714/sitemap.json) and [diff.json](./data/sprunki.com/20250905_000714/diff.json)
+
 ### 20250904_000710
 
 - https://sprunki.com/sprunki-reestiled
@@ -118,16 +124,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250904_000710/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-4-5
 
 Raw data: [sitemap.json](./data/sprunki.com/20250903_000644/sitemap.json) and [diff.json](./data/sprunki.com/20250903_000644/diff.json)
-
-### 20250902_000722
-
-- https://sprunki.com/sprunki-anti-shifted-but-alive
-- https://sprunki.com/fizzy-like-coke-but-sprunki
-- https://sprunki.com/sprunkr-remaster
-- https://sprunki.com/sprunki-phase-4-definitive
-- https://sprunki.com/sprunki-kosta-phase-4
-
-Raw data: [sitemap.json](./data/sprunki.com/20250902_000722/sitemap.json) and [diff.json](./data/sprunki.com/20250902_000722/diff.json)
 
 ## sprunki.net
 
