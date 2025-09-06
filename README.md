@@ -96,6 +96,14 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250906_000650
+
+- https://sprunki.com/sprunki-regretful-5-0
+- https://sprunki.com/sprunki-shifted-remastered
+- https://sprunki.com/sprunki-evening
+
+Raw data: [sitemap.json](./data/sprunki.com/20250906_000650/sitemap.json) and [diff.json](./data/sprunki.com/20250906_000650/diff.json)
+
 ### 20250905_000714
 
 - https://sprunki.com/ja/sprunki-pokemon-phase-3
@@ -113,17 +121,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250905_000714/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-4-definitive
 
 Raw data: [sitemap.json](./data/sprunki.com/20250904_000710/sitemap.json) and [diff.json](./data/sprunki.com/20250904_000710/diff.json)
-
-### 20250903_000644
-
-- https://sprunki.com/sprunkr-the-parasprunki
-- https://sprunki.com/sprunki-wenda-treatment-dandys-world-style
-- https://sprunki.com/sprunki-in-joudys-style
-- https://sprunki.com/scrunkly-wenda-treatment
-- https://sprunki.com/sprunki-retake-human-but-fnf
-- https://sprunki.com/ja/sprunki-phase-4-5
-
-Raw data: [sitemap.json](./data/sprunki.com/20250903_000644/sitemap.json) and [diff.json](./data/sprunki.com/20250903_000644/diff.json)
 
 ## sprunki.net
 
@@ -10390,6 +10387,17 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250906_000650
+
+- https://sprunkin.com/game/sprunki-5hifted-unshifted/
+- https://sprunkin.com/game/sprunki-shifted-partners-in-carnage/
+- https://sprunkin.com/game/sprinkle-reversed/
+- https://sprunkin.com/fan-game/deltasprunki/
+- https://sprunkin.com/fan-game/incredibox-splenkrate/
+- https://sprunkin.com/fan-game/incredibox-sprunki-sprunkled-sprunk-v1-0/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250906_000650/sitemap.json) and [diff.json](./data/sprunkin.com/20250906_000650/diff.json)
+
 ### 20250904_000710
 
 - https://sprunkin.com/fan-game/among-us-megaserver/
@@ -10407,13 +10415,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250904_000710/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-abgerny-but-pee-wees-playhouse/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250903_000644/sitemap.json) and [diff.json](./data/sprunkin.com/20250903_000644/diff.json)
-
-### 20250901_000849
-
-- https://sprunkin.com/game/sprunki-parodybox-modded/
-- https://sprunkin.com/game/sprunki-anti-shifted-simon-real/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250901_000849/sitemap.json) and [diff.json](./data/sprunkin.com/20250901_000849/diff.json)
 
 ## sprunkisinner.org
 
