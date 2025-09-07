@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-nameshifted/",
+      "priority": 0.5,
+      "last_modified": "2025-09-06T07:46:11Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-nameshifted-2/",
+      "priority": 0.5,
+      "last_modified": "2025-09-06T07:46:12Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-3-mtsh/",
+      "priority": 0.5,
+      "last_modified": "2025-09-06T12:57:38Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-la-xi/",
+      "priority": 0.5,
+      "last_modified": "2025-09-06T14:10:04Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

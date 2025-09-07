@@ -10387,6 +10387,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250907_000755
+
+- https://sprunkin.com/fan-game/sprunki-nameshifted/
+- https://sprunkin.com/fan-game/sprunki-nameshifted-2/
+- https://sprunkin.com/fan-game/sprunki-phase-3-mtsh/
+- https://sprunkin.com/fan-game/sprunki-la-xi/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250907_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250907_000755/diff.json)
+
 ### 20250906_000650
 
 - https://sprunkin.com/game/sprunki-5hifted-unshifted/
@@ -10407,14 +10416,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250906_000650/sitemap.json) and [
 - https://sprunkin.com/fan-game/cringe-sprunki/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250904_000710/sitemap.json) and [diff.json](./data/sprunkin.com/20250904_000710/diff.json)
-
-### 20250903_000644
-
-- https://sprunkin.com/fan-game/sprunke-phase-3-rm-og-style/
-- https://sprunkin.com/fan-game/incredibox-sprunki-%d0%ba%d1%83%d0%bb%d1%8c%d1%81%d0%b2/
-- https://sprunkin.com/fan-game/incredibox-abgerny-but-pee-wees-playhouse/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250903_000644/sitemap.json) and [diff.json](./data/sprunkin.com/20250903_000644/diff.json)
 
 ## sprunkisinner.org
 
@@ -10800,6 +10801,14 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250907_000755
+
+- https://www.coolmathgames.com/0-dress-up-styling-challenge
+- https://www.coolmathgames.com/0-chonky-chirpers
+- https://www.coolmathgames.com/0-3d-cannon-ball
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250907_000755/sitemap.json) and [diff.json](./data/coolmathgames.com/20250907_000755/diff.json)
+
 ### 20250901_000849
 
 - https://www.coolmathgames.com/0-box-slide
@@ -10813,13 +10822,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250901_000849/sitemap.json) 
 - https://www.coolmathgames.com/0-iliagc
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250830_000704/sitemap.json) and [diff.json](./data/coolmathgames.com/20250830_000704/diff.json)
-
-### 20250825_000743
-
-- https://www.coolmathgames.com/0-soccer-blast
-- https://www.coolmathgames.com/0-lines
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250825_000743/sitemap.json) and [diff.json](./data/coolmathgames.com/20250825_000743/diff.json)
 
 ## pogo.com
 

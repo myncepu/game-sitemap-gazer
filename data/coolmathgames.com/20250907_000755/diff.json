@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-dress-up-styling-challenge",
+      "priority": 0.5,
+      "last_modified": "2025-09-03T14:40:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-chonky-chirpers",
+      "priority": 0.5,
+      "last_modified": "2025-09-04T20:21:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-3d-cannon-ball",
+      "priority": 0.5,
+      "last_modified": "2025-09-05T19:32:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
