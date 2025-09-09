@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250909_000713
+
+- https://sprunki.com/sprunki-reversed-reupload
+- https://sprunki.com/sprunki-wenda-treatment-phase-40
+- https://sprunki.com/sprunki-multishift-unshifted
+- https://sprunki.com/Sprunki-But-Disturbing26
+- https://sprunki.com/ja/sprunki-anti-shifted
+- https://sprunki.com/ja/sprunki-abgerny-birds
+- https://sprunki.com/ja/sprunki-shifted-remastered
+
+Raw data: [sitemap.json](./data/sprunki.com/20250909_000713/sitemap.json) and [diff.json](./data/sprunki.com/20250909_000713/diff.json)
+
 ### 20250906_000650
 
 - https://sprunki.com/sprunki-regretful-5-0
@@ -109,18 +121,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250906_000650/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-pokemon-phase-3
 
 Raw data: [sitemap.json](./data/sprunki.com/20250905_000714/sitemap.json) and [diff.json](./data/sprunki.com/20250905_000714/diff.json)
-
-### 20250904_000710
-
-- https://sprunki.com/sprunki-reestiled
-- https://sprunki.com/fiddlebops-sprunkters
-- https://sprunki.com/sprunki-abgerny-birds
-- https://sprunki.com/sprunki-phase-56
-- https://sprunki.com/sprunki-anti-shifted
-- https://sprunki.com/ja/yet-another-boring-old-sprunki-mod
-- https://sprunki.com/ja/sprunki-phase-4-definitive
-
-Raw data: [sitemap.json](./data/sprunki.com/20250904_000710/sitemap.json) and [diff.json](./data/sprunki.com/20250904_000710/diff.json)
 
 ## sprunki.net
 
