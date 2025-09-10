@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250910_000720
+
+- https://sprunki.com/sprunki-phase-9-dashdoshty
+- https://sprunki.com/ja/sprunki-mothers-nature
+- https://sprunki.com/ja/sprunki-regretful-5-0
+- https://sprunki.com/ja/sprunki-multishift-unshifted
+
+Raw data: [sitemap.json](./data/sprunki.com/20250910_000720/sitemap.json) and [diff.json](./data/sprunki.com/20250910_000720/diff.json)
+
 ### 20250909_000713
 
 - https://sprunki.com/sprunki-reversed-reupload
@@ -115,12 +124,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250909_000713/sitemap.json) and [d
 - https://sprunki.com/sprunki-evening
 
 Raw data: [sitemap.json](./data/sprunki.com/20250906_000650/sitemap.json) and [diff.json](./data/sprunki.com/20250906_000650/diff.json)
-
-### 20250905_000714
-
-- https://sprunki.com/ja/sprunki-pokemon-phase-3
-
-Raw data: [sitemap.json](./data/sprunki.com/20250905_000714/sitemap.json) and [diff.json](./data/sprunki.com/20250905_000714/diff.json)
 
 ## sprunki.net
 
@@ -10387,6 +10390,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250910_000720
+
+- https://sprunkin.com/fan-game/incredibox-abgerny-but-shapes-school/
+- https://sprunkin.com/fan-game/sprunki-phase-4-mtsh/
+- https://sprunkin.com/fan-game/ssd-spunk/
+- https://sprunkin.com/fan-game/sprunki-guu-edition/
+- https://sprunkin.com/fan-game/sprunki-happy-die-update/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250910_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20250910_000720/diff.json)
+
 ### 20250907_000755
 
 - https://sprunkin.com/fan-game/sprunki-nameshifted/
@@ -10406,16 +10419,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250907_000755/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-sprunki-sprunkled-sprunk-v1-0/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250906_000650/sitemap.json) and [diff.json](./data/sprunkin.com/20250906_000650/diff.json)
-
-### 20250904_000710
-
-- https://sprunkin.com/fan-game/among-us-megaserver/
-- https://sprunkin.com/fan-game/not-a-normal-sprunki-by-simonsprunki/
-- https://sprunkin.com/fan-game/not-a-normal-sprunki-by-simonsprunki-2/
-- https://sprunkin.com/fan-game/incredibox-splenkrate-v-1-1-0/
-- https://sprunkin.com/fan-game/cringe-sprunki/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250904_000710/sitemap.json) and [diff.json](./data/sprunkin.com/20250904_000710/diff.json)
 
 ## sprunkisinner.org
 

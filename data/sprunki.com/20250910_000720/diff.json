@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-phase-9-dashdoshty",
+      "priority": 1.0,
+      "last_modified": "2025-09-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-mothers-nature",
+      "priority": 1.0,
+      "last_modified": "2025-09-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-regretful-5-0",
+      "priority": 1.0,
+      "last_modified": "2025-09-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-multishift-unshifted",
+      "priority": 1.0,
+      "last_modified": "2025-09-09T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
