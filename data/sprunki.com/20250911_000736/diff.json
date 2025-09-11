@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-picosuke",
+      "priority": 1.0,
+      "last_modified": "2025-09-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-underworld",
+      "priority": 1.0,
+      "last_modified": "2025-09-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-15-definitive",
+      "priority": 1.0,
+      "last_modified": "2025-09-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-craft",
+      "priority": 1.0,
+      "last_modified": "2025-09-10T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

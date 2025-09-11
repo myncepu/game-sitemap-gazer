@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250911_000736
+
+- https://sprunki.com/sprunki-picosuke
+- https://sprunki.com/sprunki-underworld
+- https://sprunki.com/ja/sprunki-phase-15-definitive
+- https://sprunki.com/ja/sprunki-craft
+
+Raw data: [sitemap.json](./data/sprunki.com/20250911_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250911_000736/diff.json)
+
 ### 20250910_000720
 
 - https://sprunki.com/sprunki-phase-9-dashdoshty
@@ -116,14 +125,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250910_000720/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-shifted-remastered
 
 Raw data: [sitemap.json](./data/sprunki.com/20250909_000713/sitemap.json) and [diff.json](./data/sprunki.com/20250909_000713/diff.json)
-
-### 20250906_000650
-
-- https://sprunki.com/sprunki-regretful-5-0
-- https://sprunki.com/sprunki-shifted-remastered
-- https://sprunki.com/sprunki-evening
-
-Raw data: [sitemap.json](./data/sprunki.com/20250906_000650/sitemap.json) and [diff.json](./data/sprunki.com/20250906_000650/diff.json)
 
 ## sprunki.net
 
@@ -10390,6 +10391,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250911_000736
+
+- https://sprunkin.com/game/spruted-hackers-from-hell/
+- https://sprunkin.com/game/sprunkalicious-1996/
+- https://sprunkin.com/fan-game/sprunki-animal-crossing/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250911_000736/sitemap.json) and [diff.json](./data/sprunkin.com/20250911_000736/diff.json)
+
 ### 20250910_000720
 
 - https://sprunkin.com/fan-game/incredibox-abgerny-but-shapes-school/
@@ -10408,17 +10417,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250910_000720/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-la-xi/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250907_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250907_000755/diff.json)
-
-### 20250906_000650
-
-- https://sprunkin.com/game/sprunki-5hifted-unshifted/
-- https://sprunkin.com/game/sprunki-shifted-partners-in-carnage/
-- https://sprunkin.com/game/sprinkle-reversed/
-- https://sprunkin.com/fan-game/deltasprunki/
-- https://sprunkin.com/fan-game/incredibox-splenkrate/
-- https://sprunkin.com/fan-game/incredibox-sprunki-sprunkled-sprunk-v1-0/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250906_000650/sitemap.json) and [diff.json](./data/sprunkin.com/20250906_000650/diff.json)
 
 ## sprunkisinner.org
 
