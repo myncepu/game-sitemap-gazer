@@ -96,6 +96,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250912_000719
+
+- https://sprunki.com/sprunki-phase-5-remake-v3
+- https://sprunki.com/sprunked-rev-ed
+- https://sprunki.com/sprunki-kosta-phase-3
+- https://sprunki.com/sprunki-pyramixed-but-jet-emily-joined
+- https://sprunki.com/sprunki-dandilarity
+
+Raw data: [sitemap.json](./data/sprunki.com/20250912_000719/sitemap.json) and [diff.json](./data/sprunki.com/20250912_000719/diff.json)
+
 ### 20250911_000736
 
 - https://sprunki.com/sprunki-picosuke
@@ -113,18 +123,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250911_000736/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-multishift-unshifted
 
 Raw data: [sitemap.json](./data/sprunki.com/20250910_000720/sitemap.json) and [diff.json](./data/sprunki.com/20250910_000720/diff.json)
-
-### 20250909_000713
-
-- https://sprunki.com/sprunki-reversed-reupload
-- https://sprunki.com/sprunki-wenda-treatment-phase-40
-- https://sprunki.com/sprunki-multishift-unshifted
-- https://sprunki.com/Sprunki-But-Disturbing26
-- https://sprunki.com/ja/sprunki-anti-shifted
-- https://sprunki.com/ja/sprunki-abgerny-birds
-- https://sprunki.com/ja/sprunki-shifted-remastered
-
-Raw data: [sitemap.json](./data/sprunki.com/20250909_000713/sitemap.json) and [diff.json](./data/sprunki.com/20250909_000713/diff.json)
 
 ## sprunki.net
 
@@ -10391,6 +10389,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250912_000719
+
+- https://sprunkin.com/fan-game/sprunki-phase-5-mtsh/
+- https://sprunkin.com/fan-game/sprunki-19-polos/
+- https://sprunkin.com/fan-game/sprunki-retake-19-polos/
+- https://sprunkin.com/fan-game/sprunki-phase-17-helpless/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250912_000719/sitemap.json) and [diff.json](./data/sprunkin.com/20250912_000719/diff.json)
+
 ### 20250911_000736
 
 - https://sprunkin.com/game/spruted-hackers-from-hell/
@@ -10408,15 +10415,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250911_000736/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-happy-die-update/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250910_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20250910_000720/diff.json)
-
-### 20250907_000755
-
-- https://sprunkin.com/fan-game/sprunki-nameshifted/
-- https://sprunkin.com/fan-game/sprunki-nameshifted-2/
-- https://sprunkin.com/fan-game/sprunki-phase-3-mtsh/
-- https://sprunkin.com/fan-game/sprunki-la-xi/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250907_000755/sitemap.json) and [diff.json](./data/sprunkin.com/20250907_000755/diff.json)
 
 ## sprunkisinner.org
 
