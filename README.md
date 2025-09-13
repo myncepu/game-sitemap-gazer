@@ -96,6 +96,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250913_000704
+
+- https://sprunki.com/sprunki-phase-70
+- https://sprunki.com/sprinkle-phase-3
+- https://sprunki.com/sprunki-definitive-phase-3
+- https://sprunki.com/sprunkini
+- https://sprunki.com/sprunked-pokemon
+
+Raw data: [sitemap.json](./data/sprunki.com/20250913_000704/sitemap.json) and [diff.json](./data/sprunki.com/20250913_000704/diff.json)
+
 ### 20250912_000719
 
 - https://sprunki.com/sprunki-phase-5-remake-v3
@@ -114,15 +124,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250912_000719/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-craft
 
 Raw data: [sitemap.json](./data/sprunki.com/20250911_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250911_000736/diff.json)
-
-### 20250910_000720
-
-- https://sprunki.com/sprunki-phase-9-dashdoshty
-- https://sprunki.com/ja/sprunki-mothers-nature
-- https://sprunki.com/ja/sprunki-regretful-5-0
-- https://sprunki.com/ja/sprunki-multishift-unshifted
-
-Raw data: [sitemap.json](./data/sprunki.com/20250910_000720/sitemap.json) and [diff.json](./data/sprunki.com/20250910_000720/diff.json)
 
 ## sprunki.net
 
