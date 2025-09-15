@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunke-phase-4-gore-galore/",
+      "priority": 0.5,
+      "last_modified": "2025-09-14T09:21:54Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-super-tunes/",
+      "priority": 0.5,
+      "last_modified": "2025-09-14T09:23:55Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/gumball/",
+      "priority": 0.5,
+      "last_modified": "2025-09-14T04:38:20Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/gumball-2/",
+      "priority": 0.5,
+      "last_modified": "2025-09-14T04:39:06Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/gumball-3/",
+      "priority": 0.5,
+      "last_modified": "2025-09-14T04:39:09Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
