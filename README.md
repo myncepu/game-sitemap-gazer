@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250916_000712
+
+- https://sprunki.com/sprunki-revised
+- https://sprunki.com/sprunki-jamming-mini-mod
+- https://sprunki.com/sprunki-chaotic-good-remade
+- https://sprunki.com/sprunki-cool-as-ice-2
+
+Raw data: [sitemap.json](./data/sprunki.com/20250916_000712/sitemap.json) and [diff.json](./data/sprunki.com/20250916_000712/diff.json)
+
 ### 20250913_000704
 
 - https://sprunki.com/sprunki-phase-70
@@ -115,15 +124,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250913_000704/sitemap.json) and [d
 - https://sprunki.com/sprunki-dandilarity
 
 Raw data: [sitemap.json](./data/sprunki.com/20250912_000719/sitemap.json) and [diff.json](./data/sprunki.com/20250912_000719/diff.json)
-
-### 20250911_000736
-
-- https://sprunki.com/sprunki-picosuke
-- https://sprunki.com/sprunki-underworld
-- https://sprunki.com/ja/sprunki-phase-15-definitive
-- https://sprunki.com/ja/sprunki-craft
-
-Raw data: [sitemap.json](./data/sprunki.com/20250911_000736/sitemap.json) and [diff.json](./data/sprunki.com/20250911_000736/diff.json)
 
 ## sprunki.net
 

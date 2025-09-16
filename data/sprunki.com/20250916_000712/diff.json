@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-revised",
+      "priority": 1.0,
+      "last_modified": "2025-09-15T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-jamming-mini-mod",
+      "priority": 1.0,
+      "last_modified": "2025-09-15T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-chaotic-good-remade",
+      "priority": 1.0,
+      "last_modified": "2025-09-15T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-cool-as-ice-2",
+      "priority": 1.0,
+      "last_modified": "2025-09-15T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
