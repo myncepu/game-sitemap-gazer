@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunkin-beats",
+      "priority": 1.0,
+      "last_modified": "2025-09-16T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-shifted-partners-in-carnage",
+      "priority": 1.0,
+      "last_modified": "2025-09-16T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-sprankler",
+      "priority": 1.0,
+      "last_modified": "2025-09-16T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-sprank",
+      "priority": 1.0,
+      "last_modified": "2025-09-16T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunked-pokemon",
+      "priority": 1.0,
+      "last_modified": "2025-09-16T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprinkle-phase-3",
+      "priority": 1.0,
+      "last_modified": "2025-09-16T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-70",
+      "priority": 1.0,
+      "last_modified": "2025-09-16T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}

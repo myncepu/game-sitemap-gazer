@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250917_000723
+
+- https://sprunki.com/sprunkin-beats
+- https://sprunki.com/sprunki-shifted-partners-in-carnage
+- https://sprunki.com/sprunki-sprankler
+- https://sprunki.com/sprunki-sprank
+- https://sprunki.com/ja/sprunked-pokemon
+- https://sprunki.com/ja/sprinkle-phase-3
+- https://sprunki.com/ja/sprunki-phase-70
+
+Raw data: [sitemap.json](./data/sprunki.com/20250917_000723/sitemap.json) and [diff.json](./data/sprunki.com/20250917_000723/diff.json)
+
 ### 20250916_000712
 
 - https://sprunki.com/sprunki-revised
@@ -114,16 +126,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250916_000712/sitemap.json) and [d
 - https://sprunki.com/sprunked-pokemon
 
 Raw data: [sitemap.json](./data/sprunki.com/20250913_000704/sitemap.json) and [diff.json](./data/sprunki.com/20250913_000704/diff.json)
-
-### 20250912_000719
-
-- https://sprunki.com/sprunki-phase-5-remake-v3
-- https://sprunki.com/sprunked-rev-ed
-- https://sprunki.com/sprunki-kosta-phase-3
-- https://sprunki.com/sprunki-pyramixed-but-jet-emily-joined
-- https://sprunki.com/sprunki-dandilarity
-
-Raw data: [sitemap.json](./data/sprunki.com/20250912_000719/sitemap.json) and [diff.json](./data/sprunki.com/20250912_000719/diff.json)
 
 ## sprunki.net
 
