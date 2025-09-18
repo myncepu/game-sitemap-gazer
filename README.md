@@ -96,6 +96,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250918_000710
+
+- https://sprunki.com/sprunki-infection-black-phase-3
+- https://sprunki.com/sprunki-phase-111
+- https://sprunki.com/sprunked-new-things
+- https://sprunki.com/kino-sprunked-be-edition
+- https://sprunki.com/sprunki-greencore
+
+Raw data: [sitemap.json](./data/sprunki.com/20250918_000710/sitemap.json) and [diff.json](./data/sprunki.com/20250918_000710/diff.json)
+
 ### 20250917_000723
 
 - https://sprunki.com/sprunkin-beats
@@ -116,16 +126,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250917_000723/sitemap.json) and [d
 - https://sprunki.com/sprunki-cool-as-ice-2
 
 Raw data: [sitemap.json](./data/sprunki.com/20250916_000712/sitemap.json) and [diff.json](./data/sprunki.com/20250916_000712/diff.json)
-
-### 20250913_000704
-
-- https://sprunki.com/sprunki-phase-70
-- https://sprunki.com/sprinkle-phase-3
-- https://sprunki.com/sprunki-definitive-phase-3
-- https://sprunki.com/sprunkini
-- https://sprunki.com/sprunked-pokemon
-
-Raw data: [sitemap.json](./data/sprunki.com/20250913_000704/sitemap.json) and [diff.json](./data/sprunki.com/20250913_000704/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10392,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250918_000710
+
+- https://sprunkin.com/fan-game/sprunki-animal-crossing-2/
+- https://sprunkin.com/fan-game/sprunki-defenitive-phase-13-funmade/
+- https://sprunkin.com/fan-game/sprunki-phase-3-retake-finale-update-reanimated/
+- https://sprunkin.com/fan-game/sprunki-phase-7-mtsh/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250918_000710/sitemap.json) and [diff.json](./data/sprunkin.com/20250918_000710/diff.json)
+
 ### 20250915_000740
 
 - https://sprunkin.com/game/sprunke-phase-4-gore-galore/
@@ -10411,15 +10420,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250915_000740/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-6-mtsh/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250914_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20250914_000727/diff.json)
-
-### 20250912_000719
-
-- https://sprunkin.com/fan-game/sprunki-phase-5-mtsh/
-- https://sprunkin.com/fan-game/sprunki-19-polos/
-- https://sprunkin.com/fan-game/sprunki-retake-19-polos/
-- https://sprunkin.com/fan-game/sprunki-phase-17-helpless/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250912_000719/sitemap.json) and [diff.json](./data/sprunkin.com/20250912_000719/diff.json)
 
 ## sprunkisinner.org
 
