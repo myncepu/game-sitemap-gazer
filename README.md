@@ -96,6 +96,13 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250919_000727
+
+- https://sprunki.com/ja/sprunki-sprank
+- https://sprunki.com/ja/sprunki-phase-111
+
+Raw data: [sitemap.json](./data/sprunki.com/20250919_000727/sitemap.json) and [diff.json](./data/sprunki.com/20250919_000727/diff.json)
+
 ### 20250918_000710
 
 - https://sprunki.com/sprunki-infection-black-phase-3
@@ -117,15 +124,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250918_000710/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-70
 
 Raw data: [sitemap.json](./data/sprunki.com/20250917_000723/sitemap.json) and [diff.json](./data/sprunki.com/20250917_000723/diff.json)
-
-### 20250916_000712
-
-- https://sprunki.com/sprunki-revised
-- https://sprunki.com/sprunki-jamming-mini-mod
-- https://sprunki.com/sprunki-chaotic-good-remade
-- https://sprunki.com/sprunki-cool-as-ice-2
-
-Raw data: [sitemap.json](./data/sprunki.com/20250916_000712/sitemap.json) and [diff.json](./data/sprunki.com/20250916_000712/diff.json)
 
 ## sprunki.net
 
@@ -10392,6 +10390,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250919_000727
+
+- https://sprunkin.com/game/sprunki-1996-teesir-recreation/
+- https://sprunkin.com/game/sprunkey-retake-alpha-ver/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250919_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20250919_000727/diff.json)
+
 ### 20250918_000710
 
 - https://sprunkin.com/fan-game/sprunki-animal-crossing-2/
@@ -10410,16 +10415,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250918_000710/sitemap.json) and [
 - https://sprunkin.com/fan-game/gumball-3/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250915_000740/sitemap.json) and [diff.json](./data/sprunkin.com/20250915_000740/diff.json)
-
-### 20250914_000727
-
-- https://sprunkin.com/game/sprunkin-beats-sprunki-2008/
-- https://sprunkin.com/game/mieksbox-sprunki-spunkr/
-- https://sprunkin.com/fan-game/sprunki-phase-4-gore-galore/
-- https://sprunkin.com/fan-game/incredibox-sprunki-wenda-treatment-but-pee-wees-playhouse/
-- https://sprunkin.com/fan-game/sprunki-phase-6-mtsh/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250914_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20250914_000727/diff.json)
 
 ## sprunkisinner.org
 
