@@ -96,6 +96,14 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250920_000708
+
+- https://sprunki.com/sprunki-smug
+- https://sprunki.com/sprunked-final-version
+- https://sprunki.com/sprunki-mrunki
+
+Raw data: [sitemap.json](./data/sprunki.com/20250920_000708/sitemap.json) and [diff.json](./data/sprunki.com/20250920_000708/diff.json)
+
 ### 20250919_000727
 
 - https://sprunki.com/ja/sprunki-sprank
@@ -112,18 +120,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250919_000727/sitemap.json) and [d
 - https://sprunki.com/sprunki-greencore
 
 Raw data: [sitemap.json](./data/sprunki.com/20250918_000710/sitemap.json) and [diff.json](./data/sprunki.com/20250918_000710/diff.json)
-
-### 20250917_000723
-
-- https://sprunki.com/sprunkin-beats
-- https://sprunki.com/sprunki-shifted-partners-in-carnage
-- https://sprunki.com/sprunki-sprankler
-- https://sprunki.com/sprunki-sprank
-- https://sprunki.com/ja/sprunked-pokemon
-- https://sprunki.com/ja/sprinkle-phase-3
-- https://sprunki.com/ja/sprunki-phase-70
-
-Raw data: [sitemap.json](./data/sprunki.com/20250917_000723/sitemap.json) and [diff.json](./data/sprunki.com/20250917_000723/diff.json)
 
 ## sprunki.net
 
@@ -10390,6 +10386,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250920_000708
+
+- https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-mercat-and-friends/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250920_000708/sitemap.json) and [diff.json](./data/sprunkin.com/20250920_000708/diff.json)
+
 ### 20250919_000727
 
 - https://sprunkin.com/game/sprunki-1996-teesir-recreation/
@@ -10405,16 +10407,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250919_000727/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-7-mtsh/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250918_000710/sitemap.json) and [diff.json](./data/sprunkin.com/20250918_000710/diff.json)
-
-### 20250915_000740
-
-- https://sprunkin.com/game/sprunke-phase-4-gore-galore/
-- https://sprunkin.com/game/sprunki-super-tunes/
-- https://sprunkin.com/fan-game/gumball/
-- https://sprunkin.com/fan-game/gumball-2/
-- https://sprunkin.com/fan-game/gumball-3/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250915_000740/sitemap.json) and [diff.json](./data/sprunkin.com/20250915_000740/diff.json)
 
 ## sprunkisinner.org
 
@@ -10800,6 +10792,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250920_000708
+
+- https://www.coolmathgames.com/0-100-doors-puzzle-box
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250920_000708/sitemap.json) and [diff.json](./data/coolmathgames.com/20250920_000708/diff.json)
+
 ### 20250915_000740
 
 - https://www.coolmathgames.com/0-word-salad
@@ -10814,14 +10812,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250915_000740/sitemap.json) 
 - https://www.coolmathgames.com/0-solar-complex
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250914_000727/sitemap.json) and [diff.json](./data/coolmathgames.com/20250914_000727/diff.json)
-
-### 20250907_000755
-
-- https://www.coolmathgames.com/0-dress-up-styling-challenge
-- https://www.coolmathgames.com/0-chonky-chirpers
-- https://www.coolmathgames.com/0-3d-cannon-ball
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250907_000755/sitemap.json) and [diff.json](./data/coolmathgames.com/20250907_000755/diff.json)
 
 ## pogo.com
 

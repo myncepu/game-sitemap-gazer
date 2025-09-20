@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-smug",
+      "priority": 1.0,
+      "last_modified": "2025-09-19T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunked-final-version",
+      "priority": 1.0,
+      "last_modified": "2025-09-19T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-mrunki",
+      "priority": 1.0,
+      "last_modified": "2025-09-19T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
