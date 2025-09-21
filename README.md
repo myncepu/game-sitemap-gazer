@@ -10386,6 +10386,23 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250921_000747
+
+- https://sprunkin.com/game/sprunkilairity-cat-version/
+- https://sprunkin.com/game/sprunki-alphabet-lore-arabic-phase-3/
+- https://sprunkin.com/fan-game/numeric-nightmares-sprunki-mod/
+- https://sprunkin.com/fan-game/boogs/
+- https://sprunkin.com/fan-game/sprunki-phase-3443/
+- https://sprunkin.com/fan-game/avends-qoobies-e2-the-lime-but-mercat-and-friends/
+- https://sprunkin.com/fan-game/parodybox-sprunki-night-mode/
+- https://sprunkin.com/fan-game/sprunki-retake-but-with-instruments/
+- https://sprunkin.com/fan-game/sprunki-with-oc-2-night-mode/
+- https://sprunkin.com/fan-game/sprunki-old-3/
+- https://sprunkin.com/fan-game/sprunki-update-10/
+- https://sprunkin.com/fan-game/sprunki-regret/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250921_000747/sitemap.json) and [diff.json](./data/sprunkin.com/20250921_000747/diff.json)
+
 ### 20250920_000708
 
 - https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-mercat-and-friends/
@@ -10398,15 +10415,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250920_000708/sitemap.json) and [
 - https://sprunkin.com/game/sprunkey-retake-alpha-ver/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250919_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20250919_000727/diff.json)
-
-### 20250918_000710
-
-- https://sprunkin.com/fan-game/sprunki-animal-crossing-2/
-- https://sprunkin.com/fan-game/sprunki-defenitive-phase-13-funmade/
-- https://sprunkin.com/fan-game/sprunki-phase-3-retake-finale-update-reanimated/
-- https://sprunkin.com/fan-game/sprunki-phase-7-mtsh/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250918_000710/sitemap.json) and [diff.json](./data/sprunkin.com/20250918_000710/diff.json)
 
 ## sprunkisinner.org
 
