@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-someone-is-glitchy/",
+      "priority": 0.5,
+      "last_modified": "2025-09-21T10:27:04Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-is-super-glitchy/",
+      "priority": 0.5,
+      "last_modified": "2025-09-21T10:50:29Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunkez-remake-unfinished/",
+      "priority": 0.5,
+      "last_modified": "2025-09-21T18:16:51Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

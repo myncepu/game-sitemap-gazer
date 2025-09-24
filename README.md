@@ -96,6 +96,14 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250924_000730
+
+- https://sprunki.com/sprinkle-reupload
+- https://sprunki.com/sprunki-cool-as-ice-kayden-friends
+- https://sprunki.com/sprunki-dx
+
+Raw data: [sitemap.json](./data/sprunki.com/20250924_000730/sitemap.json) and [diff.json](./data/sprunki.com/20250924_000730/diff.json)
+
 ### 20250923_000723
 
 - https://sprunki.com/sprunki-overlap-the-characters
@@ -109,13 +117,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250923_000723/sitemap.json) and [d
 - https://sprunki.com/sprunki-mrunki
 
 Raw data: [sitemap.json](./data/sprunki.com/20250920_000708/sitemap.json) and [diff.json](./data/sprunki.com/20250920_000708/diff.json)
-
-### 20250919_000727
-
-- https://sprunki.com/ja/sprunki-sprank
-- https://sprunki.com/ja/sprunki-phase-111
-
-Raw data: [sitemap.json](./data/sprunki.com/20250919_000727/sitemap.json) and [diff.json](./data/sprunki.com/20250919_000727/diff.json)
 
 ## sprunki.net
 
@@ -10382,6 +10383,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250924_000730
+
+- https://sprunkin.com/fan-game/sprunki-someone-is-glitchy/
+- https://sprunkin.com/fan-game/sprunki-is-super-glitchy/
+- https://sprunkin.com/fan-game/sprunkez-remake-unfinished/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250924_000730/sitemap.json) and [diff.json](./data/sprunkin.com/20250924_000730/diff.json)
+
 ### 20250921_000747
 
 - https://sprunkin.com/game/sprunkilairity-cat-version/
@@ -10404,13 +10413,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250921_000747/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-mercat-and-friends/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250920_000708/sitemap.json) and [diff.json](./data/sprunkin.com/20250920_000708/diff.json)
-
-### 20250919_000727
-
-- https://sprunkin.com/game/sprunki-1996-teesir-recreation/
-- https://sprunkin.com/game/sprunkey-retake-alpha-ver/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250919_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20250919_000727/diff.json)
 
 ## sprunkisinner.org
 
