@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-parking-plot",
+      "priority": 0.5,
+      "last_modified": "2025-09-23T19:58:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-fabled-conquerors-2-the-winds-of-magic",
+      "priority": 0.5,
+      "last_modified": "2025-09-22T20:21:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

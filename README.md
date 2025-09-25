@@ -96,6 +96,18 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250925_000724
+
+- https://sprunki.com/sprunki-1996-teesir-recreation
+- https://sprunki.com/sprinkle-scratch-port
+- https://sprunki.com/sprunki-specimen
+- https://sprunki.com/sprunki-night-time-3-0
+- https://sprunki.com/ozzybox-terrors
+- https://sprunki.com/ja/sprunki-pyramixed-phase-2-remake
+- https://sprunki.com/ja/sprinkle-reupload
+
+Raw data: [sitemap.json](./data/sprunki.com/20250925_000724/sitemap.json) and [diff.json](./data/sprunki.com/20250925_000724/diff.json)
+
 ### 20250924_000730
 
 - https://sprunki.com/sprinkle-reupload
@@ -109,14 +121,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250924_000730/sitemap.json) and [d
 - https://sprunki.com/sprunki-overlap-the-characters
 
 Raw data: [sitemap.json](./data/sprunki.com/20250923_000723/sitemap.json) and [diff.json](./data/sprunki.com/20250923_000723/diff.json)
-
-### 20250920_000708
-
-- https://sprunki.com/sprunki-smug
-- https://sprunki.com/sprunked-final-version
-- https://sprunki.com/sprunki-mrunki
-
-Raw data: [sitemap.json](./data/sprunki.com/20250920_000708/sitemap.json) and [diff.json](./data/sprunki.com/20250920_000708/diff.json)
 
 ## sprunki.net
 
@@ -10798,6 +10802,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250925_000724
+
+- https://www.coolmathgames.com/0-parking-plot
+- https://www.coolmathgames.com/0-fabled-conquerors-2-the-winds-of-magic
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250925_000724/sitemap.json) and [diff.json](./data/coolmathgames.com/20250925_000724/diff.json)
+
 ### 20250923_000723
 
 - https://www.coolmathgames.com/0-worlds-hardest-game-4
@@ -10810,14 +10821,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250923_000723/sitemap.json) 
 - https://www.coolmathgames.com/0-100-doors-puzzle-box
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250920_000708/sitemap.json) and [diff.json](./data/coolmathgames.com/20250920_000708/diff.json)
-
-### 20250915_000740
-
-- https://www.coolmathgames.com/0-word-salad
-- https://www.coolmathgames.com/0-detective-logic-puzzle
-- https://www.coolmathgames.com/blog/how-to-play-mini-car-ball
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250915_000740/sitemap.json) and [diff.json](./data/coolmathgames.com/20250915_000740/diff.json)
 
 ## pogo.com
 
