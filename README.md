@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250926_000720
+
+- https://sprunki.com/sprunki-pikadimady
+- https://sprunki.com/sprunki-alphabet-lore-arabic-phase-3
+- https://sprunki.com/sprunkey-retake-alpha-ver
+- https://sprunki.com/ja/sprunki-phase-5-remake-v3
+
+Raw data: [sitemap.json](./data/sprunki.com/20250926_000720/sitemap.json) and [diff.json](./data/sprunki.com/20250926_000720/diff.json)
+
 ### 20250925_000724
 
 - https://sprunki.com/sprunki-1996-teesir-recreation
@@ -115,12 +124,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250925_000724/sitemap.json) and [d
 - https://sprunki.com/sprunki-dx
 
 Raw data: [sitemap.json](./data/sprunki.com/20250924_000730/sitemap.json) and [diff.json](./data/sprunki.com/20250924_000730/diff.json)
-
-### 20250923_000723
-
-- https://sprunki.com/sprunki-overlap-the-characters
-
-Raw data: [sitemap.json](./data/sprunki.com/20250923_000723/sitemap.json) and [diff.json](./data/sprunki.com/20250923_000723/diff.json)
 
 ## sprunki.net
 
@@ -10387,6 +10390,20 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250926_000720
+
+- https://sprunkin.com/game/sprunki-parodybox-parasite/
+- https://sprunkin.com/game/sprunki-garnold-treatment/
+- https://sprunkin.com/fan-game/incredibox-pudim/
+- https://sprunkin.com/fan-game/incredibox-splenkrate-v-1-1-0/
+- https://sprunkin.com/fan-game/sprunki-phase-8-mtsh/
+- https://sprunkin.com/fan-game/incredibox-time-pavement-but-mercat-and-friends/
+- https://sprunkin.com/fan-game/incredibox-time-pavement-but-pee-wees-playhouse/
+- https://sprunkin.com/fan-game/sprunki-in-locrian-mode/
+- https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-mr-hyde-and-friends/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250926_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20250926_000720/diff.json)
+
 ### 20250924_000730
 
 - https://sprunkin.com/fan-game/sprunki-someone-is-glitchy/
@@ -10411,12 +10428,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250924_000730/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-regret/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250921_000747/sitemap.json) and [diff.json](./data/sprunkin.com/20250921_000747/diff.json)
-
-### 20250920_000708
-
-- https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-mercat-and-friends/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250920_000708/sitemap.json) and [diff.json](./data/sprunkin.com/20250920_000708/diff.json)
 
 ## sprunkisinner.org
 

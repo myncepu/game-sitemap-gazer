@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-pikadimady",
+      "priority": 1.0,
+      "last_modified": "2025-09-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-alphabet-lore-arabic-phase-3",
+      "priority": 1.0,
+      "last_modified": "2025-09-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunkey-retake-alpha-ver",
+      "priority": 1.0,
+      "last_modified": "2025-09-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/ja/sprunki-phase-5-remake-v3",
+      "priority": 1.0,
+      "last_modified": "2025-09-25T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
