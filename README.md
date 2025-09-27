@@ -96,6 +96,14 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250927_000711
+
+- https://sprunki.com/sprunkin-playable-3243
+- https://sprunki.com/sprunki-phase-5-improve-version
+- https://sprunki.com/abgerny-incredibox
+
+Raw data: [sitemap.json](./data/sprunki.com/20250927_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250927_000711/diff.json)
+
 ### 20250926_000720
 
 - https://sprunki.com/sprunki-pikadimady
@@ -116,14 +124,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250926_000720/sitemap.json) and [d
 - https://sprunki.com/ja/sprinkle-reupload
 
 Raw data: [sitemap.json](./data/sprunki.com/20250925_000724/sitemap.json) and [diff.json](./data/sprunki.com/20250925_000724/diff.json)
-
-### 20250924_000730
-
-- https://sprunki.com/sprinkle-reupload
-- https://sprunki.com/sprunki-cool-as-ice-kayden-friends
-- https://sprunki.com/sprunki-dx
-
-Raw data: [sitemap.json](./data/sprunki.com/20250924_000730/sitemap.json) and [diff.json](./data/sprunki.com/20250924_000730/diff.json)
 
 ## sprunki.net
 
@@ -10813,6 +10813,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20250927_000711
+
+- https://www.coolmathgames.com/0-jelly-block-puzzle
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20250927_000711/sitemap.json) and [diff.json](./data/coolmathgames.com/20250927_000711/diff.json)
+
 ### 20250925_000724
 
 - https://www.coolmathgames.com/0-parking-plot
@@ -10826,12 +10832,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250925_000724/sitemap.json) 
 - https://www.coolmathgames.com/0-trivia-online
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250923_000723/sitemap.json) and [diff.json](./data/coolmathgames.com/20250923_000723/diff.json)
-
-### 20250920_000708
-
-- https://www.coolmathgames.com/0-100-doors-puzzle-box
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250920_000708/sitemap.json) and [diff.json](./data/coolmathgames.com/20250920_000708/diff.json)
 
 ## pogo.com
 
