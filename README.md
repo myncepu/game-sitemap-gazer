@@ -96,6 +96,16 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250929_000731
+
+- https://sprunki.com/sprunki-lobotomy-reskin-phase-3
+- https://sprunki.com/sprunki-remake-fire
+- https://sprunki.com/sprunki-reskinned-2
+- https://sprunki.com/sprunki-phase-3-remaster-but-real
+- https://sprunki.com/abgerny-scratch
+
+Raw data: [sitemap.json](./data/sprunki.com/20250929_000731/sitemap.json) and [diff.json](./data/sprunki.com/20250929_000731/diff.json)
+
 ### 20250927_000711
 
 - https://sprunki.com/sprunkin-playable-3243
@@ -112,18 +122,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250927_000711/sitemap.json) and [d
 - https://sprunki.com/ja/sprunki-phase-5-remake-v3
 
 Raw data: [sitemap.json](./data/sprunki.com/20250926_000720/sitemap.json) and [diff.json](./data/sprunki.com/20250926_000720/diff.json)
-
-### 20250925_000724
-
-- https://sprunki.com/sprunki-1996-teesir-recreation
-- https://sprunki.com/sprinkle-scratch-port
-- https://sprunki.com/sprunki-specimen
-- https://sprunki.com/sprunki-night-time-3-0
-- https://sprunki.com/ozzybox-terrors
-- https://sprunki.com/ja/sprunki-pyramixed-phase-2-remake
-- https://sprunki.com/ja/sprinkle-reupload
-
-Raw data: [sitemap.json](./data/sprunki.com/20250925_000724/sitemap.json) and [diff.json](./data/sprunki.com/20250925_000724/diff.json)
 
 ## sprunki.net
 
@@ -10390,6 +10388,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250929_000731
+
+- https://sprunkin.com/game/sprunki-adventures-in-melodia/
+- https://sprunkin.com/game/parasprunki-dystheism-20-0/
+- https://sprunkin.com/fan-game/incredibox-sprunki-wenda-treatment-but-chalky-and-friends/
+- https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-chalky-and-friends/
+- https://sprunkin.com/fan-game/sprunki-remixed/
+- https://sprunkin.com/fan-game/sprunki-phase-37/
+- https://sprunkin.com/fan-game/fizzy-like-coke-but-mercat-and-friends/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250929_000731/sitemap.json) and [diff.json](./data/sprunkin.com/20250929_000731/diff.json)
+
 ### 20250926_000720
 
 - https://sprunkin.com/game/sprunki-parodybox-parasite/
@@ -10411,23 +10421,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250926_000720/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunkez-remake-unfinished/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250924_000730/sitemap.json) and [diff.json](./data/sprunkin.com/20250924_000730/diff.json)
-
-### 20250921_000747
-
-- https://sprunkin.com/game/sprunkilairity-cat-version/
-- https://sprunkin.com/game/sprunki-alphabet-lore-arabic-phase-3/
-- https://sprunkin.com/fan-game/numeric-nightmares-sprunki-mod/
-- https://sprunkin.com/fan-game/boogs/
-- https://sprunkin.com/fan-game/sprunki-phase-3443/
-- https://sprunkin.com/fan-game/avends-qoobies-e2-the-lime-but-mercat-and-friends/
-- https://sprunkin.com/fan-game/parodybox-sprunki-night-mode/
-- https://sprunkin.com/fan-game/sprunki-retake-but-with-instruments/
-- https://sprunkin.com/fan-game/sprunki-with-oc-2-night-mode/
-- https://sprunkin.com/fan-game/sprunki-old-3/
-- https://sprunkin.com/fan-game/sprunki-update-10/
-- https://sprunkin.com/fan-game/sprunki-regret/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250921_000747/sitemap.json) and [diff.json](./data/sprunkin.com/20250921_000747/diff.json)
 
 ## sprunkisinner.org
 
