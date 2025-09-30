@@ -96,6 +96,14 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20250930_000746
+
+- https://sprunki.com/sprunki-mass-infection
+- https://sprunki.com/sprunki-retakolality
+- https://sprunki.com/sprunki-lands
+
+Raw data: [sitemap.json](./data/sprunki.com/20250930_000746/sitemap.json) and [diff.json](./data/sprunki.com/20250930_000746/diff.json)
+
 ### 20250929_000731
 
 - https://sprunki.com/sprunki-lobotomy-reskin-phase-3
@@ -113,15 +121,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250929_000731/sitemap.json) and [d
 - https://sprunki.com/abgerny-incredibox
 
 Raw data: [sitemap.json](./data/sprunki.com/20250927_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250927_000711/diff.json)
-
-### 20250926_000720
-
-- https://sprunki.com/sprunki-pikadimady
-- https://sprunki.com/sprunki-alphabet-lore-arabic-phase-3
-- https://sprunki.com/sprunkey-retake-alpha-ver
-- https://sprunki.com/ja/sprunki-phase-5-remake-v3
-
-Raw data: [sitemap.json](./data/sprunki.com/20250926_000720/sitemap.json) and [diff.json](./data/sprunki.com/20250926_000720/diff.json)
 
 ## sprunki.net
 
@@ -10388,6 +10387,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20250930_000746
+
+- https://sprunkin.com/fan-game/sprunki-max-jumping-%e6%b8%b8%e6%88%8f%e4%b8%ad%e5%9b%bd%e7%89%88/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20250930_000746/sitemap.json) and [diff.json](./data/sprunkin.com/20250930_000746/diff.json)
+
 ### 20250929_000731
 
 - https://sprunkin.com/game/sprunki-adventures-in-melodia/
@@ -10413,14 +10418,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250929_000731/sitemap.json) and [
 - https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-mr-hyde-and-friends/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250926_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20250926_000720/diff.json)
-
-### 20250924_000730
-
-- https://sprunkin.com/fan-game/sprunki-someone-is-glitchy/
-- https://sprunkin.com/fan-game/sprunki-is-super-glitchy/
-- https://sprunkin.com/fan-game/sprunkez-remake-unfinished/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250924_000730/sitemap.json) and [diff.json](./data/sprunkin.com/20250924_000730/diff.json)
 
 ## sprunkisinner.org
 

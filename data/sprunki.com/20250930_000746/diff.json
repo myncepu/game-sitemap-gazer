@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-mass-infection",
+      "priority": 1.0,
+      "last_modified": "2025-09-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-retakolality",
+      "priority": 1.0,
+      "last_modified": "2025-09-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-lands",
+      "priority": 1.0,
+      "last_modified": "2025-09-29T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
