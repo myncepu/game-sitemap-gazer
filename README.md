@@ -96,6 +96,12 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20251001_000830
+
+- https://sprunki.com/sprunki-rotrizi-2-0
+
+Raw data: [sitemap.json](./data/sprunki.com/20251001_000830/sitemap.json) and [diff.json](./data/sprunki.com/20251001_000830/diff.json)
+
 ### 20250930_000746
 
 - https://sprunki.com/sprunki-mass-infection
@@ -113,14 +119,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20250930_000746/sitemap.json) and [d
 - https://sprunki.com/abgerny-scratch
 
 Raw data: [sitemap.json](./data/sprunki.com/20250929_000731/sitemap.json) and [diff.json](./data/sprunki.com/20250929_000731/diff.json)
-
-### 20250927_000711
-
-- https://sprunki.com/sprunkin-playable-3243
-- https://sprunki.com/sprunki-phase-5-improve-version
-- https://sprunki.com/abgerny-incredibox
-
-Raw data: [sitemap.json](./data/sprunki.com/20250927_000711/sitemap.json) and [diff.json](./data/sprunki.com/20250927_000711/diff.json)
 
 ## sprunki.net
 
