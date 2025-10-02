@@ -10801,6 +10801,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251002_000707
+
+- https://www.coolmathgames.com/0-sum-slider
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251002_000707/sitemap.json) and [diff.json](./data/coolmathgames.com/20251002_000707/diff.json)
+
 ### 20250927_000711
 
 - https://www.coolmathgames.com/0-jelly-block-puzzle
@@ -10813,13 +10819,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20250927_000711/sitemap.json) 
 - https://www.coolmathgames.com/0-fabled-conquerors-2-the-winds-of-magic
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20250925_000724/sitemap.json) and [diff.json](./data/coolmathgames.com/20250925_000724/diff.json)
-
-### 20250923_000723
-
-- https://www.coolmathgames.com/0-worlds-hardest-game-4
-- https://www.coolmathgames.com/0-trivia-online
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250923_000723/sitemap.json) and [diff.json](./data/coolmathgames.com/20250923_000723/diff.json)
 
 ## pogo.com
 
