@@ -10385,6 +10385,22 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251003_000718
+
+- https://sprunkin.com/game/sprunki-sky-realm-remastered/
+- https://sprunkin.com/game/sprunksters-but-so-much-freakin/
+- https://sprunkin.com/fan-game/spunki-new/
+- https://sprunkin.com/fan-game/sprunki-amazing-moments/
+- https://sprunkin.com/fan-game/nextbox-auraness/
+- https://sprunkin.com/fan-game/sprunki-but-black-got-bored/
+- https://sprunkin.com/fan-game/thank-you/
+- https://sprunkin.com/fan-game/thank-you-2/
+- https://sprunkin.com/fan-game/incredibox-takedown/
+- https://sprunkin.com/fan-game/sprunki-phase-9-mtsh/
+- https://sprunkin.com/fan-game/sprunki-animal-crossing-phase-3/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251003_000718/sitemap.json) and [diff.json](./data/sprunkin.com/20251003_000718/diff.json)
+
 ### 20250930_000746
 
 - https://sprunkin.com/fan-game/sprunki-max-jumping-%e6%b8%b8%e6%88%8f%e4%b8%ad%e5%9b%bd%e7%89%88/
@@ -10402,20 +10418,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20250930_000746/sitemap.json) and [
 - https://sprunkin.com/fan-game/fizzy-like-coke-but-mercat-and-friends/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250929_000731/sitemap.json) and [diff.json](./data/sprunkin.com/20250929_000731/diff.json)
-
-### 20250926_000720
-
-- https://sprunkin.com/game/sprunki-parodybox-parasite/
-- https://sprunkin.com/game/sprunki-garnold-treatment/
-- https://sprunkin.com/fan-game/incredibox-pudim/
-- https://sprunkin.com/fan-game/incredibox-splenkrate-v-1-1-0/
-- https://sprunkin.com/fan-game/sprunki-phase-8-mtsh/
-- https://sprunkin.com/fan-game/incredibox-time-pavement-but-mercat-and-friends/
-- https://sprunkin.com/fan-game/incredibox-time-pavement-but-pee-wees-playhouse/
-- https://sprunkin.com/fan-game/sprunki-in-locrian-mode/
-- https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-mr-hyde-and-friends/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250926_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20250926_000720/diff.json)
 
 ## sprunkisinner.org
 
