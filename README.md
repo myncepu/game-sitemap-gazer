@@ -10385,6 +10385,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251004_000710
+
+- https://sprunkin.com/fan-game/bluevibox-sprunki-fun/
+- https://sprunkin.com/fan-game/sprunki-animal-crossing-phase-4/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251004_000710/sitemap.json) and [diff.json](./data/sprunkin.com/20251004_000710/diff.json)
+
 ### 20251003_000718
 
 - https://sprunkin.com/game/sprunki-sky-realm-remastered/
@@ -10406,18 +10413,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251003_000718/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-max-jumping-%e6%b8%b8%e6%88%8f%e4%b8%ad%e5%9b%bd%e7%89%88/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20250930_000746/sitemap.json) and [diff.json](./data/sprunkin.com/20250930_000746/diff.json)
-
-### 20250929_000731
-
-- https://sprunkin.com/game/sprunki-adventures-in-melodia/
-- https://sprunkin.com/game/parasprunki-dystheism-20-0/
-- https://sprunkin.com/fan-game/incredibox-sprunki-wenda-treatment-but-chalky-and-friends/
-- https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-chalky-and-friends/
-- https://sprunkin.com/fan-game/sprunki-remixed/
-- https://sprunkin.com/fan-game/sprunki-phase-37/
-- https://sprunkin.com/fan-game/fizzy-like-coke-but-mercat-and-friends/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250929_000731/sitemap.json) and [diff.json](./data/sprunkin.com/20250929_000731/diff.json)
 
 ## sprunkisinner.org
 
