@@ -10798,6 +10798,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251006_000719
+
+- https://www.coolmathgames.com/0-pushori
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251006_000719/sitemap.json) and [diff.json](./data/coolmathgames.com/20251006_000719/diff.json)
+
 ### 20251005_000742
 
 - https://www.coolmathgames.com/0-loot-and-hunger
@@ -10811,12 +10817,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251005_000742/sitemap.json) 
 - https://www.coolmathgames.com/0-sum-slider
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251002_000707/sitemap.json) and [diff.json](./data/coolmathgames.com/20251002_000707/diff.json)
-
-### 20250927_000711
-
-- https://www.coolmathgames.com/0-jelly-block-puzzle
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20250927_000711/sitemap.json) and [diff.json](./data/coolmathgames.com/20250927_000711/diff.json)
 
 ## pogo.com
 
