@@ -10385,6 +10385,17 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251008_000717
+
+- https://sprunkin.com/game/sprunki-kuru-treatment/
+- https://sprunkin.com/game/sprunki-pyramixed-shifted/
+- https://sprunkin.com/fan-game/sahib-ghuryani/
+- https://sprunkin.com/fan-game/sahib-ghuryani-2/
+- https://sprunkin.com/fan-game/sprunki-phase-21-but-alive-v9/
+- https://sprunkin.com/fan-game/sprunki-bluesprunkiplayz-treatment/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251008_000717/sitemap.json) and [diff.json](./data/sprunkin.com/20251008_000717/diff.json)
+
 ### 20251004_000710
 
 - https://sprunkin.com/fan-game/bluevibox-sprunki-fun/
@@ -10407,12 +10418,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251004_000710/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-animal-crossing-phase-3/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251003_000718/sitemap.json) and [diff.json](./data/sprunkin.com/20251003_000718/diff.json)
-
-### 20250930_000746
-
-- https://sprunkin.com/fan-game/sprunki-max-jumping-%e6%b8%b8%e6%88%8f%e4%b8%ad%e5%9b%bd%e7%89%88/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20250930_000746/sitemap.json) and [diff.json](./data/sprunkin.com/20250930_000746/diff.json)
 
 ## sprunkisinner.org
 
@@ -10820,6 +10825,12 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251002_000707/sitemap.json) 
 
 ## pogo.com
 
+### 20251008_000717
+
+- https://www.pogo.com/lightspeed-badge-bundles
+
+Raw data: [sitemap.json](./data/pogo.com/20251008_000717/sitemap.json) and [diff.json](./data/pogo.com/20251008_000717/diff.json)
+
 ### 20250813_000805
 
 - https://www.pogo.com/free-online-games/2-player
@@ -10839,12 +10850,6 @@ Raw data: [sitemap.json](./data/pogo.com/20250813_000805/sitemap.json) and [diff
 - https://www.pogo.com/games/card-scramble
 
 Raw data: [sitemap.json](./data/pogo.com/20250619_000804/sitemap.json) and [diff.json](./data/pogo.com/20250619_000804/diff.json)
-
-### 20250326_000707
-
-- https://www.pogo.com/redeem-guest-pass
-
-Raw data: [sitemap.json](./data/pogo.com/20250326_000707/sitemap.json) and [diff.json](./data/pogo.com/20250326_000707/diff.json)
 
 ## agame.com
 
