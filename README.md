@@ -10803,6 +10803,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251009_000715
+
+- https://www.coolmathgames.com/0-cookie-clicker
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251009_000715/sitemap.json) and [diff.json](./data/coolmathgames.com/20251009_000715/diff.json)
+
 ### 20251006_000719
 
 - https://www.coolmathgames.com/0-pushori
@@ -10816,12 +10822,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251006_000719/sitemap.json) 
 - https://www.coolmathgames.com/blog/how-to-play-drift-boss
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251005_000742/sitemap.json) and [diff.json](./data/coolmathgames.com/20251005_000742/diff.json)
-
-### 20251002_000707
-
-- https://www.coolmathgames.com/0-sum-slider
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251002_000707/sitemap.json) and [diff.json](./data/coolmathgames.com/20251002_000707/diff.json)
 
 ## pogo.com
 
