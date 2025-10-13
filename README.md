@@ -10795,6 +10795,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251013_000740
+
+- https://www.coolmathgames.com/0-paper-ufo
+- https://www.coolmathgames.com/0-bygone-treasures-shop
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251013_000740/sitemap.json) and [diff.json](./data/coolmathgames.com/20251013_000740/diff.json)
+
 ### 20251011_000709
 
 - https://www.coolmathgames.com/0-bridge
@@ -10807,12 +10814,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251011_000709/sitemap.json) 
 - https://www.coolmathgames.com/0-cookie-clicker
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251009_000715/sitemap.json) and [diff.json](./data/coolmathgames.com/20251009_000715/diff.json)
-
-### 20251006_000719
-
-- https://www.coolmathgames.com/0-pushori
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251006_000719/sitemap.json) and [diff.json](./data/coolmathgames.com/20251006_000719/diff.json)
 
 ## pogo.com
 
