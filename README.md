@@ -96,6 +96,15 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20251014_000714
+
+- https://sprunki.com/sprunki-sky-realm-remastered
+- https://sprunki.com/sprunki-good-night
+- https://sprunki.com/sprunki-revisited
+- https://sprunki.com/sprunki-soft
+
+Raw data: [sitemap.json](./data/sprunki.com/20251014_000714/sitemap.json) and [diff.json](./data/sprunki.com/20251014_000714/diff.json)
+
 ### 20251011_000709
 
 - https://sprunki.com/sprunked-but-sprinkle
@@ -111,12 +120,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20251011_000709/sitemap.json) and [d
 - https://sprunki.com/sprunki-but-spruced
 
 Raw data: [sitemap.json](./data/sprunki.com/20251010_000752/sitemap.json) and [diff.json](./data/sprunki.com/20251010_000752/diff.json)
-
-### 20251001_000830
-
-- https://sprunki.com/sprunki-rotrizi-2-0
-
-Raw data: [sitemap.json](./data/sprunki.com/20251001_000830/sitemap.json) and [diff.json](./data/sprunki.com/20251001_000830/diff.json)
 
 ## sprunki.net
 

@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-sky-realm-remastered",
+      "priority": 1.0,
+      "last_modified": "2025-10-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-good-night",
+      "priority": 1.0,
+      "last_modified": "2025-10-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-revisited",
+      "priority": 1.0,
+      "last_modified": "2025-10-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-soft",
+      "priority": 1.0,
+      "last_modified": "2025-10-13T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
