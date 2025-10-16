@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-8-shifted/",
+      "priority": 0.5,
+      "last_modified": "2025-10-12T10:11:49Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-8-shifted-2/",
+      "priority": 0.5,
+      "last_modified": "2025-10-13T12:00:51Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/gray-virus-sprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-10-13T14:41:12Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/srunki/",
+      "priority": 0.5,
+      "last_modified": "2025-10-15T12:32:26Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

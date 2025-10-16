@@ -96,6 +96,13 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20251016_000734
+
+- https://sprunki.com/sprunki-kuru-treatment
+- https://sprunki.com/sprunksters-but-so-much-freakin
+
+Raw data: [sitemap.json](./data/sprunki.com/20251016_000734/sitemap.json) and [diff.json](./data/sprunki.com/20251016_000734/diff.json)
+
 ### 20251014_000714
 
 - https://sprunki.com/sprunki-sky-realm-remastered
@@ -114,12 +121,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20251014_000714/sitemap.json) and [d
 - https://sprunki.com/sprunki-piggy
 
 Raw data: [sitemap.json](./data/sprunki.com/20251011_000709/sitemap.json) and [diff.json](./data/sprunki.com/20251011_000709/diff.json)
-
-### 20251010_000752
-
-- https://sprunki.com/sprunki-but-spruced
-
-Raw data: [sitemap.json](./data/sprunki.com/20251010_000752/sitemap.json) and [diff.json](./data/sprunki.com/20251010_000752/diff.json)
 
 ## sprunki.net
 
@@ -10386,6 +10387,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251016_000734
+
+- https://sprunkin.com/fan-game/sprunki-8-shifted/
+- https://sprunkin.com/fan-game/sprunki-8-shifted-2/
+- https://sprunkin.com/fan-game/gray-virus-sprunki/
+- https://sprunkin.com/fan-game/srunki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251016_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251016_000734/diff.json)
+
 ### 20251012_000723
 
 - https://sprunkin.com/fan-game/sprunki-phase-10-mtsh-final-phase/
@@ -10402,17 +10412,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251012_000723/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-they-are-robot-ocs/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251011_000709/sitemap.json) and [diff.json](./data/sprunkin.com/20251011_000709/diff.json)
-
-### 20251008_000717
-
-- https://sprunkin.com/game/sprunki-kuru-treatment/
-- https://sprunkin.com/game/sprunki-pyramixed-shifted/
-- https://sprunkin.com/fan-game/sahib-ghuryani/
-- https://sprunkin.com/fan-game/sahib-ghuryani-2/
-- https://sprunkin.com/fan-game/sprunki-phase-21-but-alive-v9/
-- https://sprunkin.com/fan-game/sprunki-bluesprunkiplayz-treatment/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251008_000717/sitemap.json) and [diff.json](./data/sprunkin.com/20251008_000717/diff.json)
 
 ## sprunkisinner.org
 
