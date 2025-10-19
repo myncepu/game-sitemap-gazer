@@ -10383,6 +10383,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251019_000757
+
+- https://sprunkin.com/fan-game/sprunki-but-gametoons/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251019_000757/sitemap.json) and [diff.json](./data/sprunkin.com/20251019_000757/diff.json)
+
 ### 20251017_000732
 
 - https://sprunkin.com/game/sprunki-swap-v2-americium/
@@ -10400,14 +10406,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251017_000732/sitemap.json) and [
 - https://sprunkin.com/fan-game/srunki/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251016_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251016_000734/diff.json)
-
-### 20251012_000723
-
-- https://sprunkin.com/fan-game/sprunki-phase-10-mtsh-final-phase/
-- https://sprunkin.com/fan-game/sprunki-wenda-talented-pre-3-0-v3/
-- https://sprunkin.com/fan-game/sprunki-fun-bot-treatment/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251012_000723/sitemap.json) and [diff.json](./data/sprunkin.com/20251012_000723/diff.json)
 
 ## sprunkisinner.org
 
