@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-2001/",
+      "priority": 0.5,
+      "last_modified": "2025-10-19T07:01:19Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-yaboo-but-mercat-and-friends/",
+      "priority": 0.5,
+      "last_modified": "2025-10-19T21:17:57Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprankx/",
+      "priority": 0.5,
+      "last_modified": "2025-10-19T23:44:28Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

@@ -10383,6 +10383,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251020_000751
+
+- https://sprunkin.com/fan-game/sprunki-2001/
+- https://sprunkin.com/fan-game/incredibox-yaboo-but-mercat-and-friends/
+- https://sprunkin.com/fan-game/sprankx/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251020_000751/sitemap.json) and [diff.json](./data/sprunkin.com/20251020_000751/diff.json)
+
 ### 20251019_000757
 
 - https://sprunkin.com/fan-game/sprunki-but-gametoons/
@@ -10397,15 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251019_000757/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-777-but-alive/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251017_000732/sitemap.json) and [diff.json](./data/sprunkin.com/20251017_000732/diff.json)
-
-### 20251016_000734
-
-- https://sprunkin.com/fan-game/sprunki-8-shifted/
-- https://sprunkin.com/fan-game/sprunki-8-shifted-2/
-- https://sprunkin.com/fan-game/gray-virus-sprunki/
-- https://sprunkin.com/fan-game/srunki/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251016_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251016_000734/diff.json)
 
 ## sprunkisinner.org
 
