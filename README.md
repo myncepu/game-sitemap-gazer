@@ -10383,6 +10383,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251021_000738
+
+- https://sprunkin.com/fan-game/sprunki-swapped-but-mercat-and-friends-1/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251021_000738/sitemap.json) and [diff.json](./data/sprunkin.com/20251021_000738/diff.json)
+
 ### 20251020_000751
 
 - https://sprunkin.com/fan-game/sprunki-2001/
@@ -10396,15 +10402,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251020_000751/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-gametoons/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251019_000757/sitemap.json) and [diff.json](./data/sprunkin.com/20251019_000757/diff.json)
-
-### 20251017_000732
-
-- https://sprunkin.com/game/sprunki-swap-v2-americium/
-- https://sprunkin.com/game/sprunki-doodoo-fard/
-- https://sprunkin.com/game/sprunki-phase-3-rotten-and-forgotten/
-- https://sprunkin.com/fan-game/sprunki-phase-777-but-alive/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251017_000732/sitemap.json) and [diff.json](./data/sprunkin.com/20251017_000732/diff.json)
 
 ## sprunkisinner.org
 
@@ -10790,6 +10787,14 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251021_000738
+
+- https://www.coolmathgames.com/0-lextiles
+- https://www.coolmathgames.com/0-bouncy-woods
+- https://www.coolmathgames.com/blog/how-to-play-cookie-clicker
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251021_000738/sitemap.json) and [diff.json](./data/coolmathgames.com/20251021_000738/diff.json)
+
 ### 20251017_000732
 
 - https://www.coolmathgames.com/0-tube-sort
@@ -10802,13 +10807,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251017_000732/sitemap.json) 
 - https://www.coolmathgames.com/0-bygone-treasures-shop
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251013_000740/sitemap.json) and [diff.json](./data/coolmathgames.com/20251013_000740/diff.json)
-
-### 20251011_000709
-
-- https://www.coolmathgames.com/0-bridge
-- https://www.coolmathgames.com/0-trace-definitive-edition-demo
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251011_000709/sitemap.json) and [diff.json](./data/coolmathgames.com/20251011_000709/diff.json)
 
 ## pogo.com
 

@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-lextiles",
+      "priority": 0.5,
+      "last_modified": "2025-10-17T19:42:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-bouncy-woods",
+      "priority": 0.5,
+      "last_modified": "2025-10-16T19:36:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/blog/how-to-play-cookie-clicker",
+      "priority": 0.5,
+      "last_modified": "2025-10-17T00:20:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
