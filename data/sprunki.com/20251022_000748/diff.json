@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunki.com/sprunki-spmerge",
+      "priority": 1.0,
+      "last_modified": "2025-10-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/sprunki-pyramixed-shifted",
+      "priority": 1.0,
+      "last_modified": "2025-10-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    },
+    {
+      "url": "https://sprunki.com/incredible-sprunkle",
+      "priority": 1.0,
+      "last_modified": "2025-10-21T00:00:00",
+      "change_frequency": "always",
+      "news_story": null
+    }
+  ]
+}
