@@ -96,6 +96,13 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20251023_000739
+
+- https://sprunki.com/sprunki-ener-caster-retake
+- https://sprunki.com/cold-as-frost-but-sprunki
+
+Raw data: [sitemap.json](./data/sprunki.com/20251023_000739/sitemap.json) and [diff.json](./data/sprunki.com/20251023_000739/diff.json)
+
 ### 20251022_000748
 
 - https://sprunki.com/sprunki-spmerge
@@ -109,13 +116,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20251022_000748/sitemap.json) and [d
 - https://sprunki.com/sprunki-incredible
 
 Raw data: [sitemap.json](./data/sprunki.com/20251017_000732/sitemap.json) and [diff.json](./data/sprunki.com/20251017_000732/diff.json)
-
-### 20251016_000734
-
-- https://sprunki.com/sprunki-kuru-treatment
-- https://sprunki.com/sprunksters-but-so-much-freakin
-
-Raw data: [sitemap.json](./data/sprunki.com/20251016_000734/sitemap.json) and [diff.json](./data/sprunki.com/20251016_000734/diff.json)
 
 ## sprunki.net
 
