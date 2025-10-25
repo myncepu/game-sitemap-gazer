@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251025_000734
+
+- https://sprunkin.com/game/sprunki-powerful-punch/
+- https://sprunkin.com/game/sprunki-mortality/
+- https://sprunkin.com/game/sprunkdiculous/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251025_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251025_000734/diff.json)
+
 ### 20251022_000748
 
 - https://sprunkin.com/fan-game/sprunki-phase-11-mtsh-the-darkness/
@@ -10393,14 +10401,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251022_000748/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-swapped-but-mercat-and-friends-1/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251021_000738/sitemap.json) and [diff.json](./data/sprunkin.com/20251021_000738/diff.json)
-
-### 20251020_000751
-
-- https://sprunkin.com/fan-game/sprunki-2001/
-- https://sprunkin.com/fan-game/incredibox-yaboo-but-mercat-and-friends/
-- https://sprunkin.com/fan-game/sprankx/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251020_000751/sitemap.json) and [diff.json](./data/sprunkin.com/20251020_000751/diff.json)
 
 ## sprunkisinner.org
 

@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-powerful-punch/",
+      "priority": 0.5,
+      "last_modified": "2025-10-24T11:00:32Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-mortality/",
+      "priority": 0.5,
+      "last_modified": "2025-10-24T11:27:12Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunkdiculous/",
+      "priority": 0.5,
+      "last_modified": "2025-10-24T11:56:57Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
