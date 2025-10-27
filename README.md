@@ -10786,6 +10786,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251027_000807
+
+- https://www.coolmathgames.com/0-close-tiles
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251027_000807/sitemap.json) and [diff.json](./data/coolmathgames.com/20251027_000807/diff.json)
+
 ### 20251021_000738
 
 - https://www.coolmathgames.com/0-lextiles
@@ -10799,13 +10805,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251021_000738/sitemap.json) 
 - https://www.coolmathgames.com/0-tube-sort
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251017_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251017_000732/diff.json)
-
-### 20251013_000740
-
-- https://www.coolmathgames.com/0-paper-ufo
-- https://www.coolmathgames.com/0-bygone-treasures-shop
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251013_000740/sitemap.json) and [diff.json](./data/coolmathgames.com/20251013_000740/diff.json)
 
 ## pogo.com
 
