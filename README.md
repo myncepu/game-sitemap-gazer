@@ -10382,6 +10382,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251028_000723
+
+- https://sprunkin.com/fan-game/sprunki-phase-3-definitive-redone/
+- https://sprunkin.com/fan-game/sprunkin/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251028_000723/sitemap.json) and [diff.json](./data/sprunkin.com/20251028_000723/diff.json)
+
 ### 20251026_000818
 
 - https://sprunkin.com/fan-game/sprunki-phase-3-rework/
@@ -10395,12 +10402,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251026_000818/sitemap.json) and [
 - https://sprunkin.com/game/sprunkdiculous/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251025_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251025_000734/diff.json)
-
-### 20251022_000748
-
-- https://sprunkin.com/fan-game/sprunki-phase-11-mtsh-the-darkness/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251022_000748/sitemap.json) and [diff.json](./data/sprunkin.com/20251022_000748/diff.json)
 
 ## sprunkisinner.org
 
