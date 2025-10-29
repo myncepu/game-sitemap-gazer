@@ -10787,6 +10787,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251029_000757
+
+- https://www.coolmathgames.com/0-icy-purple-head-halloween
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251029_000757/sitemap.json) and [diff.json](./data/coolmathgames.com/20251029_000757/diff.json)
+
 ### 20251027_000807
 
 - https://www.coolmathgames.com/0-close-tiles
@@ -10800,12 +10806,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251027_000807/sitemap.json) 
 - https://www.coolmathgames.com/blog/how-to-play-cookie-clicker
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251021_000738/sitemap.json) and [diff.json](./data/coolmathgames.com/20251021_000738/diff.json)
-
-### 20251017_000732
-
-- https://www.coolmathgames.com/0-tube-sort
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251017_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251017_000732/diff.json)
 
 ## pogo.com
 
