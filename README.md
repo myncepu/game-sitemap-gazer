@@ -10382,6 +10382,17 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251030_000748
+
+- https://sprunkin.com/fan-game/spunki-new-2/
+- https://sprunkin.com/fan-game/evo-pop-x-sprunki/
+- https://sprunkin.com/fan-game/incredible-sprunkis/
+- https://sprunkin.com/fan-game/incredible-sprunkis-2/
+- https://sprunkin.com/fan-game/sprunki-retake-pokemon-pokesprunki-recreation/
+- https://sprunkin.com/fan-game/sprunki-retake-pokemon-pokesprunki-recreation-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251030_000748/sitemap.json) and [diff.json](./data/sprunkin.com/20251030_000748/diff.json)
+
 ### 20251028_000723
 
 - https://sprunkin.com/fan-game/sprunki-phase-3-definitive-redone/
@@ -10394,14 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251028_000723/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-3-rework/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251026_000818/sitemap.json) and [diff.json](./data/sprunkin.com/20251026_000818/diff.json)
-
-### 20251025_000734
-
-- https://sprunkin.com/game/sprunki-powerful-punch/
-- https://sprunkin.com/game/sprunki-mortality/
-- https://sprunkin.com/game/sprunkdiculous/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251025_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251025_000734/diff.json)
 
 ## sprunkisinner.org
 
