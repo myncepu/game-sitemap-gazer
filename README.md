@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251031_000732
+
+- https://sprunkin.com/game/sprunki-retake-remastered/
+- https://sprunkin.com/game/sprunki-singing/
+- https://sprunkin.com/game/sprunki-shifted-skiyaks-take/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251031_000732/sitemap.json) and [diff.json](./data/sprunkin.com/20251031_000732/diff.json)
+
 ### 20251030_000748
 
 - https://sprunkin.com/fan-game/spunki-new-2/
@@ -10399,12 +10407,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251030_000748/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunkin/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251028_000723/sitemap.json) and [diff.json](./data/sprunkin.com/20251028_000723/diff.json)
-
-### 20251026_000818
-
-- https://sprunkin.com/fan-game/sprunki-phase-3-rework/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251026_000818/sitemap.json) and [diff.json](./data/sprunkin.com/20251026_000818/diff.json)
 
 ## sprunkisinner.org
 
@@ -10790,6 +10792,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251031_000732
+
+- https://www.coolmathgames.com/0-nonogram-halloween
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251031_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251031_000732/diff.json)
+
 ### 20251029_000757
 
 - https://www.coolmathgames.com/0-icy-purple-head-halloween
@@ -10801,14 +10809,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251029_000757/sitemap.json) 
 - https://www.coolmathgames.com/0-close-tiles
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251027_000807/sitemap.json) and [diff.json](./data/coolmathgames.com/20251027_000807/diff.json)
-
-### 20251021_000738
-
-- https://www.coolmathgames.com/0-lextiles
-- https://www.coolmathgames.com/0-bouncy-woods
-- https://www.coolmathgames.com/blog/how-to-play-cookie-clicker
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251021_000738/sitemap.json) and [diff.json](./data/coolmathgames.com/20251021_000738/diff.json)
 
 ## pogo.com
 

@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-retake-remastered/",
+      "priority": 0.5,
+      "last_modified": "2025-10-30T11:06:01Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-singing/",
+      "priority": 0.5,
+      "last_modified": "2025-10-30T11:09:58Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-shifted-skiyaks-take/",
+      "priority": 0.5,
+      "last_modified": "2025-10-30T11:12:32Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
