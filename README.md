@@ -10382,6 +10382,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251101_000836
+
+- https://sprunkin.com/fan-game/durple-treatment-retextured/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251101_000836/sitemap.json) and [diff.json](./data/sprunkin.com/20251101_000836/diff.json)
+
 ### 20251031_000732
 
 - https://sprunkin.com/game/sprunki-retake-remastered/
@@ -10400,13 +10406,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251031_000732/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-retake-pokemon-pokesprunki-recreation-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251030_000748/sitemap.json) and [diff.json](./data/sprunkin.com/20251030_000748/diff.json)
-
-### 20251028_000723
-
-- https://sprunkin.com/fan-game/sprunki-phase-3-definitive-redone/
-- https://sprunkin.com/fan-game/sprunkin/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251028_000723/sitemap.json) and [diff.json](./data/sprunkin.com/20251028_000723/diff.json)
 
 ## sprunkisinner.org
 
@@ -10792,6 +10791,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251101_000836
+
+- https://www.coolmathgames.com/0-the-mystery-mansion
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251101_000836/sitemap.json) and [diff.json](./data/coolmathgames.com/20251101_000836/diff.json)
+
 ### 20251031_000732
 
 - https://www.coolmathgames.com/0-nonogram-halloween
@@ -10803,12 +10808,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251031_000732/sitemap.json) 
 - https://www.coolmathgames.com/0-icy-purple-head-halloween
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251029_000757/sitemap.json) and [diff.json](./data/coolmathgames.com/20251029_000757/diff.json)
-
-### 20251027_000807
-
-- https://www.coolmathgames.com/0-close-tiles
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251027_000807/sitemap.json) and [diff.json](./data/coolmathgames.com/20251027_000807/diff.json)
 
 ## pogo.com
 
