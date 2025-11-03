@@ -10382,6 +10382,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251103_000743
+
+- https://sprunkin.com/fan-game/sprunki-nikito-animation-mod-1-2/
+- https://sprunkin.com/fan-game/sprunki-nikito-animation-mod-1-2-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251103_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20251103_000743/diff.json)
+
 ### 20251101_000836
 
 - https://sprunkin.com/fan-game/durple-treatment-retextured/
@@ -10395,17 +10402,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251101_000836/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-shifted-skiyaks-take/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251031_000732/sitemap.json) and [diff.json](./data/sprunkin.com/20251031_000732/diff.json)
-
-### 20251030_000748
-
-- https://sprunkin.com/fan-game/spunki-new-2/
-- https://sprunkin.com/fan-game/evo-pop-x-sprunki/
-- https://sprunkin.com/fan-game/incredible-sprunkis/
-- https://sprunkin.com/fan-game/incredible-sprunkis-2/
-- https://sprunkin.com/fan-game/sprunki-retake-pokemon-pokesprunki-recreation/
-- https://sprunkin.com/fan-game/sprunki-retake-pokemon-pokesprunki-recreation-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251030_000748/sitemap.json) and [diff.json](./data/sprunkin.com/20251030_000748/diff.json)
 
 ## sprunkisinner.org
 
