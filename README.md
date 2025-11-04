@@ -96,6 +96,12 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20251104_000731
+
+- https://sprunki.com/sprunki-phase-37
+
+Raw data: [sitemap.json](./data/sprunki.com/20251104_000731/sitemap.json) and [diff.json](./data/sprunki.com/20251104_000731/diff.json)
+
 ### 20251023_000739
 
 - https://sprunki.com/sprunki-ener-caster-retake
@@ -110,12 +116,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20251023_000739/sitemap.json) and [d
 - https://sprunki.com/incredible-sprunkle
 
 Raw data: [sitemap.json](./data/sprunki.com/20251022_000748/sitemap.json) and [diff.json](./data/sprunki.com/20251022_000748/diff.json)
-
-### 20251017_000732
-
-- https://sprunki.com/sprunki-incredible
-
-Raw data: [sitemap.json](./data/sprunki.com/20251017_000732/sitemap.json) and [diff.json](./data/sprunki.com/20251017_000732/diff.json)
 
 ## sprunki.net
 
@@ -10787,6 +10787,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251104_000731
+
+- https://www.coolmathgames.com/0-ghost-watch
+- https://www.coolmathgames.com/0-click-and-merge
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251104_000731/sitemap.json) and [diff.json](./data/coolmathgames.com/20251104_000731/diff.json)
+
 ### 20251101_000836
 
 - https://www.coolmathgames.com/0-the-mystery-mansion
@@ -10798,12 +10805,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251101_000836/sitemap.json) 
 - https://www.coolmathgames.com/0-nonogram-halloween
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251031_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251031_000732/diff.json)
-
-### 20251029_000757
-
-- https://www.coolmathgames.com/0-icy-purple-head-halloween
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251029_000757/sitemap.json) and [diff.json](./data/coolmathgames.com/20251029_000757/diff.json)
 
 ## pogo.com
 

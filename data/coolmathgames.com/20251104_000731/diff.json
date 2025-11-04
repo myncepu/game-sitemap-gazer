@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-ghost-watch",
+      "priority": 0.5,
+      "last_modified": "2025-10-30T22:03:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-click-and-merge",
+      "priority": 0.5,
+      "last_modified": "2025-10-31T20:24:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}
