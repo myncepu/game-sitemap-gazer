@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.pogo.com/articles",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://www.pogo.com/games/matching-moments",
+      "priority": 0.5,
+      "last_modified": null,
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

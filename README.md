@@ -10808,6 +10808,13 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251031_000732/sitemap.json) 
 
 ## pogo.com
 
+### 20251105_000748
+
+- https://www.pogo.com/articles
+- https://www.pogo.com/games/matching-moments
+
+Raw data: [sitemap.json](./data/pogo.com/20251105_000748/sitemap.json) and [diff.json](./data/pogo.com/20251105_000748/diff.json)
+
 ### 20251008_000717
 
 - https://www.pogo.com/lightspeed-badge-bundles
@@ -10827,12 +10834,6 @@ Raw data: [sitemap.json](./data/pogo.com/20251008_000717/sitemap.json) and [diff
 - https://www.pogo.com/free-online-games/skill
 
 Raw data: [sitemap.json](./data/pogo.com/20250813_000805/sitemap.json) and [diff.json](./data/pogo.com/20250813_000805/diff.json)
-
-### 20250619_000804
-
-- https://www.pogo.com/games/card-scramble
-
-Raw data: [sitemap.json](./data/pogo.com/20250619_000804/sitemap.json) and [diff.json](./data/pogo.com/20250619_000804/diff.json)
 
 ## agame.com
 
