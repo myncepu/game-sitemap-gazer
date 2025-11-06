@@ -10787,6 +10787,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251106_000731
+
+- https://www.coolmathgames.com/0-day-one
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251106_000731/sitemap.json) and [diff.json](./data/coolmathgames.com/20251106_000731/diff.json)
+
 ### 20251104_000731
 
 - https://www.coolmathgames.com/0-ghost-watch
@@ -10799,12 +10805,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251104_000731/sitemap.json) 
 - https://www.coolmathgames.com/0-the-mystery-mansion
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251101_000836/sitemap.json) and [diff.json](./data/coolmathgames.com/20251101_000836/diff.json)
-
-### 20251031_000732
-
-- https://www.coolmathgames.com/0-nonogram-halloween
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251031_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251031_000732/diff.json)
 
 ## pogo.com
 
