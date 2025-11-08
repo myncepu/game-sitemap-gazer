@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-golf-dash",
+      "priority": 0.5,
+      "last_modified": "2025-11-04T22:03:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-snooker",
+      "priority": 0.5,
+      "last_modified": "2025-11-03T22:28:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-day-two",
+      "priority": 0.5,
+      "last_modified": "2025-11-04T21:25:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-day-three",
+      "priority": 0.5,
+      "last_modified": "2025-11-04T21:27:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

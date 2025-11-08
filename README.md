@@ -10382,6 +10382,17 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251108_000720
+
+- https://sprunkin.com/game/sprunki-phase-6-the-scarlet-sun/
+- https://sprunkin.com/game/sprunke-level/
+- https://sprunkin.com/game/sprunki-retake-shifted-recreation/
+- https://sprunkin.com/fan-game/sprunkin-2/
+- https://sprunkin.com/fan-game/sprunkin-3/
+- https://sprunkin.com/fan-game/japanese-sprunki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251108_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20251108_000720/diff.json)
+
 ### 20251103_000743
 
 - https://sprunkin.com/fan-game/sprunki-nikito-animation-mod-1-2/
@@ -10394,14 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251103_000743/sitemap.json) and [
 - https://sprunkin.com/fan-game/durple-treatment-retextured/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251101_000836/sitemap.json) and [diff.json](./data/sprunkin.com/20251101_000836/diff.json)
-
-### 20251031_000732
-
-- https://sprunkin.com/game/sprunki-retake-remastered/
-- https://sprunkin.com/game/sprunki-singing/
-- https://sprunkin.com/game/sprunki-shifted-skiyaks-take/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251031_000732/sitemap.json) and [diff.json](./data/sprunkin.com/20251031_000732/diff.json)
 
 ## sprunkisinner.org
 
@@ -10787,6 +10790,15 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251108_000720
+
+- https://www.coolmathgames.com/0-golf-dash
+- https://www.coolmathgames.com/0-snooker
+- https://www.coolmathgames.com/0-day-two
+- https://www.coolmathgames.com/0-day-three
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251108_000720/sitemap.json) and [diff.json](./data/coolmathgames.com/20251108_000720/diff.json)
+
 ### 20251106_000731
 
 - https://www.coolmathgames.com/0-day-one
@@ -10799,12 +10811,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251106_000731/sitemap.json) 
 - https://www.coolmathgames.com/0-click-and-merge
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251104_000731/sitemap.json) and [diff.json](./data/coolmathgames.com/20251104_000731/diff.json)
-
-### 20251101_000836
-
-- https://www.coolmathgames.com/0-the-mystery-mansion
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251101_000836/sitemap.json) and [diff.json](./data/coolmathgames.com/20251101_000836/diff.json)
 
 ## pogo.com
 
