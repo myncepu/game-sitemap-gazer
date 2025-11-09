@@ -10382,6 +10382,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251109_000829
+
+- https://sprunkin.com/fan-game/sprunki-enraged/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251109_000829/sitemap.json) and [diff.json](./data/sprunkin.com/20251109_000829/diff.json)
+
 ### 20251108_000720
 
 - https://sprunkin.com/game/sprunki-phase-6-the-scarlet-sun/
@@ -10399,12 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251108_000720/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-nikito-animation-mod-1-2-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251103_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20251103_000743/diff.json)
-
-### 20251101_000836
-
-- https://sprunkin.com/fan-game/durple-treatment-retextured/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251101_000836/sitemap.json) and [diff.json](./data/sprunkin.com/20251101_000836/diff.json)
 
 ## sprunkisinner.org
 
