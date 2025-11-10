@@ -10790,6 +10790,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251110_000746
+
+- https://www.coolmathgames.com/0-trace-definitive-edition-demo
+- https://www.coolmathgames.com/0-day-four
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251110_000746/sitemap.json) and [diff.json](./data/coolmathgames.com/20251110_000746/diff.json)
+
 ### 20251108_000720
 
 - https://www.coolmathgames.com/0-golf-dash
@@ -10804,13 +10811,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251108_000720/sitemap.json) 
 - https://www.coolmathgames.com/0-day-one
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251106_000731/sitemap.json) and [diff.json](./data/coolmathgames.com/20251106_000731/diff.json)
-
-### 20251104_000731
-
-- https://www.coolmathgames.com/0-ghost-watch
-- https://www.coolmathgames.com/0-click-and-merge
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251104_000731/sitemap.json) and [diff.json](./data/coolmathgames.com/20251104_000731/diff.json)
 
 ## pogo.com
 
