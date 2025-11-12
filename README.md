@@ -10382,6 +10382,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251112_000742
+
+- https://sprunkin.com/game/sprunki-phase-7-ongoing-onslaught/
+- https://sprunkin.com/game/sprunke-advanced-modded/
+- https://sprunkin.com/game/sponks/
+- https://sprunkin.com/fan-game/sprunki-phase-5-11/
+- https://sprunkin.com/fan-game/sprunki-phase-8-redone-version-3-0/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251112_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20251112_000742/diff.json)
+
 ### 20251109_000829
 
 - https://sprunkin.com/fan-game/sprunki-enraged/
@@ -10398,13 +10408,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251109_000829/sitemap.json) and [
 - https://sprunkin.com/fan-game/japanese-sprunki/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251108_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20251108_000720/diff.json)
-
-### 20251103_000743
-
-- https://sprunkin.com/fan-game/sprunki-nikito-animation-mod-1-2/
-- https://sprunkin.com/fan-game/sprunki-nikito-animation-mod-1-2-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251103_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20251103_000743/diff.json)
 
 ## sprunkisinner.org
 
@@ -10790,6 +10793,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251112_000742
+
+- https://www.coolmathgames.com/0-bubble-shooter-remastered
+- https://www.coolmathgames.com/blog/trace-walkthrough
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251112_000742/sitemap.json) and [diff.json](./data/coolmathgames.com/20251112_000742/diff.json)
+
 ### 20251110_000746
 
 - https://www.coolmathgames.com/0-trace-definitive-edition-demo
@@ -10805,12 +10815,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251110_000746/sitemap.json) 
 - https://www.coolmathgames.com/0-day-three
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251108_000720/sitemap.json) and [diff.json](./data/coolmathgames.com/20251108_000720/diff.json)
-
-### 20251106_000731
-
-- https://www.coolmathgames.com/0-day-one
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251106_000731/sitemap.json) and [diff.json](./data/coolmathgames.com/20251106_000731/diff.json)
 
 ## pogo.com
 
