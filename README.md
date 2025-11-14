@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251114_000740
+
+- https://sprunkin.com/fan-game/sprunki-cyborgs/
+- https://sprunkin.com/fan-game/sprunki-happy-death-v-3/
+- https://sprunkin.com/fan-game/sprunkez-remake-v0-83/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251114_000740/sitemap.json) and [diff.json](./data/sprunkin.com/20251114_000740/diff.json)
+
 ### 20251112_000742
 
 - https://sprunkin.com/game/sprunki-phase-7-ongoing-onslaught/
@@ -10397,17 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251112_000742/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-enraged/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251109_000829/sitemap.json) and [diff.json](./data/sprunkin.com/20251109_000829/diff.json)
-
-### 20251108_000720
-
-- https://sprunkin.com/game/sprunki-phase-6-the-scarlet-sun/
-- https://sprunkin.com/game/sprunke-level/
-- https://sprunkin.com/game/sprunki-retake-shifted-recreation/
-- https://sprunkin.com/fan-game/sprunkin-2/
-- https://sprunkin.com/fan-game/sprunkin-3/
-- https://sprunkin.com/fan-game/japanese-sprunki/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251108_000720/sitemap.json) and [diff.json](./data/sprunkin.com/20251108_000720/diff.json)
 
 ## sprunkisinner.org
 
