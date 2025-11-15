@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-megaswap/",
+      "priority": 0.5,
+      "last_modified": "2025-11-14T09:17:04Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-phase-9-alive-and-malediction/",
+      "priority": 0.5,
+      "last_modified": "2025-11-14T09:17:03Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-switch/",
+      "priority": 0.5,
+      "last_modified": "2025-11-14T09:16:59Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-gray-phase-2/",
+      "priority": 0.5,
+      "last_modified": "2025-11-14T09:16:55Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

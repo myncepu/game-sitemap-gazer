@@ -10382,6 +10382,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251115_000723
+
+- https://sprunkin.com/game/sprunki-megaswap/
+- https://sprunkin.com/game/sprunki-phase-9-alive-and-malediction/
+- https://sprunkin.com/game/sprunki-switch/
+- https://sprunkin.com/game/sprunki-gray-phase-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251115_000723/sitemap.json) and [diff.json](./data/sprunkin.com/20251115_000723/diff.json)
+
 ### 20251114_000740
 
 - https://sprunkin.com/fan-game/sprunki-cyborgs/
@@ -10399,12 +10408,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251114_000740/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-8-redone-version-3-0/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251112_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20251112_000742/diff.json)
-
-### 20251109_000829
-
-- https://sprunkin.com/fan-game/sprunki-enraged/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251109_000829/sitemap.json) and [diff.json](./data/sprunkin.com/20251109_000829/diff.json)
 
 ## sprunkisinner.org
 
