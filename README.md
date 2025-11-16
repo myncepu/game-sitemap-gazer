@@ -10793,6 +10793,15 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251116_000834
+
+- https://www.coolmathgames.com/0-mini-crossword
+- https://www.coolmathgames.com/0-hidden-objects-island
+- https://www.coolmathgames.com/0-zip-by-linkedin
+- https://www.coolmathgames.com/0-super-diamond-dwarves
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251116_000834/sitemap.json) and [diff.json](./data/coolmathgames.com/20251116_000834/diff.json)
+
 ### 20251112_000742
 
 - https://www.coolmathgames.com/0-bubble-shooter-remastered
@@ -10806,15 +10815,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251112_000742/sitemap.json) 
 - https://www.coolmathgames.com/0-day-four
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251110_000746/sitemap.json) and [diff.json](./data/coolmathgames.com/20251110_000746/diff.json)
-
-### 20251108_000720
-
-- https://www.coolmathgames.com/0-golf-dash
-- https://www.coolmathgames.com/0-snooker
-- https://www.coolmathgames.com/0-day-two
-- https://www.coolmathgames.com/0-day-three
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251108_000720/sitemap.json) and [diff.json](./data/coolmathgames.com/20251108_000720/diff.json)
 
 ## pogo.com
 
