@@ -10382,6 +10382,13 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251117_000734
+
+- https://sprunkin.com/fan-game/sprunkute-the-definitive-phase-10/
+- https://sprunkin.com/fan-game/sprunki-fausar/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251117_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251117_000734/diff.json)
+
 ### 20251115_000723
 
 - https://sprunkin.com/game/sprunki-megaswap/
@@ -10398,16 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251115_000723/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunkez-remake-v0-83/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251114_000740/sitemap.json) and [diff.json](./data/sprunkin.com/20251114_000740/diff.json)
-
-### 20251112_000742
-
-- https://sprunkin.com/game/sprunki-phase-7-ongoing-onslaught/
-- https://sprunkin.com/game/sprunke-advanced-modded/
-- https://sprunkin.com/game/sponks/
-- https://sprunkin.com/fan-game/sprunki-phase-5-11/
-- https://sprunkin.com/fan-game/sprunki-phase-8-redone-version-3-0/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251112_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20251112_000742/diff.json)
 
 ## sprunkisinner.org
 
