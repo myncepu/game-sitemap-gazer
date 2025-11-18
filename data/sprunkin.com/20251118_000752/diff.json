@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-hyper-shifted/",
+      "priority": 0.5,
+      "last_modified": "2025-11-17T10:12:18Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunker-sprunksters-edition/",
+      "priority": 0.5,
+      "last_modified": "2025-11-17T10:15:40Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprevin-v2/",
+      "priority": 0.5,
+      "last_modified": "2025-11-17T00:56:21Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}

@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251118_000752
+
+- https://sprunkin.com/game/sprunki-hyper-shifted/
+- https://sprunkin.com/game/sprunker-sprunksters-edition/
+- https://sprunkin.com/fan-game/sprevin-v2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251118_000752/sitemap.json) and [diff.json](./data/sprunkin.com/20251118_000752/diff.json)
+
 ### 20251117_000734
 
 - https://sprunkin.com/fan-game/sprunkute-the-definitive-phase-10/
@@ -10397,14 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251117_000734/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-gray-phase-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251115_000723/sitemap.json) and [diff.json](./data/sprunkin.com/20251115_000723/diff.json)
-
-### 20251114_000740
-
-- https://sprunkin.com/fan-game/sprunki-cyborgs/
-- https://sprunkin.com/fan-game/sprunki-happy-death-v-3/
-- https://sprunkin.com/fan-game/sprunkez-remake-v0-83/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251114_000740/sitemap.json) and [diff.json](./data/sprunkin.com/20251114_000740/diff.json)
 
 ## sprunkisinner.org
 
