@@ -10790,6 +10790,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251120_000732
+
+- https://www.coolmathgames.com/0-twisted-maze-sama
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251120_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251120_000732/diff.json)
+
 ### 20251116_000834
 
 - https://www.coolmathgames.com/0-mini-crossword
@@ -10805,13 +10811,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251116_000834/sitemap.json) 
 - https://www.coolmathgames.com/blog/trace-walkthrough
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251112_000742/sitemap.json) and [diff.json](./data/coolmathgames.com/20251112_000742/diff.json)
-
-### 20251110_000746
-
-- https://www.coolmathgames.com/0-trace-definitive-edition-demo
-- https://www.coolmathgames.com/0-day-four
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251110_000746/sitemap.json) and [diff.json](./data/coolmathgames.com/20251110_000746/diff.json)
 
 ## pogo.com
 
