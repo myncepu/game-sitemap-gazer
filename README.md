@@ -10382,6 +10382,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251122_000727
+
+- https://sprunkin.com/game/sprunki-pyramixed-human-edition-they-are-back/
+- https://sprunkin.com/game/sprunki-phase-5-the-blackened-killer/
+- https://sprunkin.com/fan-game/sprunki-phase-20/
+- https://sprunkin.com/fan-game/spunkzee/
+- https://sprunkin.com/fan-game/spupil/
+- https://sprunkin.com/fan-game/simulator/
+- https://sprunkin.com/fan-game/sbrunga/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251122_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20251122_000727/diff.json)
+
 ### 20251118_000752
 
 - https://sprunkin.com/game/sprunki-hyper-shifted/
@@ -10396,15 +10408,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251118_000752/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-fausar/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251117_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251117_000734/diff.json)
-
-### 20251115_000723
-
-- https://sprunkin.com/game/sprunki-megaswap/
-- https://sprunkin.com/game/sprunki-phase-9-alive-and-malediction/
-- https://sprunkin.com/game/sprunki-switch/
-- https://sprunkin.com/game/sprunki-gray-phase-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251115_000723/sitemap.json) and [diff.json](./data/sprunkin.com/20251115_000723/diff.json)
 
 ## sprunkisinner.org
 
