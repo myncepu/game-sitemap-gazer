@@ -10793,6 +10793,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251123_000900
+
+- https://www.coolmathgames.com/0-merge-and-double
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251123_000900/sitemap.json) and [diff.json](./data/coolmathgames.com/20251123_000900/diff.json)
+
 ### 20251120_000732
 
 - https://www.coolmathgames.com/0-twisted-maze-sama
@@ -10807,13 +10813,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251120_000732/sitemap.json) 
 - https://www.coolmathgames.com/0-super-diamond-dwarves
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251116_000834/sitemap.json) and [diff.json](./data/coolmathgames.com/20251116_000834/diff.json)
-
-### 20251112_000742
-
-- https://www.coolmathgames.com/0-bubble-shooter-remastered
-- https://www.coolmathgames.com/blog/trace-walkthrough
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251112_000742/sitemap.json) and [diff.json](./data/coolmathgames.com/20251112_000742/diff.json)
 
 ## pogo.com
 
