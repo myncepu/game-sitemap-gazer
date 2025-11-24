@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251124_000825
+
+- https://sprunkin.com/fan-game/sprunkstlarity/
+- https://sprunkin.com/fan-game/sdesprungki-deathpest-edition/
+- https://sprunkin.com/fan-game/phase-3-but-bad/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251124_000825/sitemap.json) and [diff.json](./data/sprunkin.com/20251124_000825/diff.json)
+
 ### 20251122_000727
 
 - https://sprunkin.com/game/sprunki-pyramixed-human-edition-they-are-back/
@@ -10401,13 +10409,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251122_000727/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprevin-v2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251118_000752/sitemap.json) and [diff.json](./data/sprunkin.com/20251118_000752/diff.json)
-
-### 20251117_000734
-
-- https://sprunkin.com/fan-game/sprunkute-the-definitive-phase-10/
-- https://sprunkin.com/fan-game/sprunki-fausar/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251117_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251117_000734/diff.json)
 
 ## sprunkisinner.org
 

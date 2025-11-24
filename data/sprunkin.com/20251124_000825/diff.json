@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/sprunkstlarity/",
+      "priority": 0.5,
+      "last_modified": "2025-11-23T07:08:36Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sdesprungki-deathpest-edition/",
+      "priority": 0.5,
+      "last_modified": "2025-11-23T21:00:36Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/phase-3-but-bad/",
+      "priority": 0.5,
+      "last_modified": "2025-11-23T23:55:34Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
