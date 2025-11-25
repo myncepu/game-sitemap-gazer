@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-blockables",
+      "priority": 0.5,
+      "last_modified": "2025-11-21T21:29:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-save-the-duck",
+      "priority": 0.5,
+      "last_modified": "2025-11-21T17:20:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    }
+  ]
+}

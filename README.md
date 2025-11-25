@@ -10794,6 +10794,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251125_000705
+
+- https://www.coolmathgames.com/0-blockables
+- https://www.coolmathgames.com/0-save-the-duck
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251125_000705/sitemap.json) and [diff.json](./data/coolmathgames.com/20251125_000705/diff.json)
+
 ### 20251123_000900
 
 - https://www.coolmathgames.com/0-merge-and-double
@@ -10805,15 +10812,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251123_000900/sitemap.json) 
 - https://www.coolmathgames.com/0-twisted-maze-sama
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251120_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251120_000732/diff.json)
-
-### 20251116_000834
-
-- https://www.coolmathgames.com/0-mini-crossword
-- https://www.coolmathgames.com/0-hidden-objects-island
-- https://www.coolmathgames.com/0-zip-by-linkedin
-- https://www.coolmathgames.com/0-super-diamond-dwarves
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251116_000834/sitemap.json) and [diff.json](./data/coolmathgames.com/20251116_000834/diff.json)
 
 ## pogo.com
 
