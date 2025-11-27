@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251127_000734
+
+- https://sprunkin.com/fan-game/xenki-changed-fates/
+- https://sprunkin.com/fan-game/sprunki-pokemon-pokesprunki-wenda-treatment-2/
+- https://sprunkin.com/fan-game/sprunki-phase-1/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251127_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251127_000734/diff.json)
+
 ### 20251124_000825
 
 - https://sprunkin.com/fan-game/sprunkstlarity/
@@ -10401,14 +10409,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251124_000825/sitemap.json) and [
 - https://sprunkin.com/fan-game/sbrunga/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251122_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20251122_000727/diff.json)
-
-### 20251118_000752
-
-- https://sprunkin.com/game/sprunki-hyper-shifted/
-- https://sprunkin.com/game/sprunker-sprunksters-edition/
-- https://sprunkin.com/fan-game/sprevin-v2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251118_000752/sitemap.json) and [diff.json](./data/sprunkin.com/20251118_000752/diff.json)
 
 ## sprunkisinner.org
 
