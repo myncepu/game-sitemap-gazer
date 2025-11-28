@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251128_000743
+
+- https://sprunkin.com/game/sprunki-halfshifted/
+- https://sprunkin.com/game/sprunki-beat-up-wenda/
+- https://sprunkin.com/game/sprunki-phase-6-the-scarlet-sun-deluxe-reanimated/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251128_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20251128_000743/diff.json)
+
 ### 20251127_000734
 
 - https://sprunkin.com/fan-game/xenki-changed-fates/
@@ -10397,18 +10405,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251127_000734/sitemap.json) and [
 - https://sprunkin.com/fan-game/phase-3-but-bad/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251124_000825/sitemap.json) and [diff.json](./data/sprunkin.com/20251124_000825/diff.json)
-
-### 20251122_000727
-
-- https://sprunkin.com/game/sprunki-pyramixed-human-edition-they-are-back/
-- https://sprunkin.com/game/sprunki-phase-5-the-blackened-killer/
-- https://sprunkin.com/fan-game/sprunki-phase-20/
-- https://sprunkin.com/fan-game/spunkzee/
-- https://sprunkin.com/fan-game/spupil/
-- https://sprunkin.com/fan-game/simulator/
-- https://sprunkin.com/fan-game/sbrunga/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251122_000727/sitemap.json) and [diff.json](./data/sprunkin.com/20251122_000727/diff.json)
 
 ## sprunkisinner.org
 
@@ -10794,6 +10790,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251128_000743
+
+- https://www.coolmathgames.com/0-get-a-screw
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251128_000743/sitemap.json) and [diff.json](./data/coolmathgames.com/20251128_000743/diff.json)
+
 ### 20251125_000705
 
 - https://www.coolmathgames.com/0-blockables
@@ -10806,12 +10808,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251125_000705/sitemap.json) 
 - https://www.coolmathgames.com/0-merge-and-double
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251123_000900/sitemap.json) and [diff.json](./data/coolmathgames.com/20251123_000900/diff.json)
-
-### 20251120_000732
-
-- https://www.coolmathgames.com/0-twisted-maze-sama
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251120_000732/sitemap.json) and [diff.json](./data/coolmathgames.com/20251120_000732/diff.json)
 
 ## pogo.com
 
