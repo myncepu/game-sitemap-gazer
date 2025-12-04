@@ -10382,6 +10382,16 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251204_000753
+
+- https://sprunkin.com/fan-game/sprunki-but-rutubers/
+- https://sprunkin.com/fan-game/sprunki-but-rutubers-2/
+- https://sprunkin.com/fan-game/sprunki-flunkle/
+- https://sprunkin.com/fan-game/spunci/
+- https://sprunkin.com/fan-game/sprunki-phase-7777/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251204_000753/sitemap.json) and [diff.json](./data/sprunkin.com/20251204_000753/diff.json)
+
 ### 20251130_000905
 
 - https://sprunkin.com/fan-game/sprunki-dark-accent/
@@ -10396,14 +10406,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251130_000905/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-phase-6-the-scarlet-sun-deluxe-reanimated/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251128_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20251128_000743/diff.json)
-
-### 20251127_000734
-
-- https://sprunkin.com/fan-game/xenki-changed-fates/
-- https://sprunkin.com/fan-game/sprunki-pokemon-pokesprunki-wenda-treatment-2/
-- https://sprunkin.com/fan-game/sprunki-phase-1/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251127_000734/sitemap.json) and [diff.json](./data/sprunkin.com/20251127_000734/diff.json)
 
 ## sprunkisinner.org
 
