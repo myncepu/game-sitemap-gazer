@@ -10791,6 +10791,12 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251205_000749
+
+- https://www.coolmathgames.com/0-words-in-bubbles
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251205_000749/sitemap.json) and [diff.json](./data/coolmathgames.com/20251205_000749/diff.json)
+
 ### 20251128_000743
 
 - https://www.coolmathgames.com/0-get-a-screw
@@ -10803,12 +10809,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251128_000743/sitemap.json) 
 - https://www.coolmathgames.com/0-save-the-duck
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251125_000705/sitemap.json) and [diff.json](./data/coolmathgames.com/20251125_000705/diff.json)
-
-### 20251123_000900
-
-- https://www.coolmathgames.com/0-merge-and-double
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251123_000900/sitemap.json) and [diff.json](./data/coolmathgames.com/20251123_000900/diff.json)
 
 ## pogo.com
 
