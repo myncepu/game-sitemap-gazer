@@ -10382,6 +10382,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251207_000857
+
+- https://sprunkin.com/game/sprunki-generic-swap-mod-phase-4/
+- https://sprunkin.com/game/sprunki-betters-and-loses/
+- https://sprunkin.com/game/sprunkibox-skys-massacre-phase-3/
+- https://sprunkin.com/fan-game/spuk-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251207_000857/sitemap.json) and [diff.json](./data/sprunkin.com/20251207_000857/diff.json)
+
 ### 20251204_000753
 
 - https://sprunkin.com/fan-game/sprunki-but-rutubers/
@@ -10398,14 +10407,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251204_000753/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-pretty-in-pain/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251130_000905/sitemap.json) and [diff.json](./data/sprunkin.com/20251130_000905/diff.json)
-
-### 20251128_000743
-
-- https://sprunkin.com/game/sprunki-halfshifted/
-- https://sprunkin.com/game/sprunki-beat-up-wenda/
-- https://sprunkin.com/game/sprunki-phase-6-the-scarlet-sun-deluxe-reanimated/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251128_000743/sitemap.json) and [diff.json](./data/sprunkin.com/20251128_000743/diff.json)
 
 ## sprunkisinner.org
 
@@ -10791,6 +10792,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251207_000857
+
+- https://www.coolmathgames.com/0-blokmatik
+- https://www.coolmathgames.com/0-color-cars-parking
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251207_000857/sitemap.json) and [diff.json](./data/coolmathgames.com/20251207_000857/diff.json)
+
 ### 20251205_000749
 
 - https://www.coolmathgames.com/0-words-in-bubbles
@@ -10802,13 +10810,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251205_000749/sitemap.json) 
 - https://www.coolmathgames.com/0-get-a-screw
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251128_000743/sitemap.json) and [diff.json](./data/coolmathgames.com/20251128_000743/diff.json)
-
-### 20251125_000705
-
-- https://www.coolmathgames.com/0-blockables
-- https://www.coolmathgames.com/0-save-the-duck
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251125_000705/sitemap.json) and [diff.json](./data/coolmathgames.com/20251125_000705/diff.json)
 
 ## pogo.com
 
