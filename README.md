@@ -10382,6 +10382,18 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251209_000742
+
+- https://sprunkin.com/fan-game/game/
+- https://sprunkin.com/fan-game/incredibox-phase-6-sprunki/
+- https://sprunkin.com/fan-game/sprunk-survival/
+- https://sprunkin.com/fan-game/sprunko-musico/
+- https://sprunkin.com/fan-game/sprunko-musico-2/
+- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-reanimated-alive-family-friendly-version/
+- https://sprunkin.com/fan-game/sprunki-spuki/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251209_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20251209_000742/diff.json)
+
 ### 20251207_000857
 
 - https://sprunkin.com/game/sprunki-generic-swap-mod-phase-4/
@@ -10400,13 +10412,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251207_000857/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-7777/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251204_000753/sitemap.json) and [diff.json](./data/sprunkin.com/20251204_000753/diff.json)
-
-### 20251130_000905
-
-- https://sprunkin.com/fan-game/sprunki-dark-accent/
-- https://sprunkin.com/fan-game/sprunki-pretty-in-pain/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251130_000905/sitemap.json) and [diff.json](./data/sprunkin.com/20251130_000905/diff.json)
 
 ## sprunkisinner.org
 

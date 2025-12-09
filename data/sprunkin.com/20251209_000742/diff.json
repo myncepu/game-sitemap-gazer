@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/fan-game/game/",
+      "priority": 0.5,
+      "last_modified": "2025-12-07T18:37:30Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/incredibox-phase-6-sprunki/",
+      "priority": 0.5,
+      "last_modified": "2025-12-07T19:45:04Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunk-survival/",
+      "priority": 0.5,
+      "last_modified": "2025-12-07T22:23:31Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunko-musico/",
+      "priority": 0.5,
+      "last_modified": "2025-12-07T22:39:31Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunko-musico-2/",
+      "priority": 0.5,
+      "last_modified": "2025-12-07T22:39:59Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-phase-4-definitive-reanimated-alive-family-friendly-version/",
+      "priority": 0.5,
+      "last_modified": "2025-12-08T04:13:48Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/fan-game/sprunki-spuki/",
+      "priority": 0.5,
+      "last_modified": "2025-12-08T13:27:22Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
