@@ -10797,6 +10797,14 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251213_000747
+
+- https://www.coolmathgames.com/trivia/understanding-interest
+- https://www.coolmathgames.com/0-tap-out-gallery
+- https://www.coolmathgames.com/c/bubble-shooter-games
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251213_000747/sitemap.json) and [diff.json](./data/coolmathgames.com/20251213_000747/diff.json)
+
 ### 20251211_000753
 
 - https://www.coolmathgames.com/0-swaps-and-stones
@@ -10809,12 +10817,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251211_000753/sitemap.json) 
 - https://www.coolmathgames.com/0-color-cars-parking
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251207_000857/sitemap.json) and [diff.json](./data/coolmathgames.com/20251207_000857/diff.json)
-
-### 20251205_000749
-
-- https://www.coolmathgames.com/0-words-in-bubbles
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251205_000749/sitemap.json) and [diff.json](./data/coolmathgames.com/20251205_000749/diff.json)
 
 ## pogo.com
 
