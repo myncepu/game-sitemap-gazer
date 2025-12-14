@@ -10382,6 +10382,17 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251214_000902
+
+- https://sprunkin.com/fan-game/sprunki-21/
+- https://sprunkin.com/fan-game/sprunki-with-a-little-add-on/
+- https://sprunkin.com/fan-game/sprunki-usemix/
+- https://sprunkin.com/fan-game/gray-vs-kingring-fnf-show/
+- https://sprunkin.com/fan-game/real/
+- https://sprunkin.com/fan-game/sprunki-infected/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251214_000902/sitemap.json) and [diff.json](./data/sprunkin.com/20251214_000902/diff.json)
+
 ### 20251209_000742
 
 - https://sprunkin.com/fan-game/game/
@@ -10402,16 +10413,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251209_000742/sitemap.json) and [
 - https://sprunkin.com/fan-game/spuk-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251207_000857/sitemap.json) and [diff.json](./data/sprunkin.com/20251207_000857/diff.json)
-
-### 20251204_000753
-
-- https://sprunkin.com/fan-game/sprunki-but-rutubers/
-- https://sprunkin.com/fan-game/sprunki-but-rutubers-2/
-- https://sprunkin.com/fan-game/sprunki-flunkle/
-- https://sprunkin.com/fan-game/spunci/
-- https://sprunkin.com/fan-game/sprunki-phase-7777/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251204_000753/sitemap.json) and [diff.json](./data/sprunkin.com/20251204_000753/diff.json)
 
 ## sprunkisinner.org
 
