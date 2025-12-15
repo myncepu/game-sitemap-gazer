@@ -10382,6 +10382,12 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251215_000849
+
+- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new-2/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251215_000849/sitemap.json) and [diff.json](./data/sprunkin.com/20251215_000849/diff.json)
+
 ### 20251214_000902
 
 - https://sprunkin.com/fan-game/sprunki-21/
@@ -10404,15 +10410,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251214_000902/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-spuki/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251209_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20251209_000742/diff.json)
-
-### 20251207_000857
-
-- https://sprunkin.com/game/sprunki-generic-swap-mod-phase-4/
-- https://sprunkin.com/game/sprunki-betters-and-loses/
-- https://sprunkin.com/game/sprunkibox-skys-massacre-phase-3/
-- https://sprunkin.com/fan-game/spuk-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251207_000857/sitemap.json) and [diff.json](./data/sprunkin.com/20251207_000857/diff.json)
 
 ## sprunkisinner.org
 
@@ -10798,6 +10795,13 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251215_000849
+
+- https://www.coolmathgames.com/0-king-court-chess
+- https://www.coolmathgames.com/0-redirect
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251215_000849/sitemap.json) and [diff.json](./data/coolmathgames.com/20251215_000849/diff.json)
+
 ### 20251213_000747
 
 - https://www.coolmathgames.com/trivia/understanding-interest
@@ -10811,13 +10815,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251213_000747/sitemap.json) 
 - https://www.coolmathgames.com/0-swaps-and-stones
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251211_000753/sitemap.json) and [diff.json](./data/coolmathgames.com/20251211_000753/diff.json)
-
-### 20251207_000857
-
-- https://www.coolmathgames.com/0-blokmatik
-- https://www.coolmathgames.com/0-color-cars-parking
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251207_000857/sitemap.json) and [diff.json](./data/coolmathgames.com/20251207_000857/diff.json)
 
 ## pogo.com
 
