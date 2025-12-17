@@ -10382,6 +10382,22 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251217_000651
+
+- https://sprunkin.com/fan-game/sprunkstlarity-2/
+- https://sprunkin.com/fan-game/floweybox-sprunki-swap-phase-1-5/
+- https://sprunkin.com/fan-game/originki-by-pa0z1an/
+- https://sprunkin.com/fan-game/sprunki-phase-3-improved/
+- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-reanimated-but-daytime-mod/
+- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new/
+- https://sprunkin.com/fan-game/incredibox-sprunkly/
+- https://sprunkin.com/fan-game/sprunki-phase-3-3/
+- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3-but-alive/
+- https://sprunkin.com/fan-game/sprunki-phase-4-but-alive/
+- https://sprunkin.com/fan-game/sprunki-but-gametoons/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251217_000651/sitemap.json) and [diff.json](./data/sprunkin.com/20251217_000651/diff.json)
+
 ### 20251215_000849
 
 - https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new-2/
@@ -10398,18 +10414,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251215_000849/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-infected/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251214_000902/sitemap.json) and [diff.json](./data/sprunkin.com/20251214_000902/diff.json)
-
-### 20251209_000742
-
-- https://sprunkin.com/fan-game/game/
-- https://sprunkin.com/fan-game/incredibox-phase-6-sprunki/
-- https://sprunkin.com/fan-game/sprunk-survival/
-- https://sprunkin.com/fan-game/sprunko-musico/
-- https://sprunkin.com/fan-game/sprunko-musico-2/
-- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-reanimated-alive-family-friendly-version/
-- https://sprunkin.com/fan-game/sprunki-spuki/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251209_000742/sitemap.json) and [diff.json](./data/sprunkin.com/20251209_000742/diff.json)
 
 ## sprunkisinner.org
 
