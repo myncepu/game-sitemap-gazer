@@ -10382,6 +10382,15 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251220_000757
+
+- https://sprunkin.com/game/sprunki-retirement/
+- https://sprunkin.com/game/sprunki-crazys-realm-remake/
+- https://sprunkin.com/game/sprunki-anti-shifted-phase-5-mr-as-take/
+- https://sprunkin.com/game/sprunki-5-shifted-nikis-take/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251220_000757/sitemap.json) and [diff.json](./data/sprunkin.com/20251220_000757/diff.json)
+
 ### 20251217_000651
 
 - https://sprunkin.com/fan-game/sprunkstlarity-2/
@@ -10403,17 +10412,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251217_000651/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new-2/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251215_000849/sitemap.json) and [diff.json](./data/sprunkin.com/20251215_000849/diff.json)
-
-### 20251214_000902
-
-- https://sprunkin.com/fan-game/sprunki-21/
-- https://sprunkin.com/fan-game/sprunki-with-a-little-add-on/
-- https://sprunkin.com/fan-game/sprunki-usemix/
-- https://sprunkin.com/fan-game/gray-vs-kingring-fnf-show/
-- https://sprunkin.com/fan-game/real/
-- https://sprunkin.com/fan-game/sprunki-infected/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251214_000902/sitemap.json) and [diff.json](./data/sprunkin.com/20251214_000902/diff.json)
 
 ## sprunkisinner.org
 

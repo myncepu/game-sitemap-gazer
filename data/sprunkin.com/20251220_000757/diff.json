@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "url": "https://sprunkin.com/game/sprunki-retirement/",
+      "priority": 0.5,
+      "last_modified": "2025-12-19T08:08:20Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-crazys-realm-remake/",
+      "priority": 0.5,
+      "last_modified": "2025-12-19T08:13:06Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-anti-shifted-phase-5-mr-as-take/",
+      "priority": 0.5,
+      "last_modified": "2025-12-19T08:21:07Z",
+      "change_frequency": null,
+      "news_story": null
+    },
+    {
+      "url": "https://sprunkin.com/game/sprunki-5-shifted-nikis-take/",
+      "priority": 0.5,
+      "last_modified": "2025-12-19T08:40:40Z",
+      "change_frequency": null,
+      "news_story": null
+    }
+  ]
+}
