@@ -10797,6 +10797,14 @@ Raw data: [sitemap.json](./data/miniclip.com/20250806_000824/sitemap.json) and [
 
 ## coolmathgames.com
 
+### 20251221_000852
+
+- https://www.coolmathgames.com/0-lonely-duck
+- https://www.coolmathgames.com/0-mergeban
+- https://www.coolmathgames.com/0-a-shrimply-irresistible-story
+
+Raw data: [sitemap.json](./data/coolmathgames.com/20251221_000852/sitemap.json) and [diff.json](./data/coolmathgames.com/20251221_000852/diff.json)
+
 ### 20251215_000849
 
 - https://www.coolmathgames.com/0-king-court-chess
@@ -10811,12 +10819,6 @@ Raw data: [sitemap.json](./data/coolmathgames.com/20251215_000849/sitemap.json) 
 - https://www.coolmathgames.com/c/bubble-shooter-games
 
 Raw data: [sitemap.json](./data/coolmathgames.com/20251213_000747/sitemap.json) and [diff.json](./data/coolmathgames.com/20251213_000747/diff.json)
-
-### 20251211_000753
-
-- https://www.coolmathgames.com/0-swaps-and-stones
-
-Raw data: [sitemap.json](./data/coolmathgames.com/20251211_000753/sitemap.json) and [diff.json](./data/coolmathgames.com/20251211_000753/diff.json)
 
 ## pogo.com
 

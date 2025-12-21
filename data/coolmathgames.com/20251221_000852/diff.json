@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "url": "https://www.coolmathgames.com/0-lonely-duck",
+      "priority": 0.5,
+      "last_modified": "2025-12-16T20:36:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-mergeban",
+      "priority": 0.5,
+      "last_modified": "2025-12-18T00:05:00Z",
+      "change_frequency": "daily",
+      "news_story": null
+    },
+    {
+      "url": "https://www.coolmathgames.com/0-a-shrimply-irresistible-story",
+      "priority": 0.5,
+      "last_modified": "2025-12-15T23:50:00Z",
+      "change_frequency": "weekly",
+      "news_story": null
+    }
+  ]
+}
