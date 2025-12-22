@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251222_000851
+
+- https://sprunkin.com/fan-game/sprunki-pyramix-the-infection/
+- https://sprunkin.com/fan-game/sprunki-but-i-roboted-everything/
+- https://sprunkin.com/fan-game/sprunki-but-huh/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251222_000851/sitemap.json) and [diff.json](./data/sprunkin.com/20251222_000851/diff.json)
+
 ### 20251220_000757
 
 - https://sprunkin.com/game/sprunki-retirement/
@@ -10406,12 +10414,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251220_000757/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-gametoons/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251217_000651/sitemap.json) and [diff.json](./data/sprunkin.com/20251217_000651/diff.json)
-
-### 20251215_000849
-
-- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new-2/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251215_000849/sitemap.json) and [diff.json](./data/sprunkin.com/20251215_000849/diff.json)
 
 ## sprunkisinner.org
 
