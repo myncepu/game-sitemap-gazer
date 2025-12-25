@@ -10382,6 +10382,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251225_000751
+
+- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-but-with-mini-sprunkis-that-isnt-their-own-kid/
+- https://sprunkin.com/fan-game/sprunki-but-they-have-pets/
+- https://sprunkin.com/fan-game/sprunkigilched-realms/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251225_000751/sitemap.json) and [diff.json](./data/sprunkin.com/20251225_000751/diff.json)
+
 ### 20251222_000851
 
 - https://sprunkin.com/fan-game/sprunki-pyramix-the-infection/
@@ -10398,22 +10406,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251222_000851/sitemap.json) and [
 - https://sprunkin.com/game/sprunki-5-shifted-nikis-take/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251220_000757/sitemap.json) and [diff.json](./data/sprunkin.com/20251220_000757/diff.json)
-
-### 20251217_000651
-
-- https://sprunkin.com/fan-game/sprunkstlarity-2/
-- https://sprunkin.com/fan-game/floweybox-sprunki-swap-phase-1-5/
-- https://sprunkin.com/fan-game/originki-by-pa0z1an/
-- https://sprunkin.com/fan-game/sprunki-phase-3-improved/
-- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-reanimated-but-daytime-mod/
-- https://sprunkin.com/fan-game/sprunki-phase-4-definitive-new/
-- https://sprunkin.com/fan-game/incredibox-sprunkly/
-- https://sprunkin.com/fan-game/sprunki-phase-3-3/
-- https://sprunkin.com/fan-game/incredibox-sprunki-phase-3-but-alive/
-- https://sprunkin.com/fan-game/sprunki-phase-4-but-alive/
-- https://sprunkin.com/fan-game/sprunki-but-gametoons/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251217_000651/sitemap.json) and [diff.json](./data/sprunkin.com/20251217_000651/diff.json)
 
 ## sprunkisinner.org
 
