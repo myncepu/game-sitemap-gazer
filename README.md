@@ -96,6 +96,13 @@ Raw data: [sitemap.json](./data/sprunki.org/20250709_000804/sitemap.json) and [d
 
 ## sprunki.com
 
+### 20251227_000752
+
+- https://sprunki.com/sprunki-abgerny-gyatt-burger
+- https://sprunki.com/sprunked-reimagined
+
+Raw data: [sitemap.json](./data/sprunki.com/20251227_000752/sitemap.json) and [diff.json](./data/sprunki.com/20251227_000752/diff.json)
+
 ### 20251104_000731
 
 - https://sprunki.com/sprunki-phase-37
@@ -108,14 +115,6 @@ Raw data: [sitemap.json](./data/sprunki.com/20251104_000731/sitemap.json) and [d
 - https://sprunki.com/cold-as-frost-but-sprunki
 
 Raw data: [sitemap.json](./data/sprunki.com/20251023_000739/sitemap.json) and [diff.json](./data/sprunki.com/20251023_000739/diff.json)
-
-### 20251022_000748
-
-- https://sprunki.com/sprunki-spmerge
-- https://sprunki.com/sprunki-pyramixed-shifted
-- https://sprunki.com/incredible-sprunkle
-
-Raw data: [sitemap.json](./data/sprunki.com/20251022_000748/sitemap.json) and [diff.json](./data/sprunki.com/20251022_000748/diff.json)
 
 ## sprunki.net
 
@@ -10382,6 +10381,14 @@ Raw data: [sitemap.json](./data/sprunkiincredibox.com/20250124_000627/sitemap.js
 
 ## sprunkin.com
 
+### 20251227_000752
+
+- https://sprunkin.com/fan-game/incredibox-sprunbox-_-the-qoobies-but-rob-the-robot-and-friends/
+- https://sprunkin.com/fan-game/incredibox-altenki/
+- https://sprunkin.com/fan-game/incredibox-altenki-1-0-0/
+
+Raw data: [sitemap.json](./data/sprunkin.com/20251227_000752/sitemap.json) and [diff.json](./data/sprunkin.com/20251227_000752/diff.json)
+
 ### 20251225_000751
 
 - https://sprunkin.com/fan-game/sprunki-phase-4-definitive-but-with-mini-sprunkis-that-isnt-their-own-kid/
@@ -10397,15 +10404,6 @@ Raw data: [sitemap.json](./data/sprunkin.com/20251225_000751/sitemap.json) and [
 - https://sprunkin.com/fan-game/sprunki-but-huh/
 
 Raw data: [sitemap.json](./data/sprunkin.com/20251222_000851/sitemap.json) and [diff.json](./data/sprunkin.com/20251222_000851/diff.json)
-
-### 20251220_000757
-
-- https://sprunkin.com/game/sprunki-retirement/
-- https://sprunkin.com/game/sprunki-crazys-realm-remake/
-- https://sprunkin.com/game/sprunki-anti-shifted-phase-5-mr-as-take/
-- https://sprunkin.com/game/sprunki-5-shifted-nikis-take/
-
-Raw data: [sitemap.json](./data/sprunkin.com/20251220_000757/sitemap.json) and [diff.json](./data/sprunkin.com/20251220_000757/diff.json)
 
 ## sprunkisinner.org
 
